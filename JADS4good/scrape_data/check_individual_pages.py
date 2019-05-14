@@ -1,12 +1,13 @@
 from selenium.webdriver import Chrome
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.by import By
 import pandas as pd
+import requests
 
 # Please download chromedriver for windows to this directory (scrape_data)
 path = 'chromedriver.exe'
+
+data_dir = "../data/"
 browser = Chrome(path)
-browser.get('https://www.nationaalrapporteur.nl/publicaties/')
+browser.get('https://www.nationaalrapporteur.nl/publicaties/index.aspx?select=5&q=&df=01-01-0001&dt=31-12-9999&dctermsType=&kw=&dl=False&SortBy=Datum')
 
 
 excep = 0
@@ -15,9 +16,9 @@ try:
     links = results.find_elements_by_tag_name("a")
 
 
-    print('Link: ', 1)
-    # content > div > p
-    element = browser.find_element_by_css_selector('#content > div.common.results').find_elements_by_tag_name("a")[0]
+    print('Link: ', 10)
+
+    element = browser.find_element_by_css_selector('#content > div.common.results').find_elements_by_tag_name("a")[9]
     element.click()
     browser.implicitly_wait(3)
     browser.switch_to.window(browser.window_handles[0])
@@ -31,20 +32,48 @@ try:
 
     paras = []
     downloads = []
+    pdfs = []
     intro = []
     misc = []
     downloaded_data = []
     for i in range(len(divs)):
         tex = divs[i]
         if tex.get_attribute("class") == "intro":
-            intro.append(tex.text)
+            try:
+                intro.append(tex.text)
+            except:
+                empty_list = []
+                intro.append(empty_list)
         elif tex.get_attribute("class") == "paragraph":
-            paras.append(tex.text)
+            try:
+                paras.append(tex.text)
+            except:
+                empty_list = []
+                paras.append(empty_list)
         elif tex.get_attribute("class") == "download":
-            downloads.append(tex.text)
+            try:
+                downloads.append(tex.text)
+                link = tex.find_element_by_css_selector('a').get_attribute('href')
+                print(link)
+                filename = link.split("binaries/")[1]
+
+                pdfs.append(filename)
+                r = requests.get(link)
+                with open(data_dir + filename, "wb") as code:
+                    code.write(r.content)
+                print(link)
+            except:
+                print("Download error")
+                empty_list = []
+                downloads.append(empty_list)
+                pdfs.append(empty_list)
         else:
-            misc.append(tex.text)
-    downloaded_data.append([news, meta, intro, paras, downloads, misc])
+            try:
+                misc.append(tex.text)
+            except:
+                empty_list = []
+                misc.append(empty_list)
+    downloaded_data.append([news, meta, intro, paras, downloads, pdfs, misc])
 
 except:
     excep = 1
@@ -56,5 +85,5 @@ if excep == 0:
     browser.close()
 
 # Save data in a pandas dataframe
-df = pd.DataFrame(downloaded_data, columns=['News', 'Meta', 'Intro', 'Article', 'PDFs', 'Misc'])
+df = pd.DataFrame(downloaded_data, columns=['News', 'Meta', 'Intro', 'Article', 'Downloads', 'PDFs', 'Misc'])
 print(df)
