@@ -2,7 +2,7 @@ import spacy
 from collections import Counter
 import re
 
-def get_entity(text,number_tokens,language):
+def get_entity(text,language,no_tokens):
 
 	text = re.sub('[^a-zA-Z]', ' ', text )  
 	text = re.sub(r'\s+', ' ', text) 
@@ -17,4 +17,9 @@ def get_entity(text,number_tokens,language):
 	array_ent = []
 	for entity in doc.ents:
 		array_ent.append({'text':entity.text, 'label':entity.label_})
-	return array_ent
+
+	items = [x.text for x in doc.ents]
+	freq_tokens = Counter(items).most_common(no_tokens)
+
+	#return array_ent
+	return freq_tokens
