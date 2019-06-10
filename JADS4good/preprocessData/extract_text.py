@@ -4,7 +4,7 @@ import io
 
 def convert_pdf_to_text(row):
     path_to_pdfs = "../data/"
-    path_to_save_text = "../data/text_files/"
+    path_to_save_text = "../data/text_files/raw/"
 
     pdf_names = eval(row['PDFs'])
     pub_name = row['News']
