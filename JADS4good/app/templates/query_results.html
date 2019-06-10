@@ -1,0 +1,30 @@
+<html>
+<link rel="stylesheet" href="static/fontawesome.min.css">
+<link rel="stylesheet" href="static/query_results.css">
+<link rel="stylesheet" href="static/bootstrap.min.css" >
+<script src="static/bootstrap.min.js"></script>
+
+<button class="btn"><a href="/home" class="w3-button w3-black" style="text-decoration: none">Home</a></button>
+
+<body>
+
+<div class="container">
+{% for item1, item2, item3 in name %}
+<a href="/home/Case{{item1}}" style="text-decoration: none; color: black;" >
+<div class="row" >
+  <div class="col-sm-8">Case {{ item1 }}</div>
+  <div class="col-sm-4">Score: {{ item3 }}</div>
+</div>
+
+
+<div class="row" >
+<div class="content">
+{{ item2 | safe }}
+</div>
+</div>
+</a>
+{% endfor %}
+<div class="container">
+</body>
+
+</html>
