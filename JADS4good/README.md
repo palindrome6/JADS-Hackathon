@@ -1,7 +1,7 @@
 Repository for H@<k@th0n4G00D 
 
-Contributors:
-Nitin Narayan
-Parvathy Krishnakumari
-Juan Ortiz
-Daniela Miranda
+Contributors:\n
+Parvathy Krishnakumari\n
+Daniela Miranda\n
+Nitin Narayan\n
+Juan Ortiz\n
