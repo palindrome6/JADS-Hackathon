@@ -14,12 +14,9 @@ def get_entity(text,language,no_tokens):
 		nlp = spacy.load("en_core_web_sm")
 
 	doc = nlp(text)
-	array_ent = []
+	array_ent = [] 
 	for entity in doc.ents:
 		array_ent.append({'text':entity.text, 'label':entity.label_})
 
-	items = [x.text for x in doc.ents]
-	freq_tokens = Counter(items).most_common(no_tokens)
-
 	#return array_ent
-	return freq_tokens
+	return array_ent
