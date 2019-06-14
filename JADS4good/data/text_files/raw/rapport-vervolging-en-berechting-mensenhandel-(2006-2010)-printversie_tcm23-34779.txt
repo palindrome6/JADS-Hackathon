@@ -1,0 +1,5520 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mensenhandel
+
+Kwantitatieve gegevens over (de vervolging en 
+berechting van) verdachten en veroordeelden in 
+mensenhandelzaken in de periode 2006-2010
+
+
+
+2
+
+
+
+Mensenhandel
+Kwantitatieve gegevens over (de vervolging en 
+berechting van) verdachten en veroordeelden in 
+mensenhandelzaken in de periode 2006-2010
+
+
+
+Colofon
+
+Referentie: Nationaal Rapporteur Mensenhandel (2012). Kwantitatieve gegevens over 
+(de vervolging en berechting van) verdachten en veroordeelden in mensenhandelzaken in de periode 
+2006-2010. Den Haag: BNRM.
+
+Bureau Nationaal Rapporteur Mensenhandel
+Postbus 20301
+2500 EH Den Haag
+070-3704514
+www.bnrm.nl 
+
+© BNRM 2012
+
+
+
+1
+
+Inhoud
+
+Overzicht figuren & tabellen 2
+
+Inleiding 4
+
+1 Vervolging  6
+
+ 1.1 Ingeschreven mensenhandelzaken bij het OM 6
+
+ 1.2 Afgehandelde mensenhandelzaken door het OM 10
+
+2 Berechting in eerste aanleg 11
+
+ 2.1 In eerste aanleg afgedane mensenhandelzaken 11
+
+ 2.2 Veroordelingen voor mensenhandel in eerste aanleg 14
+
+ 2.3 Voor mensenhandel opgelegde vrijheidsstraffen in eerste aanleg 16
+
+3 Kenmerken 17
+
+4 Samenvatting en conclusie 22
+
+Literatuurlijst 25
+
+Bijlagen  26
+
+ Bijlage 1 Verantwoording gebruikte onderzoeksmethode 27
+
+ Bijlage 2 Toelichting bij tabellen, figuren en toegepaste statistiek 28
+
+ Bijlage 3 Aanvullende tabellen 29
+
+ Bijlage 4 Artikel 273f Wetboek van Strafrecht 43
+
+
+
+2
+
+Figuur 1  Aantal mensenhandelaren in beeld bij politie en justitie   5
+Figuur 2  Aantal ingeschreven zaken/verdachten OM (2006-2010)   6
+Figuur 3  Ingeschreven zaken per arrondissementsparket (totaal 2006-2010)   7
+Figuur 4  Ingeschreven zaken die (mede) minderjarige slachtoffers betreffen (2006-2010)   8
+Figuur 5  Ingeschreven zaken en strafverzwarende omstandigheden (2006-2010)   8
+Figuur 6  Ingeschreven zaken naar zwaarste feit (2006-2010)   9
+Figuur 7  Aantal afgehandelde zaken OM (2006-2010)   10
+Figuur 8  Afgehandelde zaken naar afhandeling (2006-2010)   10
+Figuur 9  Aantal in eerste aanleg afgedane zaken (2006-2010)   11
+Figuur 10  In eerste aanleg afgedane zaken naar afdoening (2006-2010)   12
+Figuur 11 In eerste aanleg afgedane zaken en voorlopige hechtenis (2006-2010)   13
+Figuur 12  In eerste aanleg afgedane zaken waarin hoger beroep is ingesteld (2006-2010)   13
+Figuur 13  Veroordelingen in eerste aanleg en strafverzwarende omstandigheden (2006-2010) 14
+Figuur 14  Veroordelingen in eerste aanleg naar zwaarste feit waarvoor veroordeeld (2006-2010) 15
+Figuur 15  Veroordelingen in eerste aanleg naar zwaarst opgelegde hoofdstraf (2006-2010)  15
+Figuur 16  Opgelegde vrijheidsstraffen in eerste aanleg naar duurcategorie (2006-2010)   16
+Figuur 17  Opgelegde vrijheidsstraffen in eerste aanleg naar gemiddelde duur in dagen (2006-2010) 17
+Figuur 18  Geslacht verdachten (2006-2010)   18
+Figuur 19  Geslacht veroordeelden (2006-2010)   18
+Figuur 20  Leeftijd verdachten (2006-2010)   19
+Figuur 21  Leeftijd veroordeelden (2006-2010)   19
+Figuur 22  Ontwikkeling totale top 5 geboortelanden verdachten (2006-2010)   20
+Figuur 23  Ontwikkeling totale top 5 geboortelanden veroordeelden (2006-2010)   22
+
+Overzicht figuren & tabellen
+
+
+
+3
+
+Tabel 1  Rangordening top 5 geboortelanden verdachten (2006-2010)   20
+Tabel 2  Rangordening top 5 geboortelanden veroordeelden (2006-2010)   21
+Tabel 3  Overzicht verdachten en veroordeelden in mensenhandelzaken (2006-2010)   22
+Tabel B3.1  Aantal ingeschreven zaken/verdachten OM (2006-2010)   29
+Tabel B3.2  Ingeschreven zaken per arrondissementsparket (2006-2010)   29
+Tabel B3.3  Ingeschreven zaken die (mede) minderjarige slachtoffers betreffen (2006-2010)   30
+Tabel B3.4  Ingeschreven zaken en strafverzwarende omstandigheden (2006-2010)   30
+Tabel B3.5  Ingeschreven zaken naar zwaarste feit (2006-2010)   31
+Tabel B3.6  Aantal afgehandelde zaken OM (2006-2010)   31
+Tabel B3.7  Afgehandelde zaken naar afhandeling (2006-2010)   32
+Tabel B3.8  Aantal in eerste aanleg afgedane zaken (2006-2010)   32
+Tabel B3.9  In eerste aanleg afgedane zaken naar afdoening (2006-2010)   33
+Tabel B3.10  In eerste aanleg afgedane zaken en voorlopige hechtenis (2006-2010)   33
+Tabel B3.11  In eerste aanleg afgedane zaken waarin hoger beroep is ingesteld (2006-2010)   33
+Tabel B3.12  Veroordelingen in eerste aanleg en strafverzwarende omstandigheden (2006-2010) 34
+Tabel B3.13  Veroordelingen in eerste aanleg naar zwaarste feit waarvoor veroordeeld (2006-2010) 34
+Tabel B3.14  Veroordelingen in eerste aanleg naar zwaarst opgelegde hoofdstraf (2006-2010)  35
+Tabel B3.15  Opgelegde vrijheidsstraffen in eerste aanleg naar duurcategorie (2006-2010)   36
+Tabel B3.16  Aantal in eerste aanleg veroordeelde personen (2006-2010)   37
+Tabel B3.17  Geslacht verdachten (2006-2010)   37
+Tabel B3.18  Geslacht veroordeelden (2006-2010)   37
+Tabel B3.19  Leeftijd verdachten (2006-2010)   38
+Tabel B3.20  Leeftijd veroordeelden (2006-2010)   38
+Tabel B3.21  Geboorteland verdachten (2006-2010)   39
+Tabel B3.22  Geboorteland veroordeelden (2006-2010)   41
+
+
+
+4
+
+Een belangrijk onderdeel van de aanpak van mensenhandel is de opsporing en de ver-
+volging van verdachten. De fase waarin verdachten worden berecht, waarbij de straf-
+rechter uitspraak doet en een eindoordeel geeft over hetgeen een verdachte ten laste is 
+gelegd, vormt daarvan het sluitstuk. Jaarlijks komen cijfers beschikbaar over de vervol-
+ging en berechting van mensenhandel. Mensenhandel vindt echter veelal plaats in het 
+verborgene. Omdat slachtoffers vaak niet naar buiten willen of durven treden1 - of zich 
+niet realiseren dat ze slachtoffer zijn2 - zal naar verwachting sprake zijn van een groot 
+dark number in politie- en justitiestatistieken. Het aantal mensenhandelsituaties dat bij 
+politie en justitie bekend is, is voor een groot deel afhankelijk van onder meer de aan-
+dacht voor mensenhandel in de samenleving, prioriteitsstellingen van opsporingsdien-
+sten en het Openbaar Ministerie (OM), de manier van registratie door betrokken instan-
+ties en wijzigingen in wetgeving. Ontwikkelingen die blijken uit politie- en 
+justitiestatistieken zijn dus slechts in zeer beperkte mate (en soms zelfs helemaal niet) 
+een afspiegeling van ontwikkelingen in het fenomeen mensenhandel zoals dat daad-
+werkelijk voorkomt. Afhankelijk van onder meer opsporingsindicaties en capaciteit 
+wordt een deel van de bij de politie bekende mensenhandelzaken3 succesvol afgesloten 
+en doorgestuurd naar het OM. 
+
+Figuur 1 illustreert over welke cijfers deze publicatie gaat: niet over het totaal aantal 
+mensenhandelaren (1) of het aantal bij de politie bekende mensenhandelaren4 (2), maar 
+over de veel kleinere groep verdachten van mensenhandel die wordt ingeschreven bij 
+het OM (3). De verhoudingen zoals in de figuur weergegeven vertegenwoordigen niet de 
+werkelijkheid5 en zijn onbekend omdat het totaal aantal mensenhandelaren onbekend 
+is (dark number). De figuur is alleen bedoeld om aan te tonen dat het bij elke volgende 
+stap gaat om minder mensenhandelaren. Daarnaast moet opgemerkt worden dat het 
+aantal bij het OM ingeschreven verdachten geen representatieve steekproef is van het 
+totaal aantal mensenhandelaren. Op basis van de cijfers in deze publicatie kunnen dus 
+geen uitspraken worden gedaan over mensenhandelaren in algemene zin, maar over (de 
+vervolging en berechting van) verdachten en veroordeelden in mensenhandelzaken.
+
+1  Door angst-, schaamte- of schuldgevoelens. Bij niet-Nederlandse slachtoffers kan daarnaast sprake zijn van een 
+taalprobleem en/of het gebrek aan kennis waar in Nederland terecht te kunnen. Daar komt bij dat illegaal verblij-
+vende slachtoffers soms angst hebben voor specifiek de politie omdat ze bang zijn het land uitgezet te worden. 
+Ook komt het voor dat slachtoffers een schuld hebben ten opzichte van de mensenhandelaar, die (gevoelsmatig) 
+afbetaald moet worden of voelen niet-Nederlandse slachtoffers een verplichting ten opzichte van het thuisfront 
+om regelmatig geld te sturen (NRM1, §4.5; NRM3, §3.6). 
+
+2  Bijvoorbeeld slachtoffers van ‘traditionele’ loverboys die liefdesgevoelens koesteren voor hun loverboy (NRM3, 
+§3.2.2). Of niet-Nederlandse slachtoffers die de uitbuitingssituatie in Nederland prefereren boven de situatie in 
+het thuisland (NRM5, §3.2.1). 
+
+3  Daar waar bij de politie - en vaak ook in de media - een ‘mensenhandelzaak’ vaak betrekking heeft op meerdere 
+verdachten, betreft een mensenhandelzaak die bij het OM is ingeschreven een strafzaak tegen een individuele 
+verdachte. 
+
+4 BNRM maakt in onderhavige publicatie geen gebruik van cijfers afkomstig uit politieregistraties. Wel verricht 
+BNRM regelmatig zelf onderzoek naar mensenhandelzaken bij de politie, zoals het onderzoek naar plankzaken 
+(NRM7, §8.5) en het onderzoek naar succesvol afgeronde opsporingsonderzoeken (NRM5, §5.5). Dit laatste 
+onderzoek wordt momenteel in aangepaste vorm herhaald ten aanzien van alle succesvol afgeronde opsporings-
+onderzoeken in 2009. 
+
+5 Bijvoorbeeld: volgens de figuur zou 75% van alle mensenhandelaren bekend zijn bij de politie (2) en zou ongeveer 
+een vijfde deel uiteindelijk veroordeeld worden voor mensenhandel (5).
+
+Inleiding
+
+
+
+5
+
+Figuur 1 Aantal mensenhandelaren in beeld bij politie en justitie
+
+1. Totaal aantal mensenhandelaren. 
+
+2. Het deel van het totaal aantal mensenhandelaren dat 
+
+bekend is bij de politie.
+
+3. Het deel van de bij de politie bekende mensenhandelaren 
+
+dat is ingeschreven bij het OM.
+
+4. Het deel van de bij het OM ingeschreven mensenhandela-
+
+ren dat is gedagvaard voor mensenhandel. 
+
+5. Het deel van de gedagvaarde mensenhandelaren dat in 
+
+eerste aanleg is veroordeeld voor mensenhandel.
+
+Deze publicatie bevat cijfermatige gegevens over de vervolging van de bij het OM inge-
+schreven mensenhandelzaken en de berechting van de in eerste aanleg afgedane men-
+senhandelzaken in de periode 2006-20106. Voor de onderzoeksverantwoording wordt 
+verwezen naar Bijlage 1.7 In §1 wordt ingegaan op de vervolging door het OM. Vervolgens 
+wordt in §2 aandacht besteed aan de berechting in eerste aanleg. In §3 is informatie te 
+vinden over de achtergrondkenmerken van de bij het OM ingeschreven verdachten 
+(hierna: verdachten) en de in eerste aanleg veroordeelde personen (hierna: veroordeel-
+den). Tot slot wordt in §4 een samenvatting gegeven waaruit enkele conclusies volgen.
+
+De verschillende gegevens in deze publicatie betreffen geen cohort (anders dan Figuur 1 
+impliceert). Immers, niet alle zaken worden in het jaar van inschrijving bij het OM ook 
+door het OM afgehandeld en eventueel door de rechter in eerste aanleg afgedaan. Verder 
+is het als gevolg van de redactie van het wetsartikel (273f Sr) helaas onmogelijk om op 
+grond van lid- en subonderdelen een onderscheid te maken tussen uitbuiting binnen de 
+seksindustrie (hierna: seksuele uitbuiting), uitbuiting binnen andere economische sec-
+toren (hierna: overige uitbuiting) en uitbuiting met het oogmerk van orgaanverwijde-
+ring. Het is dan ook al eerder aanbevolen om dit onderscheid, onder meer bij het OM, 
+expliciet te registreren.8 
+
+De huidige perceptie van de wetgever van de ernst van het misdrijf mensenhandel heeft 
+ertoe geleid dat per juli 2009 de wettelijk op te leggen maximale straf voor het delict 
+mensenhandel is verhoogd.9  Bijlage 4 behelst art. 273f Sr vóór en na de wetswijziging 
+
+6 De in deze publicatie gepresenteerde cijfers over de jaren 2006-2010 wijken in grote mate af van de cijfers zoals 
+weergegeven in het OM Jaarbericht 2010 (‘Instroom OM’, ‘Uitstroom OM’, ‘Dagvaardingen’ en ‘Veroordelingen’). 
+Voor de selectie van de mensenhandelzaken voor het OM Jaarbericht 2010 is uitgegaan van zowel de artikelnum-
+mers als de classificaties, terwijl het bij de cijfers in deze publicatie alleen om de mensenhandelzaken gaat waarbij 
+ook daadwerkelijk het mensenhandelartikel staat geregistreerd. Hiervoor genoemde vormt mogelijk deels een 
+verklaring voor de afwijkende cijfers. Daarnaast is het OM Jaarbericht 2010, anders dan voorheen, gebaseerd op 
+het landelijke databestand ‘Rhapsody’ en de cijfers in onderhavige publicatie op het hiervan afgeleide ‘OM-data’. 
+‘OM-data’ is gecorrigeerd voor systeemfouten en dubbeltellingen, echter, deze correcties betreffen minimale wij-
+zigingen die niet verantwoordelijk kunnen zijn voor de geconstateerde grote verschillen (mondelinge informatie 
+OM, 8 december 2011). 
+
+7  Voor de toelichting op de in deze publicatie weergegeven figuren en tabellen en de toegepaste statistiek wordt 
+verwezen naar Bijlage 2.
+
+8  Zie NRM5, aanbeveling 64 en NRM7, aanbeveling 43. 
+9 Vanaf 1 juli 2009 geldt voor alle gekwalificeerde vormen van mensenhandel – mensenhandel met strafverzwa-
+
+rende omstandigheden – ten minste een strafmaximum van twaalf jaar. In het eerste lid (ongekwalificeerde vor-
+men van mensenhandel) is het strafmaximum acht jaar; in het derde lid (mensenhandel in vereniging gepleegd of 
+mensenhandel gepleegd jegens een slachtoffer jonger dan zestien jaar) is het strafmaximum twaalf jaar; in het 
+vierde lid (mensenhandel gepleegd onder de strafverzwarende omstandigheid van zwaar lichamelijk letsel of 
+levensgevaar) is het strafmaximum vijftien jaar; in het vijfde lid (mensenhandel de dood tengevolge hebbend) is 
+
+5
+
+4
+
+3
+
+2
+
+1
+
+
+
+6
+
+van 1 juli 2009. Deze verhoging van de strafbedreiging is een goed voorbeeld van een 
+wijziging in wetgeving die invloed kan hebben op de cijfers. Zo zal het delict mensen-
+handel in een zaak tegen een individueel persoon vaker het zwaarste feit zijn waarvan 
+een persoon wordt verdacht (zie Figuur 6) of waarvoor een persoon wordt veroordeeld 
+(Figuur 14). Daarnaast zijn door de strafverhoging de mogelijkheden tot toepassing van 
+voorlopige hechtenis vergroot,  waardoor hiervan mogelijk vaker gebruik zal worden 
+gemaakt (Figuur 11).10 Verder kan de strafverhoging uiteraard een uitwerking hebben op 
+de duur van de opgelegde onvoorwaardelijke vrijheidsstraffen (zie Figuur 16 en Figuur 
+17). Uit onderhavige publicatie blijkt echter dat de verhoging van de strafbedreiging 
+(nog) niet is terug te zien in de cijfers. Het is mogelijk dat de zaken uit 2009 en 2010 nog 
+veelal betrekking hebben op feiten die vóór juli 2009 gepleegd zijn.
+
+1.1 Ingeschreven mensenhandelzaken bij het OM
+
+Het aantal ingeschreven zaken
+Figuur 2 toont de ontwikkeling van het jaarlijks aantal bij het OM ingeschreven mensen-
+handelzaken tegen individuele verdachten.11 
+
+Figuur 2 Aantal ingeschreven zaken/verdachten OM (2006-2010)
+
+In totaal gaat het in de weergegeven periode (2006-2010) om 1.053 bij het OM ingeschre-
+ven zaken. Gemiddeld gaat het dus om ruim 200 zaken per jaar. De jaren 2007 en 2009 
+wijken beide sterk - maar in verschillende richting - van dit gemiddelde af, waardoor de 
+figuur een fluctuerende beweging laat zien.
+
+Ingeschreven zaken per arrondissementsparket
+Figuur 3 geeft weer bij welke arrondissementsparketten de mensenhandelzaken - gedu-
+rende de totale periode 2006-2010 - zijn ingeschreven.12 
+
+het strafmaximum achttien jaar, Stb. 2009, 245. De minister van Veiligheid en Justitie heeft in april 2011 een voor-
+stel aangekondigd over verdere verhoging van de strafbedreiging, Kamerstukken II 2010/11, 28 638 nr. 50.
+
+10 Stb. 2009, 245. Vanaf 1 juli 2009 geldt voor alle gekwalificeerde vormen van mensenhandel ten minste een straf-
+maximum van twaalf jaar. Dit maakt voor gekwalificeerde vormen van mensenhandel voorlopige hechtenis op 
+grond van de zogenoemde 12-jaarsgrond mogelijk, hetgeen een belangrijke verruiming van de mogelijkheden tot 
+voorlopige hechtenis betekent.
+
+11  Voor de tabel met het volledige (inclusief indexcijfers en de relatieve groei ten opzichte van het voorgaande jaar) 
+en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.1.
+
+12  Voor de tabel met het volledige (inclusief de overige negen arrondissementsparketten en een top 5 over het 
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 Vervolging 
+
+
+
+7
+
+Figuur 3 Ingeschreven zaken per arrondissementsparket (totaal 2006-2010)
+
+Bij de top 5 arrondissementsparketten zijn in de periode 2006-2010 meer dan de helft 
+van alle mensenhandelzaken ingeschreven (53%). De parketten Assen, Dordrecht, 
+Middelburg, Breda en Roermond nemen gezamenlijk slechts 6% voor hun rekening. Het 
+aantal ingeschreven zaken per arrondissementsparket wordt uiteraard niet uitsluitend 
+bepaald door de inspanningen van een arrondissement. De verschillen tussen arrondis-
+sementen hangen ongetwijfeld samen met de grootte van arrondissementen.13 
+Overigens kunnen de grote verschillen tussen de aantallen ingeschreven zaken bij de 
+arrondissementsparketten tot gevolg hebben dat ook bij sommige rechtbanken weinig 
+ervaring wordt opgedaan met mensenhandelzaken. 
+
+Ingeschreven zaken die (mede) minderjarige slachtoffers betreffen
+Figuur 4 laat zien bij welk deel van de ingeschreven mensenhandelzaken in ieder geval 
+sprake is van één of meer minderjarige slachtoffers.14 Hiervoor is gekeken naar de regi-
+stratie van de ingeschreven zaken onder artikel- en subleden die minderjarigheid van 
+slachtoffers impliceren.15 Echter, ook bij onder andere artikel- en -subleden geregistreer-
+de zaken kunnen minderjarige slachtoffers betrokken zijn.16 Er is dus vrijwel zeker sprake 
+van een onderschatting. Daarnaast moet opgemerkt worden dat het aantal mensenhan-
+delzaken dat minderjarige slachtoffers betreft, niets zegt over het totale aantal betrokken 
+minderjarige slachtoffers. Dit kunnen er immers meerderen per zaak zijn. Ook is het 
+mogelijk dat dezelfde slachtoffers in meerdere zaken voorkomen.
+
+totaal) en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.2.
+13  Ook zijn aanvullende verklaringen mogelijk, zie hiervoor NRM8, p. 124 en NRM1, p. 131.
+14  Voor de tabel met het gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.3. 
+15  Bij art. 250ter Sr zijn dat lid 1 sub 3 en lid 2 sub 2 (het is mogelijk dat onder lid 3 ook expliciet minderjarige slachtof-
+
+fers vallen, maar dit hoeft niet, daarom is dit lidnummer buiten deze analyse gehouden). Bij art. 250a Sr zijn dat lid 
+1 sub 3 en 5 en lid 2 sub 2 (het is mogelijk dat onder lid 3 ook expliciet minderjarige slachtoffers vallen, maar dit 
+hoeft niet, daarom is dit lidnummer buiten deze analyse gehouden). Bij art. 273a/f (tot 1 juli 2009) Sr zijn dat lid 1 
+sub 2, 5 en 8, lid 3 sub 2 en lid 4. Bij art. 273f (vanaf 1 juli 2009) Sr zijn dat lid 1 sub 2, 5 en 8 en lid 3 sub 2.
+
+16  Zie NRM7, §11.5.2.
+
+Den Haag 14%
+
+Amsterdam 13%
+
+Ro�erdam 12%
+
+Zwolle 9%
+
+Utrecht 6%
+Groningen 6%
+
+Den Bosch 5%
+
+Arnhem 5%
+
+Haarlem 5%
+
+Alkmaar 5%
+
+Overige arrondissements-
+parke�en (9) 21%
+
+
+
+8
+
+Figuur 4 Ingeschreven zaken die (mede) minderjarige slachtoffers betreffen (2006-2010)
+
+Het aandeel ingeschreven zaken dat (mede) minimaal één minderjarig slachtoffer 
+betreft is in de periode 2006-2010 gemiddeld 16%. Het aandeel varieert tussen de 12% in 
+2006 en 2008 en de 20% in 2007.
+
+Ingeschreven zaken en strafverzwarende omstandigheden
+In Figuur 5 zijn de bij het OM ingeschreven mensenhandelzaken verdeeld in zaken met 
+betrekking tot ongekwalificeerde17 en gekwalificeerde mensenhandel.18 Gekwalificeer-
+de mensenhandel houdt in dat sprake is van strafverzwarende omstandigheden. 
+
+Onder gekwalificeerde mensenhandel valt: 
+•	 mensenhandel gepleegd in vereniging;19
+
+•	 mensenhandel waarbij een slachtoffer jonger dan zestien jaar is betrokken;20
+
+•	 mensenhandel met zwaar lichamelijk letsel ten gevolge;21  
+•	 mensenhandel waarvan levensgevaar voor een ander te duchten is;22 en
+•	 mensenhandel met de dood ten gevolge.23
+
+Figuur 5 Ingeschreven zaken en strafverzwarende omstandigheden (2006-2010)
+
+17  Art. 250ter/a lid 1 en art. 273a/f lid 1 Sr.
+18  Voor de tabel met het gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.4.
+19  Art. 250ter/a lid 2 sub 1 en lid 3 Sr & art. 273a/f (tot 1 juli 2009) lid 3 sub 1 en lid 4 Sr & art. 273f (vanaf 1 juli 2009) 
+
+lid 3 sub 1 Sr.
+20  Art. 250ter/a lid 2 sub 2 Sr (het is mogelijk dat onder lid 3 ook expliciet een slachtoffer jonger dan zestien jaar valt, 
+
+maar dit hoeft niet, daarom is dit lidnummer buiten deze analyse gehouden) & art. 273a/f (tot 1 juli 2009) lid 3 sub 
+2 en lid 4 Sr & art. 273f (vanaf 1 juli 2009) lid 3 sub 2 Sr. 
+
+21  Art. 250ter/a lid 2 sub 3 Sr (het is mogelijk dat onder lid 3 ook expliciet zwaar lichamelijk letsel ten gevolge valt, 
+maar dit hoeft niet, daarom is dit lidnummer buiten deze analyse gehouden) & art. 273a/f (tot 1 juli 2009) lid 5 Sr 
+& art. 273f (vanaf 1 juli 2009) lid 4 Sr. 
+
+22  Art. 273a/f (tot 1 juli 2009) lid 5 Sr & art. 273f (vanaf 1 juli 2009) lid 4 Sr.
+23  Art. 273a/f (tot 1 juli 2009) lid 6 Sr & art. 273f (vanaf 1 juli 2009) lid 5 Sr.
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Ongekwali�ceerde mensenhandel
+
+Gekwali�ceerde mensenhandel
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Ongekwali�ceerde mensenhandel
+
+Gekwali�ceerde mensenhandel
+
+
+
+9
+
+In de meeste gevallen gaat het om gekwalificeerde mensenhandel (gemiddeld 61%) en 
+dan met name om mensenhandel in vereniging of mensenhandel waarbij een slachtof-
+fer jonger dan 16 jaar is betrokken. Mensenhandel waarbij sprake is van beide hiervoor 
+genoemde strafverzwarende omstandigheden24 en mensenhandel met zwaar lichame-
+lijk letsel ten gevolge/mensenhandel waarvan levensgevaar voor een ander te duchten is 
+komen bijna niet voor - slechts in acht, respectievelijk, zestien zaken in het tijdsbestek 
+van vijf jaar. Er is geen sprake geweest van mensenhandel met de dood ten gevolge. In de 
+periode 2000-2008 was een duidelijke afname zichtbaar van het aandeel gekwalificeerde 
+mensenhandel (van 97% naar 53%).25 Nu lijkt deze dalende trend redelijk gestabiliseerd 
+te zijn. Overigens voorziet de EU-richtlijn mensenhandel die in april 2011 tot stand is 
+gekomen onder meer in de bepaling dat mensenhandel gepleegd tegen kinderen - elke 
+persoon beneden de leeftijd van achttien jaar - een strafverzwarende omstandigheid 
+vormt. Daarop staat een maximum gevangenisstraf van ten minste tien jaar.26
+
+Ingeschreven zaken naar zwaarste feit
+Mensenhandel wordt vaak in combinatie met andere delicten gepleegd. Een zaak kan dan 
+ook meerdere feiten betreffen. Figuur 6 geeft een overzicht van het zwaarst geregistreerde 
+feit per ingeschreven mensenhandelzaak.27 Als zwaarste feit geldt het feit met de zwaarste 
+strafbedreiging.28 De term geeft geen kwalitatief oordeel over het delict.
+
+Figuur 6 Ingeschreven zaken naar zwaarste feit (2006-2010)
+
+Mensenhandel (ongekwalificeerd dan wel gekwalificeerd) is gemiddeld genomen in 
+82% van de gevallen het enige of het zwaarst geregistreerde delict. Indien ook sprake is 
+van een verdenking van een zwaarder feit dan mensenhandel, betreft dit doorgaans een 
+vorm van seksueel geweld (11% over het totaal van vijf jaar). 
+
+24  Art. 273a/f (tot 1 juli 2009) lid 4 Sr. In art. 273f (vanaf 1 juli 2009) is deze combinatie van strafverzwarende 
+omstandigheden niet langer onder een apart lidnummer strafbaar gesteld. 
+
+25  Zie NRM8, p. 125.
+26  Art. 4 lid 2 sub a jo. art. 2 sub 6 EU-richtlijn mensenhandel, Richtlijn 2011/36/EU van het Europees Parlement en 
+
+de Raad van 5 april 2011 inzake de voorkoming en bestrijding van mensenhandel en de bescherming van slachtof-
+fers daarvan, en ter vervanging van Kaderbesluit 2002/629/JBZ van de Raad. Deze richtlijn moet uiterlijk in april 
+2013 geïmplementeerd zijn.
+
+27  Voor de tabel met het gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.5.
+28  In geval van een combinatie van delicten met gelijke strafbedreiging, is mensenhandel als zwaarste feit getypeerd. 
+
+Mocht er dan nog sprake zijn van meerdere feiten met eenzelfde strafbedreiging, dan prevaleren de feiten die bin-
+nen de categorie ‘seksueel geweld’ vallen boven de feiten die in de categorie ‘niet-seksueel geweld’   vallen, die op 
+hun beurt prevaleren boven de categorie ‘overige misdrijven’ (zie voor de bij deze categorieën horende wetsarti-
+kelen de voetnoten bij Tabel B3.5).
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Gekwali�ceerde mensenhandel
+
+Ongekwali�ceerde mensenhandel
+
+Seksueel geweld
+
+Niet-seksueel geweld
+
+Overige misdrijven
+
+
+
+10
+
+1.2 Afgehandelde mensenhandelzaken door het OM
+
+Het aantal afgehandelde zaken
+Figuur 7 toont de ontwikkeling van het aantal jaarlijks door het OM afgehandelde 
+mensenhandelzaken.29 
+
+Figuur 7 Aantal afgehandelde zaken OM (2006-2010)
+
+Het OM heeft in de weergegeven vijf jaren 1.046 mensenhandelzaken afgehandeld. Het 
+gemiddelde ligt dus ook hier op ruim 200 zaken per jaar. Met name het jaar 2008 met 
+270 afgehandelde zaken is in deze figuur opvallend hoog. 
+
+Afgehandelde zaken naar afhandeling
+Figuur 8 laat zien op welke manier het OM mensenhandelzaken heeft afgehandeld.30
+
+Figuur 8 Afgehandelde zaken naar afhandeling (2006-2010)
+
+In gemiddeld drie kwart van alle zaken heeft het OM besloten te dagvaarden en in een 
+vijfde deel van de gevallen is onvoorwaardelijk geseponeerd. Andere afhandelingen zijn 
+bijna niet voorgekomen. Ten aanzien van de dagvaardingen (76% over vijf jaar) is mees-
+tal (mede) voor mensenhandel gedagvaard (72%) en incidenteel uitsluitend voor andere 
+feiten (4%). Wanneer sprake is van onvoorwaardelijke sepots (21% over vijf jaar), gaat het 
+vooral om technische sepots. In 2008 en 2009 ligt het aandeel beleidssepots hoger dan 
+in de andere jaren (24%, respectievelijk, 25% ten opzichte van tussen de 7% en 11% in de 
+andere drie jaren31). Indien onvoldoende uitzicht bestaat op een veroordeling omdat 
+
+29  Voor de tabel met het volledige (inclusief indexcijfers en de relatieve groei ten opzichte van het voorgaande jaar) 
+en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.6. 
+
+30  Voor de tabel met het gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.7. 
+31  Gemiddeld is in 9% van de geseponeerde zaken de sepotgrond niet geregistreerd en dus onbekend, uiteenlopend 
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Dagvaarding (mede) voor mensenhandel 
+
+Dagvaarding uitsluitend voor andere feiten
+
+Voeging
+
+Onvoorwaardelijk sepot
+
+Voorwaardelijk sepot
+
+Overdracht binnen OM
+
+Overdracht aan andere instantie
+
+Transactie
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Dagvaarding (mede) voor mensenhandel 
+
+Dagvaarding uitsluitend voor andere feiten
+
+Voeging
+
+Onvoorwaardelijk sepot
+
+Voorwaardelijk sepot
+
+Overdracht binnen OM
+
+Overdracht aan andere instantie
+
+Transactie
+
+
+
+11
+
+bijvoorbeeld onvoldoende bewijs aanwezig is, zal gekozen worden voor een technisch 
+sepot. Indien van vervolging wordt afgezien op gronden aan het algemeen belang ont-
+leend32, zal gekozen worden voor een beleidssepot.33 Hierbij kan worden gedacht aan – 
+onder meer – gronden die samenhangen met het gepleegde feit (bijvoorbeeld: oud feit, 
+gering aandeel in het feit) of met de persoon van de verdachte (bijvoorbeeld: verdachte 
+onvindbaar).
+
+2.1 In eerste aanleg afgedane mensenhandelzaken
+
+Aantal in eerste aanleg afgedane zaken
+Figuur 9 toont de ontwikkeling van het aantal in eerste aanleg afgedane zaken.34 
+
+Figuur 9 Aantal in eerste aanleg afgedane zaken (2006-2010)
+
+In de weergegeven periode heeft de rechter in eerste aanleg 638 mensenhandelzaken 
+afgedaan. Dit komt neer op een gemiddelde van bijna 130 zaken per jaar. Het jaarlijks 
+aantal afgedane zaken varieert tussen de 98 zaken in 2006 en de 152 zaken in 2008. 
+
+In eerste aanleg afgedane zaken naar afdoening
+Figuur 10 laat zien met welke beslissingen de rechter in eerste aanleg de zaken heeft 
+afgedaan.35 
+
+van 4% in 2007 tot 17% in 2006. In de voetnoten bij Tabel B3.7 is per jaar te zien wat de verdeling ‘technische 
+sepots’ - ‘beleidssepots’ - ‘sepotgrond onbekend’ is.
+
+32  Opportuniteitsbeginsel, art. 167lid 2 Sv.
+33  Aanwijzing gebruik sepotgronden (2009A016), Stcrt. 2009, 12653.
+34  Voor de tabel met het volledige (inclusief indexcijfers en de relatieve groei ten opzichte van het voorgaande jaar) 
+
+en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.8. 
+35  Voor de tabel met het gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.9. 
+
+2 Berechting in eerste aanleg
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+ 
+
+ 
+
+ 
+
+ 
+Aantal veroordelingen/veroordeelde personen 
+(mede) voor mensenhandel
+
+Aantal afgedane mensenhandelzaken in eerste aanleg
+
+Aantal opgelegde vrijheidsstra�en
+
+
+
+12
+
+Figuur 10 In eerste aanleg afgedane zaken naar afdoening (2006-2010)
+
+Gemiddeld heeft 58% van de in eerste aanleg afgedane mensenhandelzaken tot een ver-
+oordeling voor in ieder geval mensenhandel geleid.36 38% resulteerde in een vrijspraak 
+voor mensenhandel (23% betreft een veroordeling voor uitsluitend andere delicten dan 
+mensenhandel en 15% een volledige vrijspraak). Andere afdoeningen zijn bijna niet 
+voorgekomen. 
+
+In de figuur is te zien dat het aandeel veroordelingen (mede) voor mensenhandel in de 
+periode 2006 tot 2009 elk jaar is afgenomen, in totaal met 20%. Deze ontwikkeling is 
+overigens al sinds 2004 gaande; het percentage veroordelingen daalt in het tijdsbestek 
+2004-2009 met maar liefst 25%.37 In 2010 is voor het eerst sprake van een relatieve stijging. 
+Deze toename is een trendbreuk en in dit kader dus interessant. Het neemt echter niet 
+weg dat het percentage veroordelingen, ook in 2010, nog steeds laag is. Ondanks de stij-
+ging van 9% ten opzichte van 2009, is dit aandeel namelijk ongeveer gelijk aan het gemid-
+delde aandeel veroordelingen in de weergegeven vijf jaar (59% in 2010 ten opzichte van 
+58% over het totaal van vijf jaar). Hieruit kan geconcludeerd worden dat het erg moeilijk 
+blijft om tot veroordelingen voor mensenhandel te komen. 
+ 
+De uitspraak van de Hoge Raad in de Chinese Horecazaak38 eind 2009, welke sindsdien 
+heeft geresulteerd in relatief meer veroordelingen in overige uitbuitingszaken, verklaart 
+de recente toename overigens niet.39 Een nadere analyse40 laat zien dat de invloed van de 
+overige uitbuitingszaken op de veroordelingen en vrijspraken in mensenhandelzaken in 
+2009 niet zodanig verschilt van de invloed in 2010, dat hiermee de relatieve toename van 
+
+36  NB: ook binnen deze 58% kan sprake zijn van vrijspraken voor ten laste gelegde mensenhandelfeiten. Immers, 
+indien één ten laste gelegd mensenhandelfeit bewezen is verklaard, geldt een veroordeling voor in ieder geval 
+mensenhandel. Het is dan tegelijkertijd mogelijk dat de verdachte ten aanzien van overige ten laste gelegde men-
+senhandelfeiten is vrijgesproken. 
+
+37  NRM8, p. 130.
+38  HR, 27 oktober 2009, LJN: BI7099.
+39  De invloed van de overige uitbuitingszaken op het aandeel veroordelingen in 2009 is -2% en op het aandeel vrij-
+
+spraken +2%. In 2010 betreffen deze percentages respectievelijk -1% en +3%. In totaal (alle mensenhandelzaken, 
+zowel seksuele uitbuiting als overige uitbuiting) is tussen 2009 en 2010 een stijging in het percentage veroordelin-
+gen voor mensenhandel waar te nemen van 9% (van 50% naar 59% - zie Figuur 10) en een afname in het percen-
+tage vrijspraken van mensenhandel van 9% (van 44% naar 35% - zie Figuur 10). Wanneer in deze jaren alleen naar 
+de seksuele uitbuitingszaken wordt gekeken blijkt de volgende ontwikkeling: het aandeel veroordelingen is toege-
+nomen met 8% (van 52% naar 60%) en het aandeel vrijspraken is gedaald met 10% (van 42% naar 32%). 
+
+40  BNRM heeft aan de hand van alle overige uitbuitingsvonnissen die in 2009 en 2010 door de rechter in eerste 
+aanleg zijn afgedaan deze analyse kunnen maken. Zoals eerder aangegeven is het namelijk niet mogelijk deze 
+informatie uit OM-data te halen omdat het als gevolg van de redactie van artikel 273a/f niet mogelijk is om op 
+grond van artikellid- en subonderdelen een onderscheid te maken tussen seksuele uitbuiting en overige 
+uitbuiting.
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Veroordeling (mede) voor mensenhandel
+
+Veroordeling uitsluitend voor andere feiten
+
+Volledige vrijspraak 
+
+OM niet ontvankelijk
+
+Dagvaarding nietig
+
+Ter terechtzi�ing gevoegd
+
+Onbekend
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Veroordeling (mede) voor mensenhandel
+
+Veroordeling uitsluitend voor andere feiten
+
+Volledige vrijspraak 
+
+OM niet ontvankelijk
+
+Dagvaarding nietig
+
+Ter terechtzi�ing gevoegd
+
+Onbekend
+
+
+
+13
+
+de veroordelingen voor mensenhandel (en de afname van de vrijspraken van mensen-
+handel) in 2010 verklaard kan worden.
+
+In eerste aanleg afgedane zaken en voorlopige hechtenis
+Figuur 11 laat zien bij welk deel van de verdachten wiens zaak door de rechter in eerste 
+aanleg is afgedaan op enig moment voorlopige hechtenis41 is toegepast.42 Omdat voor-
+lopige hechtenis tussentijds kan worden geschorst of opgeheven betekent het niet dat 
+de verdachten bij wie voorlopige hechtenis is toegepast ook ten tijde van de terechtzit-
+ting (nog) gedetineerd waren.43 
+
+Figuur 11 In eerste aanleg afgedane zaken en voorlopige hechtenis (2006-2010)
+
+Gemiddeld wordt bij 90% van alle verdachten wiens zaak door de rechter in eerste aan-
+leg is afgedaan voorlopige hechtenis toegepast. 
+
+In eerste aanleg afgedane zaken waarin hoger beroep is ingesteld
+Figuur 12 toont de ontwikkeling van het aandeel in eerste aanleg afgedane zaken waarin 
+hoger beroep is ingesteld. Ook is te zien door wie hoger beroep is aangetekend.44 
+
+Figuur 12 In eerste aanleg afgedane zaken waarin hoger beroep is ingesteld (2006-2010)
+
+Gemiddeld is in 46% van alle in eerste aanleg afgedane zaken hoger beroep aangetekend 
+door de verdachte of de officier van justitie (OvJ) of door beide. Het aandeel hoger 
+
+41  NB: Dit betreft niet de inverzekeringstelling. 
+42  Voor de tabel met het gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.10.
+43  Dit is niet af te leiden uit OM-data waarop de cijfers uit deze publicatie zijn gebaseerd (zie Bijlage 1 voor de onder-
+
+zoeksverantwoording). Hiervoor is wel aandacht in het jurisprudentieonderzoek dat BNRM momenteel uitvoert 
+(zie §4 onder afsluitende opmerkingen). 
+
+44  Voor de tabel met het gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.11.
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+ 
+
+ 
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Alleen door o�cier van justitie
+
+Door beiden
+
+Alleen door verdachte
+
+
+
+14
+
+beroep is vanaf 2007 elk jaar gestegen (van 36% naar 59%). In de figuur vallen met name 
+2009 en 2010 op. In deze jaren is de OvJ in bijna een derde deel (30%-32%) van alle in 
+eerste aanleg afgedane zaken in hoger beroep gegaan (al dan niet samen met de ver-
+dachte). In vergelijking tot maximaal 15% in de drie jaren hiervoor is dit een interessante 
+ontwikkeling. 
+
+2.2 Veroordelingen voor mensenhandel in eerste aanleg
+
+Veroordelingen in eerste aanleg en strafverzwarende omstandigheden
+In Figuur 13 zijn de mensenhandelzaken die in eerste aanleg tot een veroordeling (mede) 
+voor mensenhandel hebben geleid verdeeld naar bewezen verklaarde ongekwalificeer-
+de en gekwalificeerde45 mensenhandel.46 
+
+Figuur 13 Veroordelingen in eerste aanleg en strafverzwarende omstandigheden (2006-2010)
+
+Gemiddeld is in ongeveer twee derde deel van alle mensenhandelveroordelingen gekwa-
+lificeerde mensenhandel bewezen verklaard. In 2010 is dit aandeel het kleinst (60%). 
+Vergeleken met de bij het OM ingeschreven zaken naar strafverzwarende omstandighe-
+den (zie Figuur 5) is bij de veroordelingen voor mensenhandel iets vaker sprake van 
+gekwalificeerde mensenhandel (68% ten opzichte van 61%). Overigens dient hierbij 
+opgemerkt te worden dat een bewezenverklaring voor gekwalificeerde mensenhandel 
+in de eerste plaats afhankelijk is van de tenlastelegging.47 In de periode 2000-2008 is een 
+dalende trend geconstateerd van het aandeel gekwalificeerde mensenhandelveroorde-
+lingen - van 100% naar 65%.48 2010 representeert op dit moment aldus het kleinste aan-
+deel veroordelingen voor gekwalificeerde mensenhandel in het totale tijdsbestek van elf 
+jaar. Aangezien de dalende trend van gekwalificeerde mensenhandel bij de ingeschre-
+ven zaken bij het OM lijkt te zijn gestabiliseerd - het is in 2009 en 2010 in ieder geval niet 
+verder afgenomen - is de verwachting dat dit de komende jaren ook bij de veroordelin-
+gen voor gekwalificeerde mensenhandel het geval zal zijn. 
+
+45  Zie voetnoot 9 en de inleiding bij Figuur 5 voor een uitleg van gekwalificeerde mensenhandel. 
+46  Voor de tabel met het gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.12.
+47  Uit het jurisprudentieonderzoek naar seksuele uitbuitingszaken in 2007 kwam naar voren dat in elf vonnissen 
+
+sprake was van een slachtoffer jonger dan zestien jaar. Echter, de strafverzwarende omstandigheid: ‘mensenhan-
+del waarbij een slachtoffer jonger dan zestien jaar is betrokken’ was in deze gevallen niet expliciet in de tenlaste-
+legging opgenomen (zie NRM7, p. 465). BNRM beschikt op dit moment niet over informatie die de verdeling 
+ongekwalificeerde versus gekwalificeerde mensenhandel op dagvaardingen weer kan geven. 
+
+48  Zie NRM8, p. 131.
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Veroordeling ongekwali�ceerde mensenhandel
+
+Veroordeling gekwali�ceerde mensenhandel
+
+
+
+15
+
+Veroordelingen in eerste aanleg naar zwaarste feit waarvoor is veroordeeld
+In Figuur 14 is te zien hoe vaak mensenhandel (ongekwalificeerd dan wel gekwalificeerd) 
+het enige of het zwaarste feit is waarvoor is veroordeeld in de zaken die tot een veroorde-
+ling (mede) voor mensenhandel hebben geleid.49 Als zwaarste feit geldt het feit met de 
+zwaarste strafbedreiging.50 De term geeft geen kwalitatief oordeel over het delict.
+
+Figuur 14 Veroordelingen in eerste aanleg naar zwaarste feit waarvoor veroordeeld 
+(2006-2010)
+
+Mensenhandel (ongekwalificeerd dan wel gekwalificeerd) is gemiddeld in ieder geval in 
+bijna 90% van de veroordelingen voor mensenhandel het enige of het zwaarste feit 
+waarvoor is veroordeeld. Vergeleken met het zwaarst geregistreerde delict in de zaken 
+die bij het OM zijn ingeschreven (zie Figuur 6) is bij de veroordelingen voor mensenhan-
+del iets vaker sprake van mensenhandel als zwaarste feit waarvoor is veroordeeld (89% 
+ten opzichte van 82%). 
+
+Veroordelingen in eerste aanleg naar opgelegde straf
+Figuur 15 geeft een overzicht van de zwaarst opgelegde hoofdstraffen in de zaken waarin 
+in eerste aanleg (mede) veroordeeld is voor mensenhandel.51 De opgelegde straffen zijn 
+dus niet altijd uitsluitend opgelegd ten aanzien van de bewezen mensenhandelfeiten. 
+Het komt regelmatig voor dat ook andere feiten naast mensenhandel bewezen zijn ver-
+klaard, soms zelfs feiten met een hogere strafbedreiging dan mensenhandel (in gemid-
+deld 10% van de gevallen, zie Figuur 14).
+
+Figuur 15 Veroordelingen in eerste aanleg naar zwaarst opgelegde hoofdstraf (2006-2010)
+
+49  Voor de tabel met het gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.13.
+50  In geval van een combinatie van delicten met gelijke strafbedreiging, is mensenhandel als zwaarste feit 
+
+getypeerd. 
+51  Voor de tabel met het volledige (inclusief de verdeling naar ongekwalificeerde en gekwalificeerde mensenhandel) 
+
+en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.14.
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Mensenhandel als zwaarste feit waarvoor is veroordeeld
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Onvoorwaardelijke of deels 
+voorwaardelijke vrijheidsstraf
+
+Taakstraf als zwaarste hoofdstraf
+
+Geldboete als zwaarste hoofdstraf
+
+Geheel voorwaardelijke straf als 
+zwaarste hoofdstraf
+
+Geen hoofdstraf
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Onvoorwaardelijke of deels 
+voorwaardelijke vrijheidsstraf
+
+Taakstraf als zwaarste hoofdstraf
+
+Geldboete als zwaarste hoofdstraf
+
+Geheel voorwaardelijke straf als 
+zwaarste hoofdstraf
+
+Geen hoofdstraf
+
+
+
+16
+
+In totaal is gemiddeld in 91% van de mensenhandelveroordelingen een onvoorwaarde-
+lijke of deels voorwaardelijke vrijheidsstraf als zwaarste hoofdstraf opgelegd. Dit aan-
+deel varieert in het weergegeven tijdsbestek tussen de 90% en de 95%, met uitzondering 
+van het jaar 2009 (84%). Een taakstraf als zwaarst opgelegde hoofdstraf is gemiddeld in 
+5% van de gevallen opgelegd. 2009 met 13% en 2010 met 1% vormen hier de twee 
+uitersten. 
+
+2.3 Voor mensenhandel opgelegde vrijheidsstraffen
+  in eerste aanleg
+
+De duur van het onvoorwaardelijke deel van de opgelegde vrijheidsstraffen in eerste aanleg 
+Figuur 16 geeft een overzicht van de duur van het onvoorwaardelijke deel van de opge-
+legde onvoorwaardelijke of deels voorwaardelijke vrijheidsstraffen.52 
+
+Figuur 16 Opgelegde vrijheidsstraffen in eerste aanleg naar duurcategorie (2006-2010)
+
+De duur van het onvoorwaardelijke deel van de opgelegde vrijheidsstraffen is in bijna de 
+helft van de gevallen niet langer dan één jaar (45% over vijf jaar). Vrijheidsstraffen van 
+meer dan vier jaar zijn bijna niet opgelegd (7% over vijf jaar). In de figuur is te zien dat in 
+2009 en 2010 relatief gezien vaker sprake is van vrijheidsstraffen tot één jaar dan in de 
+twee jaren daarvoor (49%-52% ten opzichte van 33%-41%). Wel is in de twee recentere 
+jaren vaker een vrijheidsstraf van boven de vier jaar opgelegd (8%-9% ten opzichte van 
+4%). In Figuur 17 is de ontwikkeling van de gemiddelde duur van het onvoorwaardelijke 
+deel van de opgelegde vrijheidsstraffen te zien.53 Hier is dus per jaar gekeken naar het 
+gemiddeld aantal dagen onvoorwaardelijke vrijheidsstraf dat is opgelegd in de mensen-
+handelzaken die tot een veroordeling (mede) voor mensenhandel hebben geleid. De 
+gemiddelde duur heeft dus betrekking op een mensenhandelzaak met mogelijk meer-
+dere bewezen verklaarde (mensenhandel)feiten.
+
+52  Voor de tabel met het volledige (inclusief de verdeling naar ongekwalificeerde en gekwalificeerde mensenhandel) 
+en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.15.
+
+53  Voor het overzicht van de gemiddelde duur in dagen (inclusief de standaard deviatie en de verdeling naar onge-
+kwalificeerde en gekwalificeerde mensenhandel) wordt verwezen naar de voetnoten bij Tabel B3.15.
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Tot 1 jaar
+
+1 tot 4 jaar
+
+Meer dan 4 jaar
+
+
+
+17
+
+Figuur 17 Opgelegde vrijheidsstraffen in eerste aanleg naar gemiddelde duur in dagen (2006-2010)
+
+De gemiddelde duur van het onvoorwaardelijke deel van de opgelegde vrijheidsstraffen 
+varieert tussen de 615 dagen in 2006 en de 687 dagen in 2009. De gemiddelde duur over 
+vijf jaar is 639 dagen. In deze figuur vormen de jaren 2009 en 2010 bijna de twee uiter-
+sten in de weergegeven periode (2010 met gemiddeld 617 dagen zit net iets boven het 
+minimum van 615 dagen in 2006). Deze bevinding is niet terug te zien in Figuur 16, waar-
+bij de jaren 2009 en 2010 bijna niet van elkaar verschillen. Om deze reden is het van 
+belang dat niet alleen gekeken wordt naar de duur in drie categorieën (‘tot één jaar’, 
+‘tussen één en vier jaar’ en ‘meer dan vier jaar’), maar ook naar de gemiddelde duur. De 
+huidige vrijheidsstraffen zijn van kortere duur dan voorheen - in de periode 2000-2008 
+was het gemiddelde 760 dagen54 en in de hier weergegeven periode (2006-2010) 639 
+dagen. Dit lijkt niet overeen te komen met de huidige perceptie van de wetgever van de 
+ernst van het misdrijf mensenhandel zoals tot uitdrukking werd gebracht in de wijziging 
+van art. 273f Sr in 2009 dat met name zag op de verhoging van de strafbedreiging. Het 
+verschil tussen de maximale strafbedreiging en de opgelegde straffen lijkt daarmee gro-
+ter te worden. 
+
+Aantal verdachten en veroordeelden
+Voor de ontwikkeling van het jaarlijks aantal verdachten van mensenhandel dat bij het 
+OM wordt ingeschreven wordt verwezen naar Figuur 2.55 De ontwikkeling van het aantal 
+personen dat jaarlijks in eerste aanleg wordt veroordeeld voor mensenhandel is te zien 
+in Figuur 9.56 Uit deze figuur blijkt dat dit aantal in de afgelopen vijf jaar varieert tussen 
+de 69 veroordeelde personen in 2006 en 2009 en de 80 veroordeelde personen in 2010. 
+In totaal gaat het om 369 veroordeelden in het weergegeven tijdsbestek van vijf jaar, met 
+gemiddeld zodoende ongeveer 74 veroordelingen per jaar.
+
+Geslacht verdachten en veroordeelden
+In Figuur 18 is de verdeling naar geslacht te zien van de verdachten die bij het OM zijn inge-
+schreven. Figuur 19 laat dit zien voor de personen die in eerste aanleg zijn veroordeeld.57 
+
+54  Sd: 714,9. Zie NRM8, p. 133.
+55  Figuur 2: Aantal ingeschreven zaken/verdachten OM.
+56  Figuur 9: Aantal in eerste aanleg afgedane zaken - tweede lijn van boven: Aantal veroordelingen/veroordeelde 
+
+personen (mede) voor mensenhandel. Voor de tabel met het volledige (inclusief indexcijfers en de relatieve groei 
+ten opzichte van het voorgaande jaar) en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel 
+B3.16.
+
+57  Voor de tabellen met de gedetailleerde overzichten van deze gegevens wordt verwezen naar Tabel B3.17 en Tabel 
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 Kenmerken
+
+
+
+18
+
+Figuur 18 Geslacht verdachten (2006-2010)
+
+Figuur 19 Geslacht veroordeelden (2006-2010)
+
+Zowel bij de verdachten als bij de veroordeelden is de grote meerderheid van het man-
+nelijk geslacht (82% respectievelijk 85%). De 39 vrouwelijke verdachten in 2010 zijn 
+geboren in Nederland (twaalf ), Hongarije (acht), Roemenië (vijf ), China (vier), Bulgarije 
+(drie), voormalig Joegoslavië (twee), Nigeria (twee) en Somalië, Suriname en voormalig 
+Tsjecho-Slowakije (alle één).58 De negen vrouwelijke veroordeelden in 2010 zijn geboren 
+in Polen (twee), Thailand (twee) en India, Indonesië, Nederland, Roemenië en Suriname 
+(alle één).59 
+
+Leeftijd verdachten en veroordeelden
+Figuur 20 geeft inzicht in de leeftijdsverdeling van de bij het OM ingeschreven verdach-
+ten en in Figuur 21 is dit voor de in eerste aanleg veroordeelde personen te zien.60 Het 
+betreft de leeftijd ten tijde van het eerst gepleegde mensenhandeldelict volgens de ten-
+lastelegging (verdachten) of volgens de bewezenverklaring (veroordeelden). 
+
+B3.18.
+58  De 25 vrouwelijke verdachten in 2009 zijn geboren in Nederland (acht), Hongarije (vijf), Indonesië (twee), Letland 
+
+(twee), Roemenië (twee) en Bulgarije, de voormalige Nederlandse Antillen, Polen, voormalig Sovjet-Unie, 
+Suriname en Turkije (alle één). 
+
+59  De dertien vrouwelijke veroordeelden in 2009 zijn geboren in Nederland (drie), Hongarije (drie), Bulgarije (twee) 
+en Kameroen, Letland, de voormalige Nederlandse Antillen, Nigeria en voormalig Tsjecho-Slowakije (alle één). 
+
+60  Voor de tabellen met de gedetailleerde overzichten van deze gegevens wordt verwezen naar Tabel B3.19 en Tabel 
+B3.20. In de voetnoten bij deze tabellen is per jaar tevens de gemiddelde leeftijd en de standaard deviatie te vinden 
+en over het totaal van vijf jaar is een verdeling gemaakt naar geslacht. 
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Vrouwelijk
+
+Mannelijk
+
+Rechtspersoon
+
+Onbekend
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Vrouwelijk
+
+Mannelijk
+
+Onbekend
+
+
+
+19
+
+Figuur 20 Leeftijd verdachten (2006-2010)
+
+Figuur 21 Leeftijd veroordeelden (2006-2010)
+
+Het merendeel van de verdachten en veroordeelden is niet ouder dan 30 jaar (56% res-
+pectievelijk 59% over vijf jaar). Gemiddeld is 4% van de verdachten en 5% van de veroor-
+deelden zelfs nog minderjarig. In de weergegeven periode is de leeftijdscategorie 18-25 
+jaar bij zowel de verdachten (35%) als de veroordeelden (34%) het best vertegenwoor-
+digd, al geldt dit niet ook ieder afzonderlijk jaar voor de veroordeelden (zo is in 2010 de 
+categorie 31-40 jaar met 29% de grootste). Bij de veroordeelden is het aandeel tot en met 
+25 jaar geleidelijk aan afgenomen van 48% in 2006 tot 30% in 2010. Het jaar 2010 is voor 
+de veroordeelden verder opvallend omdat 60% ouder is dan 30 jaar terwijl dit percenta-
+ge in andere jaren tussen de 31% en de 38% ligt. De gemiddelde leeftijd van de veroor-
+deelden in 2010 is dan ook hoger: 34 jaar ten opzichte van tussen de 28 en de 30 jaar in 
+voorgaande jaren. 
+
+Geboorteland verdachten
+Tabel 1 toont de rangordening van de vijf meest voorkomende geboortelanden van de 
+bij het OM ingeschreven verdachten.61
+
+61  Voor de tabel met het volledige (inclusief alle overige voorkomende geboortelanden en over het totaal de top 10) 
+en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.21. 
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+< 18 jaar
+
+18-25 jaar
+
+26-30 jaar
+
+31-40 jaar
+
+41-50 jaar
+
+> 50 jaar
+
+Rechtspersoon
+
+Onbekend
+
+0
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+< 18 jaar
+
+18-25 jaar
+
+26-30 jaar
+
+31-40 jaar
+
+41-50 jaar
+
+> 50 jaar
+
+Onbekend
+
+
+
+20
+
+Tabel 1   Rangordening top 5 geboortelanden verdachten (2006-2010)
+
+2006 2007 2008 2009 2010 Totaal 
+2006-2010
+
+Nederland 1 1 1 1 1 1
+
+Bulgarije 4’ 3 4 5 4 2
+
+Turkije 2 2 5 3
+
+Roemenië 3 5 4 3 4
+
+Marokko 4’ 3 2’ 5 5
+
+Hongarije 2 2’ 2
+
+Nigeria 4
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+De verdachten in de weergegeven periode zijn geboren in 58 verschillende landen (exclu-
+sief de categorieën ‘rechtspersoon’ en ‘onbekend’). Nederland is elk afzonderlijk jaar het 
+meest voorkomende geboorteland. Bulgarije komt ook ieder jaar voor in de top 5 en ver-
+vult daarmee een tweede plek in de top 5 over het totaal van vijf jaar. Ondanks deze twee-
+de plek, zijn de verdachten die in de meest recente jaren bij het OM zijn ingeschreven 
+vaker geboren in andere Midden- en Oost-Europese landen (Hongarije en Roemenië). In 
+2009 en 2010 behoort Turkije niet meer tot de jaarlijkse top 5.
+
+In Figuur 22 is de ontwikkeling van de totale top 5 geboortelanden van verdachten te 
+zien.62 Deze totale top 5 betreft de volgende geboortelanden: Nederland, Bulgarije, 
+Turkije, Roemenië en Marokko (zie Tabel 1 laatste kolom), welke vijf geboortelanden niet 
+ook ieder afzonderlijk jaar de top 5 vormen (zie Tabel 1 tweede tot en met zesde kolom).
+
+Figuur 22 Ontwikkeling totale top 5 geboortelanden verdachten (2006-2010)
+
+Het aandeel in Nederland geboren verdachten varieert tussen de 34% in 2007 en de 40% 
+in 2010 en vertegenwoordigt gemiddeld 37% van alle verdachten. Het geboorteland 
+Bulgarije wijkt per jaar niet veel af van zijn gemiddelde van 7% over het totaal van vijf 
+jaar. Turkije speelde in de jaren 2006 en 2007 nog een aanzienlijke rol (9%-10%), maar 
+dit aandeel is sindsdien gehalveerd (4%-5%). Het percentage verdachten dat in Roemenië 
+is geboren fluctueert - van 7% in 2006, naar 2% in 2008, naar 10% in 2010. Marokko toont 
+per jaar kleine verschillen rond gemiddeld 6%.
+
+62  Voor de tabel met het volledige (inclusief alle overige voorkomende geboortelanden en over het totaal de top 10) 
+en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.21. 
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Nederland
+
+Bulgarije
+
+Turkije
+
+Roemenië
+
+Marokko
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Nederland
+
+Bulgarije
+
+Turkije
+
+Roemenië
+
+Marokko
+
+
+
+21
+
+Geboorteland veroordeelden
+Tabel 2 geeft een overzicht van de rangordening van de vijf meest voorkomende geboor-
+telanden van de in eerste aanleg veroordeelde personen.63 64 65
+
+Tabel 2   Rangordening top 5 geboortelanden veroordeelden (2006-2010)
+
+2006 2007 2008 2009 2010 Totaal 
+2006-2010
+
+Nederland 1 1 1 1 1 1
+
+Bulgarije 4’ 2 2 4’ 2’
+
+Marokko 2 5’ 5 2’
+
+Roemenië 2 4
+
+Turkije 3’ 3 3’ 4’ 5
+
+Hongarije 5 5’ 4 2
+
+Suriname 4’ 3 4’
+
+Nederlandse 
+Antillen64
+
+4’ 3’ 4’
+
+Tsjecho-
+Slowakije65 
+
+3’
+
+Polen 3
+
+India 4’
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+De veroordeelden in de weergegeven periode zijn geboren in 41 verschillende landen 
+(exclusief de categorie ‘onbekend’). Ook bij de veroordeelden staat Nederland ieder jaar 
+op de eerste plaats. De totale top 5 bestaat uit dezelfde landen als die van de verdachten, 
+al is het in een net iets andere volgorde. Daar waar bij de verdachten Turkije de derde 
+plaats inneemt en Marokko de vijfde, is dit bij de veroordeelden precies andersom - 
+Marokko staat dan zelfs op een gedeelde tweede plaats. Polen en India komen in 2010 
+voor het eerst voor in de top 5 - dit behoeft tegelijkertijd nuancering daar het hierbij om 
+vier respectievelijk vijf veroordeelden gaat. 
+
+In Figuur 23 is de ontwikkeling van de totale top 5 geboortelanden van veroordeelden 
+weergegeven.66 Deze top 5 betreft de volgende geboortelanden: Nederland, Bulgarije, 
+Marokko, Roemenië en Turkije (zie Tabel 2 laatste kolom), welke vijf geboortelanden niet
+ook ieder afzonderlijk jaar de top 5 vormen (zie Tabel 2 tweede tot en met zesde kolom).
+
+63  Voor de tabel met het volledige (inclusief alle overige voorkomende geboortelanden en over het totaal de top 10) 
+en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.22. 
+
+64 Het huidige Aruba, CuraÇao en Sint Maarten en de speciale gemeenten van Nederland: Saba, Sint Eustatius en 
+Bonaire (Caribisch Nederland).
+
+65 Het huidige Tsjechië en Slowakije.
+66  Voor de tabel met het volledige (inclusief alle overige voorkomende geboortelanden en over het totaal de top 10) 
+
+en gedetailleerde overzicht van deze gegevens wordt verwezen naar Tabel B3.22. 
+
+
+
+22
+
+Figuur 23 Ontwikkeling totale top 5 geboortelanden veroordeelden (2006-2010)
+
+De veroordeelden die in Nederland zijn geboren representeren gemiddeld 34%, welk 
+aandeel jaarlijks varieert tussen de 28% in 2010 en de 45% in 2008. Bulgarije neemt tus-
+sen 2006 en 2009 elk jaar toe (van 4% naar 13%) en daalt vervolgens in 2010 naar 5%. 
+Marokko is in 2006 een belangrijk geboorteland met 19%, echter, sindsdien is dit aan-
+deel niet groter dan 6%. Met uitzondering van het jaar 2007 waarin 18% van de veroor-
+deelden in Roemenië is geboren, vertegenwoordigt dit land in de andere jaren conse-
+quent 4%. Het aandeel Turkije is in de periode 2006-2008 iets groter (7%-9%) dan in de 
+twee recentere jaren (3%-5%). 
+
+Deze publicatie bevat cijfermatige gegevens over de vervolging van de bij het OM inge-
+schreven mensenhandelzaken en de berechting van de in eerste aanleg afgedane men-
+senhandelzaken in de periode 2006-2010. In Tabel 3 zijn de kerngegevens met betrek-
+king tot de vervolging en berechting van verdachten en veroordeelden in 
+mensenhandelzaken in een tabel onder elkaar gezet. Deze gegevens vormen meestal 
+geen cohort, omdat niet alle zaken in het jaar van inschrijving bij het OM ook door het 
+OM worden afgehandeld en eventueel door de rechter in eerste aanleg worden afge-
+daan. Indien cijfers wel tegen elkaar kunnen worden afgezet zijn ze in één rij onder 
+elkaar opgenomen. 
+
+Tabel 3 Overzicht verdachten en veroordeelden in mensenhandelzaken (2006-2010)
+
+2006 2007 2008 2009 2010 Totaal 
+2006-2010
+
+N % N % N % N % N % N %
+
+Ingeschreven zaken OM 202 100% 281 100% 214 100% 141 100% 215 100% 1.053 100%
+
+Afgehandelde zaken OM
+- dmv dagvaarding (mede) voor mensenhandel
+
+194
+142
+
+100%
+73%
+
+176
+136
+
+100%
+77%
+
+270
+186
+
+100%
+69%
+
+181
+119
+
+100%
+66%
+
+225
+169
+
+100%
+75%
+
+1.046
+752
+
+100%
+72%
+
+Afgedane zaken in eerste aanleg
+- dmv veroordeling (mede) voor mensenhandel
+- waarbij een vrijheidsstraf is opgelegd
+(- ten opzichte van veroordeling)
+- hoger beroep ingesteld
+
+98
+69
+62
+
+(62)
+41
+
+100%
+70%
+63%
+
+(90%)
+42%
+
+115
+73
+69
+
+(69)
+41
+
+100%
+63%
+60%
+
+(95%)
+36%
+
+152
+78
+73
+
+(73)
+57
+
+100%
+51%
+48%
+
+(94%)
+38%
+
+138
+69
+58
+
+(58)
+74
+
+100%
+50%
+42%
+
+(84%)
+54%
+
+135
+80
+74
+
+(74)
+80
+
+100%
+59%
+55%
+
+(93%)
+59%
+
+638
+369
+336
+
+(336)
+293
+
+100%
+58%
+53%
+
+(91%)
+46%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+Nederland
+
+Bulgarije
+
+Marokko
+
+Roemenië
+
+Turkije
+
+4 Samenvatting en conclusie
+
+
+
+23
+
+Bij het OM ingeschreven mensenhandelzaken
+Gemiddeld worden jaarlijks ruim 200 mensenhandelzaken bij het OM ingeschreven. Dit 
+aantal varieert tussen de 141 zaken in 2009 en de 281 zaken in 2007. De ingeschreven 
+zaken zijn zeer ongelijk verdeeld over de verschillende arrondissementsparketten. De 
+vijf parketten met de meeste zaken vertegenwoordigen gezamenlijk 53% ten opzichte 
+van slechts 6% door de vijf parketten met de minste zaken. 
+
+In de periode 2000-2008 was een duidelijke afname zichtbaar van het aandeel gekwali-
+ficeerde mensenhandel (van 97% naar 53%).67 Nu lijkt deze dalende trend redelijk gesta-
+biliseerd te zijn. In de afgelopen vijf jaar is gemiddeld bij 61% van de ingeschreven zaken 
+sprake van strafverzwarende omstandigheden - met name mensenhandel in vereniging 
+en mensenhandel ten opzichte van een slachtoffer jonger dan zestien jaar. Bij 16% van 
+alle zaken is in ieder geval een minderjarig slachtoffer betrokken. Mensenhandel is in 
+82% van de gevallen het zwaarst geregistreerde feit, in de overige gevallen betreft dit 
+veelal een vorm van seksueel geweld. 
+
+Door het OM afgehandelde mensenhandelzaken
+Per jaar worden door het OM ook gemiddeld ruim 200 mensenhandelzaken afgehan-
+deld. Het jaar 2008 met 270 afgehandelde zaken wijkt het sterkst af van dit gemiddelde. 
+De afgehandelde zaken leiden meestal (72%) tot een dagvaarding (mede) voor mensen-
+handel en een vijfde deel resulteert in een onvoorwaardelijk sepot. In ieder geval 17% 
+van de onvoorwaardelijke sepots betreffen beleidssepots.
+
+In eerste aanleg afgedane mensenhandelzaken
+De rechter in eerste aanleg doet gemiddeld bijna 130 mensenhandelzaken per jaar af. Dit 
+aantal varieert tussen de 98 zaken in 2006 en de 152 zaken in 2008. Slechts iets meer dan 
+de helft (58%) van deze zaken resulteert in een veroordeling (mede) voor mensenhandel. 
+Dit aandeel is in de periode 2006-2009 ieder jaar gedaald, in totaal met 20%. Deze ont-
+wikkeling is overigens al sinds 2004 gaande; het percentage veroordelingen daalt in het 
+tijdsbestek 2004-2009 met maar liefst 25%.68 In 2010 is voor het eerst sprake van een 
+stijging naar 59% - wat ongeveer gelijk is aan het gemiddelde over vijf jaar. Hieruit kan 
+geconcludeerd worden dat het erg moeilijk blijft om tot veroordelingen voor mensen-
+handel te komen. 
+
+Bijna altijd (gemiddeld 90%) is bij de verdachten wiens zaak door de rechter in eerste 
+aanleg is afgedaan voorlopige hechtenis toegepast. Gemiddeld wordt in 46% van de in 
+eerste aanleg afgedane zaken hoger beroep aangetekend door de verdachte en/of de 
+OvJ. In 2009 en 2010 is de OvJ in bijna een derde deel van de gevallen in hoger beroep 
+gegaan ten opzichte van maximaal 15% in de jaren ervoor. 
+
+In ongeveer twee derde deel van alle veroordelingen voor mensenhandel is sprake van 
+bewezen verklaarde gekwalificeerde mensenhandel. 2010 kent met 60% op dit moment 
+het kleinste aandeel in de periode 2000-2010. Mensenhandel is in bijna 90% van de ver-
+oordelingen ook het zwaarste feit waarvoor is veroordeeld. Gemiddeld is in 91% van de 
+mensenhandelveroordelingen sprake van een opgelegde onvoorwaardelijke of deels 
+voorwaardelijke vrijheidsstraf, 2008 met 84% wijkt hiervan het meeste af. De duur van 
+het onvoorwaardelijke deel van de opgelegde vrijheidsstraffen is in de periode 2006-
+2010 gemiddeld korter dan voorheen. Dit lijkt niet overeen te komen met de huidige 
+
+67  NRM8, p. 125.
+68  NRM8, p. 130.
+
+
+
+24
+
+perceptie van de wetgever van de ernst van het misdrijf mensenhandel, die geleid heeft 
+– en in de toekomst wellicht wederom zal leiden – tot een verhoging van de maximale 
+strafbedreiging. 
+
+Kenmerken van verdachten en veroordeelden
+De verdachten en veroordeelden zijn overwegend mannen (82% respectievelijk 85%). 
+Gemiddeld genomen is de meerderheid niet ouder dan 30 jaar - 4% van de verdachten en 
+5% van de veroordeelden is zelfs nog minderjarig. In 2010 ligt de gemiddelde leeftijd van 
+de veroordeelden hoger dan in de jaren ervoor. Zowel voor de verdachten als voor de 
+veroordeelden bestaat de top 5 van meest voorkomende geboortelanden uit Nederland, 
+Bulgarije, Turkije, Roemenië en Marokko - al geldt voor de veroordeelden een net iets 
+andere volgorde. 37% van de verdachten en 34% van de veroordeelden is in Nederland 
+geboren. 
+
+Afsluitende opmerkingen
+Een belangrijk onderdeel van de aanpak van mensenhandel is de opsporing en de ver-
+volging van verdachten. De fase waarin verdachten worden berecht, waarbij de straf-
+rechter uitspraak doet en een eindoordeel geeft over hetgeen een verdachte ten laste is 
+gelegd, vormt daarvan het sluitstuk. Het aantal ingeschreven zaken bij het OM stijgt niet 
+substantieel. Er zijn parketten waar weinig mensenhandelzaken zijn ingeschreven. Dit 
+kan er overigens mede toe leiden dat binnen sommige rechtbanken weinig ervaring met 
+mensenhandelzaken wordt opgedaan. In de toekomst zou dit kunnen veranderen als 
+gevolg van de voorgestelde herziening van de gerechtelijke kaart. Dit wetsvoorstel is 
+onlangs – begin december – door de Tweede Kamer goedgekeurd en ligt nu voor in de 
+Eerste Kamer.69 Uit het wetsvoorstel vloeit voort dat mensenhandelzaken straks in eerste 
+aanleg door tien rechtbanken kunnen worden afgedaan in plaats van door negentien 
+rechtbanken zoals op dit moment gebeurt. Dit sluit aan op de beschikbaarheid van een 
+gespecialiseerde OvJ op tien parketten voor dit type zaken. Concentratie van rechtspraak 
+zou aan specialisatie kunnen bijdragen. Het wetsvoorstel biedt daarnaast ook ruimte 
+voor specialisatie van mensenhandelzaken op landelijk niveau. In het hierna te noemen 
+jurisprudentieonderzoek zal ook aandacht worden besteed aan de vraag in hoeverre 
+thans van specialisatie sprake is.
+
+Uit de cijfers van OM-data blijkt dat het erg moeilijk blijft om tot veroordelingen voor 
+mensenhandel te komen. Het aandeel vrijspraken blijft hoog. Vrijheidsstraffen van 
+meer dan vier jaar zijn bijna niet opgelegd. Al eerder heeft BNRM onderzoek gedaan naar 
+jurisprudentie in mensenhandelzaken betreffende uitbuiting in de seksindustrie.70 
+BNRM voert momenteel een vervolgonderzoek uit, dat zowel kwantitatieve gegevens 
+betreft – op basis van alle uitspraken in eerste aanleg over 2010 – als een kwalitatieve 
+analyse omvat van jurisprudentie die sindsdien is verschenen.71 Het doel van dit onder-
+zoek is het geven van meer inzicht in, en een verklaring voor een aantal van de geconsta-
+teerde cijfers in deze publicatie.
+
+69  Kamerstukken I 2011/12, 32 891 A.
+70  Zie NRM7, Hoofdstuk 11.
+71  De resultaten van het jurisprudentieonderzoek zullen naar verwachting in het voorjaar van 2012 gepubliceerd 
+
+worden op de website van BNRM (www.bnrm.nl). 
+
+
+
+25
+
+Literatuurlijst
+
+Brouwers, M. & Eggen, A. Th. J. (2011). Vervolging. In S. N. Kalidien (red.), N. E. de Heer-
+de Lange (red.) & M. M. van Rosmalen, Criminaliteit en rechtshandhaving 2010. Ontwikkelingen 
+en samenhangen (pp. 119-138). Den Haag: Boom Juridische uitgevers.
+
+Nationaal Rapporteur Mensenhandel. (2002). Mensenhandel - Eerste rapportage van de 
+Nationaal Rapporteur. Den Haag: BNRM. 
+
+Nationaal Rapporteur Mensenhandel. (2004). Mensenhandel - Derde rapportage van de 
+Nationaal Rapporteur. Den Haag: BNRM. 
+
+Nationaal Rapporteur Mensenhandel. (2007). Mensenhandel - Vijfde rapportage van de 
+Nationaal Rapporteur. Den Haag: BNRM. 
+
+Nationaal Rapporteur Mensenhandel. (2009). Mensenhandel - Zevende rapportage van de 
+Nationaal Rapporteur. Den Haag: BNRM. 
+
+Nationaal Rapporteur Mensenhandel. (2010). Mensenhandel - 10 jaar Nationaal Rapporteur 
+Mensenhandel in Nederland - Achtste rapportage van de Nationaal Rapporteur. Den Haag: BNRM. 
+
+Openbaar Ministerie. (2011). Jaarbericht 2010. 
+
+
+
+26
+
+Bijlagen 
+
+
+
+27
+
+Onderzoeksmethode
+De informatie in deze publicatie is gebaseerd op OM-data, het landelijke databestand 
+dat informatie bevat van de arrondissementsparketten en rechtbanken over de vervol-
+ging en berechting in eerste aanleg van verdachten en veroordeelden. Uit het totale 
+OM-databestand kunnen de zaken geselecteerd worden waarin (onder meer) het feit 
+mensenhandel is geregistreerd (art. 250a, 250ter, 273a of 273f Sr.). De secundaire analy-
+ses op het subbestand ‘mensenhandel’ zijn op verzoek van BNRM verricht door de afde-
+ling Statistische Informatie en Beleidsanalyse (SIBA) van het Wetenschappelijk 
+Onderzoek- en Documentatiecentrum (WODC). Voor de toelichting op de in deze publi-
+catie weergegeven grafieken, tabellen, de in Bijlage 3 gepresenteerde aanvullende tabel-
+len en de hierop van toepassing zijnde statistiek wordt verwezen naar Bijlage 2. 
+
+Kanttekeningen bij de cijfers 
+De in deze publicatie gepresenteerde data afkomstig uit het subbestand ‘mensenhandel’ 
+betreffen mogelijk niet alle verdachten van en veroordeelden voor een mensenhandel-
+feit. Het komt namelijk incidenteel voor dat bij meerdere ten laste gelegde feiten alleen 
+het eerste feit in OM-data wordt geregistreerd.72 Daarnaast is OM-data niet up to date. 
+OM-data geeft over een bepaald jaar pas minimaal een half jaar later een enigszins 
+betrouwbaar beeld. Ongeveer een jaar na dato zijn de data redelijk stabiel - al vinden er 
+dan nog wel minimale wijzigingen plaats bij volgende peildata.73 Deze publicatie is 
+gebaseerd op de data met peildatum 1 september 2011, waardoor ook de meest recente 
+cijfers over het jaar 2010 al redelijk betrouwbaar zijn. Momenteel is het OM bezig met 
+een overgang van het oude bedrijfsprocessensysteem COMPAS naar het nieuwe 
+Geïntegreerd Processysteem Strafrecht (GPS-systeem). OM-data is zowel door COMPAS 
+als door het GPS-systeem gevoed.74 Echter een overgangsfase in registratie brengt altijd 
+het risico op extra ruis met zich mee. De cijfers over 2009 en met name 2010 zijn hier-
+door beïnvloed en daardoor lastiger te vergelijken met andere jaren.75
+
+72  Overigens: alleen primair ten laste gelegde feiten worden opgenomen in OM-data. Echter, aangezien het hoogst 
+waarschijnlijk niet voorkomt dat een mensenhandelfeit subsidiair aan een ander strafbaar feit ten laste wordt 
+gelegd, is dit voor de geregistreerde mensenhandelfeiten niet van belang.
+
+73  Daarom verzoekt BNRM ieder jaar de data van de eerder gerapporteerde jaren opnieuw te analyseren. 
+74  In 2010 is het GPS-systeem al de grootste leverancier van de data in OM-data. 
+75  Zie voor meer informatie over de effecten van het nieuwe GPS-systeem op OM-data: Brouwers & Eggen, 2011, p. 
+
+119-120. 
+
+Bijlage 1
+Verantwoording gebruikte onderzoeksmethode
+
+
+
+28
+
+Bijlage 2
+Toelichting bij tabellen, figuren en toegepaste statistiek
+
+1. Toelichting bij tabellen
+ Deze rapportage bevat meerdere tabellen. Hieronder staan enkele opmerkingen die 
+
+van belang zijn voor de interpretatie van deze tabellen. Door afronding tellen de sub-
+percentages in de tabellen niet altijd op tot het totaal van 100% - of in het geval van 
+subtotalen tot de betreffende percentages. Vanzelfsprekend betreft het totaal wel 100% 
+- of in het geval van subtotalen de betreffende percentages - en is dan ook conform 
+genoteerd. Wanneer in een kolom van een tabel aantallen worden weergegeven, dan 
+wordt in de kop van de desbetreffende kolom de letter N - een afkorting van het Engelse 
+number - gebruikt. Wanneer in een kolom van een tabel een rangorde wordt weergege-
+ven, dan wordt in de kop van de desbetreffende kolom de letter R - een afkorting van 
+het Engelse rank - gebruikt. In de tabellen wordt met een streepje (-) weergegeven dat 
+het aantal nul is, en eveneens met een streepje dat het bijbehorende percentage 0% is. 
+Wanneer het aantal hoger is dan nul, maar het percentage door afronding op 0% uit-
+komt, wordt geen streepje weergegeven maar 0%. 
+
+2. Toelichting bij figuren
+ Deze rapportage bevat meerdere figuren die gebaseerd zijn op de aanvullende tabel-
+
+len uit Bijlage 3. Hieronder staan enkele opmerkingen die van belang zijn voor de 
+interpretatie van deze figuren. In geval van het weergeven van een ontwikkeling in 
+absolute zin (aantallen) is gebruik gemaakt van een lijndiagram. Indien er meerdere 
+lijnen in één diagram staan vertegenwoordigen dit ontwikkelingen die tegen elkaar 
+afgezet kunnen worden. In geval van het weergeven van een ontwikkeling in relatieve 
+zin (aandelen) is gebruik gemaakt van een staafdiagram. In geval van het weergeven 
+van een totaaloverzicht (over één bepaalde periode) is gebruik gemaakt van een 
+cirkeldiagram.
+
+3. Toelichting bij toegepaste statistiek
+ In sommige tabellen wordt een indexcijfer gegeven. Het indexcijfer laat zien hoeveel 
+
+het aantal - bijvoorbeeld verdachten - in een bepaald jaar ten opzichte van een basis-
+jaar is veranderd. Welk jaar als basisjaar is genomen, wordt vermeld in de kop van de 
+tabel. Dit jaar wordt op 1,0 gesteld. Een indexcijfer hoger dan 1,0 geeft een stijging 
+weer ten opzichte van het basisjaar en een indexcijfer lager dan 1,0 een daling.
+
+ In sommige tabellen wordt in de voetnoten gemiddelden weergegeven, bijvoorbeeld 
+de gemiddelde leeftijd van de verdachten en veroordeelden. Hierbij wordt telkens de 
+zogenaamde standaarddeviatie (Sd) vermeld. De Sd geeft aan in welke mate de aantal-
+len waarover het gemiddelde berekend is, uiteenlopen. Hoe hoger de standaarddevi-
+atie, des te meer dit het geval is. 
+
+
+
+29
+
+Bijlage 3
+Aanvullende tabellen
+
+Tabellen B3.1 t/m B3.7 geven aanvulling op §1 (Vervolging);
+Tabellen B3.8 t/m B3.15 geven aanvulling op §2 (Berechting in eerste aanleg);
+Tabellen B3.16 t/m B3.22 geven aanvulling op §3 (Kenmerken).
+
+Aanvulling op §1: Vervolging
+Tabellen B3.1 t/m B3.7 geven het volledige overzicht van de beschikbare gegevens uit OM-data over de bij het OM ingeschreven mensenhan-
+delzaken en de door het OM afgehandelde mensenhandelzaken in de periode 2006-2010. Voor de onderzoeksverantwoording wordt verwe-
+zen naar Bijlage 1 en voor de toelichting op de in deze bijlage weergegeven tabellen en de hierop van toepassing zijnde statistiek wordt verwe-
+zen naar Bijlage 2.
+
+Tabel B3.1   Aantal ingeschreven zaken/verdachten OM (2006-2010)76
+
+Aantal ingeschreven zaken/
+verdachten OM
+
+Indexcijfer (2006=1,0) Procentuele groei ten opzichte van 
+het voorgaande jaar
+
+2006 202 1,0 46% 76
+
+2007 281 1,4 39%
+
+2008 214 1,1 -24%
+
+2009 141 0,7 -34%
+
+2010 215 1,1 52%
+
+Totaal 1.053 n.v.t n.v.t
+
+Bron: OM-data (peildatum: 1 september 2011) 
+  
+
+Tabel B3.2   Ingeschreven zaken per arrondissementsparket (2006-2010)
+
+2006 2007 2008 2009 2010 Totaal Top 5
+
+N % N % N % N % N % N % R
+
+Alkmaar 11 5% 19 7% 4 2% 3 2% 12 6% 49 5%
+
+Almelo 9 4% 16 6% 12 6% 2 1% 4 2% 43 4%
+
+Amsterdam 24 12% 37 13% 26 12% 22 16% 24 11% 133 13% 2
+
+Arnhem 12 6% 11 4% 10 5% 8 6% 13 6% 54 5%
+
+Assen 1 0% - - 2 1% 1 1% 3 1% 7 1%
+
+Breda - - 4 1% 2 1% 1 1% 10 5% 17 2%
+
+Den Bosch 14 7% 10 4% 15 7% 8 6% 9 4% 56 5%
+
+Den Haag 24 12% 30 11% 45 21% 30 21% 16 7% 145 14% 1
+
+Dordrecht - - 3 1% - - 2 1% 5 2% 10 1%
+
+Groningen 10 5% 22 8% 10 5% 3 2% 16 7% 61 6%
+
+Haarlem 7 3% 14 5% 14 7% 6 4% 13 6% 54 5%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+76 Het aantal ingeschreven zaken/verdachten OM in 2005 is 138 (NRM8, p. 204).
+
+
+
+30
+
+2006 2007 2008 2009 2010 Totaal Top 5
+
+N % N % N % N % N % N % R
+
+Leeuwarden 7 3% 12 4% 10 5% 8 6% 9 4% 46 4%
+
+Maastricht 5 2% 10 4% 5 2% 3 2% 7 3% 30 3%
+
+Middelburg 4 2% 4 1% - - 2 1% 5 2% 15 1%
+
+Roermond 2 1% 2 1% 3 1% 5 4% 5 2% 17 2%
+
+Rotterdam 33 16% 29 10% 26 12% 19 13% 20 9% 127 12% 3
+
+Utrecht 6 3% 20 7% 20 9% 4 3% 15 7% 65 6% 5
+
+Zutphen 4 2% 8 3% 4 2% 6 4% 9 4% 31 3%
+
+Zwolle 29 14% 30 11% 6 3% 8 6% 20 9% 93 9% 4
+
+Totaal 202 100% 281 100% 214 100% 141 100% 215 100% 1.053 100% n.v.t.
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+Tabel B3.3   Ingeschreven zaken die (mede) minderjarige slachtoffers betreffen (2006-2010)
+
+Ingeschreven zaken OM Zaken die (mede) minderjarige slachtoffers betreffen
+
+N % N %
+
+2006 202 100% 25 12%
+
+2007 281 100% 56 20%
+
+2008 214 100% 26 12%
+
+2009 141 100% 25 18%
+
+2010 215 100% 38 18%
+
+Totaal 1.053 100% 170 16%
+
+Bron: OM-data (peildatum: 1 september 2011) 
+
+ 
+Tabel B3.4 Ingeschreven zaken en strafverzwarende omstandigheden (2006-2010) 77
+
+2006 2007 2008 2009 2010 Totaal 
+
+N % N % N % N % N % N %
+
+Ongekwalificeerde 
+mensenhandel
+
+250ter/a lid 1 4 2% 2 1% 3 1% - - 1 0% 10 1%
+
+273a/f lid 1 60 30% 94 33% 98 46% 58 41% 87 40% 397 38%
+
+Subtotaal 64 32% 96 34% 101 47% 58 41% 88 41% 407 39%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+77 In deze tabel is de oude indeling van art. 273f Sr aangehouden. Mensenhandelzaken met mensenhandelfeiten gepleegd na 1 juli 2009 zijn omgenummerd naar de indeling 
+van art. 273f Sr van vóór 1 juli 2009. Zodoende betreft lid 4 hier dus mensenhandel in vereniging waarbij een slachtoffer jonger dan zestien jaar is betrokken, lid 5 mensenhan-
+del met zwaar lichamelijk letsel ten gevolge en lid 6 mensenhandel met de dood ten gevolge. Zie Bijlage 4.
+
+
+
+31
+
+2006 2007 2008 2009 2010 Totaal 
+
+N % N % N % N % N % N %
+
+Gekwalificeerde 
+mensenhandel77
+
+250ter/a lid 2 27 13% 20 7% 8 4% - - 1 0% 56 5%
+
+250ter/a lid 3 - - - - - - - - - - - -
+
+273a/f lid 3 108 53% 158 56% 100 47% 78 55% 122 57% 566 54%
+
+273a/f lid 4 1 0% 4 1% 3 1% - - - - 8 1%
+
+273a/f lid 5 2 1% 3 1% 2 1% 5 4% 4 2% 16 2%
+
+273a/f lid 6 - - - - - - - - - - - -
+
+Subtotaal 138 68% 185 66% 113 53% 83 59% 127 59% 646 61%
+
+Totaal 202 100% 281 100% 214 100% 141 100% 215 100% 1.053 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+Tabel B3.5 Ingeschreven zaken naar zwaarste feit (2006-2010) 
+
+2006 2007 2008 2009 2010 Totaal 
+
+N % N % N % N % N % N %
+
+Gekwalificeerde mensenhandel 112 55% 160 57% 94 44% 73 52% 113 53% 552 52%
+
+Ongekwalificeerde mensenhandel 46 23% 67 24% 82 38% 46 33% 69 32% 310 29%
+
+Seksueel geweld78 36 18% 34 12% 22 10% 15 11% 14 7% 121 11%
+
+Niet-seksueel geweld 79 3 1% 10 4% 10 5% 2 1% 11 5% 36 3%
+
+Overige misdrijven80 5 2% 10 4% 6 3% 5 4% 8 4% 34 3%
+
+Totaal 202 100% 281 100% 214 100% 141 100% 215 100% 1.053 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+ 
+Tabel B3.6 Aantal afgehandelde zaken OM (2006-2010) 8182 83 84
+
+Aantal afgehandelde zaken OM (N) Indexcijfer (2006=1,0) Procentuele groei ten opzichte van 
+voorgaande jaar
+
+2006 19481 1,0 47%82
+
+2007 17683 0,9 -9%
+
+2008 27084 1,4 53%
+
+2009 181 0,9 -33%
+
+2010 225 1,2 24%
+
+Totaal 1.046 n.v.t. n.v.t.
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+78 Hieronder kunnen de volgende artikelen vallen: artt. 242, 243, 244, 245, 246, 247, 248, 248a, 248b, 248c, 248ter (oud), 249, 250 & 250bis (oud) Sr.
+79 Hieronder kunnen de volgende artikelen vallen: artt. 285, 285a, 285b, 287, 288, 289, 296, 300, 301, 302, 303, 304, 312 en 317 Sr.
+80 Hieronder vallen alle overige misdrijven die in de weergegeven periode zijn voorgekomen.
+81 In NRM8 is voor dit jaar 197 weergegeven, drie zaken bleken uiteindelijk toch in een later jaar te zijn afgehandeld.
+82 Het aantal afgehandelde zaken OM in 2005 is 132 (NRM8, p. 211).
+83 In NRM8 is voor dit jaar 184 weergegeven, acht zaken bleken uiteindelijk toch in een later jaar te zijn afgehandeld.
+84 In NRM8 is voor dit jaar 281 weergegeven, elf zaken bleken uiteindelijk toch in een later jaar te zijn afgehandeld.
+
+
+
+32
+
+Tabel B3.7 Afgehandelde zaken naar afhandeling (2006-2010) 85 86 87 88 89 90 91
+
+2006 2007 2008 2009 2010 Totaal
+
+N % N % N % N % N % N %
+
+Dagvaarding (Mede) voor mensenhandel 142 73% 136 77% 186 69% 119 66% 169 75% 752 72%
+
+Uitsluitend voor overige 
+delicten
+
+9 5% 8 5% 7 3% 10 6% 4 2% 38 4%
+
+Subtotaal 151 78% 144 82% 193 71% 129 71% 173 77% 790 76%
+
+Voeging 1 1% 1 1% 2 1% 2 1% 1 0% 7 1%
+
+Onvoorwaardelijk sepot 4185 21% 2786 15% 6687 24% 4888 27% 3889 17% 22090 21%
+
+Voorwaardelijk sepot - - - - 3 1% 1 1% - - 4 0%
+
+Transactie - - 1 1% 1 0% - - 1 0% 3 0%
+
+Overdracht binnen OM - - 2 1% 2 1% 1 1% 8 4% 13 1%
+
+Overdracht aan andere instantie91 1 1% 1 1% 3 1% - - 4 2% 9 1%
+
+Totaal 194 100% 176 100% 270 100% 181 100% 225 100% 1.046 100%
+
+ Bron: OM-data (peildatum: 1 september 2011)
+
+Aanvulling op §2: Berechting in eerste aanleg
+Tabellen B3.8 t/m B3.15 geven het volledige overzicht van de beschikbare gegevens uit OM-data over in eerste aanleg afgedane men-
+senhandelzaken in de periode 2006-2010. Voor de onderzoeksverantwoording wordt verwezen naar Bijlage 1 en voor de toelichting op 
+de in deze bijlage weergegeven tabellen en de hierop van toepassing zijnde statistiek wordt verwezen naar Bijlage 2.
+
+Tabel B3.8 Aantal in eerste aanleg afgedane zaken (2006-2010)9293
+
+Aantal afgedane zaken in eerste 
+aanleg (N)
+
+Indexcijfer (2000=1,0) Procentuele groei ten opzichte van 
+het voorgaande jaar
+
+2006 9892 1,0 -15%93
+
+2007 115 1,2 17%
+
+2008 152 1,6 32%
+
+2009 138 1,4 -9%
+
+2010 135 1,4 -2%
+
+Totaal 638 n.v.t. n.v.t.
+Bron: OM-data (peildatum: 1 september 2011)
+
+85 31 zaken betreffen technische sepots (76%), drie zaken beleidssepots (7%) en van zeven zaken is de sepotgrond onbekend (17%).
+86 23 zaken betreffen technische sepots (85%), drie zaken beleidssepots (11%) en van één zaak is de sepotgrond onbekend (4%).
+87 47 zaken betreffen technische sepots (71%), zestien zaken beleidssepots (24%) en van drie zaken is de sepotgrond onbekend (5%).
+88 33 zaken betreffen technische sepots (69%), twaalf zaken beleidssepots (25%) en van drie zaken is de sepotgrond onbekend (6%).
+89 30 zaken betreffen technische sepots (79%), drie zaken beleidssepots (8%) en van vijf zaken is de sepotgrond onbekend (13%).
+90 164 zaken betreffen technische sepots (75%), 37 zaken beleidssepots (17%) en van negentien zaken is de sepotgrond onbekend (9%).
+91 Bijvoorbeeld aan het buitenland.
+92 In NRM8 is voor dit jaar 101 weergegeven, drie zaken bleken uiteindelijk toch in een later jaar te zijn afgedaan.
+93 Het aantal in eerste aanleg afgedane zaken in 2005 is 115 (NRM8, p. 213).
+
+
+
+33
+
+Tabel B3.9 In eerste aanleg afgedane zaken naar afdoening (2006-2010)
+
+2006 2007 2008 2009 2010 Totaal
+
+N % N % N % N % N % N %
+
+Veroordeling (Mede) voor 
+mensenhandel
+
+69 70% 73 63% 78 51% 69 50% 80 59% 369 58%
+
+Uitsluitend 
+voor overige 
+delicten
+
+18 18% 24 21% 35 23% 41 30% 27 20% 145 23%
+
+Subtotaal 87 89% 97 84% 113 74% 110 80% 107 79% 514 81%
+
+Volledige vrijspraak 10 10% 14 12% 33 22% 20 14% 20 15% 97 15%
+
+Dagvaarding nietig - - - - - - 1 1% 4 3% 5 1%
+
+OM niet ontvankelijk - - - - - - 4 3% - - 4 1%
+
+Ter terechtzitting gevoegd - - 4 3% 6 4% 3 2% 4 3% 17 3%
+
+Onbekend 1 1% - - - - - - - - 1 0%
+
+Totaal 98 100% 115 100% 152 100% 138 100% 135 100% 638 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+Tabel B3.10 In eerste aanleg afgedane zaken en voorlopige hechtenis (2006-2010)
+
+Wel voorlopige hechtenis Geen voorlopige hechtenis Totaal
+
+N % N % N %
+
+2006 88 90% 10 10% 98 100%
+
+2007 106 92% 9 8% 115 100%
+
+2008 139 91% 13 9% 152 100%
+
+2009 119 86% 19 14% 138 100%
+
+2010 124 92% 11 8% 135 100%
+
+Totaal 576 90% 62 10% 638 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+Tabel B3.11 In eerste aanleg afgedane zaken waarin hoger beroep is ingesteld (2006-2010)
+
+Beroep aangetekend 2006 2007 2008 2009 2010 Totaal
+
+N % N % N % N % N % N %
+
+Geen 57 58% 74 64% 95 63% 64 46% 55 41% 345 54%
+
+Alleen door officier van 
+justitie
+
+7 7% 9 8% 7 5% 19 14% 25 19% 67 11%
+
+Alleen door verdachte 26 27% 24 21% 36 24% 30 22% 39 29% 155 24%
+
+Door beiden 8 8% 8 7% 14 9% 25 18% 16 12% 71 11%
+
+Totaal 98 100% 115 100% 152 100% 138 100% 135 100% 638 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+
+
+34
+
+Tabel B3.12 Veroordelingen in eerste aanleg en strafverzwarende omstandigheden (2006-2010)
+
+2006 2007 2008 2009 2010 Totaal
+
+N % N % N % N % N % N %
+
+Veroordeling ongekwalifi-
+ceerde mensenhandel
+
+19 28% 16 22% 27 35% 23 33% 32 40% 117 32%
+
+Veroordeling gekwalificeerde 
+mensenhandel
+
+50 72% 57 78% 51 65% 46 67% 48 60% 252 68%
+
+Totaal 69 100% 73 100% 78 100% 69 100% 80 100% 369 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+Tabel B3.13 Veroordelingen in eerste aanleg naar zwaarste feit waarvoor veroordeeld (2006-2010)94
+
+2006 2007 2008 2009 2010 Totaal
+
+N % N % N % N % N % N %
+
+Ongekwalificeerde mensenhan-
+del als zwaarste feit waarvoor 
+veroordeeld
+
+13 19% 11 15% 25 32% 21 30% 28 35% 98 27%
+
+Gekwalificeerde mensenhandel 
+als zwaarste feit waarvoor 
+veroordeeld
+
+45 65% 55 75% 44 56% 43 62% 45 56% 232 63%
+
+Subtotaal 58 84% 66 90% 69 88% 64 93% 73 91% 330 89%
+
+Mensenhandel is niet het 
+zwaarste feit waarvoor is 
+veroordeeld (of onbekend94)
+
+11 16% 7 10% 9 12% 5 7% 7 9% 39 11%
+
+Totaal 69 100% 73 100% 78 100% 69 100% 80 100% 369 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+94 In totaal is 514 keer sprake van een veroordeling al dan niet (mede) voor mensenhandel (zie Tabel B3.9), verder te noemen: algemene veroordelingen. Bij deze 514 algemene 
+veroordelingen is 330 keer sprake van mensenhandel als zwaarste feit waarvoor is veroordeeld en is zeventien keer niet bekend wat het zwaarste feit is waarvoor is veroor-
+deeld. De 330 gevallen waarin mensenhandel het zwaarste feit is waarvoor is veroordeeld is in de tabel afgezet tegen het totaal aan veroordelingen voor in ieder geval men-
+senhandel (N=369, zie Tabel B3.9), verder te noemen: mensenhandelveroordelingen. Het is mogelijk dat de zeventien algemene veroordelingen waarvan niet bekend is wat 
+het zwaarste feit is waarvoor is veroordeeld, mensenhandelveroordelingen betreffen. Indien dit het geval zou zijn is het mogelijk dat mensenhandel ook in deze gevallen het 
+zwaarste feit is waarvoor is veroordeeld. Dit is echter onbekend. Gemakshalve zijn deze zeventien zaken in de tabel opgenomen onder de categorie ‘mensenhandel is niet het 
+zwaarste feit waarvoor is veroordeeld’.
+
+
+
+35
+
+Tabel B3.14 Veroordelingen in eerste aanleg naar zwaarst opgelegde hoofdstraf (2006-2010)
+
+2006 2007 2008 2009 2010 Totaal
+
+N % N % N % N % N % N %
+
+Ongekwalificeerde 
+mensenhandel
+
+Vrijheidsstraf 18 95% 15 94% 27 100% 20 87% 29 91% 109 93%
+
+Taakstraf - - 1 6% - - 2 9% - - 3 3%
+
+Voorwaardelijke straf 1 5% - - - - - - 2 6% 3 3%
+
+Geen hoofdstraf - - - - - - 1 4% 1 3% 2 2%
+
+Subtotaal 19 100% 16 100% 27 100% 23 100% 32 100% 117 100%
+
+Gekwalificeerde 
+mensenhandel
+
+Vrijheidsstraf 44 88% 54 95% 46 90% 38 83% 45 94% 227 90%
+
+Taakstraf 5 10% 1 2% 3 6% 7 15% 1 2% 17 7%
+
+Geldboete - - - - - - - - 2 4% 2 1%
+
+Voorwaardelijke straf - - 2 4% 2 4% 1 2% - - 5 2%
+
+Geen hoofdstraf 1 2% - - - - - - - - 1 0%
+
+Subtotaal 50 100% 57 100% 51 100% 46 100% 48 100% 252 100%
+
+Totaal Vrijheidsstraf 62 90% 69 95% 73 94% 58 84% 74 93% 336 91%
+
+Taakstraf 5 7% 2 3% 3 4% 9 13% 1 1% 20 5%
+
+Geldboete - - - - - - - - 2 3% 2 1%
+
+Voorwaardelijke straf 1 1% 2 3% 2 3% 1 1% 2 3% 8 2%
+
+Geen hoofdstraf 1 1% - - - - 1 1% 1 1% 3 1%
+
+Totaal 69 100% 73 100% 78 100% 69 100% 80 100% 369 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+
+
+36
+
+Tabel B3.15 Opgelegde vrijheidsstraffen in eerste aanleg naar duurcategorie (2006-2010) 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112
+
+2006 2007 2008 2009 2010 Totaal
+
+N % N % N % N % N % N %
+
+Ongekwalificeerde 
+mensenhandel
+
+Tot 1 jaar 12 67% 7 47% 12 44% 12 60% 18 62% 61 56%
+
+1 tot 4 jaar 4 22% 8 53% 15 56% 7 35% 9 31% 43 39%
+
+Meer dan 4 jaar 2 11% - - - - 1 5% 2 7% 5 5%
+
+Subtotaal 1895 100% 1596 100% 2797 100% 2098 100% 2999 100% 109100 100%
+
+Gekwalificeerde 
+mensenhandel
+
+Tot 1 jaar 19 43% 16 30% 18 39% 18 47% 18 40% 89 39%
+
+1 tot 4 jaar 22 50% 35 65% 25 54% 16 42% 23 51% 121 53%
+
+Meer dan 4 jaar 3 7% 3 6% 3 7% 4 11% 4 9% 17 7%
+
+Subtotaal 44101 100% 54102 100% 46103 100% 38104 100% 45105 100% 227106 100%
+
+Totaal Tot 1 jaar 31 50% 23 33% 30 41% 30 52% 36 49% 150 45%
+
+1 tot 4 jaar 26 42% 43 62% 40 55% 23 40% 32 43% 164 49%
+
+Meer dan 4 jaar 5 8% 3 4% 3 4% 5 9% 6 8% 22 7%
+
+Totaal 62107 100% 69108 100% 73109 100% 58110 100% 74111 100% 336112 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+Aanvulling op §3: Kenmerken
+Tabellen B3.16 t/m B3.22 geven het volledige overzicht van de beschikbare gegevens uit OM-data over de kenmerken van de bij het OM 
+ingeschreven verdachten en de in eerste aanleg veroordeelde personen in de periode 2006-2010. Voor de onderzoeksverantwoording 
+wordt verwezen naar Bijlage 1 en voor de toelichting op de in deze bijlage weergegeven tabellen en de hierop van toepassing zijnde 
+statistiek wordt verwezen naar Bijlage 2.
+
+95 Gemiddelde duur is 583,9 dagen (Sd: 668,9).
+96 Gemiddelde duur is 591,8 dagen (Sd: 408,4).
+97 Gemiddelde duur is 561,0 dagen (Sd: 375,2).
+98 Gemiddelde duur is 643,0 dagen (Sd: 685,4).
+99 Gemiddelde duur is 534,3 dagen (Sd: 580,0).
+100 Gemiddelde duur is 577,0 dagen (Sd: 545,1). 
+101 Gemiddelde duur is 627,6 dagen (Sd: 499,5). 
+102 Gemiddelde duur is 641,6 dagen (Sd: 631,1). 
+103 Gemiddelde duur is 706,9 dagen (Sd: 566,1). 
+104 Gemiddelde duur is 710,1 dagen (Sd: 688,9). 
+105 Gemiddelde duur is 670,4 dagen (Sd: 551,0). 
+106 Gemiddelde duur is 669,3 dagen (Sd: 585,3). 
+107 Gemiddelde duur is 614,9 dagen (Sd: 548,6). 
+108 Gemiddelde duur is 630,8 dagen (Sd: 587,5). 
+109 Gemiddelde duur is 653,0 dagen (Sd: 506,1). 
+110 Gemiddelde duur is 687,0 dagen (Sd: 682,4). 
+111 Gemiddelde duur is 617,1 dagen (Sd: 562,5). 
+112 Gemiddelde duur is 639,4 dagen (Sd: 573,4). 
+
+
+
+37
+
+Tabel B3.16 Aantal in eerste aanleg veroordeelde personen (2006-2010) 113
+
+Aantal veroordeelden in eerste 
+aanleg (N)
+
+Indexcijfer (2006=1,0) Procentuele groei ten opzichte van 
+het voorgaande jaar
+
+2006 69 1,0 -16%113
+
+2007 73 1,1 6%
+
+2008 78 1,1 7%
+
+2009 69 1,0 -12%
+
+2010 80 1,2 16%
+
+Totaal 369 n.v.t. n.v.t.
+Bron: OM-data (peildatum: 1 september 2011)
+
+Tabel B3.17 Geslacht verdachten (2006-2010)
+
+Vrouwelijk Mannelijk Rechtspersoon Onbekend Totaal
+
+N % N % N % N % N %
+
+2006 32 16% 168 83% 1 0% 1 0% 202 100%
+
+2007 47 17% 232 83% - - 2 1% 281 100%
+
+2008 32 15% 176 82% 2 1% 4 2% 214 100%
+
+2009 25 18% 116 82% - - - - 141 100%
+
+2010 39 18% 176 82% - - - - 215 100%
+
+Totaal 175 17% 868 82% 3 0% 7 1% 1.053 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+Tabel B3.18 Geslacht veroordeelden (2006-2010)
+
+Vrouwelijk Mannelijk Onbekend Totaal
+
+N % N % N % N %
+
+2006 12 17% 57 83% - - 69 100%
+
+2007 12 16% 60 82% 1 1% 73 100%
+
+2008 8 10% 70 90% - - 78 100%
+
+2009 13 19% 55 80% 1 1% 69 100%
+
+2010 9 11% 71 89% - - 80 100%
+
+Totaal 54 15% 313 85% 2 1% 369 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+113 Het aantal in eerste aanleg veroordeelde personen in 2005 is 82 (NRM8, p. 225). 
+
+  
+
+
+
+38
+
+Tabel B3.19 Leeftijd verdachten (2006-2010) 114 115 116 117 118 119
+
+2006 2007 2008 2009 2010 Totaal
+
+N % N % N % N % N % N %
+
+< 18 jaar 12 6% 7 2% 12 6% 5 4% 2 1% 38 4%
+
+18-25 jaar 64 32% 110 39% 61 29% 49 35% 80 37% 364 35%
+
+26-30 jaar 27 13% 62 22% 38 18% 16 11% 47 22% 190 18%
+
+31-40 jaar 50 25% 54 19% 52 24% 39 28% 48 22% 243 23%
+
+41-50 jaar 32 16% 35 12% 32 15% 17 12% 31 14% 147 14%
+
+> 50 jaar 14 7% 13 5% 15 7% 14 10% 6 3% 62 6%
+
+Rechtspersoon 1 0% - - 2 1% - - - - 3 0%
+
+Onbekend 2 1% - - 2 1% 1 1% 1 0% 6 1%
+
+Totaal 202114 100% 281115 100% 214116 100% 141117 100% 215118 100% 1.053119 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+Tabel B3.20 Leeftijd veroordeelden (2006-2010) 120 121 122 123 124 125
+
+2006 2007 2008 2009 2010 Totaal
+
+N % N % N % N % N % N %
+
+< 18 jaar 4 6% 3 4% 5 6% 3 4% 2 3% 17 5%
+
+18-25 jaar 29 42% 28 38% 26 33% 20 29% 22 28% 125 34%
+
+26-30 jaar 10 14% 15 21% 23 29% 20 29% 8 10% 76 21%
+
+31-40 jaar 17 25% 16 22% 18 23% 17 25% 23 29% 91 25%
+
+41-50 jaar 5 7% 10 14% 4 5% 6 9% 19 24% 44 12%
+
+> 50 jaar 3 4% 1 1% 2 3% 3 4% 6 8% 15 4%
+
+Onbekend 1 1% - - - - - - - - 1 0%
+
+Totaal 69120 100% 73121 100% 78122 100% 69123 100% 80124 100% 369125 100%
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+114 Op basis van N=199 (202 - één rechtspersoon - twee onbekend) is de gemiddelde leeftijd 32,0 jaar (Sd: 11,4). 
+115 De gemiddelde leeftijd is 30,6 jaar (Sd: 13,4). 
+116 Op basis van N=210 (214 - twee rechtspersonen - twee onbekend) is de gemiddelde leeftijd 31,8 jaar (Sd: 11,3). 
+117 Op basis van N=140 (141 - één onbekend) is de gemiddelde leeftijd 31,8 jaar (Sd: 11,6). 
+118 Op basis van N=214 (215 - één onbekend) is de gemiddelde leeftijd 30,0 jaar (Sd: 9,4). 
+119 Op basis van N=1.044 (1.053 - drie rechtspersonen - zes onbekend) is de gemiddelde leeftijd 31,2 jaar (Sd: 11,6). Op basis van N=1.038 (1.044 - zes van wie het geslacht  
+
+onbekend is, maar de leeftijd wel bekend is) is de gemiddelde leeftijd van mannen 31,1 jaar (Sd: 11,3) en van vrouwen 31,4 jaar (Sd: 12,8). 
+120 Op basis van N=68 (69 - één onbekend) is de gemiddelde leeftijd 28,7 jaar (Sd: 9,8). 
+121 De gemiddelde leeftijd is 28,8 jaar (Sd: 8,9). 
+122 De gemiddelde leeftijd is 28,0 jaar (Sd: 8,2). 
+123 De gemiddelde leeftijd is 29,8 jaar (Sd: 9,4). 
+124 De gemiddelde leeftijd is 34,1 jaar (Sd: 11,8). 
+125 Op basis van N=368 (369 - één onbekend) is de gemiddelde leeftijd 29,9 jaar (Sd: 9,9). Op basis van N=366 (368 - twee van wie het geslacht onbekend is, maar de leeftijd wel     
+
+bekend is) is de gemiddelde leeftijd van mannen 30,0 jaar (Sd: 10,1) en van vrouwen 29,5 jaar (Sd: 9,2). 
+
+
+
+39
+
+Tabel B3.21 Geboorteland verdachten (2006-2010) 126 127 128 129 130 131 132
+
+2006 2007 2008 2009 2010 Totaal Top 10
+
+Geboorteland verdachten N % N % N % N % N % N % R
+
+Albanië - - 5 2% 4 2% 1 1% - - 10 1%
+
+Angola 1 0% - - - - - - - - 1 0%
+
+Australië 1 0% - - 1 0% - - - - 2 0%
+
+Bangladesh - - - - - - 2 1% - - 2 0%
+
+België 1 0% 1 0% 2 1% - - - - 4 0%
+
+Benin126 - - - - - - 1 1% - - 1 0%
+
+Brazilië 1 0% 1 0% 1 0% - - - - 3 0%
+
+Bulgarije 13 6% 23 8% 12 6% 8 6% 17 8% 73 7% 2
+
+China127 2 1% 1 0% 7 3% 2 1% 7 3% 19 2%
+
+Congo128 - - 1 0% 1 0% - - - - 2 0%
+
+Dominicaanse Rep. - - 2 1% - - - - - - 2 0%
+
+Duitsland129 - - 11 4% 7 3% 1 1% 4 2% 23 2% 10
+
+Egypte 1 0% 1 0% - - - - - - 2 0%
+
+Ethiopië - - - - 1 0% - - - - 1 0%
+
+Filippijnen - - - - 1 0% - - - - 1 0%
+
+Frankrijk - - 4 1% 1 0% - - - - 5 0%
+
+Ghana - - 2 1% - - 1 1% - - 3 0%
+
+Griekenland 1 0% - - - - - - - - 1 0%
+
+Guyana - - - - - - - - 1 0% 1 0%
+
+Honduras - - - - 1 0% - - - - 1 0%
+
+Hongarije 1 0% 2 1% 15 7% 10 7% 26 12% 54 5% 6
+
+India130 8 4% 1 0% 5 2% - - - - 14 1%
+
+Indonesië 1 0% - - - - 3 2% - - 4 0%
+
+Irak 2 1% - - 1 0% 4 3% 1 0% 8 1%
+
+Iran 2 1% 2 1% 3 1% - - 3 1% 10 1%
+
+Israël - - - - 1 0% - - - - 1 0%
+
+Italië - - - - 2 1% - - 1 0% 3 0%
+
+Ivoorkust - - 1 0% - - - - - - 1 0%
+
+Joegoslavië131 6 3% 1 0% 2 1% 6 4% 4 2% 19 2%
+
+Kameroen - - 1 0% - - - - - - 1 0%
+
+Letland - - - - - - 2 1% - - 2 0%
+
+Libanon - - 1 0% - - 1 1% - - 2 0%
+
+Litouwen 1 0% - - 2 1% - - - - 3 0%
+
+Maleisië132 1 0% - - - - - - - - 1 0%
+
+Marokko 13 6% 12 4% 13 6% 10 7% 13 6% 61 6% 5
+
+126 Voormalig Dahomey. 
+127 Waaronder Hongkong. 
+128 Waaronder voormalig Zaïre. 
+129 Waaronder voormalig BRD en voormalig DDR. 
+130 Waaronder voormalig Portugees Indië. 
+131 Het huidige Servië en Montenegro (twee landen). 
+132 Voormalig Brits Borneo. 
+
+
+
+40
+
+2006 2007 2008 2009 2010 Totaal Top 10
+
+Geboorteland verdachten N % N % N % N % N % N % R
+
+Mongolië - - - - 1 0% - - - - 1 0%
+
+Nederland 76 38% 95 34% 75 35% 53 38% 86 40% 385 37% 1
+
+Ned. Antillen133 4 2% 12 4% 5 2% 6 4% 5 2% 32 3% 8
+
+Niger 1 0% - - - - - - - - 1 0%
+
+Nigeria 2 1% 19 7% 4 2% 1 1% 3 1% 29 3% 9
+
+Pakistan 2 1% - - 1 0% - - - - 3 0%
+
+Polen 3 1% 7 2% 5 2% 4 3% - - 19 2%
+
+Portugal 1 0% 1 0% - - 1 1% - - 3 0%
+
+Roemenië 14 7% 15 5% 4 2% 9 6% 21 10% 63 6% 4
+
+Saudi-Arabië - - 1 0% - - - - - - 1 0%
+
+Sierra Leone 1 0% 5 2% 1 0% - - - - 7 1%
+
+Somalië - - 1 0% 1 0% 1 1% 3 1% 6 1%
+
+Sovjet-Unie134 7 3% 1 0% 4 2% 1 1% - - 13 1%
+
+Sri Lanka - - - - - - 1 1% - - 1 0%
+
+Sudan - - 1 0% - - - - - - 1 0%
+
+Suriname 11 5% 12 4% 9 4% 6 4% 5 2% 43 4% 7
+
+Thailand - - 3 1% 1 0% - - - - 4 0%
+
+Tsjecho-Slowakije135 3 1% 1 0% 2 1% - - 3 1% 9 1%
+
+Tunesië - - - - 1 0% - - - - 1 0%
+
+Turkije 18 9% 28 10% 10 5% 5 4% 11 5% 72 7% 3
+
+Venezuela 1 0% - - - - - - - - 1 0%
+
+Vietnam - - - - 2 1% - - - - 2 0%
+
+Zuid-Afrika - - 1 0% - - - - - - 1 0%
+
+Rechtspersoon 1 0% - - 2 1% - - - - 3 0%
+
+Onbekend 1 0% 5 2% 3 1% 1 1% 1 0% 11 1%
+
+Totaal 202 100% 281 100% 214 100% 141 100% 215 100% 1.053 100% n.v.t.
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+
+
+41
+
+Tabel B3.22 Geboorteland veroordeelden (2006-2010) 133 134 135136137138139140141142143
+
+2006 2007 2008 2009 2010 Totaal Top 10
+
+Geboorteland 
+veroordeelden
+
+N % N % N % N % N % N % R
+
+Albanië - - - - 1 1% - - 1 1% 2 1%
+
+Angola 1 1% - - - - - - - - 1 0%
+
+België - - - - 1 1% - - 1 1% 2 1%
+
+Benin136 - - - - - - - - 1 1% 1 0%
+
+Brazilië - - 1 1% - - - - - - 1 0%
+
+Bulgarije 3 4% 4 5% 7 9% 9 13% 4 5% 27 7% 2’
+
+China137 - - - - - - - - 1 1% 1 0%
+
+Congo138 - - - - 1 1% - - - - 1 0%
+
+Duitsland139 - - - - - - 1 1% 2 3% 3 1%
+
+Ethiopië - - - - - - 1 1% - - 1 0%
+
+Frankrijk - - - - - - 1 1% - - 1 0%
+
+Ghana 1 1% - - - - - - 1 1% 2 1%
+
+Griekenland 1 1% - - - - - - - - 1 0%
+
+Hongarije 4 6% 1 1% 5 6% 5 7% 6 8% 21 6% 6
+
+India - - 2 3% - - - - 4 5% 6 2%
+
+Indonesië - - - - - - - - 2 3% 2 1%
+
+Irak 1 1% - - - - 1 1% 3 4% 5 1%
+
+Iran - - 2 3% 1 1% 1 1% 1 1% 5 1%
+
+Ivoorkust - - 1 1% - - - - - - 1 0%
+
+Joegoslavië140 1 1% 2 3% - - 2 3% 3 4% 8 2%
+
+Kaapverdië 1 1% - - - - - - - - 1 0%
+
+Kameroen - - - - - - 1 1% - - 1 0%
+
+Koeweit 1 1% - - - - - - - - 1 0%
+
+Letland - - - - - - 1 1% - - 1 0%
+
+Litouwen - - 1 1% - - - - - - 1 0%
+
+Marokko 13 19% 2 3% 5 6% 4 6% 3 4% 27 7% 2’
+
+Nederland 21 30% 24 33% 35 45% 22 32% 22 28% 124 34% 1
+
+Ned. Antillen141 - - 4 5% 6 8% 3 4% 4 5% 17 5% 8
+
+Nigeria - - - - - - 1 1% - - 1 0%
+
+Pakistan - - 1 1% - - - - - - 1 0%
+
+Polen 1 1% 2 3% - - 1 1% 5 6% 9 2% 10
+
+133 Het huidige Aruba, CuraÇao en Sint Maarten en de speciale gemeenten van Nederland: Saba, Sint Eustatius en Bonaire (Caribisch Nederland). 
+134 Het huidige Rusland en veertien andere onafhankelijke staten. 
+135 Het huidige Tsjechië en Slowakije. 
+136 Voormalig Dahomey. 
+137 Hongkong. 
+138 Voormalig Zaïre. 
+139 Waaronder voormalig BRD 
+140 Het huidige Servië en Montenegro (twee landen). 
+141 Het huidige Aruba, CuraÇao en Sint Maarten en de speciale gemeenten van Nederland: Saba, Sint Eustatius en Bonaire (Caribisch Nederland). 
+142 Het huidige Rusland en veertien andere onafhankelijke staten. 
+143 Het huidige Tsjechië en Slowakije. 
+
+
+
+42
+
+2006 2007 2008 2009 2010 Totaal Top 10
+
+Geboorteland 
+veroordeelden
+
+N % N % N % N % N % N % R
+
+Portugal - - - - - - - - 1 1% 1 0%
+
+Roemenië 3 4% 13 18% 3 4% 3 4% 3 4% 25 7% 4
+
+Sierra Leone 1 1% - - - - 1 1% - - 2 1%
+
+Somalië - - - - - - - - 1 1% 1 0%
+
+Sovjet-Unie142 - - 1 1% 3 4% 1 1% - - 5 1%
+
+Suriname 1 1% 4 5% 4 5% 6 9% 4 5% 19 5% 7
+
+Thailand 1 1% - - - - - - 2 3% 3 1%
+
+Tsjecho-Slowakije143 6 9% 3 4% - - 2 3% - - 11 3% 9
+
+Turkije 6 9% 5 7% 6 8% 2 3% 4 5% 23 6% 5
+
+Ver. Koninkrijk 1 1% - - - - - - - - 1 0%
+
+Onbekend 1 1% - - - - - - 1 1% 2 1%
+
+Totaal 69 100% 73 100% 78 100% 69 100% 80 100% 369 100% n.v.t.
+
+Bron: OM-data (peildatum: 1 september 2011)
+
+
+
+43
+
+I. Artikel 273f Sr. (geldend tot 1 juli 2009)
+1. Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste zes jaren 
+
+of geldboete van de vijfde categorie gestraft:
+ 1º.  degene die een ander door dwang, geweld of een andere feitelijkheid of door 
+
+dreiging met geweld of een andere feitelijkheid, door afpersing, fraude, misleiding 
+dan wel door misbruik van uit feitelijke omstandigheden voortvloeiend overwicht, 
+door misbruik van een kwetsbare positie of door het geven of ontvangen van betalin-
+gen of voordelen om de instemming van een persoon te verkrijgen die zeggenschap 
+over die ander heeft, werft, vervoert, overbrengt, huisvest of opneemt, met het oog-
+merk van uitbuiting van die ander of de verwijdering van diens organen;
+
+ 2º.  degene die een ander werft, vervoert, overbrengt, huisvest of opneemt, met het 
+oogmerk van uitbuiting van die ander of de verwijdering van diens organen, terwijl 
+die ander de leeftijd van achttien jaren nog niet heeft bereikt;
+
+ 3º.  degene die een ander aanwerft, medeneemt of ontvoert met het oogmerk die 
+ander in een ander land ertoe te brengen zich beschikbaar te stellen tot het verrichten 
+van seksuele handelingen met of voor een derde tegen betaling;
+
+ 4º.  degene die een ander met een van de onder 1º genoemde middelen dwingt of 
+beweegt zich beschikbaar te stellen tot het verrichten van arbeid of diensten of zijn 
+organen beschikbaar te stellen dan wel onder de onder 1º genoemde omstandigheden 
+enige handeling onderneemt waarvan hij weet of redelijkerwijs moet vermoeden dat 
+die ander zich daardoor beschikbaar stelt tot het verrichten van arbeid of diensten of 
+zijn organen beschikbaar stelt;
+
+ 5º.  degene die een ander ertoe brengt zich beschikbaar te stellen tot het verrichten 
+van seksuele handelingen met of voor een derde tegen betaling of zijn organen tegen 
+betaling beschikbaar te stellen dan wel ten aanzien van een ander enige handeling 
+onderneemt waarvan hij weet of redelijkerwijs moet vermoeden dat die ander zich 
+daardoor beschikbaar stelt tot het verrichten van die handelingen of zijn organen 
+tegen betaling beschikbaar stelt, terwijl die ander de leeftijd van achttien jaren nog 
+niet heeft bereikt;
+
+ 6º.  degene die opzettelijk voordeel trekt uit de uitbuiting van een ander;
+ 7º.  degene die opzettelijk voordeel trekt uit de verwijdering van organen van een 
+
+ander, terwijl hij weet of redelijkerwijs moet vermoeden dat diens organen onder de 
+onder 1º bedoelde omstandigheden zijn verwijderd;
+
+ 8º.  degene die opzettelijk voordeel trekt uit seksuele handelingen van een ander met 
+of voor een derde tegen betaling of de verwijdering van diens organen tegen betaling, 
+terwijl die ander de leeftijd van achttien jaren nog niet heeft bereikt;
+
+ 9º.  degene die een ander met een van de onder 1º genoemde middelen dwingt dan 
+wel beweegt hem te bevoordelen uit de opbrengst van diens seksuele handelingen 
+met of voor een derde of van de verwijdering van diens organen.
+
+2. Uitbuiting omvat ten minste uitbuiting van een ander in de prostitutie, andere vor-
+men van seksuele uitbuiting, gedwongen of verplichte arbeid of diensten, slavernij en 
+met slavernij of dienstbaarheid te vergelijken praktijken.
+
+3. De schuldige wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geld-
+boete van de vijfde categorie, indien:
+1º. de feiten, omschreven in het eerste lid, worden gepleegd door twee of meer ve-
+renigde personen;
+
+ 2º. de persoon ten aanzien van wie de in het eerste lid omschreven feiten worden 
+gepleegd, de leeftijd van zestien jaren nog niet heeft bereikt.
+
+Bijlage 4
+Artikel 273f Wetboek van Strafrecht
+
+
+
+44
+
+4. De feiten, omschreven in het eerste lid, gepleegd door twee of meer verenigde perso-
+nen onder de omstandigheid, bedoeld in het derde lid, onder 2º, worden gestraft met 
+gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+
+5. Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten 
+gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevange-
+nisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie opgelegd.
+
+6. Indien een van de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt 
+gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie 
+opgelegd.
+
+7. Artikel 251 is van overeenkomstige toepassing.
+
+II. Artikel 273f Sr. (geldend vanaf 1 juli 2009)
+1.  Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste acht jaren 
+
+of geldboete van de vijfde categorie gestraft:
+ 1º.  degene die een ander door dwang, geweld of een andere feitelijkheid of door 
+
+dreiging met geweld of een andere feitelijkheid, door afpersing, fraude, misleiding 
+dan wel door misbruik van uit feitelijke omstandigheden voortvloeiend overwicht, 
+door misbruik van een kwetsbare positie of door het geven of ontvangen van betalin-
+gen of voordelen om de instemming van een persoon te verkrijgen die zeggenschap 
+over die ander heeft, werft, vervoert, overbrengt, huisvest of opneemt, met het oog-
+merk van uitbuiting van die ander of de verwijdering van diens organen;
+
+ 2º.  degene die een ander werft, vervoert, overbrengt, huisvest of opneemt, met het 
+oogmerk van uitbuiting van die ander of de verwijdering van diens organen, terwijl 
+die ander de leeftijd van achttien jaren nog niet heeft bereikt;
+
+ 3º.  degene die een ander aanwerft, medeneemt of ontvoert met het oogmerk die 
+ander in een ander land ertoe te brengen zich beschikbaar te stellen tot het verrichten 
+van seksuele handelingen met of voor een derde tegen betaling;
+
+ 4º.  degene die een ander met een van de onder 1º genoemde middelen dwingt of 
+beweegt zich beschikbaar te stellen tot het verrichten van arbeid of diensten of zijn 
+organen beschikbaar te stellen dan wel onder de onder 1º genoemde omstandigheden 
+enige handeling onderneemt waarvan hij weet of redelijkerwijs moet vermoeden dat 
+die ander zich daardoor beschikbaar stelt tot het verrichten van arbeid of diensten of 
+zijn organen beschikbaar stelt;
+
+ 5º.  degene die een ander ertoe brengt zich beschikbaar te stellen tot het verrichten 
+van seksuele handelingen met of voor een derde tegen betaling of zijn organen tegen 
+betaling beschikbaar te stellen dan wel ten aanzien van een ander enige handeling 
+onderneemt waarvan hij weet of redelijkerwijs moet vermoeden dat die ander zich 
+daardoor beschikbaar stelt tot het verrichten van die handelingen of zijn organen 
+tegen betaling beschikbaar stelt, terwijl die ander de leeftijd van achttien jaren nog 
+niet heeft bereikt;
+
+ 6º.  degene die opzettelijk voordeel trekt uit de uitbuiting van een ander;
+ 7º.  degene die opzettelijk voordeel trekt uit de verwijdering van organen van een 
+
+ander, terwijl hij weet of redelijkerwijs moet vermoeden dat diens organen onder de 
+onder 1º bedoelde omstandigheden zijn verwijderd;
+
+ 8º.  degene die opzettelijk voordeel trekt uit seksuele handelingen van een ander met 
+of voor een derde tegen betaling of de verwijdering van diens organen tegen betaling, 
+terwijl die ander de leeftijd van achttien jaren nog niet heeft bereikt;
+
+ 9º.  degene die een ander met een van de onder 1º genoemde middelen dwingt dan 
+wel beweegt hem te bevoordelen uit de opbrengst van diens seksuele handelingen 
+met of voor een derde of van de verwijdering van diens organen.
+
+2. Uitbuiting omvat ten minste uitbuiting van een ander in de prostitutie, andere vor-
+men van seksuele uitbuiting, gedwongen of verplichte arbeid of diensten, slavernij en 
+
+
+
+45
+
+met slavernij of dienstbaarheid te vergelijken praktijken.
+3. De schuldige wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geld-
+
+boete van vijfde categorie, indien:
+ 1º.  de feiten, omschreven in het eerste lid, worden gepleegd door twee of meer ve-
+
+renigde personen;
+ 2º.  de persoon ten aanzien van wie de in het eerste lid omschreven feiten worden 
+
+gepleegd, de leeftijd van zestien jaren nog niet heeft bereikt.
+4. Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten 
+
+gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevange-
+nisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.
+
+5. Indien een van de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt 
+gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie 
+opgelegd.
+
+6. Artikel 251 is van overeenkomstige toepassing.
+
+
+
+Dit is een uitgave van:
+Ministerie van Veiligheid en Justitie
+Postbus 20301 | 2500 eh Den Haag
+www.rijksoverheid.nl/venj
+
+Maand 2010 | Publicatienr: j-0000
+
+Dit is een uitgave van:
+Bureau Nationaal Rapporteur Mensenhandel
+Postbus 20301 | 2500 eh Den Haag
+
+T 070 370 4514
+www.bnrm.nl
+
+Januari 2012 | Publicatienr: j-11597
+
+

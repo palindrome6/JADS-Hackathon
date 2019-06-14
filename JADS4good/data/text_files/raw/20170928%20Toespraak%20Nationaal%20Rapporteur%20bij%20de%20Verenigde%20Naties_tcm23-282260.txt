@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+   Pagina 1 van 5 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Speech by Corinne Dettmeijer, 
+
+Dutch National Rapporteur on Trafficking in Human Beings 
+
+and Sexual Violence against Children 
+
+On the occasion of the presentation of the report ‘Monitoring Target 
+
+16.2 of the United Nations Sustainable Development Goals’ 
+
+28 September 2017, New York. 
+
+ 
+
+The added value of knowing how many trafficking victims exist in one’s 
+
+country and how it contributes enormously to evidence based policies 
+
+Let me start by expressing my gratitude to UNODC. Our collaboration in this 
+
+important research project has been enlightening. And of course I’d like to 
+
+thank all of you for joining this meeting that was made possible by the 
+
+UNODC 
+
+As Kristiina Kangaspunta pointed out, it is crucial for countries to report on 
+
+indicator 16.2.2 of the Sustainable Development Goals (SDG’s) (‘Number of 
+
+victims of human trafficking per 100,000 population, by sex, age and form of 
+
+exploitation’). This indicator contributes greatly to the fight against human 
+
+trafficking on both a national and international level. My aim is to show you 
+
+the ways in which knowing the number of trafficking victims in one’s 
+
+country enables the development of evidence-based policies.  
+
+But let me start by briefly explaining why we used the ‘multiple systems 
+
+estimation (MSE)’-method for estimating the true number of trafficking 
+
+victims in the Netherlands. Firstly, as you all know, human trafficking – just 
+
+like most other crimes – contends with a ‘dark figure’: an unknown number 
+
+of undetected victims. Secondly, numbers on detected victims tend to reflect 
+
+the effort put into uncovering human trafficking, rather than the true volume 
+
+of trafficking. Comparisons of the number of detected victims, across time or 
+
+between countries for example, might therefore easily lead to fundamentally 
+
+flawed conclusions. The most common method to gain insight into the hidden 
+
+part of crime is through conducting victim surveys among the population. 
+
+However, unlike most other types of crime (like burglary or street mugging), 
+
+ 
+
+
+
+ 
+ 
+ 
+
+   Pagina 2 van 5 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+human trafficking tends to be statistically rare, and also more deeply ‘hidden’ 
+
+in the population at large (concentrated in more hard to reach subpopulations, 
+
+like undocumented migrants). This is true for most countries with a relatively 
+
+high standard of living, like the Netherlands. Moreover, asking people about 
+
+their personal experiences with exploitation – especially sexual exploitation – 
+
+is very challenging, if not impossible, due to feelings of fear or shame among 
+
+respondents. As a result, victim surveys on human trafficking are not 
+
+available in countries like the Netherlands. And this is where the MSE-
+
+method comes in. 
+
+The basis of the MSE-method is the existence of multiple registrations of 
+
+detected trafficking victims, between whom the overlap can be determined. 
+
+MSE allows an estimation of the number of victims not appearing in any of 
+
+the registrations, given the distribution of the detected victims over the 
+
+different registrations. The basic idea is as follows:  
+
+• When most victims are detected – or in other words, when the ‘dark 
+
+figure’ is relatively small – quite a few victims will be detected by 
+
+more than one identifying organization (for example by the police as 
+
+well as by a service providing organization). This means that the 
+
+overlap between registrations will be considerable. 
+
+• When victims are poorly detected – or in other words, when the ‘dark 
+
+figure’ is relatively large – the incidentally detected victims will 
+
+usually be detected by only one identifying organization. This means 
+
+that the overlap between registrations will be very small. 
+
+It is important to note here that in case a country practically does not detect 
+
+any victims, an MSE cannot be carried out. Similarly, an MSE cannot be 
+
+carried out in a country where  victims are detected but  are not registered by 
+
+different identifying organizations; or, if they are registered, but the different 
+
+registrations are not compatible (the registrations lack identifying information 
+
+that can determine the overlap).  
+
+
+
+ 
+ 
+ 
+
+   Pagina 3 van 5 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+You might know of previous endeavors to estimate human trafficking by the 
+
+predecessor of the MSE: the ‘capture-recapture’-method or previous 
+
+iterations of MSE itself. I shall briefly explain how these attempts have 
+
+contributed to the development of the present MSE, but also why the present 
+
+MSE is, in my opinion, the first really indicative iteration.   
+
+1) As opposed to the ‘capture-recapture’-method, the MSE-method is 
+
+based on three or more registrations instead of only two. This 
+
+means that, despite the increased complexity of calculations after 
+
+more registrations, some of the severe conditions that are hard to 
+
+fulfill in the case of human trafficking, are relaxed.   
+
+2) In comparison to previous iterations, the present MSE is based on 
+
+a much bigger dataset (almost 7,000) that includes data on 
+
+detected victims in six consecutive years (2010-2015). This results 
+
+in a much stronger basis, and therefore a much more robust 
+
+estimation.  
+
+3) As opposed to previous iterations, the present MSE includes four 
+
+covariates with different inclusion probabilities: gender 
+
+(female/male), age (minor/adult), nationality (Dutch/foreign) and 
+
+form of exploitation (sexual/other). ‘Different inclusion 
+
+probabilities’ means that certain groups of victims have other 
+
+chances of being detected than other groups of victims. If this is 
+
+the case, for example: when victims of sexual exploitation are 
+
+more likely to be detected than victims of other forms of 
+
+exploitation, separate estimations should be made for each of 
+
+these different groups of victims.  
+
+Additionally, the different estimations of the different subpopulations of 
+
+trafficking victims, based on the four covariates, serve important policy 
+
+purposes. The following results will clearly illustrate that.  
+
+The present MSE was carried out on the basis of almost 7,000 detected 
+
+victims in the Netherlands, who were included in five different registrations 
+
+
+
+ 
+ 
+ 
+
+   Pagina 4 van 5 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+(police, Inspectorate SZW, regional coordinators, residential treatment 
+
+centers and shelters and others), in a period of six consecutive years (2010-
+
+2015), and included four relevant covariates (gender, age, nationality and 
+
+form of exploitation). This resulted in a total estimation of between 5,000 to 
+
+7,500 trafficking victims per year. The average estimate in the most recent 
+
+years of 2014 and 2015 included in the MSE-model, came out to 6,250 
+
+victims per year. This equals about 37 victims per 100,000 population. Dutch 
+
+girls between 12 and 17 years old and foreign residents run the highest risk of 
+
+being victimized: there are as many as 257 victims for every 100,000 Dutch 
+
+girls, and 311 victims for every 100,000 foreigners. 
+
+On average about one in five victims in the Netherlands is detected by one or 
+
+more identifying organization. But this ‘detection-rate’ differs between 
+
+different groups of victims.  
+
+• The largest group of victims are victims of domestic sex trafficking. 
+
+They make up about half of the total number of victims and turn out 
+
+to be more hidden than other groups: only 15% of domestic sex 
+
+trafficking victims are detected. In addition, half of all domestic sex 
+
+trafficking victims are minors, and these minors are even more hidden 
+
+than their adult counterparts: only 11% of underage domestic sex 
+
+trafficking victims get detected (compared to 19% of the adult 
+
+domestic sex trafficking victims).  
+
+• Cross-border sex trafficking victims make up about one fifth of the 
+
+total. This group of victims are most easily detected: about one third 
+
+of all such victims are. Nonetheless, the majority of these victims 
+
+remain undetected.   
+
+• Cross-border trafficking victims of other (non-sexual) forms of 
+
+exploitation also make up about one fifth of the total. In comparison 
+
+to their sex-trafficking counterparts they are poorly detected: only one 
+
+in five such victims are (in comparison to one in three cross-border 
+
+sex trafficking victims). Half of the trafficking victims of this group 
+
+
+
+ 
+ 
+ 
+
+   Pagina 5 van 5 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+are males; the females tend to remain less visible (17% of the female 
+
+victims of cross-border trafficking for non-sexual exploitation gets 
+
+detected compared to 26% of the male victims of cross-border 
+
+trafficking for non-sexual exploitation). 
+
+It is exactly this information that we urgently need in order to tackle human 
+
+trafficking more effectively. On the basis of this estimation I can show the 
+
+Dutch government that much more effort needs to be put into the detection  
+
+of domestic sex trafficking victims, especially minors (by the police and 
+
+youth care providers). Similar improvements need to be made in order to 
+
+detect cross-border trafficking for non-sexual exploitation (in particular into 
+
+sectors in which females are exploited). I will publish these recommendations 
+
+on October 18th: the EU’s Anti-Trafficking Day.  
+
+I am proud of this joint research project between the UNODC and myself/my 
+
+bureau and I am convinced that other countries will similarly benefit greatly 
+
+from gaining insight into their blank and blind spots. Moreover, when similar 
+
+indicative estimations in other countries become available, international 
+
+comparisons on the different types of trafficking will be made possible. It is 
+
+therefore my hope that this pilot study in the Netherlands will spur other 
+
+countries to initiate similar studies that require the involvement of statistical 
+
+experts on MSE. However, I can not stress enough that truly indicative 
+
+estimations cannot be made by statistical experts alone. Close cooperation 
+
+between statistical experts and national experts on human trafficking and data 
+
+collection is essential to this end.  
+
+ 
+
+ 
+
+

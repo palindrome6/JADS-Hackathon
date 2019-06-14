@@ -1,0 +1,3264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No. 12-8561 
+================================================================ 
+
+In The 
+Supreme Court of the United States 
+
+---------------------------------  --------------------------------- 
+
+DOYLE RANDALL PAROLINE, 
+
+Petitioner,        
+vs. 
+
+AMY UNKNOWN and UNITED STATES, 
+
+Respondents.        
+
+---------------------------------  --------------------------------- 
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+
+For The Fifth Circuit 
+
+---------------------------------  --------------------------------- 
+
+BRIEF AMICUS CURIAE OF THE DUTCH 
+NATIONAL RAPPORTEUR ON TRAFFICKING 
+IN HUMAN BEINGS AND SEXUAL VIOLENCE 
+
+AGAINST CHILDREN IN SUPPORT 
+OF RESPONDENT AMY UNKNOWN 
+
+---------------------------------  --------------------------------- 
+
+W. WARREN H. BINFORD 
+ Counsel of Record 
+PAUL J. DE MUNIZ 
+WILLAMETTE UNIVERSITY 
+ COLLEGE OF LAW 
+CHILD AND FAMILY 
+ ADVOCACY CLINIC 
+245 Winter Street Southeast 
+Salem, Oregon 97301 
+503-370-6758 
+wbinford@willamette.edu  
+
+Counsel for Amicus Curiae 
+
+Dated: November 20, 2013 
+
+================================================================ 
+COCKLE LEGAL BRIEFS (800) 225-6964 
+
+WWW.COCKLELEGALBRIEFS.COM 
+
+
+
+i 
+
+ 
+TABLE OF CONTENTS 
+
+Page 
+
+INTEREST OF THE AMICUS CURIAE ...............  1 
+
+SUMMARY OF THE ARGUMENT ........................  4 
+
+ARGUMENT ...........................................................  6 
+
+ I.   INTERNATIONAL LAW COMPELS NA-
+TIONS TO SUPPORT THE RESTORATION 
+OF CHILD PORNOGRAPHY VICTIMS ....  6 
+
+A.   The United States’ Treaty Obligations 
+Compel Reading the Mandatory Resti-
+tution Statute without a Proximate 
+Cause Requirement ................................  6 
+
+B.   Evolving International Legal Norms 
+Support Restoration of Child Pornog-
+raphy Victims ........................................  12 
+
+ II.   MODERN TECHNOLOGIES ADD CHAL-
+LENGING COMPLEXITIES TO THE AN-
+CIENT CRIME OF CHILD SEXUAL 
+ABUSE .........................................................  22 
+
+A.   The Child Pornography Market in the 
+Digital Age Compels a Comprehensive 
+Legal Response by the United States ....  22 
+
+B.   Child Pornographers Collectively Con-
+tinue the Victimization of Children 
+Globally and Indefinitely ......................  26 
+
+ 
+
+
+
+ii 
+
+ 
+TABLE OF CONTENTS – Continued 
+
+Page 
+
+C.   Due to the International Nature of Child 
+Pornography in the Twenty-First Cen-
+tury, Imposing a Proximate Cause Re-
+quirement on the Plain Text of 18 U.S.C. 
+§2259 Would Impede the Full Restora-
+tion of Child Pornography Victims .......  31 
+
+D.   Dutch Lawmakers Are Also Formulat-
+ing Legal Solutions to Ensure Compen-
+sation to Child Pornography Victims ....  33 
+
+CONCLUSION .......................................................  37 
+
+ 
+APPENDIX 
+
+Relevant Excerpts from International Treaties 
+Ratified by the United States ............................... A-1 
+
+Relevant Excerpts from International Treaties 
+Signed (but Not Ratified) by the United 
+States ..................................................................... A-7 
+
+Relevant Excerpts from Other International 
+Instruments ......................................................... A-11 
+
+Relevant Excerpts from Foreign Laws .................. A-22 
+
+ 
+
+
+
+iii 
+
+ 
+TABLE OF AUTHORITIES 
+
+Page 
+
+CASES 
+
+Medellin v. Texas, 552 U.S. 491 (2008) ...................... 11 
+
+New York v. Ferber, 458 U.S. 747 (1982) ................... 24 
+
+Osborne v. Ohio, 495 U.S. 103 (1990) ............ 24, 34, 35 
+
+Roper v. Simmons, 543 U.S. 551 (2005) ..................... 15 
+
+Thompson v. Oklahoma, 487 U.S. 815 (1988) ........... 12 
+
+Whitney v. Robertson, 124 U.S. 190 (1888) ........... 11, 12 
+
+ 
+STATUTES 
+
+18 U.S.C. §§2251-2260 (2012) .................................... 24 
+
+18 U.S.C. §2252 (2012) ............................................. 4, 8 
+
+18 U.S.C. §2259 (2012) ....................................... passim 
+
+18 U.S.C. §2423 (2012) ............................................... 25 
+
+Protection of Children Against Sexual Exploi-
+tation Act of 1977, Pub. L. No. 95-225, 92 
+Stat. 7 (1978) ........................................................... 24 
+
+Violence Against Women Act, Pub. L. No. 103-
+322, 108 Stat. 1796 (1994) ...................................... 17 
+
+ 
+FOREIGN LAW 
+
+Hof Amsterdam 26 april 2013, ECLI:NL:GHAMS: 
+2013:BZ8895 (Neth./Richard van O.) (Neth.) ........... 36 
+
+Hof’s-Gravenhage 2 juni 2011, ECLI:NL:GHSGR: 
+2011:BR5919 (Neth.) ................................................ 35 
+
+ 
+
+
+
+iv 
+
+ 
+TABLE OF AUTHORITIES – Continued 
+
+Page 
+
+Rb. Zeeland-West Brabant 11 juli 2013, ECLI: 
+NL:RBZWB:2013:5231 (Neth.) ............................... 35 
+
+Rb. Zutphen 18 november 2009, NJFS 2010, 42, 
+ECLI:NL:RBZUT:2009:BK3742 (Neth.) ................. 35 
+
+Wetboek van Strafrecht [Sr] [Criminal Code] 
+
+ art. 240b (Neth.) ...................................................... 33 
+
+ art. 36f (Neth.) .................................................. 33, 34 
+
+ 
+TREATIES AND OTHER INTERNATIONAL INSTRUMENTS 
+
+Convention for the Protection of Human Rights 
+and Fundamental Freedoms, opened for sig-
+nature Nov. 4, 1950, C.E.T.S. No. 005 .................... 36 
+
+Convention on Cybercrime, opened for signature 
+Nov. 23, 2001, T.I.A.S. No. 13,174, C.E.T.S. 
+No. 185 ........................................................... 7, 18, 19 
+
+Convention on the Rights of the Child, opened for 
+signature Nov. 20, 1989, 1577 U.N.T.S. 3 ....... 15, 16, 20 
+
+Council of Europe Convention on the Protec-
+tion of Children against Sexual Exploitation 
+and Sexual Abuse, opened for signature Oct. 
+25, 2007, C.E.T.S. No. 201 (Lanzarote Con-
+vention) .......................................................... 1, 19, 20 
+
+Declaration on the Elimination of Violence 
+against Women, G.A. Res. 48/104, U.N. Doc. 
+A/RES/48/104 (Dec. 20, 1993) ................................. 16 
+
+
+
+v 
+
+ 
+TABLE OF AUTHORITIES – Continued 
+
+Page 
+
+Declaration of the Rights of the Child, G.A. 
+Res. 1386 (XIV), GAOR 14th Sess., Supp. No. 
+16, U.N. Doc. A/4249 (Nov. 20, 1959) ................ 13, 14 
+
+Directive 2011/36/EU, of the European Parlia-
+ment and of the Council of 5 April 2011 on 
+Preventing and Combating Trafficking in 
+Human Beings and Protecting Its Victims, 
+and Replacing Council Framework Decision 
+2002/629/JHA, 2011 O.J. (L 101) 1 ........................... 1 
+
+Directive 2011/92/EU, of the European Parlia-
+ment and of the Council of 13 December 2011 
+on Combating the Sexual Abuse and Sexual 
+Exploitation of Children and Child Pornog-
+raphy, and Replacing Council Framework De-
+cision 2004/68/JHA, 2011 O.J. (L 335) 1 ..... 2, 19, 20, 21 
+
+Directive 2012/29/EU, of the European Parlia-
+ment and of the Council of 25 October 2012 
+Establishing Minimum Standards on the 
+Rights, Support and Protections of Victims of 
+Crime, and Replacing Council Framework 
+Decision 2001/220/JHA, 2012 O.J. (L315) 57 .... 20, 21 
+
+Framework Decision 2001/220/JHA, of 15 
+March 2001 on the Standing of Victims in 
+Criminal Proceedings 2001 O.J. (L082) 1 .............. 20 
+
+Framework Decision 2004/68/JHA, 2003 O.J. 
+(L13) 44 .................................................................... 19 
+
+Geneva Declaration of the Rights of the Child, 
+Sept. 26, 1924, League of Nations, O.J. Spec. 
+Supp. 21 (1924) ....................................................... 13 
+
+  
+
+
+
+vi 
+
+ 
+TABLE OF AUTHORITIES – Continued 
+
+Page 
+
+International Covenant on Civil and Political 
+Rights, opened for signature Dec. 16, 1966, 
+999 U.N.T.S. 171 ..................................................... 16 
+
+International Labour Organization Convention 
+No. 182 on the Prohibition and Immediate 
+Action for the Elimination of the Worst 
+Forms of Child Labour, opened for signature 
+June 17, 1999, 2133 U.N.T.S. 161 ...................... 7, 17 
+
+Optional Protocol to the Convention on the 
+Rights of the Child on the Sale of Children, 
+Child Prostitution and Child Pornography, 
+opened for signature May 25, 2000, T.I.A.S. 
+No. 13,095, 2171 U.N.T.S. 227 ........................ passim 
+
+Universal Declaration of Human Rights, G.A. 
+Res. 217 (III) A, U.N. Doc. A/RES/217 (III) 
+(Dec. 10, 1948) ......................................................... 13 
+
+Vienna Convention on the Law of Treaties art. 
+18, opened for signature May 23, 1969, 1155 
+U.N.T.S. 331 ............................................................ 16 
+
+ 
+OTHER AUTHORITIES 
+
+Yaman Akdeniz, Internet Child Pornography 
+and the Law: National and International Re-
+sponses (2008) .......................................................... 14 
+
+Cynthia Price Cohen, Role of the United States 
+in Drafting the Convention on the Rights of 
+the Child: Creating A New World For Chil-
+dren, 4 Loy. Poverty L.J. 9 (1998) ............................. 7 
+
+
+
+vii 
+
+ 
+TABLE OF AUTHORITIES – Continued 
+
+Page 
+
+Convention on the Rights of the Child Ratifica-
+tion Status, United Nations Treaty Collection 
+Database .................................................................. 15 
+
+Council of Europe, Explanatory Report: Council 
+of Europe Convention on the Protection of 
+Children against Sexual Exploitation and 
+Sexual Abuse (2007) ................................................ 19 
+
+Council of Europe, On Observer Status for the 
+United States of America, Comm. of Minis-
+ters Res. (95) (1995) ................................................ 19 
+
+Jaap de Hullu, Materieel Strafrecht: Over algemene 
+leerstukken van strafrechtelijke aansprakelijkheid 
+naar Nederlands recht (4th ed. 2009) (Neth.) ........ 34 
+
+Terre des Hommes, Fullscreen on View: An Ex-
+ploratory Study on the Background and Psy-
+chosocial Consequences of Webcam Child Sex 
+Tourism in the Philippines (2013) .......................... 29 
+
+Robert J. Edelmann, Exposure to Child Abuse 
+Images as Part of One’s Work: Possible Psy-
+chological Implications, 21 J. Forensic Psy-
+chiatry & Psychol. 481 (2010) ................................. 26 
+
+First World Congress against Commercial Sex-
+ual Exploitation of Children, The Stockholm 
+Declaration and Agenda for Action against 
+Commercial Sexual Exploitation of Children 
+(1996) ....................................................................... 17 
+
+Maria Frankowska, The Vienna Convention on 
+the Law of Treaties before United States 
+Courts, 28 Va. J. Int’l L. 281 (1988) ........................ 16 
+
+
+
+viii 
+
+ 
+TABLE OF AUTHORITIES – Continued 
+
+Page 
+
+Human Rights Watch, Q&A: The Convention 
+on the Rights of the Child (Nov. 18, 2009) ................ 7 
+
+Internet Watch Foundation, Annual and Char-
+ity Report (2008) ................................................ 28, 31 
+
+Philip Jenkins, Beyond Tolerance: Child Por-
+nography on the Internet (2001) ....................... 25, 27 
+
+Christian Laes, Children in Ancient Rome 
+(2006) ................................................................. 22, 23 
+
+John Lascaratos & Effie Poulakou-Rebelakou, 
+Child Sexual Abuse: Historical Cases in the 
+Byzantine Empire (324-1453 A.D.), 24 Child 
+Abuse & Neglect 1085 (2000) ........................... 22, 23 
+
+More than 200 Children Identified and Rescued 
+in Worldwide Police Operation, Europol (Mar. 
+16, 2011) .................................................................... 32 
+
+Vitit Muntarbhorn, General Rapporteur’s Re-
+port from Second World Congress against 
+CSEC (2001) ............................................................ 18 
+
+John E.B. Myers, A Short History of Child Pro-
+tection in America, 42 Fam. L.Q. 449 (2008) ......... 22 
+
+National Rapporteur on Trafficking in Hu- 
+man Beings, First Report of the Dutch Na-
+tional Rapporteur: Child Pornography (2011) 
+(Neth.) ............................................................... passim 
+
+Office of the United Nations High Commis-
+sioner for Human Rights, Legislative History 
+of the Convention on the Rights of the Child, 
+vol. 1, U.N. Doc. HR/PUB/07/1 (2007) .................. 7, 14 
+
+
+
+ix 
+
+ 
+TABLE OF AUTHORITIES – Continued 
+
+Page 
+
+Optional Protocol to the Convention on the 
+Rights of the Child on the Sale of Children, 
+Child Prostitution and Child Pornography 
+Ratification Status .................................................... 7 
+
+Suzanne Ost, Child Pornography and Sexual 
+Grooming (2009)...................................................... 23 
+
+Jean Koh Peters, How Children Are Heard in 
+Child Protective Proceedings, in the United 
+States and Around the World in 2005: Survey 
+Findings, Initial Observations, and Areas for 
+Further Study, 6 Nev. L.J. 966 (2006) .................... 15 
+
+S. Exec. Rep. No. 106-12 (1999) ............................. 7, 17 
+S. Exec. Rep. No. 109-6 (2005) ......................... 7, 18, 19 
+Shared Hope International et al., Report from 
+
+the U.S. Mid-Term Review on the Commer-
+cial Sexual Exploitation of Children in Amer-
+ica (2006) ................................................................. 18 
+
+Special Rapporteur on the Sale of Children, 
+Child Prostitution and Child Pornography, 
+Report of the Special Rapporteur on the Sale 
+of Children, Child Prostitution and Child 
+Pornography, Human Rights Council, U.N. 
+Doc. A/HRC/12/23 (July 13, 2009) .................... 26, 27 
+
+U.N. Commission on Human Rights, Question 
+of a Draft Optional Protocol to the Conven-
+tion on the Rights of the Child on the Sale of 
+Children, Child Prostitution and Child Por-
+nography, as Well as Basic Measures Needed 
+for Their Eradication: Report of the Working 
+Group on Its Second Session, U.N. Doc. 
+E/CN.4/1996/101 (Mar. 25, 1996) ............................. 6 
+
+
+
+x 
+
+ 
+TABLE OF AUTHORITIES – Continued 
+
+Page 
+
+U.N. Committee on the Rights of the Child, 
+Concluding Observations: United States of 
+America, U.N. Doc. CRC/C/OPSC/USA/CO/1 
+(June 25, 2008) ........................................................ 10 
+
+U.N. Committee on the Rights of the Child, 
+Concluding Observations on the Second Peri-
+odic Report of the United States of America, 
+U.N. Doc. CRC/C/OPSC/USA/CO/2 (July 2, 
+2013) ........................................................................ 11 
+
+U.N. Committee on the Rights of the Child, 
+List of Issues Concerning Additional and 
+Updated Information Related to the Consid-
+eration of the Second Periodic Report of the 
+United States of America: Written Replies of 
+the United States of America, U.N. Doc. 
+CRC/C/OPSC/USA/Q/2/Add.1 (Dec. 12, 2012) ....... 10 
+
+U.N. Committee on the Rights of the Child, 
+List of Issues Concerning Additional and Up-
+dated Information Related to the Second Pe-
+riodic Report of the United States of America, 
+U.N. Doc. CRC/C/OPSC/USA/Q/2 (July 25, 
+2012) ........................................................................ 10 
+
+U.N. Committee on the Rights of the Child, 
+Lists of Issues to be Taken Up in Connection 
+with the Consideration of the Initial Report 
+of the United States of America, U.N. Doc. 
+CRC/C/OPSC/USA/Q/1 (Feb. 26, 2008) .................... 9 
+
+  
+
+
+
+xi 
+
+ 
+TABLE OF AUTHORITIES – Continued 
+
+Page 
+
+U.N. Committee on the Rights of the Child, 
+United States Response to Lists of Issues to be 
+Taken Up in Connection with Consideration 
+of the Initial Report of the United States of 
+America, U.N. Doc. CRC/C/OPOSC/USA/1/Add.1 
+(May 15, 2008) ........................................................... 9 
+
+U.S. Dep’t of Justice, The National Strategy for 
+Child Exploitation Prevention and Interdic-
+tion (2010) ................................................... 27, 28, 31 
+
+U.S. Dep’t of State, Initial Report of the United 
+States of America to the U.N. Committee on 
+the Rights of the Child Concerning the Op-
+tional Protocol to the Convention on the 
+Rights of the Child on the Sale of Children, 
+Child Prostitution and Child Pornography 
+(Sept. 14, 2007) ............................................... 6, 8, 18 
+
+U.S. Dep’t of State, Periodic Report of the 
+United States of America and U.S. Response 
+to Recommendations in Committee Conclud-
+ing Observations of June 25, 2008 (Jan. 22, 
+2010) .................................................................. 5, 8, 9 
+
+U.S. Sentencing Comm’n, Report to Con- 
+gress: Federal Child Pornography Offenses 
+(Dec. 2012) ............................................. 23, 27, 28, 29 
+
+United Nations Children’s Fund, The Yokohama 
+Global Commitment (2001) ..................................... 18 
+
+Geraldine Van Bueren, The International Law 
+on the Rights of the Child (1998) ............................ 13 
+
+
+
+xii 
+
+ 
+TABLE OF AUTHORITIES – Continued 
+
+Page 
+
+Julia von Weiler et al., Care and Treatment of 
+Child Victims of Child Pornographic Exploi-
+tation (CPE) in Germany, 16 J. of Sexual 
+Aggression 211 (2010) ................................. 28, 29, 30 
+
+
+
+1 
+
+BRIEF AMICUS CURIAE OF THE DUTCH 
+NATIONAL RAPPORTEUR ON TRAFFICKING 
+
+IN HUMAN BEINGS AND SEXUAL 
+VIOLENCE AGAINST CHILDREN IN 
+
+SUPPORT OF RESPONDENT AMY UNKNOWN 
+
+INTEREST OF THE AMICUS CURIAE1 
+
+ The Dutch National Rapporteur on Trafficking in 
+Human Beings and Sexual Violence against Children 
+(“National Rapporteur”) is an independent official 
+organ of the Netherlands.2 The National Rapporteur’s 
+
+ 
+ 1 On September 3, 2013, Counsel for Respondent Amy Un-
+known, filed a consent to the filing of amicus curiae briefs in 
+support of either or neither party. On September 6, 2013, Coun-
+sel for Respondent Wright, Counsel for Respondent United 
+States, and Counsel for Petitioner Paroline filed consents to the 
+filing of amicus curiae briefs in support of either or neither 
+party. No counsel for a party authored this brief wholly or par-
+tially, nor made a monetary contribution intended to fund this 
+brief ’s preparation or submission. No person other than Amicus 
+and her counsel made a monetary contribution to this brief ’s 
+preparation or submission.  
+ 2 The Dutch government created the National Rapporteur 
+on Trafficking in Human Beings and Sexual Violence against 
+Children in response to the Hague Declaration of 1997, adopted 
+at a European Union ministerial conference on combating hu-
+man sex trafficking. The National Rapporteur conducts research 
+on human trafficking and the sexual abuse of children to fulfill 
+the Dutch government’s international treaty obligations. See 
+Directive 2011/36/EU, of the European Parliament and the 
+Council of 5 April 2011 on Preventing and Combating Traffick-
+ing in Human Beings and Protecting Its Victims, and Replacing 
+Council Framework Decision 2002/629/JHA, art. 19, 2011 O.J. (L 
+101) 1; Council of Europe Convention on the Protection of 
+Children against Sexual Exploitation and Sexual Abuse art. 
+10(2)(b), opened for signature Oct. 25, 2007, C.E.T.S. No. 201 
+
+(Continued on following page) 
+
+
+
+2 
+
+primary purpose is to report on the nature and extent 
+of human trafficking and sexual violence against 
+children in the Netherlands. Both globalization and 
+the advent of the Internet have significantly en-
+hanced the transnational nature of these crimes; with 
+the ease of exchanging abusive material over the 
+Internet, this is particularly evident in the case of 
+child pornography.3 The rapid globalization of the 
+child pornography market has compelled nations to 
+collaborate in order to combat the challenges of 
+twenty-first century child pornography. It is in the 
+spirit of both the United States’ and the Netherlands’ 
+
+ 
+(“Lanzarote Convention”); Directive 2011/92/EU, of the Euro-
+pean Parliament and of the Council of 13 December 2011 on 
+Combating the Sexual Abuse and Sexual Exploitation of Chil-
+dren and Child Pornography, and Replacing Council Framework 
+Decision 2004/68/JHA, 2011 O.J. (L 335) 1. As of November 15, 
+2013, the National Rapporteur is organized under a recently 
+enacted Dutch law that replaces a ministerial decree. The law 
+maintains the National Rapporteur as an independent official 
+organ of the Netherlands.  
+ 3 The phrase “child pornography” is used in this brief inter-
+changeably with “child sexual abuse images.” Use of the latter 
+phrase emerged to distinguish it from simulated child pornog-
+raphy where no actual child is used in the production of the 
+images. Thus, “child sexual abuse images” refers specifically to 
+child pornography in which an actual child is abused to produce 
+the images. This is the child pornography that the National 
+Rapporteur is referring to in this brief since a child is harmed in 
+the production of the child sexual abuse images and then con-
+tinues to be harmed when the images are distributed and con-
+sumed. The term “images” is expansive and may include digital 
+imagery, photographs, sketches, cartoons, movies, sound record-
+ings, paintings, or any other depiction of the sexual abuse of a 
+child regardless of media.  
+
+
+
+3 
+
+history of international cooperation with regard to 
+child pornography, its perpetrators, and, most im-
+portantly, its victims, that the National Rapporteur 
+respectfully submits this brief in support of Respond-
+ent, Amy Unknown.4 
+
+ 
+ 4 The Special Representative of the United Nations Secretary-
+General on Violence against Children, Marta Santos Pais, asked 
+the National Rapporteur to include the following statement from 
+Ms. Santos Pais in this brief:  
+
+The Special Representative of the Secretary-General 
+on Violence against Children (SRSG) has identified 
+the opportunities and risks associated with children’s 
+access to and use of new information and communica-
+tions technologies as a priority for her mandate. This 
+work is guided by international human rights stan-
+dards, including the Convention on the Rights of the 
+Child and its Optional Protocol on the Sale of Chil-
+dren, Child Prostitution and Child Pornography which 
+recognize children’s right to protection from sexual 
+abuse through representation or images in porno-
+graphic performances or materials. Child pornogra-
+phy is a serious form of violence against children, 
+including during its production and dissemination, 
+and when it is subsequently viewed by potentially 
+thousands of child sex abusers. At the dawn of the 
+1990s the exchange of information through cyberspace 
+was just beginning. As widespread online access be-
+came commonplace, child pornography made its way 
+into the global and connected world on the screens of 
+personal computers, through mobile phones and social 
+media. Information is available more easily and may 
+be spread more quickly, potentially reaching out to 
+millions in a fraction of a second and remaining acces-
+sible for a lifetime, with a serious impact on countless 
+children. It is imperative that child victims of this 
+form of sexual abuse are given the right to restitution 
+
+(Continued on following page) 
+
+
+
+4 
+
+SUMMARY OF THE ARGUMENT 
+
+ The United States’ treaty obligations compel 
+reading 18 U.S.C. §2259 without imposing a proxi-
+mate cause requirement on (A) through (E). Specifi-
+cally, the United States is a party to the Optional 
+Protocol to the Convention on the Rights of the Child 
+on the Sale of Children, Child Prostitution and Child 
+Pornography. The Optional Protocol requires, inter 
+alia, that state parties support the restoration of 
+child pornography victims and provide them with “ac-
+cess to adequate procedures to seek . . . damages from 
+those legally responsible.”5 Twice the United States 
+has expressly identified 18 U.S.C. §2259 in reports to 
+the United Nations as the law by which it complies 
+with its treaty obligations to support victim recovery.  
+
+ In its most recent report on treaty compli- 
+ance, the United States cites specifically to Petitioner 
+Paroline’s offense (child pornography possession 
+under 18 U.S.C. §2252) and states that the offense 
+gives rise to “mandatory restitution” for the “full 
+
+ 
+for this crime. This is important as a remedy for these 
+children, and as a deterrent to prevent future situa-
+tions of child sex abuse of this kind. 
+
+ 5 Optional Protocol to the Convention on the Rights of the 
+Child on the Sale of Children, Child Prostitution and Child Por-
+nography art. 9(4), opened for signature May 25, 2000, T.I.A.S. 
+No. 13,095, 2171 U.N.T.S. 227 (entered into force Jan. 18, 2002; 
+United States ratified Dec. 23, 2002) (“Optional Protocol”) 
+(emphasis added).  
+
+
+
+5 
+
+amount of the victim’s losses.”6 Moreover, because the 
+United States cites no other legal process satisfying 
+its Article 9 obligations to provide a recovery mecha-
+nism for child pornography victims, this Court should 
+not impose a level of causation that would render the 
+statute functionally ineffective in the twenty-first 
+century. 
+
+ The Court is encouraged to interpret 18 U.S.C. 
+§2259 with a respect for the evolving international 
+legal norms that nations are collaboratively develop-
+ing to protect children and combat a rapidly expand-
+ing global child pornography market. The Court 
+should also be mindful of the United States’ active 
+role in helping to develop these legal norms, which 
+include robust protections and support for victim care 
+and restoration. Finally, the Court should interpret 
+18 U.S.C. §2259 with an accurate understanding of 
+the challenges the international community faces 
+both in eliminating the child pornography market 
+and supporting the restoration of the children victim-
+ized by the production, distribution, and possession of 
+the images of their abuse. That understanding should 
+compel the Court to read the statute as simply as it is 
+written: providing full, meaningful restoration to 
+child pornography victims.  
+
+ 
+ 6 U.S. Dep’t of State, Periodic Report of the United States of 
+America and U.S. Response to Recommendations in Committee 
+Concluding Observations of June 25, 2008, para. 421 (Jan. 22, 
+2010).  
+
+
+
+6 
+
+ARGUMENT 
+
+I. INTERNATIONAL LAW COMPELS NATIONS 
+TO SUPPORT THE RESTORATION OF 
+CHILD PORNOGRAPHY VICTIMS. 
+
+A. The United States’ Treaty Obligations 
+Compel Reading the Mandatory Resti-
+tution Statute without a Proximate 
+Cause Requirement. 
+
+ The United States’ treaty obligations must guide 
+the Court’s interpretation of 18 U.S.C. §2259 (“Man-
+datory Restitution Statute”). The United States was 
+an active participant in the drafting of the Optional 
+Protocol to the Convention on the Rights of the Child 
+on the Sale of Children, Child Prostitution and Child 
+Pornography,7 and was one of the first nations to sign 
+
+ 
+ 7 The Netherlands also actively participated in the drafting 
+of the Optional Protocol alongside the United States. U.N. Com-
+mission on Human Rights, Question of a Draft Optional Protocol 
+to the Convention on the Rights of the Child on the Sale of Chil-
+dren, Child Prostitution and Child Pornography, as Well as Basic 
+Measures Needed for Their Eradication: Report of the Working 
+Group on Its Second Session, 3, U.N. Doc. E/CN.4/1996/101 
+(Mar. 25, 1996). It is critical for the Court to appreciate the 
+significant role that the United States has assumed in helping 
+set the standards of the evolving normative legal framework for 
+child pornography crimes internationally, including victim restora-
+tion. The fact that the United States required no new legislation 
+after it ratified the Optional Protocol evidences this fact. U.S. 
+Dep’t of State, Initial Report of the United States of America to 
+the U.N. Committee on the Rights of the Child Concerning the 
+Optional Protocol to the Convention on the Rights of the Child on 
+the Sale of Children, Child Prostitution and Child Pornography 
+para. 3 (Sept. 14, 2007) (“Initial Report”). The Optional Protocol 
+and the federal statutory framework lined up precisely. Id. The 
+
+(Continued on following page) 
+
+
+
+7 
+
+it. The United States subsequently ratified the Op-
+tional Protocol and became obligated as a state party 
+to ensure that sexually exploited children, including 
+child pornography victims, receive medical and psy-
+chological services for their full reintegration into 
+society. Optional Protocol, supra note 5, at art. 9(3); 
+Optional Protocol to the Convention on the Rights of 
+the Child on the Sale of Children, Child Prostitution 
+and Child Pornography Ratification Status, http:// 
+treaties.un.org/Pages/ViewDetails.aspx?src=TREATY& 
+mtdsg_n=IV-II-c&chapter=4&lang=en (last visited Nov. 19, 
+
+ 
+same was true for International Labour Organization Conven-
+tion No. 182 on the Prohibition and Immediate Action for the 
+Elimination of the Worst Forms of Child Labour, opened for 
+signature June 17, 1999, 2133 U.N.T.S. 161 (“ILO Convention 
+No. 182”); S. Exec. Rep. No. 106-12, at 4 (1999). The United 
+States also participated in the drafting of the Council of Europe 
+Convention on Cybercrime, and once again, treaty provisions 
+resembled the United States’ legal framework with regard to 
+child pornography crimes. Convention on Cybercrime, opened for 
+signature Nov. 23, 2001, T.I.A.S. No. 13,174, C.E.T.S. No. 185; S. 
+Exec. Rep. No. 109-6, at 2, 6 (2005). (Section I.B infra describes 
+all of these treaties in more detail.) The United States was more 
+active than any other government in the drafting of the Conven-
+tion on the Rights of the Child. Human Rights Watch, Q&A: The 
+Convention on the Rights of the Child (Nov. 18, 2009); Office of 
+the United Nations High Commissioner for Human Rights, 
+Legislative History of the Convention on the Rights of the Child, 
+vol. 1, at iii, U.N. Doc. HR/PUB/07/1 (2007); Cynthia Price 
+Cohen, Role of the United States in Drafting the Convention on 
+the Rights of the Child: Creating A New World For Children, 4 
+Loy. Poverty L.J. 9 (1998). The United States proposed text or 
+amendments for thirty-eight out of the Convention’s forty sub-
+stantive articles, including several regarding exploitation, 
+abuse, and the rehabilitation and reintegration of victims. 
+Human Rights Watch, supra.  
+
+
+
+8 
+
+2013). The Optional Protocol additionally and expressly 
+requires that parties “ensure that all child victims 
+have access to adequate procedures to seek . . . dam-
+ages from those legally responsible.” Id. at art. 9(4) 
+(emphasis added). Those “legally responsible” include 
+offenders found guilty of child pornography posses-
+sion. Id. at art. 3(1)(c). Moreover, the Optional Proto-
+col requires that the United States and other state 
+parties ensure that victims of child pornography have 
+access to procedures that are adequate and non-
+discriminatory. Id. at art. 9(4) (emphasis added).  
+
+ From the beginning, the United States has relied 
+expressly and specifically on 18 U.S.C. §2259 to fulfill 
+its treaty obligations under Article 9 of the Optional 
+Protocol. The United States first cited the Mandatory 
+Restitution Statute in 2007 in its initial report to the 
+United Nations Committee on the Rights of the Child 
+(“U.N. Committee”) regarding the United States’ im-
+plementation of the Optional Protocol domestically. 
+Initial Report, supra note 7, at 24. The United States’ 
+Initial Report explained that 18 U.S.C. §2259 pro-
+vides “mandatory restitution for any offense involving 
+the sexual exploitation of children.” Id. at para. 89. 
+Nowhere does the United States mention proximate 
+cause in its report.  
+
+ In 2010, the United States submitted a periodic 
+report on its compliance with the Optional Protocol and 
+again expressly cited 18 U.S.C. §2259 as providing 
+“mandatory restitution for child sexual exploitation 
+and other abuse offenses” including 18 U.S.C. §2252, 
+which was the child pornography offense to which the 
+offender in this case (Randall Paroline) pled guilty. 
+
+
+
+9 
+
+U.S. Dep’t of State, supra note 6, at para. 421. The 
+United States expressly explained in its 2010 report 
+that restitution is mandatory and for the “full amount 
+of the victim’s losses . . . .” Id. The United States cited 
+no other statutory remedy supporting the restoration 
+of child pornography victims. Id.  
+
+ After receiving the United States’ Initial Report 
+on its compliance with the Optional Protocol, the 
+U.N. Committee requested additional information, 
+including data for the years 2005, 2006, and 2007 
+regarding “The number of child victims provided with 
+recovery assistance as indicated in Article 9, para-
+graphs 3 and 4 of the Protocol.” U.N. Committee on 
+the Rights of the Child, Lists of Issues to be Taken Up 
+in Connection with the Consideration of the Initial 
+Report of the United States of America, para. 1(c), 
+U.N. Doc. CRC/C/OPSC/USA/Q/1 (Feb. 26, 2008). The 
+United States’ response did not indicate that a single 
+victim had received compensation from an offender 
+under the Mandatory Restitution Statute or any 
+other statute despite the fact that 18 U.S.C. §2259 
+was the cornerstone of the United States’ statement 
+of compliance with Article 9, paragraph 4. U.N. Com-
+mittee on the Rights of the Child, United States 
+Response to Lists of Issues to be Taken Up in Connec-
+tion with Consideration of the Initial Report of the 
+United States of America, U.N. Doc. CRC/C/OPOSC/ 
+USA/1/Add.1 (May 15, 2008). Instead, the United 
+States indicated that some victims “may be eligible” 
+for a variety of government programs such as Medi-
+caid, Temporary Assistance for Needy Families 
+(“TANF”), and Job Corp. Id. In its Concluding Obser-
+vations regarding the United States’ Initial Report, 
+
+
+
+10 
+
+the U.N. Committee identified the United States as 
+“one of the world’s largest producers, distributors and 
+consumers of child pornography” and expressly en-
+couraged the United States, inter alia, to “[i]mprove 
+enforcement of the existing legislative framework on 
+child pornography.” U.N. Committee on the Rights of 
+the Child, Concluding Observations: United States of 
+America, para. 27, U.N. Doc. CRC/C/OPSC/USA/CO/1 
+(June 25, 2008) (emphasis added).  
+
+ In 2012, the U.N. Committee again identified 
+victim restoration (including compensation to victims) 
+as an issue in response to the United States 2010 
+periodic report, and requested additional information. 
+U.N. Committee on the Rights of the Child, List of 
+Issues Concerning Additional and Updated Informa-
+tion Related to the Second Periodic Report of the 
+United States of America, para. 12, U.N. Doc. CRC/C/ 
+OPSC/USA/Q/2 (July 25, 2012). Specifically, the U.N. 
+Committee asked for an indication of the measures 
+taken by the United States to ensure that victims 
+“are provided with appropriate assistance for their 
+full social reintegration, physical, psychological and 
+psychosocial recovery, as well as compensation.” Id. 
+In its response, the United States again failed to 
+identify even one specific measure that it is taking to 
+ensure compensation to child pornography victims.  
+U.N. Committee on the Rights of the Child, List of 
+Issues Concerning Additional and Updated Informa-
+tion Related to the Consideration of the Second Peri-
+odic Report of the United States of America: Written 
+Replies of the United States of America, U.N. Doc. 
+CRC/C/OPSC/USA/Q/2/Add.1 (Dec. 12, 2012). Thus, 
+
+
+
+11 
+
+in its Concluding Observations, the U.N. Committee 
+expressed concern “about the growing availability of 
+child pornography online, the use of ever younger 
+children and the increase in the violence of images 
+recorded” as well as the fact that sexually exploited 
+children in the United States “still lack adequate . . . 
+compensation.” U.N. Committee on the Rights of the 
+Child, Concluding Observations on the Second Peri-
+odic Report of the United States of America, paras. 27, 
+44, U.N. Doc. CRC/C/OPSC/USA/CO/2 (July 2, 2013). 
+“Adequate remedy and reparation should be sought 
+legally and through other means,” according to the 
+U.N. Committee in addressing the United States’ 
+treaty obligations under Articles 8 and 9 of the Op-
+tional Protocol. Id. at para. 45. 
+
+ The Optional Protocol also requires that state par-
+ties’ criminal justice systems make “the best interest 
+of the child” a “primary consideration” in the treat-
+ment of child victims. Optional Protocol, supra note 5, 
+at art. 8(3). In interpreting 18 U.S.C. §2259, this 
+Court should consider whether the United States’ 
+treaty obligations under article 8(3) of the Optional 
+Protocol compel the Court to consider the “best inter-
+est of the child” in deciding whether to impose a 
+proximate cause requirement on the plain language 
+of the Mandatory Restitution Statute. 
+
+ The Court has held that a treaty is on “the same 
+footing and made of like obligation, with an act of 
+legislation.” Whitney v. Robertson, 124 U.S. 190, 194 
+(1888); Medellin v. Texas, 552 U.S. 491, 504-07 (2008). 
+When a statute and a treaty conflict, the Court will 
+
+
+
+12 
+
+give meaning to both, if it can, without violating the 
+language of either. Otherwise, the latter in time 
+controls. Whitney, 124 U.S. at 194 (noting that if the 
+treaty is later in time, it must be self-executing). 
+While the Optional Protocol is not self-executing, it is 
+the latter in time and by interpreting 18 U.S.C. §2259 
+without imposing a proximate cause requirement on 
+the statute, the Court can and should give effect to 
+both the statute and the treaty without violating the 
+language of either. 
+
+ 
+B. Evolving International Legal Norms 
+
+Support Restoration of Child Pornog-
+raphy Victims. 
+
+ Both the United States and the Netherlands 
+have been actively involved in developing an inter-
+national normative legal framework that includes 
+a significant and express focus on the protection of 
+children from sexual exploitation and the restoration 
+of child victims who are exploited. In interpreting the 
+laws of the United States, the Court has turned to 
+international law to assess the evolving standards of 
+decency. Thompson v. Oklahoma, 487 U.S. 815, 830 
+(1988). As the Court interprets the Mandatory Resti-
+tution Statute, it should consider the international 
+norms that have been evolving during the last cen-
+tury.  
+
+ In 1924, the League of Nations adopted the first 
+international instrument recognizing the inherent 
+uniqueness of childhood and committing to provide 
+
+
+
+13 
+
+children with special care and protection. Geneva 
+Declaration of the Rights of the Child, Sept. 26, 1924, 
+League of Nations, O.J. Spec. Supp. 21 at 43 (1924) 
+(expressly stating that children should be protected 
+from “every form of exploitation”). The United Na-
+tions 1959 Declaration of the Rights of the Child8 
+followed twenty-five years later and expanded on the 
+original principles of the 1924 Geneva Declaration 
+and incorporated references to the United Nations 
+Charter and the Universal Declaration of Human 
+Rights,9 making clear that children are entitled to all 
+human rights previously recognized as well as addi-
+tional rights due to their special status as children. 
+Both the United States and the Netherlands actively 
+participated in the drafting of the 1959 Declaration. 
+Geraldine Van Bueren, The International Law on the 
+Rights of the Child 10 (1998).  
+
+ Principle 2 of the 1959 Declaration states that 
+children “shall enjoy special protection, and shall be 
+given opportunities and facilities, by law and by other 
+means, to enable [them] to develop physically, men-
+tally, morally, spiritually and socially in a healthy and 
+
+ 
+ 8 Declaration of the Rights of the Child, G.A. Res. 1386 
+(XIV), GAOR 14th Sess., Supp. No. 16, U.N. Doc. A/4249 (Nov. 
+20, 1959) (asserting that “mankind owes to the child the best it 
+has to give” and “the child, by reason of his physical and mental 
+immaturity, needs special safeguards and care, including appro-
+priate legal protection . . . .”). 
+ 9 Universal Declaration of Human Rights, G.A. Res. 217 
+(III) A, U.N. Doc. A/RES/217 (III) (Dec. 10, 1948) (recognizing 
+childhood is entitled to “special care and assistance”).  
+
+
+
+14 
+
+normal manner and in conditions of freedom and 
+dignity. In the enactment of laws for this purpose, the 
+best interests of the child shall be the paramount 
+consideration.” Declaration of the Rights of the Child, 
+supra note 8, at princ. 2. Principle 9 further provides 
+that children “shall be protected against all forms of 
+neglect, cruelty and exploitation. [They] shall not be 
+the subject of traffic, in any form.” Id. at princ. 9. It is 
+important to note that these were unanimous values 
+shared by the international community on the histor-
+ical eve of the significant growth of the child pornog-
+raphy market in the 1960s and 1970s. See infra 
+Section II.A. 
+
+ At the end of the first wave of growth in the 
+twentieth century child pornography market, the in-
+ternational community celebrated the world’s chil-
+dren with the “International Year of the Child” in 
+1979, which commenced the drafting process of the 
+world’s first binding children’s rights treaty, the 
+United Nations Convention on the Rights of the 
+Child. The drafting of the Convention on the Rights of 
+the Child involved more than seventy countries (in-
+cluding the United States and the Netherlands) and 
+spanned ten years. Office of the United Nations High 
+Commissioner for Human Rights, supra note 7. 
+
+ The Convention on the Rights of the Child was 
+introduced to the United Nations General Assembly 
+in 1989, just four years after the first child pornogra-
+phy network was identified on the Internet. Yaman 
+Akdeniz, Internet Child Pornography and the Law: 
+National and International Responses 5 (2008). The 
+
+
+
+15 
+
+Convention on the Rights of the Child was adopted 
+unanimously by the General Assembly and broke 
+records for the greatest number of signatories to a 
+treaty on the day it opened for signature. Convention 
+on the Rights of the Child, opened for signature Nov. 
+20, 1989, 1577 U.N.T.S. 3; Jean Koh Peters, How 
+Children Are Heard in Child Protective Proceedings, 
+in the United States and Around the World in 2005: 
+Survey Findings, Initial Observations, and Areas for 
+Further Study, 6 Nev. L.J. 966, 970 (2006). Today the 
+Convention on the Rights of the Child is the most 
+widely ratified human rights treaty in the world and 
+sets universal standards for the protection of chil-
+dren for countries to strive towards and by which 
+they agree to be measured. Convention on the Rights 
+of the Child Ratification Status, United Nations 
+Treaty Collection Database, http://treaties.un.org/ 
+Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV- 
+11&chapter=4&lang=en (last visited Nov. 12, 2013). 
+While the United States has not yet ratified the 
+Convention on the Rights of the Child, it signed the 
+Convention on February 16, 1995, following active 
+participation in the drafting process. Id. Further, 
+this Court has relied on the near universal ratifica-
+tion of the Convention on the Rights of the Child in 
+gauging the weight of international opinion affirm-
+ing the Court’s decision. See Roper v. Simmons, 543 
+U.S. 551, 575-79 (2005) (finding unconstitutional the 
+imposition of the death penalty for juvenile offend-
+ers). 
+
+
+
+16 
+
+ The Convention on the Rights of the Child re-
+quires that countries take all appropriate measures 
+to promote physical and psychological restoration and 
+social reintegration of a child victim of exploitation, 
+abuse, or any other form of “cruel, inhuman or de-
+grading treatment.” Convention on the Rights of the 
+Child, supra at art. 39. While the United States has 
+only signed the Convention, Article 18 of the Vienna 
+Convention on the Law of Treaties requires a nation 
+not to defeat the purpose of a treaty before ratifica-
+tion. Vienna Convention on the Law of Treaties art. 
+18, opened for signature May 23, 1969, 1155 U.N.T.S. 
+331.10  
+
+ Other international treaties also evidence the 
+rise of an international norm in the twentieth century 
+recognizing that children have a right to special pro-
+tections. International Covenant on Civil and Politi-
+cal Rights art. 24, opened for signature Dec. 16, 1966, 
+999 U.N.T.S. 171 (United States ratified June 8, 1992) 
+(noting a child’s right to “measures of protection” from 
+state, society, and the child’s family). Nations have gone 
+further in developing international instruments that 
+require state parties to provide assistance for victims’ 
+physical and psychological restoration. Declaration on 
+
+ 
+ 10 Similar to the Convention on the Rights of the Child, the 
+United States has signed but not ratified the Vienna Convention 
+on the Law of Treaties. However, the United States State De-
+partment has recognized many of its provisions as customary in-
+ternational law. Maria Frankowska, The Vienna Convention on 
+the Law of Treaties Before United States Courts, 28 Va. J. Int’l L. 
+281, 298 (1988).  
+
+
+
+17 
+
+the Elimination of Violence against Women, G.A. Res. 
+48/104, art. 2, 3, 4(d), 4(g), U.N. Doc. A/RES/48/104 
+(Dec. 20, 1993); ILO Convention No. 182, supra note 
+7, at art. 7(2)(b). In ratifying ILO Convention No. 182, 
+the Senate did not specifically reference 18 U.S.C. 
+§2259 but recognized that the United States already 
+criminalized child pornography and that “U.S. law is 
+sufficient in order for the United States to comply 
+with the Convention.” S. Exec. Rep. No. 106-12, supra 
+note 7, at 4. Together, these instruments, along with 
+others, convey an emerging international norm con-
+demning child sexual abuse and child pornography, 
+and compelling state parties to develop laws to pro-
+tect and care for children and support their restora-
+tion when harmed. 
+
+ In recognizing the need to provide restoration 
+services to child pornography victims, the United 
+States enacted the Mandatory Restitution Statute as 
+part of the Violence Against Women Act, Pub. L. No. 
+103-322, §40113, 108 Stat. 1796, 1907 (1994). Fol-
+lowing the enactment of the Mandatory Restitu- 
+tion Statute, the United States participated in three 
+World Congresses against Commercial Sexual Exploi-
+tation of Children. The First World Congress called 
+on governments to provide recovery services to sex-
+ually exploited children. First World Congress against 
+Commercial Sexual Exploitation of Children, The 
+Stockholm Declaration and Agenda for Action against 
+Commercial Sexual Exploitation of Children 5 (1996). 
+The Second World Congress recognized that the de-
+velopment of technology created more difficulties for 
+
+
+
+18 
+
+victims and called on countries to help victims re-
+cover and reintegrate into society. Vitit Muntarbhorn, 
+General Rapporteur’s Report from Second World Con-
+gress against CSEC (2001). At the conclusion of the 
+Second World Congress, the United States pointed to 
+the Optional Protocol as providing a “clear starting 
+point” for the international elimination of the sexual 
+exploitation of children. United Nations Children’s 
+Fund, The Yokohama Global Commitment (2001). Be-
+tween the Second and Third World Congresses, the 
+United States conducted a “mid-term review” on the 
+commercial sexual exploitation of children in America 
+in collaboration with three non-governmental agen-
+cies. Initial Report, supra note 7, at para. 84. A report 
+from the mid-term review was submitted at the Third 
+World Congress and found that the United States 
+Congress and Executive Branch had “aggressively” 
+confirmed their commitment to combat the sexual ex-
+ploitation of children through legislative measures, in-
+cluding the recognition and protection of victims’ rights. 
+Shared Hope International et al., Report from the U.S. 
+Mid-Term Review on the Commercial Sexual Exploi-
+tation of Children in America pmbl., add. III at 5 (2006).  
+
+ The Council of Europe has also formed treaties to 
+protect children from child sexual abuse. The United 
+States actively participated in the drafting of the 
+Council of Europe’s Convention on Cybercrime, which 
+requires states to adopt legislative and other mea-
+sures necessary to criminalize possession of child por-
+nography on data storage media. S. Exec. Rep. No. 
+109-6, supra note 7, at 2; Convention on Cybercrime, 
+
+
+
+19 
+
+supra note 7, at art. 9(1). The United States ratified 
+the treaty in 2006 with no need for implementing 
+legislation because the United States had complied 
+with the Convention on Cybercrime’s provisions prior 
+to the drafting of the convention. S. Exec. Rep. No. 
+109-6, supra note 7, at 6.  
+
+ Four years later, the Lanzarote Convention ex-
+panded on the Convention on Cybercrime to require 
+state parties to take all necessary measures to assist 
+victims with their physical and psycho-social restora-
+tion and adopt a protective approach towards victims. 
+Lanzarote Convention, supra note 2, at art. 30(2). 
+Although the United States has not ratified the 
+Lanzarote Convention, it participated in the drafting 
+of the treaty and has been a permanent observer of 
+the Council of Europe since 1995. Council of Europe, 
+On Observer Status for the United States of America, 
+Comm. of Ministers Res. (95) 37 (1995); Council of 
+Europe, Explanatory Report: Council of Europe Con-
+vention on the Protection of Children against Sexual 
+Exploitation and Sexual Abuse para. 284 (2007). 
+Moreover, the Lanzarote Convention is additional evi-
+dence of emerging international legal norms focused 
+on criminalizing modern child pornography and pro-
+viding for the restoration of victims. 
+
+ The European Union requires member states to 
+punish the “acquisition or possession of child pornog-
+raphy” and “knowingly obtaining access,” including 
+incitement or aiding and abetting. Framework Deci-
+sion 2004/68/JHA, art. 3(1)(d), 2003 O.J. (L13) 44; 
+Directive 2011/92/EU, supra note 2, at art. 5(2)-(3), 
+
+
+
+20 
+
+7(1). Significantly, in accordance with the Optional 
+Protocol, the Convention on the Rights of the Child, 
+and the Lanzarote Convention, the new legislation 
+will oblige member states to provide assistance, sup-
+port, and protection to victims, taking into account 
+the best interests of the child. Directive 2011/92/EU, 
+supra note 2, at art. 18(1). Among other things, this 
+includes ensuring that victims have access to free 
+legal representation for “the purpose of claiming com-
+pensation.” Id. at art. 20(2). 
+
+ Furthermore, member states must ensure that 
+victims receive assistance and support before, during, 
+and after the criminal proceedings so that they may 
+“exercise their rights set out in Framework Decision 
+2001/220/JHA.” Id. at art. 19(1). Framework Decision 
+2001/220/JHA directs member states to ensure that 
+victims of crime receive adequate protection, acknowl-
+edgement of their rights, and special assistance. 
+Framework Decision 2001/220/JHA, of 15 March 2001 
+on the Standing of Victims in Criminal Proceedings 
+2001 O.J. (L082) 1.  
+
+ The European Union has recently expanded the 
+rights, support, protection, and compensation for victims 
+of crime, including an acknowledgement of Directive 
+2011/92/EU, by implementing Directive 2012/29/EU, 
+which will replace Directive 2001/220/JHA in 2015. 
+Directive 2012/29/EU, of the European Parliament 
+and of the Council of 25 October 2012 Establishing 
+Minimum Standards on the Rights, Support and 
+Protections of Victims of Crime, and Replacing Coun-
+cil Framework Decision 2001/220/JHA, 2012 O.J. 
+
+
+
+21 
+
+(L315) 57. It instructs member states to protect 
+victims from continuing victimization and ensure 
+that victims receive “appropriate support to facilitate 
+their recovery.” Id. at pmbl. para. 9. Victim support 
+services must provide, at a minimum, emotional and 
+psychological support services. Id. at art. 9. Member 
+states must ensure that victims also have the right 
+to receive compensation from offenders through a 
+judgment in criminal proceedings. Id. at art. 16(1). 
+Member states are obliged to promote measures to 
+“encourage offenders to provide adequate compensa-
+tion to victims.” Id. at art. 16(2). The new Directive 
+2012/29/EU demonstrates the European Union’s evolv-
+ing standards on crime victim standing, and when 
+read in conjunction with Article 19 of Directive 2011/ 
+92/EU, it furthers the aim to provide greater compen-
+sation and support for victims of child pornography. 
+
+ In sum, the United States and European nations, 
+including the Netherlands, have played an active role 
+in developing an international legal framework that 
+condemns child sexual abuse and the proliferation of 
+child sexual abuse images. This framework also rec-
+ognizes the harm done to victims and the need to 
+provide for their restoration. Under the Optional 
+Protocol, the United States has identified the Manda-
+tory Restitution Statute as its means of ensuring that 
+child pornography victims have access to recovery 
+from offenders. By not imposing proximate cause on 
+subsections (A)-(E) of 18 U.S.C. §2259, the United 
+States gives effect to the statute, Article 9 of the 
+Optional Protocol, and the normative international 
+
+
+
+22 
+
+legal framework that the United States has actively 
+worked to create with other nations to combat child 
+sexual abuse.  
+
+ 
+II. MODERN TECHNOLOGIES ADD CHAL-
+
+LENGING COMPLEXITIES TO THE AN-
+CIENT CRIME OF CHILD SEXUAL ABUSE.  
+
+A. The Child Pornography Market in the 
+Digital Age Compels a Comprehensive 
+Legal Response by the United States.  
+
+ In many countries, including the United States, 
+the sexual abuse of children has been condemned for 
+hundreds of years, yet the invention of photography 
+in 1839 added an element of complexity to this an-
+cient crime. National Rapporteur on Trafficking in 
+Human Beings, First Report of the Dutch National 
+Rapporteur: Child Pornography 33 (2011) (Neth.); see 
+Christian Laes, Children in Ancient Rome 244 (2006); 
+see John E.B. Myers, A Short History of Child Protec-
+tion in America, 42 Fam. L.Q. 449 (2008); see John 
+Lascaratos & Effie Poulakou-Rebelakou, Child Sexu-
+al Abuse: Historical Cases in the Byzantine Empire 
+(324-1453 A.D.), 24 Child Abuse & Neglect 1085 
+(2000). For the first time, a person could memorialize 
+the sexual abuse of a child and use those images to 
+continue to abuse the child. DNR, supra, at 34. The 
+child sexual abuse images themselves became the 
+currency in a market commonly referred to as “child 
+pornography,” in which the creation, distribution, and 
+possession of child sexual abuse images perpetuate 
+the sexual abuse of children and normalizes conduct 
+
+
+
+23 
+
+that most civilizations have condemned. Suzanne 
+Ost, Child Pornography and Sexual Grooming 109 
+(2009); Laes, supra, at 244; Lascaratos, supra. 
+
+ The technological limitations of cameras and the 
+physical limitations on delivery methods, such as 
+postal services, restricted the growth of the child por-
+nography market for more than one hundred years. 
+U.S. Sentencing Comm’n, Report to Congress: Federal 
+Child Pornography Offenses 5, 41, 328 (Dec. 2012); 
+DNR, supra, at 35-48. However, with the introduction 
+in the mid-twentieth century of cameras that were af-
+fordable and easier to use, technological advances 
+again contributed to a significant expansion of the 
+child pornography market, especially when coupled 
+with a loosening in the 1960s and 1970s of social 
+mores with regard to human sexuality. DNR, supra, 
+at 34. Because the significant expansion in the child 
+pornography market during this period was evident 
+in the United States and Europe, nations responded 
+with tighter and more effective legal protections for 
+children.11  
+
+ In the United States, Congress criminalized child 
+sexual abuse images in the late twentieth century, 
+
+ 
+ 11 In the 1970s, countries began to enact laws that tight-
+ened prohibitions on child pornography, which included banning 
+the commercialization of child sexual abuse images. Prior to 
+tightening regulations, child sexual abuse images were commer-
+cially available alongside adult pornography in many countries. 
+Child pornography activities were made into criminal offenses in 
+the Netherlands in 1986. DNR, supra, at 34-37. 
+
+
+
+24 
+
+and this Court upheld the rights of states to adopt 
+legislation banning the production and distribution of 
+child pornography. New York v. Ferber, 458 U.S. 747 
+(1982); Protection of Children against Sexual Exploi-
+tation Act of 1977, Pub. L. No. 95-225, 92 Stat. 7 
+(1978). In doing so, the Court recognized the continu-
+ing harm inherent in child pornography. Ferber, 485 
+U.S. at 759 n.10 (“Because the child’s actions are 
+reduced to a recording, the pornography may haunt 
+. . . [the child] in future years, long after the original 
+misdeed took place.”). In Osborne v. Ohio, the Court 
+later upheld the criminalization of possession of child 
+sexual abuse images, reiterating that continuing 
+victimization is inherent to child pornography crimes. 
+495 U.S. 103, 111 (1990) (“The pornography’s contin-
+ued existence causes the child victim’s continuing 
+harm by haunting the children in years to come.”).  
+
+ Four years after Osborne, the United States Con-
+gress enacted 18 U.S.C. §2259, mandating that of-
+fenders at all points in the child pornography market 
+(production, distribution, and possession) pay full 
+restitution to victims. Mandatory restitution was part 
+of a comprehensive federal statutory framework that 
+also included clear definitions and criminalizing par-
+ticipation at any stage of the child pornography 
+market. 18 U.S.C. §§2251-2260. Recently, the United 
+States Congress responded to the increasingly global 
+nature of child sexual crimes by enacting the Prose-
+cutorial Remedies and Other Tools to end the Exploi-
+tation of Children Today Act (PROTECT Act), which, 
+inter alia, allows authorities in the United States to 
+
+
+
+25 
+
+prosecute citizens of the United States when they 
+sexually abuse children abroad. 18 U.S.C. §2423 
+(2012). Similar to the PROTECT Act, a plain reading 
+of the Mandatory Restitution Statute provides a more 
+robust tool to protect children in light of rapidly 
+changing technologies and the increasingly transna-
+tional nature of child sexual abuse.  
+
+ The United States’ domestic and international 
+efforts are appropriate because unfortunately, the 
+United States is the most common country of origin 
+for child pornography victims. DNR, supra, at 166 
+n.315 (relying on images being compiled in Interpol’s 
+International Child Sexual Exploitation Database). 
+The United States also is the leading source country 
+for perpetrators. Id. at 82, 166 n.316 (citing to an 
+ECPAT International report indicating that between 
+50,000 and 100,000 pedophiles participate in orga-
+nized child pornography groups around the world and 
+one-third of those operate from the United States). 
+The significant number of child sexual abuse images 
+produced in the United States allows perpetrators 
+in other countries to continue the victimization of 
+American children by distributing or possessing their 
+child sexual abuse images. See, e.g., Philip Jenkins, 
+Beyond Tolerance: Child Pornography on the Internet 
+184-203 (2001) (noting the “global community” of 
+child pornography collectors). Similarly, children of 
+other countries, including Dutch children, continue to 
+be victimized in the United States by perpetrators 
+who distribute or possess images of the child’s abuse. 
+Id.; see infra Section II.D.  
+
+
+
+26 
+
+B. Child Pornographers Collectively Con-
+tinue the Victimization of Children 
+Globally and Indefinitely. 
+
+ The United States’ statutory framework attempts 
+to respond to the rise of digital technologies and the 
+widespread use of the Internet in the late twenti- 
+eth century, which together facilitated the explosive 
+growth in the child pornography market that we con-
+tinue to witness today. Millions of individual users 
+consume more than fifteen million child sexual abuse 
+images in a market currently valued between three 
+and twenty billion United States dollars annually. 
+Special Rapporteur on the Sale of Children, Child 
+Prostitution and Child Pornography, Report of the 
+Special Rapporteur on the Sale of Children, Child 
+Prostitution and Child Pornography, paras. 10, 44, 
+Human Rights Council, U.N. Doc. A/HRC12/23 (July 
+13, 2009) (by Najat M’jid Maalla) (“United Nations 
+Special Rapporteur Report”). Moreover, with the rapid 
+proliferation of Internet usage, the child pornography 
+market is projected to continue growing exponen-
+tially.12 
+
+ The transformation from tangible to digital child 
+sexual abuse images has had a debilitating effect 
+on victims, as well as the governments committed to 
+
+ 
+ 12 Between 1996 and 2009, the number of people with In-
+ternet access has increased from 100 million to 1.25 billion and 
+continues to rise. Robert J. Edelmann, Exposure to Child Abuse 
+Images as Part of One’s Work: Possible Psychological Implica-
+tions, 21 J. Forensic Psychiatry & Psychol. 481 (2010). 
+
+
+
+27 
+
+battling this crime. Because images of the child’s 
+victimization are now digitalized, it is virtually im-
+possible to destroy them permanently. U.S. Sentenc-
+ing Comm’n, supra, at 112; U.S. Dep’t of Justice, The 
+National Strategy for Child Exploitation Prevention 
+and Interdiction 9 (2010); DNR, supra, at 75. Thus, 
+images of the child’s sexual abuse exist indefinitely. 
+Moreover, the Internet compounds this challenge be-
+cause child sexual abuse images can be easily dis-
+tributed and consumed countless times around the 
+world by millions of unidentified perpetrators. DNR, 
+supra, at 75. Today’s child pornography victims exper-
+ience continuing victimization by perpetrators who 
+together perpetuate the distribution and possession of 
+the victims’ sexual abuse images indefinitely.13 Jenkins, 
+supra, at 187-95. Worse, as the child pornography 
+market grows exponentially and transnationally, the 
+majority of the perpetrators are never apprehended, 
+which makes the prosecution of perpetrators and the 
+restoration of victims especially challenging. 
+
+ As child pornography victims grow older, many 
+come to realize that the images of their sexual abuse 
+will continue to exist and be consumed for the re-
+mainder of their lives, and they are largely powerless 
+
+ 
+ 13 Many child pornography market participants engage in 
+all three market stages (creation, distribution, and possession), 
+but even those who only enter the market at one point collec-
+tively participate in a market that at every stage victimizes 
+some of the most vulnerable members of society and then per-
+petuates that victimization indefinitely. See United Nations Spe-
+cial Rapporteur Report, supra, at 10-11.  
+
+
+
+28 
+
+to end the abuse.14 U.S. Sentencing Comm’n, supra, at 
+112; U.S. Dep’t of Justice, supra, at 9; DNR, supra, at 
+36, 50, 75-77. This knowledge may haunt the victims 
+for years because possessors and distributors will 
+continue to consume, and possibly distribute, the 
+images and recordings. DNR, supra, at 75. A recent 
+survey revealed that almost ninety-five percent of 
+victims suffer lifelong psychological damage and may 
+never overcome the harm, even after lifelong therapy. 
+U.S. Dep’t of Justice, supra, at D-12. The continued 
+victimization can take an extreme physical, psycho-
+logical, and financial toll on the victim and the vic-
+tim’s family. See U.S. Sentencing Comm’n, supra, at 
+112; Julia von Weiler et al., Care and Treatment of 
+Child Victims of Child Pornographic Exploitation 
+(CPE) in Germany, 16 J. of Sexual Aggression 211, 
+218-19 (2010). Victims of child pornography may have 
+difficulty maintaining jobs and relationships because 
+of the fear that people they interact with have viewed 
+the abuse images and will recognize them. See U.S. 
+Sentencing Comm’n, supra, at 113. They also worry 
+that perpetrators will use their abuse images for the 
+purposes of grooming other children in order to fa-
+cilitate subsequent sexual abuse; sexual grooming 
+
+ 
+ 14 Child sexual abuse images are becoming more violent and 
+graphic as perpetrators demand younger victims, vaginal and 
+anal penetration (sometimes with sex toys and foreign objects), 
+rape, bestiality, defecation and urination, bondage, torture, and 
+other sadistic behavior. U.S. Sentencing Comm’n, supra, at 85, 
+90-92; Internet Watch Foundation, Annual and Charity Report 8 
+(2008). 
+
+
+
+29 
+
+further expands the market and increases the num-
+ber of victims. Id. 
+
+ The psychological damage that child pornography 
+victims suffer is experienced across cultures. For 
+example, German victims report feelings of shame, 
+hate, disgust, loathing, fear, repression, guilt, and 
+speechlessness. Von Weiler, supra, at 214. Victims 
+in the United States have also reported feelings of 
+depression, anger, withdrawal, low self-esteem, and 
+feelings of worthlessness. Terre des Hommes, Full-
+screen on View: An Exploratory Study on the Back-
+ground and Psychosocial Consequences of Webcam 
+Child Sex Tourism in the Philippines 12 (2013). The 
+mere knowledge of the existence and circulation of 
+the images of the victim’s sexual abuse causes feel-
+ings of shame, humiliation, and powerlessness. Id. at 
+13. Unfortunately, these feelings do not dissipate over 
+time, but rather intensify to feelings of deep despair, 
+worthlessness, and helplessness. Id. A recent study of 
+Filipino children who were engaged by Westerners to 
+participate in live digital sexual abuse via the Inter-
+net (“webcam sex”) similarly demonstrated signifi-
+cantly higher rates of post-traumatic stress and 
+feelings of low self-esteem, worthlessness, shame, 
+guilt, and being contaminated, particularly after 
+learning that the images of their sexual abuse may 
+be available on the Internet indefinitely. Id. at 41, 
+43. 
+
+ Compounding the problems faced by victims of 
+child pornography, a recent survey among German 
+ 
+
+
+
+30 
+
+victim assistance professionals found that profes-
+sionals are ill equipped to deal with the type of psy-
+chological damage suffered by child pornography 
+victims; thus, it is difficult for victims to find effective 
+therapeutic support. Von Weiler, supra, at 218. The 
+professionals in the von Weiler study indicated that 
+“working with victims of [child pornographic exploita-
+tion] is more complex than working with child sexual 
+abuse victims.” Id. at 217. The difference in the 
+psychological harm suffered by child pornography 
+victims compared to victims of other crimes is the 
+permanent presence of the material on the Internet. 
+When the victim fully understands this reality, feel-
+ings of helplessness, powerlessness, shame, and fear 
+contribute to additional psychological stress. These 
+victims, thus, have a higher susceptibility to post-
+traumatic stress disorder, depression, and psychoses. 
+Id. at 214-19. Two-thirds of professionals working 
+with child pornography victims reported that they 
+themselves felt “deep feelings of helplessness” because 
+the victim’s sexual abuse images on the Internet were 
+permanent. Id. at 217 (emphasis added). Indeed, one-
+third of the professionals treating child pornography 
+victims experienced thoughts such as “in this situa-
+tion healing becomes impossible.” Id.  
+
+   
+
+
+
+31 
+
+C. Due to the International Nature of 
+Child Pornography in the Twenty-First 
+Century, Imposing a Proximate Cause 
+Requirement on the Plain Text of 18 
+U.S.C. §2259 Would Impede the Full Res-
+toration of Child Pornography Victims. 
+
+ As discussed in more detail in Section I, supra, 
+the international community recognizes the rights of 
+victims of child pornography to rehabilitation, social 
+reintegration, and restoration (whether through resti-
+tution, damages, or some other method). However, 
+the increasingly transnational nature of child pornog-
+raphy means that many perpetrators harm victims 
+across national borders through the distribution or 
+possession of the victim’s child sexual abuse images 
+digitally. A recent study by United States’ law en-
+forcement agencies found that 11.8 million unique 
+international IP addresses engaged in peer-to-peer 
+file sharing of child pornography between October 
+2008 and October 2009. U.S. Dep’t of Justice, supra, 
+at 14 (emphasis added). During that same period, 9.7 
+million unique IP addresses in the United States 
+engaged in peer-to-peer file sharing of child sexual 
+abuse images. Id. A 2012 report by the Internet 
+Watch Foundation in the United Kingdom found that 
+out of the 9,477 reports of websites hosting child 
+sexual abuse content outside of the United Kingdom, 
+fifty-four percent were hosted in North America, 
+thirty-seven percent were hosted in Europe, and 
+eight percent were hosted in Asia. Internet Watch 
+Foundation, supra note 14, at 14. In 2011, a trans-
+national investigation resulted in the shutdown of a 
+
+
+
+32 
+
+child pornography network, boylover.net, which 
+hosted 70,000 members worldwide. The investigation 
+was coordinated among thirteen different countries, 
+including the United States and the Netherlands, and 
+resulted in the identification of 670 suspects, 184 ar-
+rests, and the safeguarding of 230 children. More than 
+200 Children Identified and Rescued in Worldwide 
+Police Operation, Europol (Mar. 16, 2011), https://www. 
+europol.europa.eu/content/more-200-children-identified- 
+and-rescued-worldwide-police-operation. 
+
+ The transnational and digital nature of the child 
+pornography market severely restricts the ability of 
+victims to pursue restitution from most perpetrators. 
+Most countries do not have adequate child pornog-
+raphy laws, including the criminalization of child 
+pornography. See DNR, supra, at 54-55. Further, the 
+patchwork nature of child pornography laws across 
+jurisdictions hampers both law enforcement and the 
+ability of victims to pursue restoration. Many perpe-
+trators live thousands of miles away and are never 
+apprehended, let alone prosecuted. If a perpetrator 
+were convicted, the cost to the victim in pursuing 
+restitution in a foreign jurisdiction would be consid-
+erable, making recovery both impractical and unlike-
+ly. Even when a perpetrator is convicted in the 
+victim’s own jurisdiction (assuming there are legal 
+protections), a court cannot determine the specific 
+restitution proximately caused by a single offender 
+among an unknown number of offenders at a certain 
+place and point in time when the harm continues 
+indefinitely. Imposing a proximate cause requirement 
+on 18 U.S.C. §2259 makes the Mandatory Restitution 
+
+
+
+33 
+
+Statute unworkable, and thus, ineffective for victim 
+restoration. That is the fundamental problem that is 
+solved by the Fifth Circuit’s plain reading of 18 
+U.S.C. §2259. 
+
+ 
+D. Dutch Lawmakers Are Also Formulat-
+
+ing Legal Solutions to Ensure Compen-
+sation to Child Pornography Victims.  
+
+ Like the United States, the Netherlands is also 
+trying to implement an effective legal scheme to 
+ensure compensation to victims of child pornography. 
+The central provision in the Dutch Criminal Code on 
+child pornography criminalizes “an individual who 
+distributes, offers, openly exhibits, produces, imports, 
+conveys, exports, acquires, has possession of or know-
+ingly gains access to” child sexual abuse images. 
+Wetboek van Strafrecht [Sr] [Criminal Code] art. 
+240b (Neth.). The Netherlands added “knowingly 
+gaining access” to this list, in response to the Lanzarote 
+Convention, which further defines the criminalized 
+possession of pornography to include viewing of child 
+sexual abuse images using recently developed tech-
+nologies such as “cloud storage” that do not require 
+the downloading of images. Id. 
+
+ While Dutch law does not provide the same kind 
+of victim restoration as in 18 U.S.C. §2259, Sr art. 36f 
+does mandate victim compensation for all criminal 
+acts. Sr art. 36f (Neth.). Under this section, offenders 
+may be obliged to pay compensation to the State, 
+which transfers the sum without delay to the victim. 
+Sr art. 36f (Neth.). In addition, this section connects 
+
+
+
+34 
+
+compensation in criminal proceedings to the notion of 
+liability in accordance with tort law. Like Dutch 
+criminal law in general, Sr art. 36f incorporates a 
+causality theory of “reasonable attribution,” which is 
+a comprehensive amalgamation of all older theories of 
+causality that have proven inadequate under certain 
+circumstances. Jaap de Hullu, Materieel Strafrecht: Over 
+algemene leerstukken van strafrechtelijke aansprakelijkheid 
+naar Nederlands recht 173-84 (4th ed. 2009) (Neth.) 
+(explaining why condition sine qua non and proxi-
+mate cause do not suffice and how Dutch criminal law 
+has adopted the doctrine of reasonable attribution 
+consistent with tort law principles). The fundamental 
+question underlying causality examines when a court 
+can “reasonably attribute” damage to the perpetra-
+tor’s conduct. This allows judges to weigh all the 
+important circumstances in the case.  
+
+ The National Rapporteur reads the Mandatory 
+Restitution Statute’s general causation requirement 
+as similar to the Dutch theory of reasonable attribu-
+tion, both of which are less strict standards of causa-
+tion than proximate cause. In the case of possession 
+of child pornography, the victim’s harm can reasona-
+bly be attributed to the perpetrator’s consumption of 
+child pornography, as this continues the victimization 
+indefinitely.  
+
+ Dutch child pornography case law has been con-
+tinuously evolving to affirm this causal connection 
+where offenders are charged solely with possession. 
+Similar to this Court’s finding in Osborne v. Ohio, 
+Dutch courts have held that offenders who collect 
+
+
+
+35 
+
+child pornography participate in the sexual abuse 
+of children. Osborne, 495 U.S. at 111; Rb. Zutphen 18 
+november 2009, NJFS 2010, 42, ECLI:NL:RBZUT:2009: 
+BK3742 (Neth.). More recently, a Dutch court of appeals 
+held that a perpetrator contributed to the perpetua-
+tion of “this very grave violation of the interests of 
+minors.” Hof’s-Gravenhage 2 juni 2011, ECLI:NL:GHSGR: 
+2011:BR5919 (Neth.). The judgment continued, “It is 
+common knowledge that thereby [minors] can incur 
+heavy psychological (and physical) damage, which 
+can be detrimental to their further development. The 
+accused should have realized that by his actions, he 
+made a considerable contribution to the conserva- 
+tion of this extremely harmful worldwide industry.”15 
+Id. 
+
+ Dutch courts have begun to impose joint and sev-
+eral liability principles on child pornography offend-
+ers. In 2010, the United States authorities arrested 
+an individual charged with possession of child sexual 
+abuse images that originated from the Netherlands. 
+
+ 
+ 15 See also Rb. Zeeland-West Brabant 11 juli 2013, ECLI: 
+NL:RBZWB:2013:5231 (Neth.). The perpetrator was found guilty 
+of child pornography and the court stated, “Child pornography is 
+highly undesirable, in particular because its production involves 
+sexual abuse and exploitation of children. The accused should be 
+held partially responsible for that, because by collecting child 
+pornography he contributed to the conservation of the demand 
+for this material. As long as there are consumers of child por-
+nography, people who produce and distribute it will continue to 
+abuse children. To effectively combat child pornography, it is 
+therefore not only necessary to address the producers, but def-
+initely also to tackle the collectors.” 
+
+
+
+36 
+
+Dutch law enforcement found the producer of the 
+content and arrested him. The producer, Robert M., 
+had worked in daycare centers for years, where he 
+had sexually abused children and recorded the abuses 
+for distribution. Robert M.’s husband, Richard van O., 
+was charged with possession. The court held both of-
+fenders jointly and severally liable for damage caused 
+to the victims through the possession of the images, 
+and ordered Richard van O. to pay compensation to 
+dozens of children depicted in the abuse materials.16 
+Hof Amsterdam 26 april 2013, ECLI:NL:GHAMS: 
+2013:BZ8895 (Neth./Richard van O.) (Neth.). Robert 
+M. was solely liable to pay for the victims’ damages 
+caused by the original physical sexual abuse that was 
+recorded in the images. Id. Although the offenders 
+had a close personal relationship, the fact remains 
+that Richard van O. was found jointly and severally 
+liable for post-production damages to child pornogra-
+phy victims based solely on possession of the images. 
+Id. The Netherlands’ theory of causation and use of 
+joint and several liability principles to multiple of-
+fenders makes for an efficient system where victims 
+have reduced burdens to facilitate recovery of the 
+costs for their restoration. 
+
+ 
+
+ 
+ 16 Robert M. and Richard van. O.’s liability derived from a 
+violation of Article 8 of the European Convention on Human 
+Rights, the right to private life. Convention for the Protection of 
+Human Rights and Fundamental Freedoms art. 8, opened for 
+signature Nov. 4, 1950, C.E.T.S. No. 005.  
+
+
+
+37 
+
+CONCLUSION 
+
+ The United States’ treaty obligations and evolv-
+ing international legal norms support providing mean-
+ingful recovery to child pornography victims through 
+the Mandatory Restitution Statute to support their 
+restoration. Imposing proximate cause on the plain 
+language of subsections (A)-(E) would eviscerate the 
+ability of child pornography victims to obtain ade-
+quate restitution for their losses from perpetrators 
+who collectively perpetuate their victimization indef-
+initely through the production, distribution, and pos-
+session of child sexual abuse images all around the 
+globe. This Court should interpret the Mandatory 
+Restitution Statute so that the statute provides full, 
+meaningful restoration to child pornography victims.  
+
+ For these reasons, the Dutch National Rapporteur 
+supports affirming the decision of the Fifth Circuit in 
+all respects. 
+
+Respectfully submitted, 
+
+W. WARREN H. BINFORD 
+ Counsel of Record 
+PAUL J. DE MUNIZ 
+WILLAMETTE UNIVERSITY 
+ COLLEGE OF LAW 
+CHILD AND FAMILY 
+ ADVOCACY CLINIC 
+245 Winter Street Southeast 
+Salem, Oregon 97301 
+503-370-6758 
+wbinford@willamette.edu  
+
+Counsel for Amicus Curiae 
+
+
+
+i 
+
+ 
+APPENDIX 
+
+TABLE OF CONTENTS 
+
+Page 
+
+ I.   Excerpts from International Treaties Rati-
+fied by the United States .............................  A-1 
+
+a.   The Optional Protocol to the United 
+Nations Convention on the Rights of 
+the Child on the Sale of Children, 
+Child Prostitution and Child Pornog-
+raphy ......................................................  A-1 
+
+b.   The Council of Europe Convention on 
+Cybercrime .............................................  A-4 
+
+c.   The International Labour Organiza-
+tion Convention No. 182 on the Prohi-
+bition and Immediate Action for the 
+Elimination of the Worst Forms of 
+Child Labour ..........................................  A-5 
+
+d.   The United Nations International Cov-
+enant on Civil and Political Rights .......  A-6 
+
+ II.   Relevant Excerpts from International Trea-
+ties Signed (But Not Ratified) by the United 
+States ............................................................  A-7 
+
+a.   The United Nations Convention on the 
+Rights of the Child ................................  A-7 
+
+b.   The United Nations International Cov-
+enant on Economic, Social and Cultural 
+Rights ..................................................... A-10 
+
+ III.   Relevant Excerpts from Other International 
+Instruments ................................................. A-11 
+
+ 
+
+
+
+ii 
+
+ 
+APPENDIX 
+
+TABLE OF CONTENTS – Continued 
+
+Page 
+
+a.   The Council of Europe Convention on 
+the Protection of Children against 
+Sexual Exploitation and Sexual Abuse 
+(Lanzarote Convention) ......................... A-11 
+
+b.   The United Nations Declaration on 
+the Elimination of Violence against 
+Women ................................................... A-15 
+
+c.   The United Nations 1959 Declaration 
+of the Rights of the Child ...................... A-17 
+
+d.   The United Nations Universal Decla-
+ration of Human Rights ........................ A-19 
+
+e.   The League of Nations 1924 Geneva Dec-
+laration of the Rights of the Child ........ A-20 
+
+ IV.   Relevant Excerpts from Foreign Law ......... A-22 
+
+a.   European Union Law ............................ A-22 
+
+i.  European Union Directive 2011/92/EU 
+on Combating the Sexual Abuse 
+and Sexual Exploitation of Children 
+and Child Pornography, and Replac-
+ing Council Framework Decision 
+2004/68/JHA ..................................... A-22 
+
+ii.  European Union Directive 2012/29/EU 
+Establishing Minimum Standards 
+on the Rights, Support and Protection 
+of Victims of Crime, and Replacing 
+Council Framework Decision 2001/ 
+220/JHA ............................................ A-24 
+
+b.   The Dutch Criminal Code ..................... A-26 
+
+
+
+A-1 
+
+RELEVANT EXCERPTS FROM INTERNATIONAL 
+TREATIES RATIFIED BY THE UNITED STATES 
+
+The Optional Protocol to the United 
+Nations Convention on the Rights of the 
+
+Child on the Sale of Children, Child 
+Prostitution and Child Pornography 
+
+Provision  Excerpts from the Optional Protocol 
+
+Preamble, 
+para. 6 
+
+“Concerned about the growing
+availability of child pornography 
+on the Internet and other evolving 
+technologies . . . .” 
+
+Article 1  “State Parties shall prohibit . . .
+child pornography . . . .”  
+
+Article 2(c) “Child pornography means any
+representation, by whatever means, 
+of a child engaged in real or simulated 
+explicit sexual activities or any 
+representation of the sexual parts of 
+a child for primarily sexual purposes.”
+
+Article 3(1)  “Each state Party shall ensure that,
+as a minimum, the following acts and 
+activities are fully covered under its 
+criminal or penal law, whether these 
+offences are committed domestically 
+or transnationally or on an individual 
+or organized basis:  
+
+(c) Producing, distributing, dis-
+seminating, importing, ex-
+porting, offering, selling or 
+possessing for the above pur-
+poses child pornography as 
+defined in Article 2.” 
+
+
+
+A-2 
+
+Article 3(3) “Each State Party shall make
+these offences punishable by 
+appropriate penalties that take 
+into account their grave nature.” 
+
+Article 3(4)  “Subject to the provisions of its
+national law, each State Party shall 
+take measures, where appropriate, to 
+establish the liability of legal persons 
+for offences established in paragraph 1 
+of the present Article. Subject to the 
+legal principles of the State Party, 
+this liability of legal persons may be 
+criminal, civil or administrative.” 
+
+Article 8(1)  “States Parties shall adopt appropriate 
+measures to protect the rights and 
+interests of child victims of the practices
+prohibited under the present Protocol 
+at all stages of the criminal justice 
+process, in particular by: 
+
+(a) Recognizing the vulnerability 
+of child victims and adapting 
+procedures to recognize their 
+special needs . . . ; 
+
+(d) Providing appropriate support 
+services to child victims 
+throughout the legal process;
+
+(e) Protecting, as appropriate, 
+the privacy and identity of 
+child victims and taking 
+measures in accordance with 
+national law to avoid the 
+inappropriate dissemination 
+of information that could 
+
+
+
+A-3 
+
+lead to the identification
+of child victims; 
+
+(g) Avoiding unnecessary delay 
+in the disposition of cases 
+and the execution of orders or
+decrees granting compensation
+to child victims.”  
+
+Article 8(3)  “States Parties shall ensure that, in 
+the treatment by the criminal justice 
+system of children who are victims of 
+the offences described in the present 
+Protocol, the best interest of the child 
+shall be a primary consideration.”  
+
+Article 9(3)  “States Parties shall take all feasible 
+measures with the aim of ensuring 
+all appropriate assistance to victims 
+of such offences, including their full 
+social reintegration and their full 
+physical and psychological recovery.” 
+
+Article 9(4)  “States Parties shall ensure that all 
+child victims of the offences described 
+in the present Protocol have access to 
+adequate procedures to seek, without 
+discrimination, compensation for 
+damages from those legally responsible.”
+
+Article 10(1) “States Parties shall take all necessary 
+steps to strengthen international 
+cooperation by multilateral, regional 
+and bilateral arrangements for the 
+prevention, detection, investigation, 
+prosecution and punishment of those 
+responsible for acts involving . . . 
+child pornography . . . .” 
+
+
+
+A-4 
+
+The Council of Europe 
+Convention on Cybercrime 
+
+Provision  Excerpts from the Convention
+on Cybercrime 
+
+Article 9(1)  “Each Party shall adopt such legislative
+and other measures as may be 
+necessary to establish as criminal 
+offences under its domestic law, 
+when committed intentionally and 
+without right, the following conduct:  
+
+(a) producing child pornography 
+for the purpose of its 
+distribution through a 
+computer system; 
+
+(b) offering or making available 
+child pornography through a 
+computer system; 
+
+(c) distributing or transmitting 
+child pornography through a 
+computer system;  
+
+(d) procuring child pornography 
+through a computer system 
+for oneself or for another 
+person; 
+
+(e) possessing child pornography 
+in a computer system or 
+on a computer data 
+storage medium.”  
+
+   
+
+
+
+A-5 
+
+The International Labour Organization 
+Convention No. 182 on the Prohibition 
+
+and Immediate Action for the Elimination 
+of the Worst Forms of Child Labour  
+
+Provision Excerpts from ILO Convention
+No. 182 
+
+Article 3 “[T]he term ‘the worst forms of child 
+labour’ comprises: 
+
+(b) the use, procuring or offering 
+of a child for . . . the production 
+of pornography . . . ;” 
+
+Article 7(2) “Each Member shall . . . take effective 
+and time-bound measures to:  
+
+(c) provide the necessary and 
+appropriate direct assistance 
+for the removal of children 
+from the worst forms of 
+child labour and for their 
+rehabilitation and social 
+integration;” 
+
+Article 8 “Members shall take appropriate
+steps to assist one another . . . 
+through enhanced international 
+cooperation and/or assistance . . . .” 
+
+   
+
+
+
+A-6 
+
+The United Nations International 
+Covenant on Civil and Political Rights 
+
+Provision Excerpts from the International 
+Covenant on Civil and Political Rights
+
+Article 24(1) “Every child shall have, without any 
+discrimination as to race, colour, sex, 
+language, religion, national or social 
+origin, property or birth, the right to 
+such measures of protection as are 
+required by his status as a minor, on the 
+part of his family, society and the State.”
+
+ 
+
+ 
+  
+
+
+
+A-7 
+
+RELEVANT EXCERPTS FROM 
+INTERNATIONAL TREATIES SIGNED (BUT 
+NOT RATIFIED) BY THE UNITED STATES 
+
+The United Nations Convention 
+on the Rights of the Child  
+
+Provision  Excerpts from the Convention
+on the Rights of the Child  
+
+Preamble 
+para. 7 
+
+“Considering that the child should be 
+fully prepared to live an individual life 
+in society, and brought up in the spirit 
+of . . . peace, dignity, tolerance, free-
+dom, equality and solidarity . . . . ”  
+
+Article 3(1) “In all actions concerning children
+. . . [in] courts of law . . . the best 
+interests of the child shall be 
+a primary consideration.” 
+
+Article 3(2)  “States Parties undertake to ensure 
+the child such protection and care as is 
+necessary for his or her well-being . . . .” 
+
+Article 6(2)  “States Parties shall ensure to the 
+maximum extent possible the 
+survival and development of the child.”
+
+Article 16(1)  “No child shall be subjected to . . . 
+unlawful interference with his or her 
+privacy . . . nor to unlawful attacks 
+on his or her honour and reputation.”  
+
+Article 16(2)  “The child has the right to the
+protection of the law against 
+such interference or attacks.”  
+
+ 
+
+
+
+A-8 
+
+Article 19(1)  “States Parties shall take all appropriate 
+legislative, administrative, social and 
+education measures to protect the 
+child from all forms of physical or 
+mental violence, injury or abuse, 
+neglect or negligent treatment, 
+maltreatment or exploitation, 
+including sexual abuse . . . .” 
+
+Article 19(2)  “Such protective measures should,
+as appropriate, include effective 
+procedures for the establishment 
+of social programmes to provide 
+necessary support for the child and 
+for those who have the care of the 
+child, as well as for other forms of 
+prevention and for identification, 
+reporting, referral, investigation, 
+treatment and follow-up of instances 
+of child maltreatment described 
+heretofore, and, as appropriate, 
+for judicial involvement.” 
+
+Article 24(1)  “States Parties recognize the right
+of the child to the enjoyment of the 
+highest attainable standard of health 
+and to facilities for the treatment of 
+illness and rehabilitation of health.”  
+
+Article 27(1)  “States Parties recognize the right of 
+every child to a standard of living 
+adequate for the child’s physical, mental, 
+spiritual, moral and social development.”
+
+ 
+ 
+ 
+
+
+
+A-9 
+
+Article 34 “States Parties undertake to protect 
+the child from all forms of sexual 
+exploitation and sexual abuse. For 
+these purposes, States Parties shall 
+in particular take all appropriate 
+national, bilateral and multilateral 
+measures to prevent:  
+
+(a) The inducement or coercion 
+of a child to engage in any 
+unlawful sexual activity; 
+
+(b) The exploitative use of children 
+in prostitution or other 
+unlawful sexual practices; 
+
+(c) The exploitative use of 
+children in pornographic 
+performance and materials.” 
+
+Article 39 “States Parties shall take all appropriate 
+measures to promote physical and 
+psychological recovery and social 
+reintegration of a child victim of: 
+any form of neglect, exploitation, or 
+abuse; torture or any other form of 
+cruel, inhuman or degrading 
+treatment or punishment; or armed 
+conflicts. Such recovery and 
+reintegration shall take place in an 
+environment which fosters the health, 
+self-respect and dignity of the child.” 
+
+   
+
+
+
+A-10 
+
+The United Nations International Covenant 
+on Economic, Social and Cultural Rights 
+
+Provision Excerpts from the International 
+Covenant on Economic, Social 
+and Cultural Rights 
+
+Article 10 “The States Parties to the present 
+Covenant recognize that: 
+
+(3) Special measures of protection and 
+assistance should be taken on be-
+half of all children and young per-
+sons without any discrimination for 
+reasons of parentage or other con-
+ditions. Children and young per-
+sons should be protected from 
+economic and social exploitation. 
+Their employment in work harmful 
+to their morals or health or dan-
+gerous to life or likely to hamper 
+their normal development should 
+be punishable by law . . . .” 
+
+Article 12(2) “The steps to be taken by the States 
+Parties to the present Covenant . . . 
+shall include those necessary for: 
+
+(a) [T]he healthy development  
+of the child; 
+
+(b) The creation of conditions 
+which would assure to all 
+medical service and medical 
+attention . . . .”  
+
+   
+
+
+
+A-11 
+
+RELEVANT EXCERPTS FROM 
+OTHER INTERNATIONAL INSTRUMENTS 
+
+The Council of Europe Convention on 
+the Protection of Children against 
+
+Sexual Exploitation and Sexual Abuse 
+(Lanzarote Convention)  
+
+Provision Excerpts from the 
+Lanzarote Convention 
+
+Article 11(1)  “Each Party shall establish effective 
+social programmes and set up 
+multidisciplinary structures to provide 
+the necessary support for victims, 
+their close relatives and for any person 
+who is responsible for their care.” 
+
+Article 14(1)  “Each Party shall take the necessary 
+legislative or other measures to assist 
+victims, in the short and long term, in 
+their physical and psycho-social recovery. 
+Measures taken pursuant to this 
+paragraph shall take due account of 
+the child’s views, needs and concerns.” 
+
+Article 14(2)  “Each Party shall take measures, under 
+the conditions provided for by its internal 
+law, to co-operate with non-governmental 
+organisations, other relevant organisations 
+or other elements of civil society 
+engaged in assistance to victims.” 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+A-12 
+
+Article 20(1)  “Each Party shall take the necessary 
+legislative or other measures to ensure 
+that the following intentional conduct, when 
+committed without right, is criminalised: 
+
+(a) producing child pornography; 
+
+(b) offering or making available 
+child pornography; 
+
+(c) distributing or transmitting 
+child pornography; 
+
+(d) procuring child pornography for 
+oneself or for another person; 
+
+(e) possessing child pornography;  
+
+(f) knowingly obtaining access, 
+through information and 
+communication technologies, 
+to child pornography.” 
+
+Article 24(1) “Each Party shall take the necessary 
+legislative or other measures to 
+establish as criminal offences, 
+when committed intentionally, 
+aiding or abetting the commission 
+of any of the offences established in 
+accordance with this Convention.” 
+
+Article 24(2) “Each Party shall take the necessary 
+legislative or other measures to 
+establish as criminal offences, when 
+committed intentionally, attempts to 
+commit the offences established in 
+accordance with this Convention.” 
+
+ 
+ 
+
+
+
+A-13 
+
+Article 24(3) “Each Party may reserve the right not 
+to apply, in whole or in part, paragraph 
+2 to offences established in accordance 
+with Article 20, paragraph 1.b, d, e 
+and f, Article 21, paragraph 1.c, 
+Article 22 and Article 23.” 
+
+Article 27(1) “Each Party shall take the necessary 
+legislative or other measures to ensure 
+that the offences established in 
+accordance with this Convention are 
+punishable by effective, proportionate 
+and dissuasive sanctions, taking 
+into account their seriousness. These 
+sanctions shall include penalties 
+involving deprivation of liberty 
+which can give rise to extradition.”  
+
+Article 28 “Each Party shall take the necessary 
+legislative or other measures to ensure 
+that the following circumstances . . . 
+may . . . be taken into consideration as 
+aggravating circumstances in the 
+determination of the sanctions in 
+relation to the offences established 
+in accordance with this Convention: 
+
+(a) the offence seriously damaged 
+the physical or mental health 
+of the victim; 
+
+(b) the offence was preceded or 
+accompanied by acts of torture 
+or serious violence; 
+
+(c) the offence was committed 
+against a particularly 
+vulnerable victim;” 
+
+
+
+A-14 
+
+Article 30(1) “Each Party shall take the necessary 
+legislative or other measures to 
+ensure that investigations and 
+criminal proceedings are carried 
+out in the best interests and 
+respecting the rights of the child.”  
+
+Article 30(2)  “Each Party shall adopt a protective 
+approach towards victims, ensuring 
+that the investigations and criminal 
+proceedings do not aggravate the trauma 
+experienced by the child and that the 
+criminal justice response is followed 
+by assistance, where appropriate.”  
+
+Article 31(1) “Each Party shall take the necessary 
+legislative or other measures to protect 
+the rights and interests of victims . . . 
+by: 
+
+(g) providing for their safety . . . 
+from intimidation, retaliation 
+and repeat victimization;” 
+
+Article 38 “The Parties shall co-operate with each 
+other, in accordance with the provisions 
+of this Convention, and through the 
+application of relevant applicable 
+international and regional instruments, 
+arrangements agreed on the basis of 
+uniform or reciprocal legislation and 
+internal laws, to the widest extent 
+possible, for the purpose of:  
+
+(a) preventing and combating 
+sexual exploitation and sexual 
+abuse of children;  
+
+
+
+A-15 
+
+(b) protecting and providing
+assistance to victims;  
+
+(c) investigations or proceedings 
+concerning the offences 
+established in accordance 
+with this Convention.” 
+
+ 
+The United Nations Declaration on the 
+Elimination of Violence against Women 
+
+Provision  Excerpts from the Declaration
+on the Elimination of 
+Violence against Women  
+
+Article 2 “Violence against women shall be 
+understood to encompass, but not 
+be limited to, the following: 
+
+(a) Physical, sexual and psycho-
+logical violence occurring in 
+the family, including batter-
+ing, sexual abuse of female 
+children in the household, 
+dowry-related violence, mari-
+tal rape, female genital muti-
+lation and other traditional 
+practices harmful to women, 
+non-spousal violence and vio-
+lence related to exploitation;  
+
+(b) Physical, sexual and psycho-
+logical violence occurring 
+within the general commun-
+ity, including rape, sexual 
+abuse, sexual harassment 
+and intimidation at work, in 
+
+
+
+A-16 
+
+educational institutions and 
+elsewhere, trafficking in 
+women and forced prostitution;
+
+(c) Physical, sexual and psycho-
+logical violence perpetrated 
+or condoned by the State, 
+wherever it occurs.” 
+
+Article 4 “States should condemn violence 
+against women and should not invoke 
+any custom, tradition or religious 
+consideration to avoid their obligations 
+with respect to its elimination. States 
+should pursue by all appropriate 
+means and without delay a policy 
+of eliminating violence against 
+women and, to this end, should: 
+
+(d) Develop penal, civil, labour 
+and administrative sanctions 
+in domestic legislation to 
+punish and redress the wrongs 
+caused to women who are 
+subjected to violence; women 
+who are subjected to violence 
+should be provided with 
+access to the mechanisms of 
+justice and, as provided for 
+by national legislation, to just 
+and effective remedies for the 
+harm that they have suffered;
+
+(g) Work to ensure, to the maxi-
+mum extent feasible in the 
+light of their available re-
+sources and, where needed, 
+
+
+
+A-17 
+
+within the framework of
+international cooperation, 
+that women subjected to vio-
+lence and, where appropriate, 
+their children have special-
+ized assistance, such as reha-
+bilitation, assistance in child 
+care and maintenance, treat-
+ment, counselling, and health 
+and social services, facilities 
+and programmes, as well 
+as support structures, and 
+should take all other appro-
+priate measures to promote 
+their safety and physical and 
+psychological rehabilitation.” 
+
+ 
+The United Nations 1959 
+
+Declaration on the Rights of the Child 
+
+Provision Excerpts from the 1959 Declaration 
+on the Rights of the Child 
+
+Preamble “Whereas the peoples of the United Nations
+have, in the Charter, reaffirmed their 
+faith in fundamental human rights and 
+in the dignity and worth of the human 
+person, and have determined to promote 
+social progress and better standards of 
+life in larger freedom,  
+
+Whereas the United Nations has, in the 
+Universal Declaration of Human Rights, 
+proclaimed that everyone is entitled to all 
+the rights and freedoms set forth therein, 
+without distinction of any kind, such as 
+
+
+
+A-18 
+
+race, colour, sex, language, religion, 
+political or other opinion, national or social
+origin, property, birth or other status,  
+
+Whereas the child, by reason of his 
+physical and mental immaturity, needs 
+special safeguards and care, including 
+appropriate legal protection, before 
+as well as after birth,  
+
+Whereas the need for such special 
+safeguards has been stated in the 
+Geneva Declaration of the Rights of the 
+Child of 1924, and recognized in the 
+Universal Declaration of Human Rights 
+and in the statutes of specialized 
+agencies and international organizations 
+concerned with the welfare of children,  
+
+Whereas mankind owes to the child 
+the best it has to give . . . .” 
+
+Principle 2 “The child shall enjoy special protection, 
+and shall be given opportunities and 
+facilities, by law and by other means, to 
+enable him to develop physically, mentally, 
+morally, spiritually and socially in a 
+healthy and normal manner and in 
+conditions of freedom and dignity. In 
+the enactment of laws for this purpose, 
+the best interests of the child shall be 
+the paramount consideration.” 
+
+Principle 9 “The child shall be protected against all 
+forms of neglect, cruelty and exploitation. 
+He shall not be the subject of traffic, in 
+any form. The child shall not be admitted 
+to employment before an appropriate 
+
+
+
+A-19 
+
+minimum age; he shall in no case be 
+caused or permitted to engage in any 
+occupation or employment which 
+would prejudice his health or education, 
+or interfere with his physical, mental 
+or moral development.” 
+
+ 
+The United Nations Universal 
+Declaration of Human Rights 
+
+Provision Excerpts from the Universal
+Declaration of Human Rights  
+
+Article 25(1)  “Everyone has the right to a standard 
+of living adequate for the health and 
+well-being of himself and of his family, 
+including food, clothing, housing and 
+medical care and necessary social 
+services, and the right to security 
+in the event of unemployment, 
+sickness, disability, widowhood, old 
+age or other lack of livelihood in 
+circumstances beyond his control.” 
+
+Article 25(2)  “Motherhood and childhood are entitled 
+to special care and assistance . . . .” 
+
+   
+
+
+
+A-20 
+
+The League of Nations 1924 Geneva 
+Declaration of the Rights of the Child  
+
+Provision Excerpts from the 1924
+Geneva Declaration of 
+the Rights of the Child 
+
+ “By the present Declaration of the 
+Rights of the Child . . . men and 
+women of all nations, recognizing 
+that mankind owes to the Child 
+the best that it has to give, declare 
+and accept it as their duty that, 
+beyond and above all considerations 
+of race, nationality or creed: 
+
+(a) The child must be given the 
+means requisite for its normal 
+development, both materially 
+and spiritually; 
+
+(b) The child that is hungry must 
+be fed; the child that is sick 
+must be nursed; the child that 
+is backward must be helped; 
+the delinquent child must 
+be reclaimed; and the orphan 
+and the waif must be 
+sheltered and succored;  
+
+(c) The child must be the first 
+to receive relief in times 
+of distress;  
+
+(d) The child must be put in a 
+position to earn a livelihood,  
+
+ 
+
+
+
+A-21 
+
+  and must be protected against 
+every form of exploitation;” 
+
+ 
+
+ 
+  
+
+
+
+A-22 
+
+RELEVANT EXCERPTS FROM FOREIGN LAWS 
+
+European Union Directive 2011/92/EU 
+on Combating the Sexual Abuse and 
+Sexual Exploitation of Children and 
+Child Pornography, and Replacing 
+
+Council Framework Decision 2004/68/JHA 
+
+Provision Excerpts from Directive 
+2011/92/EU 
+
+Preamble (23) “The use of seized and confiscated 
+instrumentalities and the proceeds 
+from the offences referred to in this 
+Directive to support victims’ assistance 
+and protection should be encouraged.” 
+
+Preamble (31) “Member States should consider giving 
+short and long term assistance to child 
+victims. Any harm caused by the 
+sexual abuse and sexual exploitation 
+of a child is significant and should be 
+addressed. Because of the nature of 
+the harm caused by sexual abuse and 
+sexual exploitation, such assistance 
+should continue for as long as 
+necessary for the child’s physical 
+and psychological recovery and may 
+last into adulthood if necessary.”  
+
+Preamble (32) “Framework Decision 2001/220/JHA 
+establishes a set of victims’ rights in 
+criminal proceedings, including the 
+right to protection and compensation. 
+In addition child victims of sexual 
+abuse, sexual exploitation and child 
+pornography should be given access to 
+
+
+
+A-23 
+
+legal counselling and, in accordance 
+with the role of victims in the 
+relevant justice systems, to legal 
+representation, including for the 
+purpose of claiming compensation.”  
+
+Article 18(1) “Child victims of the offences referred 
+to in Articles 3 to 7 shall be provided 
+assistance, support and protection 
+in accordance with Articles 19 
+and 20, taking into account the 
+best interests of the child.” 
+
+Article 18(2) “Member States shall take the necessary 
+measures to ensure that a child is 
+provided with assistance and support 
+as soon as the competent authorities 
+have a reasonable-grounds indication 
+for believing that a child might have 
+been subject to any of the offences 
+referred to in Articles 3 to 7.” 
+
+Article 18(3) “Member States shall ensure that, 
+where the age of a person subject to any 
+of the offences referred to in Articles 3 
+to 7 is uncertain and there are reasons 
+to believe that the person is a child, 
+that person is presumed to be a child 
+in order to receive immediate access to 
+assistance, support and protection in 
+accordance with Articles 19 and 20.” 
+
+Article 19(1) “Member States shall take the necessary
+measures to ensure that assistance 
+and support are provided to victims 
+before, during and for an appropriate 
+period of time after the conclusion of 
+
+
+
+A-24 
+
+criminal proceedings in order to enable 
+them to exercise the rights set out in 
+Framework Decision 2001/220/JHA, and
+in this Directive. Member States shall, 
+in particular, take the necessary steps 
+to ensure protection for children who 
+report cases of abuse within their family.”
+
+ 
+European Union Directive 2012/29/EU 
+Establishing Minimum Standards on 
+the Rights, Support and Protection of 
+
+Victims of Crime, and Replacing Council 
+Framework Decision 2001/220/JHA 
+
+Provision Excerpts from 
+Directive 2012/29/EU 
+
+Preamble (5)  “The resolution of the European
+Parliament of 26 November 2009 on 
+the elimination of violence against 
+women called on the Member States 
+to improve their national laws and 
+policies to combat all forms of violence 
+against women and to act in order to 
+tackle the causes of violence against 
+women, not least by employing 
+preventative measures, and called 
+on the Union to guarantee the 
+right to assistance and support 
+for all victims of violence.”  
+
+Preamble (51) “The Member State of the victim’s
+residence should provide assistance, 
+support and protection required for 
+the victim’s need to recover.”  
+
+
+
+A-25 
+
+Article 8(1) “Member States shall ensure that 
+victims, in accordance with their 
+needs, have access to confidential 
+victim support services, free of charge, 
+acting in the interests of the victims 
+before, during and for an appropriate 
+time after criminal proceedings.”  
+
+Article 9(1) “Victim support services, as referred
+to in Article 8(1), shall, as a minimum, 
+provide:  
+
+(a) information, advice and 
+support relevant to the 
+rights of victims including 
+on accessing national 
+compensation schemes for 
+criminal injuries, and on 
+their role in criminal 
+proceedings including 
+preparation for attendance 
+at the trial; 
+
+(b) information about or direct 
+referral to any relevant 
+specialist support services 
+in place;  
+
+(c) emotional and, where available, 
+psychological support;  
+
+(d) advice relating to financial 
+and practical issues arising 
+from the crime;  
+
+(e) unless otherwise provided 
+by other public or private 
+services, advice relating to 
+
+
+
+A-26 
+
+the risk and prevention
+of secondary and repeat 
+victimisation, of intimidation 
+and of retaliation.”  
+
+Article 16(1) “Member States shall ensure that,
+in the course of criminal proceedings, 
+victims are entitled to obtain a 
+decision on compensation by the 
+offender, within a reasonable time, 
+except where national law provides 
+for such a decision to be made in 
+other legal proceedings.”  
+
+Article 16(2) “Member States shall promote 
+measures to encourage offenders 
+to provide adequate compensation 
+to victims.” 
+
+ 
+The Dutch Criminal Code 
+
+Provision Excerpts from the Dutch
+Criminal Code 
+
+Article 36f(1) “By court ruling whereby a person is 
+convicted for a criminal offence, that 
+person may be obliged to pay the State 
+a sum of money for the benefit of the 
+victim. The State shall pay the amount 
+received to the victim immediately.” 
+
+Article 36f(2) “The court may impose an order if and 
+insofar as under civil law the suspect 
+is liable towards the victim for the 
+damage caused by the criminal offence.”
+
+ 
+
+
+
+A-27 
+
+Article 36f(3) “The order may be imposed together 
+with punishments and other orders.” 
+
+Article 36f(4) “Sections 24a and 24b, subsection one 
+to and including four, are applicable 
+mutatis mutandis, on the understanding 
+that the increase of the amount due 
+by virtue of the order shall be paid 
+into the public funds of the State.” 
+
+Article 36f(5) “Payment by the convicted person
+to the State, shall in the first place 
+go towards the payment of the order 
+and subsequently for the increases 
+pursuant to subsection four.” 
+
+Article 36f(6) “Sections 24c and 77l, subsection two 
+to and including six, are applicable 
+mutatis mutandis, on the understanding 
+that the application of default detention 
+or default juvenile detention does not 
+take away the obligation pursuant to 
+the order to pay damages to the victim.”
+
+3.1 Article 240b “1. A term of imprisonment of not 
+more than four years or a fine of the 
+fifth category shall be imposed on 
+any person who disseminates, offers, 
+publicly displays, manufactures, 
+imports, forwards, exports, acquires, 
+or possesses an image – or a data 
+carrier containing an image – of a 
+sexual act in which a person who has 
+apparently not yet attained the age of 
+eighteen is involved or appears to be 
+involved, or who gains access to such 
+an image by means of a computerized 
+
+
+
+A-28 
+
+device or system or through a
+communication service. 
+
+2. A term of imprisonment of not 
+more than eight years or a fine of 
+the fifth category shall be imposed 
+on any person who commits any of 
+the offences described in Section 1 
+by profession or custom.” 
+
+ 
+
+ 
+
+

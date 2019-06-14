@@ -1,0 +1,4326 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Documents and Settings\Willem-Jan\Bureaublad\nrm\werkbestand.wpd
+
+
+Trafficking in
+human beings
+
+Supplementary figures
+
+Second report of the
+Dutch National Rapporteur
+
+A.G. Korvinus (Dutch National Rapporteur on Trafficking in Human Beings)
+
+E.M.H. van Dijk
+D.A.C. Koster
+M. Smit
+
+    bureau nrm
+    the hague
+    2003
+
+
+
+
+
+Table of Contents
+
+List of abbreviations v
+
+1 Introduction 1
+
+2 Victim records kept by the Dutch Foundation against 
+Trafficking in Women 3
+
+2.1 Introduction 3
+2.2 Countries/regions of origin 3
+2.3 Age and sex 6
+2.4 The reporters 6
+
+3 The B-9 regulation 9
+
+3.1 Introduction 9
+3.2 Description of the B-9 regulation 9
+3.3 Research method 10
+3.4 Applications for and grants of a B-9 permit 11
+3.5 (Background) characteristics of people with (an application for) a 
+
+B-9 permit 12
+
+4 Police investigation into trafficking in human beings 21
+
+4.1 Introduction 21
+4.2 Research method 21
+4.3 Police investigations into trafficking in human beings in 1997-2001 22
+4.4 Suspects of trafficking in human beings 25
+4.5 Modus operandi of traffickers in human beings 32
+
+4.5.1 Recruitment and countries of origin 32
+4.5.2 Travel route and travel and residence documents 35
+4.5.3 Exploitation in prostitution 37
+
+4.6 Prostitution sectors involved 40
+4.7 Victims of trafficking in human beings 41
+4.8 Proceeds of trafficking in human beings 42
+
+  4.9 Criminal activities other than trafficking in human beings 45
+
+
+
+iv Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+5 Prosecution 47
+
+5.1 Introduction 47
+5.2 Research method 47
+5.3 Trafficking in human beings cases registered with the 
+
+Public Prosecution Service 47
+5.4 The suspects 49
+5.5 Handling by the Public Prosecution Service 52
+5.6 Judgement by the court 54
+5.7 Appeal 56
+
+6 Other figures 57
+
+7 Summary and conclusions 61
+
+ 7.1 Introduction 61
+ 7.2 Victims 61
+ 7.3 Perpetrators 64
+ 7.4 Modus operandi 65
+ 7.5 Police investigation 67
+ 7.6 Prosecution 68
+ 7.7 After the lifting of the general ban on brothels 68
+
+Bibliography 69
+
+Annexes
+
+Annex 1 Notes on tables, statistics and terminology 71
+Notes on the tables presented 71
+Notes on the statistics used 71
+Notes on terminology used 72
+
+Annex 2 Supplementary tables 73
+Supplementary table to Chapter 3 73
+Supplementary tables to Chapter 4 75
+
+
+
+List of abbreviations
+
+BNRM Bureau Nationaal Rapporteur Mensenhandel (Bureau of the
+Dutch National Rapporteur on Trafficking in Human Beings)
+
+B-9 permit Temporary residence permit based on the B-9 regulation
+CFI Criminal Financial Investigation (Strafrechtelijk Financieel
+
+Onderzoek; SFO)
+CIE Criminele Inlichtingen Eenheid (Criminal Intelligence Unit)
+COMPAS Communicatiesysteem Openbaar Ministerie – Parket
+
+Administratiesysteem (Communication system Public
+Prosecution Service – Public Prosecution Office administration
+system)
+
+EU European Union
+HKS Herkenningsdienstsysteem (Identification Service System)
+IND Immigratie- en Naturalisatiedienst (Immigration and
+
+Naturalisation Service)
+INDIAC Informatie- en Analysecentrum van de Immigratie- en
+
+Naturalisatiedienst (Information and Analysis Centre of the
+Immigration and Naturalisation Service)
+
+KLPD Korps Landelijke Politiediensten (National Police Services
+Agency)
+
+KMAR Koninklijke Marechaussee (Dutch Military Police)
+N Number
+N/A Not Applicable
+NL Nederland (the Netherlands)
+NRI Nationale Recherche Informatie (National Criminal Intelligence
+
+Service)
+NRM Nationaal Rapporteur Mensenhandel (Dutch National
+
+Rapporteur on THB)
+OSCE Organization for Security and Co-operation in Europe
+PPM/dNP Project Prostitutie en Mensenhandel/de Nederlandse Politie
+
+(Prostitution and THB Project/the Dutch Police)
+PPS Public Prosecution Service
+Sd Standard deviation
+SFO Strafrechtelijk financieel onderzoek (Criminal Financial
+
+Investigation; CFI)
+SHOP Stichting Hulpverlening en Opvang Prostituees (Foundation for
+
+Support and Reception of Prostitutes)
+SiBa Statistische Informatievoorziening en Beleidsanalyse (Statistical
+
+Information Supply and Policy Analysis)
+STV Stichting Tegen Vrouwenhandel (Dutch Foundation against
+
+Trafficking in Women)
+THB Trafficking in Human Beings
+
+
+
+vi Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+VAS Vreemdelingen Administratie Systeem (Aliens Administration
+System)
+
+Vc Vreemdelingencirculaire (Immigration Law Circular)
+WODC Wetenschappelijk Onderzoek- en Documentatiecentrum
+
+
+
+1 This, in accordance with the UN protocol on THB signed by the Netherlands, in order to
+criminalise forms of exploitation other than just in the sex industry as THB.
+
+2 The B-9 regulation offers aliens who are possibly victims of THB and aliens who are witnesses
+of THB the opportunity to temporarily stay legally in the Netherlands.
+
+1 Introduction
+
+This is the English translation of a somewhat shortened and revised version of the
+second report of the Dutch National Rapporteur on Trafficking in Human Beings
+(NRM). This second report contains supplementary numerical information. It must be
+seen and read in conjunction with the first report that contains all sorts of background
+information and is of a more reflective nature.
+
+This report presents updated figures together with already published numerical data,
+in order to show possible trends. The report includes a lot of tables and makes use of
+statistics. For notes on the tables and statistics, as well as notes on the terminology
+used please refer to Annex 1.
+
+In the area of THB there are many developments that are all worth mentioning, such
+as the change in the law which is being worked on at the moment in the Netherlands,
+in connection with the broadening of the definition of trafficking in human beings
+(THB),1 the Dutch chairmanship of the Organization for Security and Co-operation in
+Europe (OSCE) and the plan to then put THB prominently on the international
+agenda, as well as the consequences of the upcoming enlargement of the European
+Union (EU). These developments will be discussed in the third report of the NRM,
+which is planned for the end of 2003.
+
+For this report, many people and bodies have made information available. The Bureau
+of the Dutch National Rapporteur on THB (BNRM) is very grateful to them for this.
+A separate word of thanks goes out – in the order of the chapter layout – to the
+Information and Analysis Centre of the IND (INDIAC) for making relevant databases
+available, to Mrs. M. Verhoeven for her contribution to the police investigation and to
+Mr. P.P.J. Groen of the Statistical Information Supply and Policy Analysis (SiBa)
+department of the Scientific Research and Documentation Centre (WODC), who
+carried out the analyses of the Public Prosecution Service (PPS) database for this
+report.
+
+Chapter 2 presents data on victims of THB reported to the Dutch Foundation against
+Trafficking in Women (STV) in 2001. 
+Chapter 3 contains information on B-9 applications2 and the decision taken on these. 
+Chapter 4 focuses on investigation by the Dutch police in the field of THB. 
+Chapter 5 contains data on THB cases registered with the PPS, their handling by the
+PPS and judgement by the court.
+
+
+
+2 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Chapter 6 contains a brief review of the figures regarding prostitution and THB,
+originating from research carried out by BNRM and elsewhere.
+The final Chapter 7 gives a summary of the data presented in the preceding chapters,
+looked at in relationship to one another and with a commentary. No far-reaching
+conclusions and recommendations are however given: the conclusions and
+recommendations formulated in the first report still apply in full, the cabinet
+viewpoint on these has only recently been published and – at the time this second
+report was written – still has to be discussed in the Lower House. The next, third,
+report will, however, again contain extensive conclusions and recommendations. 
+Finally, it is also important to mention that this third report will include figures
+regarding 2002 that are comparable with those in the present report. It will then be
+clearer whether changes are taking place since the lifting of the general ban on
+brothels and, if so, what these are.
+
+
+
+1 Because of its history the STV focuses in particular on female victims of THB, the expertise
+embodied within the STV also lies mainly in this area and in its publications the Foundation
+talks almost exclusively about women and uses the term ‘trafficking in women’ (and not
+‘trafficking in human beings’). If, however, male victims are reported to it, they are also
+recorded (verbal information from STV).
+
+2 Work is at present being carried out on computerising the record system, for which the STV
+received a subsidy in the autumn of 2001.
+
+2 Victim records kept by the Dutch Foundation against
+Trafficking in Women
+
+2.1 Introduction
+
+The STV records reports on (possible) victims of THB.1 Reports come for example
+from the police, reception facilities, individuals, the Dutch Refugee Council
+(Vluchtelingenwerk Nederland) and asylum-seeker centres, as well as from (youth)
+victim support organisations. There are also anonymous reports (STV, 2001; 2002).
+For a number of reasons the records do not give a realistic picture of the character and
+scale of THB in the Netherlands. The STV is dependent on third parties for reports
+(STV, 2002). Not all the victims, however, come to the knowledge of these third
+parties. In addition, it appears that not all the victims for whom that does apply are
+reported to the STV. Furthermore, the fact is that in 2001 the STV was less accessible
+because of a lack of resources and due to undermanning, which led to a reduction in
+the number of cases reported. A further complication is that to date the STV has been
+working with a (non-computerised) record system, which does not distinguish
+between requests for advice and consultation on the one hand and actual direct
+involvement with victims on the other.2 Although on the basis of identity and other
+indicators, double-counting is as far as possible avoided, this cannot entirely be
+excluded. This means that the victims recorded by the STV not only represent an
+unknown selection as regards character and scale of the total number of victims of
+THB in the Netherlands, but also of the number of victims that come into contact with
+the police and victim support organisations. The STV, for that matter, comments on
+this itself that the victims that are reported to it usually do know one or more women
+who are also (possible) victims of THB, but who have not been reported to the STV
+(STV 2001; 2002) and that the number of victims reported must at least be doubled to
+get a realistic picture.
+
+2.2 Countries/regions of origin
+
+The (possible) victims of THB recorded by the STV, that are or were working in
+prostitution in the Netherlands, come from all over the world. The STV records make
+
+
+
+4 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+3 Over the years 1992 to 1994 a total of 324 (possible) victims of THB were notified to the STV.
+Their number rose from 70 (in 1992) to 166 (in 1994). Data on the countries of origin of the
+victims notified to the STV over this period are not included in the present report, but can be
+found in the first report (NRM, 2002) and of course in the original source (STV, 2001).
+
+4 Adjusted for the limited contactability, the number of reports in 2001 would, according to the
+STV, be comparable with the number of reports in 2000. The provisional figures for 2002
+indicate a growth (written information from the STV).  
+
+5 The STV states that both individuals and victims themselves, but also professional groups, in
+some cases report THB without giving personal details. This does not, however, explain why
+the number of reports of this type increased in 2001.
+
+a distinction by country of origin. Grouping by region (in a single case by country)
+gives the summary shown in Table 2.1.
+
+Table 2.1 Origin of (possible) victims of THB reported to STV (1995 to 2001 inclusive)3
+
+Region/
+country
+
+1995 1996 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N % N % N %
+
+Central and
+Eastern Europe
+
+125 78% 77 64% 117 65% 131 57% 123 43% 134 39% 142 50% 849 53%
+
+Africa 2 1% 13 11% 21 12% 45 20% 79 28% 101 30% 45 16% 306 19%
+
+Asia 5 3% 14 12% 14 8% 15 7% 26 9% 26 8% 11 4% 111 7%
+
+Latin America
++ Caribbean
+
+19 12% 5 4% 10 6% 24 11% 15 5% 7 2% 3 1%  83 5%
+
+Netherlands
+(NL)
+
+4 3% 7 6% 8 4% 13 6% 13 5% 25 7% 11 4% 81 5%
+
+Middle East 2 1% - - - - - - 3 1% 2 1% - - 7 0%
+
+Western
+Europe
+(excl. NL) 
+
+2 1% 3 2% 1 1% - - 6 2% 1 0% 2 1%  15 1%
+
+Unknown 2 1% 2 2% 9 5% - - 22 8% 45 13% 70 25% 150 9%
+
+Total 161 100% 121 100% 180 100% 228 100% 287 100% 341 100% 284 100% 1602 100%
+
+Source: STV (2001; 2002)
+
+The reduced contactability of the STV in 2001 can be seen in the low number of
+victims reported to the STV in that year. For the first time in years there has in fact
+been a fall, while other information sources and indicators show no signs of a
+reduction in the number of victims of THB in the Netherlands.4 In that year the large
+number of reports where the victim’s country of origin is not known is also striking.
+There are 70 of them, or a quarter of the total.5 The comments on the STV records
+
+
+
+2 victim records kept by the dutch foundation against trafficking in women 5
+
+6 Because 2001 differs in various respects and the question is very much whether these
+differences reflect the actual developments, that year is largely discussed separately in this
+paragraph.
+
+mentioned in the introduction that relate to their reliability and representativeness
+thus apply to an even greater extent for the records for 2001.6
+
+The table shows that the number of victims reported differs by region or country of
+origin. Over the whole period, Central and Eastern Europe is the region from where
+most victims come. The main countries of origin in this region are Bulgaria, the Czech
+Republic, Poland, the Russian Federation, Ukraine, Lithuania and Romania. Over the
+years, however, the pattern has changed. A fall has been observed in the percentage of
+Central and Eastern European victims since 1997, up to 2001. The absolute number of
+reports concerning victims from this region, however, did not change appreciably
+over the same period. The percentage fall is largely explained by the increase in total
+number of reports of victims, partly due to the rise in the number of reports
+concerning African, mainly Nigerian, victims. This number rose up to 2001,
+particularly after 1996, both in absolute numbers and percentage terms. Over the same
+period (1995 to 2001) the number of reports concerning Dutch victims and victims
+from Asia also increased – the latter mainly due to an increase in reports concerning
+victims from China – but their (percentage) share remained around the same.
+
+The number of reports relating to victims of THB from Latin America (including the
+Caribbean) increased steadily over the period from 1995 to 2001 inclusive – with the
+exception of 1998 and to a more limited extent 1999. Very small numbers of reports
+concern victims from the Middle East and Western Europe.
+Perhaps partly due to the large number of unknown countries of origin, 2001 differs in
+many respects from the above-mentioned trends. Both the number and also the
+percentage of reports relating to victims from Central and Eastern Europe increased
+in that year, while the number of reports relating to African victims fell by more than
+half in 2001 compared with the year before. Their proportion also fell in percentage
+terms, even though the percentage is calculated with respect to just the 165 reports for
+which the victims’ countries of origin were known.
+The number of reports relating to Dutch victims and victims from Asia also fell in
+2001.
+
+Whether as regards victims’ countries of origin the year 2001 heralded all sorts of
+trend breaks, or has given a distorted picture due to the comparatively small number
+of reports, is expected to become clear in the following annual reviews of the STV.
+
+
+
+6 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+2.3 Age and sex
+
+No annual reviews have been published of the age distribution of victims reported to
+the STV. Table 2.2 therefore only shows the age distribution of the victims reported in
+2001.
+
+Table 2.2 Age distribution of victims reported to the STV in 2001 
+Age category N % of total N % of 165 reports with
+
+known age
+
+10 to 14 years   2  1%   1%
+
+14 to 18 years  25  9%  15%
+
+18 to 24 years  86  30%  52%
+
+24 to 30 years  39  14%  24%
+
+30 to 40 years  12   4%   7%
+
+40 years and over   1   0%   1%
+
+Unknown 119  42% N/A
+
+Total 284 100% 100%
+
+Source: STV (2002)
+
+The large number of unknown ages in this table is striking: for 42% of the reports the
+age of the (possible) victim is not known. The victims whose age is known are in 27
+cases minors (that is 16% of the 165 reports where the age is known). The great
+majority of the victims fall in the age category from 18 to 30 years (76% of the 165). The
+STV does not report on the sex of the victims notified, but only a single case a year
+concerns men or boys (verbal and written information from the STV). 
+
+2.4 The reporters
+
+Table 2.3 gives the list of numbers of reports by different categories of reporters in
+2001.
+
+
+
+2 victim records kept by the dutch foundation against trafficking in women 7
+
+7 It is rather confusing in this respect that the STV has classed organisations for Youth care and
+guardianship under reception facilities. 
+
+8 These are organisations that provide prostitutes with medical care and information at the
+workplace or during special surgeries.
+
+Table 2.3 Reporters of victims of THB in 2001
+Reporter N %
+
+Police 135 48%
+
+Anonymous  48 17%
+
+Reception facility  23  8%
+
+Individuals  18  6%
+
+Dutch Refugee Council/asylum centres  17  6%
+
+Youth victim support  12  4%
+
+Legal assistance  11  4%
+
+Victim support organisation   8  3%
+
+Victim him/herself   6  2%
+
+Health care/field work   3  1%
+
+Other   3  1%
+
+Total 284 100%
+
+Source: STV (2002) 
+
+The police are responsible for almost half of the total number of reports. Also quite a
+few reports are made anonymously, in the sense that the reporter does not want to
+give either his/her name or his/her (professional) background. These reporters, like
+the victims themselves, are often reluctant to call in the authorities, out of fear of
+deportation or imprisonment (STV, 2002). Reports are also frequently received from
+reception facilities. Other reporters are (by decreasing frequency): individuals
+(prostitutes, brothel-keepers, clients, friends and partners), Dutch Refugee
+Council/asylum centres (staff of reporting centres, reception centres and asylum-
+seeker centres), organisations providing youth victim support7 and legal assistance.
+The other (categories of) reporters included in the list (such as victim support
+organisations, victims themselves, health care institutions and field work8)
+occasionally report victims to the STV. 
+
+
+
+
+
+1 Vc 2000 (April 2001, supplement 0), SDU Publishers. 
+
+3 The B-9 regulation
+
+3.1 Introduction 
+
+THB is not an offence that can only be prosecuted on the basis of a complaint.
+Reporting the offence is therefore not an absolute condition for proceeding with
+prosecution. Nevertheless, it is in practice very important for the investigation and
+prosecution of THB that both victims and witnesses report THB and that those
+reporting an offence remain available to the police and the PPS during investigation
+and prosecution. Furthermore, it is important that victims and witnesses of THB are
+offered reception and support. The so-called B-9 regulation (section B-9 of the
+Immigration Law Circular)1 is designed to open the way for this. Paragraph 3.2 briefly
+discusses the main lines of this regulation. The BNRM investigated how many
+(possible) victims and witnesses of THB over the period from 1996 to June 2002
+inclusive made an appeal for the B-9 regulation according to the records of the
+Immigration and Naturalisation Service (IND) and were granted a temporary
+residence permit on these grounds. The results of this investigation are described in
+the present chapter.
+
+3.2 Description of the B-9 regulation
+
+The B-9 regulation offers aliens who are (possibly) victims of THB, and aliens who are
+witnesses of THB, the option to temporarily stay legally in the Netherlands. In order
+to give the victim the time to decide whether she wants to report an offence, the victim
+is granted a reflection period of a maximum of three months. During these three
+months the deportation of the victim from the Netherlands is temporarily suspended.
+This reflection period does not apply for witness-informants. If the alien decides not
+to report an offence, she must leave the Netherlands immediately. If the victim or the
+witness decides to report the offence, this report is regarded as an application to grant
+a residence permit. The residence permit is issued for the duration of the investigation
+and criminal proceedings and expires when the investigation or the prosecution is
+completed or stopped. The B-9 regulation also provides certain facilities for victims
+and witnesses of THB (also for victims who are still in the reflection period phase):
+reception and shelter, medical assistance, legal assistance and special provisions for
+maintenance. 
+
+In principle, when their temporary residence permit under the B-9 regulation (further
+referred to for convenience as the B-9 permit) expires, victims of THB can attempt to
+have this converted into a permanent residence permit. As grounds for this they may
+
+
+
+10 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+2 A person may, after all, be involved in several procedures (and for each procedure have several
+contacts) with the IND.
+
+3 This is the case for 36 people (6% of the people for whom a B-9 permit was applied for).
+4 This is the case for 38 people (8% of the people to whom a B-9 permit was granted).
+
+give humanitarian reasons. BNRM has tried to investigate how many victims of THB
+follow this course, however it was not possible to discern this from the present
+records of the IND and the STV. According to reports this would only involve
+occasional cases.
+
+3.3 Research method
+
+The IND – being the authority to which applications for residence permits under the
+B-9 regulation are submitted – has, on the request of BNRM, supplied files containing
+all the contacts of people with the IND over the period from 1996 to June 2002
+involving the B-9 regulation. The files therefore contain both all the applications for
+residence permits and all permits granted under the B-9 regulation. BNRM has
+aggregated and combined all the files on a person level2. The result forms the basis for
+the analyses in the following paragraphs. 
+
+A few comments on these files are called for. Firstly: the IND does not record
+consistently and/or clearly whether applications for and grants of temporary
+residence permits are linked with the B-9 regulation. As a result the files may show
+that a person who applies for a B-9 permit is granted a temporary residence permit on
+completely different grounds (for example ‘living with partner’ or ‘working in EU’).3
+
+The reverse also happens: people who do not apply for a B-9 permit may be granted
+one.4 In the analyses it has been assumed that people who are marked either in the
+application or in the grant as B-9 had made an appeal for the B-9 regulation. They are
+then counted in both categories (applications and grants). Because an appeal for the B-
+9 regulation is not recorded by the IND as standard and compulsorily, it is possible
+that not all victims that made an appeal for the B-9 regulation have been traced.
+Secondly: THB – by the definition of the offence – does not necessarily relate to aliens.
+Dutch people or foreigners, residing legally in the Netherlands, may also become
+victims of THB. The IND data presented in this paragraph only relate to victims and
+witnesses of THB residing illegally in the Netherlands, because only then legalisation
+of residence in the Netherlands is necessary for investigation and prosecution.
+Thirdly, the IND does not record whether a person is granted a B-9 permit as a victim
+or as a witness. Furthermore, a witness may also be a victim. Different sources (e.g.
+Van Dijk, 2002) show that victims of THB find it easier to report an offence as a
+witness than as a victim. Finally it should again be noted that the IND files analysed
+only contain data on people eligible for a temporary residence permit because they
+have reported THB. Victims who are still in the reflection period are not recorded by
+the IND. 
+
+
+
+3 the b-9 regulation 11
+
+5 See Annex 1 for further explanation.
+6 It is assumed that the numbers recorded in the first half of 2002 can be approximately doubled
+
+for the whole year.
+
+3.4 Applications for and grants of a B-9 permit
+
+Table 3.1 shows how many people submitted an application for a B-9 permit to the
+IND over the period from 1996 to June 2002 inclusive and how often this was granted.
+This relates only to ‘first’ applications and grants, so not to applications for and grants
+of prolongation of the B-9 permit. Table 3.1 also indicates how big the fall/rise is
+compared with the base year 1996 (with indices)5.
+
+Table 3.1 Applications for and grants of B-9 permit, broken down by year
+Year Applications for B-9
+
+temporary residence
+permit
+
+Grants of B-9
+temporary residence
+
+permit
+
+% Granted
+
+N Index
+(1996=100)
+
+N Index
+(1996=100)
+
+%
+
+1996  70 100  46 100 66%
+
+1997  53  76  41  89 77%
+
+1998  52  74  39  85 75%
+
+1999  99 141  71 154 72%
+
+2000  72 103  58 126 81%
+
+2001 147 210 122 265 83%
+
+2002 (to June inclusive) 114 163  85 185 75%
+
+Total 607 N/A 462 N/A 76%
+
+The number of applications for and grants of B-9 permits fluctuates each year, but has
+increased considerably in the last two years.6 In total, over the period from 1996 to
+June 2002 inclusive, 607 applications for a B-9 permit were submitted and 462 B-9
+permits were granted. This means that in the investigation period for 145 applications
+(24%) no permit was granted. There are a number of reasons for this. For example,
+applications were withdrawn or expire. This happens for example if the investigation
+or the prosecution is not started or is stopped. It also happens that victims/witnesses
+who report an offence or make a statement – and appeal for the B-9 regulation –
+afterwards ‘disappear’ again. Where they go is usually not known. Possibly victims
+return to their country of origin or go back to work in prostitution – self employed or
+‘employed’ by traffickers in human beings. 
+
+
+
+12 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+7 This was – on the request of BNRM – checked at random by the IND.
+8 For 523 of the 607 people this characteristic was known.
+9 N=486 and N=37 respectively.
+10 For 385 of the 462 people this characteristic was known.
+11 N=369 and N=16 respectively.
+12 This difference is significant: Chi2=15.9, df=1, p<.01.
+
+For people who made a first application for a B-9 permit it was not always the first
+time that they came into contact with the IND. 346 people (57%) had already had
+previous contact with the IND, for example in connection with an asylum application
+or an arrest (possibly as an illegal alien, for example in case of a control in the
+prostitution circuit).7
+
+Anyway, the number of B-9 applications is only a fraction of the total number of
+applications for temporary residence permits that the IND receives (and grants) each
+year. In 1999 the total number of applications for temporary residence permits was
+20,557 and in 2000 13,271. The proportion of applications for B-9 permits out of these
+is 5 per mille for both years. The number of temporary residence permits granted in
+1999 was 15,703 and in 2000 20,218. The proportion of B-9 permits granted out of
+these is respectively 5 and 3 per mille.
+
+3.5 (Background) characteristics of people with (an application for) a B-9
+permit
+
+Sex 
+Of the victims/witnesses of THB for whom over the period from 1996 to June 2002
+inclusive a B-9 permit was applied for and whose sex is known,8 93% were women and
+7% men.9 Not all these people were granted a B-9 permit. Among those to whom a B-9
+permit was granted and whose sex is known,10 96% are women and 4% men.11 That
+means comparatively fewer B-9 permits were granted to men than to women.12 
+
+Age
+In Table 3.2 the age of the victims/witnesses with an (application for a) B-9 permit is
+presented. 
+
+
+
+3 the b-9 regulation 13
+
+13 This difference is significant: Chi2=15.5, df=5, p<.01.
+
+Table 3.2 Age of people with (application for) a B-9 permit (1996 up to and including June
+2002)
+
+Age Applications for B-9
+temporary residence permit
+
+Grants of B-9 temporary
+residence permit
+
+% Granted
+
+N % N % %
+
+0 to 11  13  2% 5  1% 38%
+
+11 to 18  59   10%  46  10% 78%
+
+18 to 26 400   66% 309  67% 77%
+
+26 to 31  88   15%  72  16% 82%
+
+31 to 41  38  6%  26  6% 68%
+
+41 and over   9  2%   4  1% 44%
+
+Total 607 100% 462 100% 76%
+
+Two thirds of all victims/witnesses of THB who applied for a B-9 permit, or to whom
+one was granted, fall in the age category from 18 to 26 years. Over 10% are minors.
+Among the minors who received a B-9 permit, there are also very young children,
+namely five aged from 0 to 10 years. Further investigation shows that this age category
+very probably includes children of victims or witnesses of THB. Particularly in the
+lowest and highest age categories (‘0 to 10 years’ and ‘41 and over’) B-9 permits are
+granted comparatively less often than in the middle age categories (respectively 38%
+and 44% awards versus 68% to 82% in the age categories between 11 and 40 years).13
+
+Table 3.3 breaks down the age of the victims/witnesses to whom a B-9 permit was
+granted by sex – where this is known.
+
+Table 3.3 Age of people with B-9 permit, broken down by sex (1996 to June 2002 inclusive)
+Age Women Men
+
+N % N %
+
+0 to 11   3   1%  1   6%
+
+11 to 18  37  10%  2  13%
+
+18 to 26 246  67%  5  31%
+
+26 to 31  59  16%  3  19%
+
+31 to 41  22   6%  3  19%
+
+41 and over   2   1%  2  13%
+
+Total 369 100% 16 100%
+
+
+
+14 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+14 Chi2=31.9, df=5, p<.01.
+15 Children (people of 10 years or younger) are kept outside the analysis.
+16 Chi2=29.5, df=4, p<.01.
+
+The age for the men varies significantly more than for women.14 Men are
+comparatively more strongly represented in the lowest and highest age categories and
+significantly less strongly in the age category from 18-25 years. This is partly explained
+by the fact that there are comparatively more children of victims among the men.
+When this is corrected,15 the difference does, however, remain significant.16 A plausible
+explanation for this is also that among the men there are comparatively more actual
+witnesses of THB. In various surveys the number of adult male victims of THB is in
+fact estimated to be low (Van Gelder, 1998; see also NRM, 2002). 
+
+Nationality
+Table 3.4 presents the nationality of victims and witnesses of THB. This table only
+includes the commonest nationalities. A table showing all the nationalities is included
+in Annex 2 (Table 1). 
+
+Table 3.4 Nationality of people with (application for) B-9 permit (1996 to June 2002
+inclusive)
+
+Nationality Applications for B-9
+permit
+
+Grants of B-9 permit % Granted
+
+N % N % %
+
+Bulgarian  95   16% 93  20% 98%
+
+Ukrainian  59   10% 42   9% 71%
+
+Nigerian  51  8% 39   8% 76%
+
+Russian  47  8% 40   9% 85%
+
+Romanian  44  7% 33   7% 75%
+
+Czech  38  6% 29   6% 76%
+
+Polish  29  5% 21   5% 72%
+
+Lithuanian  27  4% 17   4% 63%
+
+Moldavian  13  2% 12   3% 92%
+
+Slovakian  13  2% 12   3% 92%
+
+Other 161   27% 100  22% 62%
+
+Unknown  30  5% 24   5% 80%
+
+Total 607 100% 462 100% 76%
+
+
+
+3 the b-9 regulation 15
+
+17 Chi2=126.3, df=59, p<.01.
+18 For the other countries this percentage is between 71% and 81%.
+19 1, 0, 0, 1 and 4 people respectively.
+20 Because the sex of 77 people is unknown, the ‘total’ column does not add up to the total of the
+
+‘women’ and ‘men’ columns.
+
+One sixth of the victims/witnesses of THB, for whom a B-9 permit has been applied
+for, are of Bulgarian nationality. Furthermore, a comparatively large number of
+victims/witnesses are of a nationality of other countries from Central and Eastern
+Europe or of Nigerian nationality. Although the top 10 of the commonest nationalities
+for both people to whom a B-9 permit was granted and to whom a B-9 permit was not
+granted is the same, there are however significant differences between the
+victims/witnesses of different nationalities where this relates to the percentage of
+applications that results in a permit being granted.17 Of the nationalities mentioned in
+Table 3.4 the percentage of people whose applications are honoured is the highest for
+Bulgaria (94%) Moldavia (92%) and Slovakia (92%) and the lowest for Lithuanians
+(63%).18 
+
+Table 3.5 breaks down the nationalities of the victims/witnesses with a B-9 permit
+(application) by region of origin. Central and Eastern Europe is broken down here
+into Central Europe (Poland, the Czech Republic, Slovakia, Hungary), Eastern
+Europe (the former Soviet Union), the Baltic states (Estonia, Latvia, Lithuania) and
+the Balkans (countries from the former Yugoslavia, Romania, Bulgaria, Albania,
+Moldavia). The Netherlands has special relations on the one hand with Surinam,
+Indonesia and the Dutch Antilles, because they are former colonies, and on the other
+hand with Turkey and Morocco, because these are the countries where in the past
+many guest workers were recruited. Only a few victims/witnesses with B-9 permits
+originate from these five countries.19 Table 3.5 therefore classifies victims/witnesses of
+Surinam or Antillian nationality in the category ‘Latin America and Caribbean’,
+victims/ witnesses of Turkish nationality in the category Eastern Europe,
+victims/witnesses of Moroccan nationality in the category ‘Africa’ and
+victims/witnesses of Indonesian nationality in the category ‘Asia’. 
+
+Table 3.5 Region of origin of people with (application for) B-9 permit (1996 to June 2002
+inclusive)20
+
+Region of origin Applications for B-9 permit Grants of B-9 permit
+
+N % N %
+
+Western Europe  19   3%  10   2%
+
+Central Europe  85  14%  66  14%
+
+Eastern Europe 118  19%  90  19%
+
+Baltic states  41   7%  28  6%
+
+
+
+16 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Region of origin Applications for B-9 permit Grants of B-9 permit
+
+21 Chi2=15.1, df=7, p<.05.
+22 For the other regions these percentages lie between 68% and 78%.
+23 Central Europe, Eastern Europe, the Baltic states and the Balkans are combined here into
+
+Central and Eastern Europe, because the STV makes no distinction between these areas in its
+publications.
+
+Balkans 177  29% 153 33%
+
+Africa  88  15%  68  15%
+
+Latin America and Caribbean  14   2%  10   2%
+
+Asia  20   3%  13   3%
+
+Unknown  45   7%  24   5%
+
+Total 607 100% 462 100%
+
+Victims/witnesses who make use of the B-9 regulation come comparatively frequently
+from the Balkans. Eastern and Central Europe and Africa also score high. The
+percentage of applications honoured differs significantly by region.21 A B-9 permit is
+granted comparatively most often (83%) to people from the Balkans and comparatively
+least often to people from Asia and Western Europe (60% and 53% respectively).22
+
+As previously stated these data include a selection, namely of victims and witnesses,
+who report an offence or make a statement. The origin of this group therefore does
+not have to reflect the origin of all victims of THB. To gain more understanding of the
+similarities and differences, a check was made as to what extent the areas of origin as
+presented in Table 3.5 correspond with the areas of origin of victims that are recorded
+by the STV. The result is shown in Table 3.6.23 This table compares the areas of origin
+for the year 2001, being the most recent ‘full’ record year. The Netherlands is not taken
+into account as a country of origin, because Dutch victims of THB may be reported to
+the STV, but do not need a residence permit and do not therefore come into contact
+with the IND. The analyses only include the victims(/witnesses) whose country of
+origin is known. As a result, of the STV figures 70 people (25%) are left out of account,
+and 3 (2%) of the IND figures.
+
+
+
+3 the b-9 regulation 17
+
+24 Including reports where the country of origin is the Netherlands or unknown, this column
+totals 284.
+
+25 The differences in Table 3.5 are therefore not significant.
+
+Table 3.6 Origin of people with application for B-9 permit and recorded with STV in 2001
+Origin Applications for B-9 permit Recorded with STV 
+
+N % N24 %
+
+Central and Eastern Europe 115  80% 142  70%
+
+Africa  21  15%  45  22%
+
+Asia   6   4%  11   5%
+
+Western Europe   1   1%   2   1%
+
+Latin America   1   1%   3   2%
+
+Total 144 100% 203 100%
+
+The distribution of victims of THB by area of origin is more or less the same for 2001
+for the IND and STV records.25 The most important area of origin in both sets of
+records is Central and Eastern Europe. Within this area both in the STV and the IND
+figures Bulgaria, the Russian Federation and Ukraine are the three commonest
+countries of origin. In second place is Africa, with Nigeria as the most common
+country of origin in both sets of records. 
+
+Table 3.7 breaks down the areas of origin of the victims/witnesses to whom a B-9
+permit is granted, by the year the permit was granted.
+
+Table 3.7 Region of origin of people with B-9 permit, broken down by year
+Region of origin 1996 1997 1998 1999 2000 2001 2002
+
+up to
+June
+
+inclusive
+
+Total
+
+N N N N N N N N %
+
+Western Europe 1 - -  7 -  1  1  10  2%
+
+Central Europe 8  8  8 18  7 14  3  66 14%
+
+Eastern Europe 6 13  5 13  8 35 10  90 19%
+
+Baltic states 5  5  4  3  5  3  3  28  6%
+
+Balkans 5  6 13 12 20 49 48 153 33%
+
+Africa -  4 2 13 17 14 18  68 15%
+
+Latin America and
+Caribbean
+
+-  2  4  4 - - -  10   2%
+
+
+
+18 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Region of origin 1996 1997 1998 1999 2000 2001 2002
+up to
+June
+
+inclusive
+
+Total
+
+26 Chi2=146.5, df=42, p<.01.
+
+Asia  4 -  1  1 -   5  2  13   3%
+
+Unknown 17  3  2 -  1   1 -  24   5%
+
+Total 46 41 39 71 58 122 85 462 100%
+
+Per year the number of B-9 permits granted per region of origin fluctuates
+considerably and significantly.26 Striking in particular is the increase in
+victims/witnesses from the Balkans in the last two years. Furthermore, the reduction
+in victims/witnesses from Central and Eastern Europe in the last year of the
+investigation is striking, even if these annual figures are doubled (the data for 2002 do
+in fact relate to the period from January to June inclusive). 
+
+In Table 3.8 the region of origin of the victims/witnesses with a B-9 permit is broken
+down by sex – where this characteristic is known. 
+
+Table 3.8 Region of origin of people with a B-9 permit, broken down by sex (1996 to June
+2002 inclusive)
+
+Region of origin Women Men
+
+N % N %
+
+Western Europe   4   1%  6  40%
+
+Central Europe  49  15%  3  20%
+
+Eastern Europe  75  22%  1   7%
+
+Baltic states  26   8% - -
+
+Balkans 111  33%  1   7%
+
+Africa  51  15%  3  20%
+
+Latin America and
+Caribbean
+
+ 10   3% - -
+
+Asia  11   3%  1   7%
+
+Total 337 100% 15 100%
+
+
+
+3 the b-9 regulation 19
+
+27 Chi2=85.6, df=8, p<.01.
+28 Chi2=91.0, df=8, p<.01.
+
+Men with a B-9 permit significantly more often have the nationality of a country from
+Western Europe than women,27 even if children are left out of account.28
+
+
+
+
+
+1 In fact cases (against one suspect) are sent in to the PPS. For the sake of readability, however,
+we also talk of suspects ‘sent in'.
+
+2 A question was added on the border crossing into the Netherlands for victims recruited
+abroad. In addition, a check was made for suspects not arrested and/or not ‘sent in’ as to verify
+the reason for not arresting them and/or not sending them in.
+
+4 Police investigation into trafficking in human beings
+
+4.1 Introduction
+
+For an adequate approach to THB, knowledge regarding perpetrators, victims and
+modus operandi (the method of operation of the perpetrators) is vital. For this reason
+the National Criminal Intelligence Service (NRI) of the National Police Services
+Agency (KLPD), on behalf of the Board of Police Commissioners, has carried out a
+research into THB in the Netherlands. The results are published in the report
+‘Mensenhandel in Nederland 1997-2000’ (THB in the Netherlands 1997-2000) (Van Dijk,
+2002). The NRM collected police data regarding THB for the year 2001. The results of
+this follow-up research are presented in this chapter. The results from the NRI
+research are also included in this. Firstly, because the numerical data from the NRI
+research have been analysed again together with the data for 2001, so that any
+developments and trends over time can be identified. Secondly, by repeating relevant
+information and conclusions regarding THB from that report in this chapter. 
+
+4.2 Research method
+
+The research method used for the reference year 2001 is a virtually exact copy of the
+research method as used in the NRI investigation for the reference year 2000. 
+
+Research design
+In June 2002 all the police authorities who (can) carry out investigations into THB
+were approached. They were asked to report to the researchers all the investigations
+into THB completed in 2001 and sent in to the PPS (that is, one or more suspects were
+‘sent in’ to the PPS)1. From the completed investigations thus collected, a few essential
+key data regarding the THB on which the investigation focussed were then collected
+by means of telephone interviews with the team leaders of these investigations. This
+method was chosen in order to collect information quickly and efficiently. In the
+interviews the same questionnaire was used as the NRI used for the reference year
+2000, supplemented with a few questions, prompted by developments and relevance.2
+
+
+
+22 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+3 There are no cases where no offence is reported for the investigation period 1997-2000.
+Practice does, however, show that cases where no offence is reported are rarely completed and
+sent in (Van Dijk, 2002).
+
+4 The adjustment of the criterion had no noticeable consequences on the combination of the
+results for 2001 with the NRI results of Van Dijk (2002).
+
+For the NRI research both completed and discontinued investigations into THB over
+the period 1997-2000 and those still underway were surveyed. For 2001 it was decided
+only to survey and analyse investigations that had been completed and sent in to the
+PPS. This means that investigations into THB for which the victims have not reported
+the offence can be included in the analyses.3 This approach was also prompted by the
+intention of the NRM to also collect these police data for following years. By using the
+submission date as the end date of the investigation, it is clear which investigation
+must be reported to the researchers in which year.4 The choice does mean that when
+interpreting the results one must keep in mind that the start year of the investigations
+may differ. 
+
+Generalisability of the information
+The investigations analysed do concern all the investigations into THB completed and
+sent in, but must be regarded as an unknown random sample of the total number of
+THB offences in the Netherlands. After all, more offences are committed than come to
+the knowledge of the police and not all investigations are brought to a positive end (or
+sent in to the PPS). In other words: the investigations only represent part of the reality.
+It is not known how great or representative this part is. 
+
+4.3 Police investigations into trafficking in human beings in 1997-2001
+
+Number and type of completed investigations
+Table 4.1 gives a summary of the investigations completed by the police in the period
+1997-2001 and sent in to the PPS, broken down by the year in which the investigation
+was completed. An indication is always given of how big the fall/rise is with respect to
+the base year 1997 (with indices). This table also breaks down the results by the type of
+THB: cross-border or within the Netherlands. In the case of cross-border THB victims
+are recruited abroad. In the case of THB within the Netherlands victims are recruited
+in the Netherlands. One of the cases investigated involved a combination of both. This
+involved an investigation by a police region bordering Belgium, where recruitment
+was carried out mainly in the Netherlands, but occasionally also in Belgium. This
+investigation was classified as THB within the Netherlands. 
+
+
+
+4 police investigation into trafficking in human beings 23
+
+5 The percentage of investigations into THB within the Netherlands (with respect to all
+investigations) per year is respectively 25% (1997), 14% (1998), 38% (1999), 32% (2000) and 25%
+(2001).
+
+6 For 2000 these data were not collected. The question was added back into the questionnaire
+for 2001 after its relevance was ascertained.
+
+Table 4.1 Completed investigations into THB, broken down by year and type of THB
+Year Cross-border THB THB within the
+
+Netherlands
+Total
+
+N Index 
+(1997=100)
+
+N Index
+(1997=100)
+
+N Index
+(1997=100)
+
+1997 6 100 2 100 8 100
+
+1998 12 200 2 100 14 175
+
+1999 10 167 6 300 16 200
+
+2000 17 283 8 400 25 313
+
+2001 36 600 12 600 48 600
+
+Total 81 N/A 30 N/A 111 N/A
+
+The number of investigations into THB completed by the police increased
+considerably, particularly in 2001. In that year 48 investigations were completed and
+sent in to the PPS. This increase had already started in 2000, when the number of
+investigations completed was already higher than in previous years. Of the completed
+investigations in 1997-2001 27% (30) related to THB within the Netherlands and 73%
+(81) to cross-border THB. These percentages differ from year to year.5 In 1998 the
+proportion of investigations into THB within the Netherlands was the lowest (14%)
+and in 1999 the highest (38%). 
+
+Immediate cause for the investigation
+For the period 1997-1999 and 2001, the immediate cause for the investigations into
+THB was studied.6 The result – also per year – is shown in Table 4.2. The ‘initial’ cause
+for the investigation was looked for. For example, in virtually all the investigations
+completed victim(s) reported an offence at a given time. In the table below, however,
+reporting an offence is only given as a cause if the victims themselves – possibly with
+the help of third parties – went to the police to report an offence. If, on the other hand,
+regular controls by the police in the prostitution sector lead to the discovery of
+possible victims of THB, who later report an offence, the cause given is a prostitution
+control. Furthermore, investigations are started on the basis of information from the
+National Criminal Intelligence Service (CIE), tips and (residual) information from
+other investigations. The latter is for example the case if an investigation already
+started is taken over by another police region or if in an investigation (other) suspects
+emerge who justify an independent investigation. 
+
+
+
+24 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+7 Totals per column: N= 8 (1997), 14 (1998), 14 (1999), 25 (2000), 47 (2001) and 108 (total).
+
+Table 4.2 Immediate cause for the investigation, broken down by year*
+Immediate cause 1997 1998 1999 2001 Total
+
+N % N % N % N % N %
+
+Reporting an offence 4 57% 8 57% 8 50% 13 36% 33 45%
+
+Prostitution control 2 29% 1 7% 7 44% 6 17% 16 22%
+
+Other investigation 1 14% 1 7% - - 6 17% 8 11%
+
+CIE/tips - - 2 14% 1 6% 4 11% 7 10%
+
+Other - - 2 14% - - 7 19% 9 12%
+
+Total 7 100% 14 100% 16 100% 36 100% 73 100%
+
+* These data were not collected for 2000 
+
+A ‘spontaneous’ report was the cause for the investigation in almost half of the cases.
+Furthermore, controls in the prostitution sector lead to investigations comparatively
+often. The ‘other’ category often relates to incidents in a prostitution environment
+that necessitates police intervention (for example fights or assault).
+
+Duration of police investigation
+The number of months that the investigations into THB analysed took was checked.
+The result is shown in Table 4.3, broken down by the year in which the investigation
+ended.
+
+Table 4.3 Duration of investigation (in months), broken down by year7
+
+Duration of
+investigation 
+
+1997 1998 1999 2000 2001 Total
+
+% % % % % N %
+
+1-3 38% 50% 21% 28% 28% 33 31%
+
+3-7 38% 21% 29% 32% 38% 36 33%
+
+7-13 8% 21% 36% 20% 23% 26 24%
+
+13-18 - 7% 7% 8% 9% 8 7%
+
+18 or more - - 7% 12% 2% 5 5%
+
+Total 100% 100% 100% 100% 100% 108 100%
+
+A third of the investigations are completed within 2 months. This percentage rises
+after 6 months to 64%. The longest investigation took 29 months. On average an
+
+
+
+4 police investigation into trafficking in human beings 25
+
+8 Standard deviation = 5.64; N=108.
+9 Average period per year (in months): 1997: 3.6; 1998: 4.6; 1999: 7.3; 2000: 7.3; 2001: 5.8; total:
+
+6.0.
+10 Of the total number of suspects 40% were distinguished as the main suspect and 60% as
+
+accomplice suspect.
+
+investigation into THB takes 6 months.8 The average duration of the investigation did
+not change significantly over time.9 The time that a police investigation into THB
+takes depends on a number of factors. For example in the investigation by Van Dijk
+(2002) a strong relationship was found with the number of suspects on which the
+investigation focuses: the more suspects, the longer the investigation takes. On the
+other hand, investigations into cross-border THB did not take significantly longer
+than investigations into THB within the Netherlands. This is, because the ‘foreign’
+part of the criminal group is rarely investigated and traced.
+
+4.4 Suspects of trafficking in human beings
+
+Table 4.4 presents the number of suspects of THB distinguished and arrested as well
+as the number of suspects that were ‘sent in’ to the PPS, broken down by the year in
+which the investigation was completed. For the suspects distinguished an indication is
+also given of how big the fall/increase has been over the years (with indices). An
+indication is also given of what percentage of the suspects distinguished were arrested
+and ‘sent in’ in the relevant year.
+
+Table 4.4 Suspects of THB, per year
+Year Suspects distinguished Suspects arrested Suspects ‘sent in’
+
+N Index
+(1997=100)
+
+N %* N %*
+
+1997 53 100 33 62% 29 55%
+
+1998 93 176 83 89% 76 82%
+
+1999 82 155 73 89% 69 84%
+
+2000 160 302 140 88% 129 81%
+
+2001 224 419 179 80% 142 63%
+
+Total 612 N/A 508 83% 445 73%
+
+* Percentage of the number of suspects distinguished in the relevant year
+
+Over the period 1997 to 2001 inclusive the police distinguished a total of 612 suspects
+of THB.10 Of these 508 (83%) were arrested and 445 (73%) ‘sent in’ to the PPS. For 2001
+the reason why suspects distinguished were not arrested and/or ‘sent in’ to the PPS
+
+
+
+26 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+11 For example an investigation in another region or a police investigation started separately
+(focused on THB or another offence).
+
+12 N=64 (for the other 18 suspects in 2001 it was not possible to find out why they were not
+arrested/‘sent in’).
+
+was investigated. This shows that 20% of these suspects could not be found, and had
+probably gone abroad. For some of these suspects an international tracing warrant
+had been issued. For 72% of the ‘lost’ suspects police charges were dropped, because of
+the marginal role that the suspect played or because of lack of evidence. Almost half of
+these suspects themselves worked as prostitutes. Also a number of these suspects
+were residing illegally in the Netherlands. They were deported. 8% of the ‘lost’ suspects
+were ‘transferred’ to another police investigation11 or would possibly be arrested
+and/or ‘sent in’ at a later date.12 The number of suspects increased considerably
+particularly in the last two years investigated.
+Table 4.5 presents the average number of suspects per investigation for the years
+investigated. A corresponding table with standard deviations is included in Annex 2
+(Table 2).
+
+Table 4.5 Average number of suspects per investigation, per year
+Year Suspects distinguished Suspects arrested Suspects ‘sent in’
+
+N (on average) N (on average) N (on average)
+
+1997 6.6 4.1 3.6
+
+1998 6.6 5.9 5.4
+
+1999 5.1 4.6 4.3
+
+2000 6.4 5.6 5.2
+
+2001 4.7 3.7 3.0
+
+Total 5.5 4.6 4
+
+The average number of suspects distinguished, arrested and ‘sent in’ per investigation
+fell in the last year. The comparatively low average number of suspects per
+investigation – while, as discussed later in this paragraph, THB is often carried out by
+perpetrators who belong to extensive criminal networks – is partly explained by the
+fact that the number of suspects distinguished in an investigation partly depends on
+the extent to which the police take the trouble to trace the whole criminal (suspects)
+group. In most investigations, however, priority is given to tracing and prosecuting
+suspects residing and/or operating in the Netherlands (Van Dijk, 2002). Suspects who
+are not or rarely in the Netherlands (usually recruiters and intermediaries), are as a
+result left out of account in many investigations. This paragraph reports further on
+suspects arrested. 
+
+
+
+4 police investigation into trafficking in human beings 27
+
+13 N=451 (for 57 suspects the sex could not be found).
+14 The percentage of women among the suspects from 1997-2001 is respectively 32%, 16%, 18%,
+
+29% and 29%.
+
+Sex
+A quarter of the suspects arrested (26%) are female.13 The number of women among
+the suspects has increased comparatively in the last two years.14 Of the female suspects
+some were themselves victims of THB (Van Dijk, 2002). 
+
+Origin
+Table 4.6 shows the countries of origin of the suspects arrested. This table only
+includes the commonest countries of origin. A table giving all the countries of origin
+of the suspects is included in Annex 2 (Table 3). In addition to the nationality and the
+country of birth, Table 4.6 also shows the ‘origin’ of the suspects. For this last
+characteristic the background characteristics ‘nationality’ and ‘country of birth’ are
+combined as follows: if the nationality is non-Dutch or the country of birth is not the
+Netherlands, the suspect is classified as non-Netherlands country of origin. For that
+matter, the origin of the suspects thus obtained virtually corresponds to the countries
+of birth table.
+
+Table 4.6 Countries of origin of suspects of THB (1997 to 2001 inclusive)
+Country Nationality Country of Birth Origin
+
+N % N % N %
+
+Netherlands 185 42% 119 26% 116 26%
+
+(Former) Yugoslavia 54 12% 59 13% 58 13%
+
+Nigeria 30 7% 35 8% 37 8%
+
+Albania 24 5% 25 6% 27 6%
+
+Bulgaria 18 4% 18 4% 18 4%
+
+Turkey 16 4% 32 7% 33 7%
+
+Germany 14 3% 13 3% 14 3%
+
+Morocco 14 3% 19 4% 20 4%
+
+Czech Republic 11 2% 12 3% 11 2%
+
+Romania 9 2% 10 2% 10 2%
+
+Ukraine 8 2% 9 2% 9 2%
+
+Ghana 2 0% 9 2% 9 2%
+
+Dutch Antilles - - 9 2% 9 2%
+
+Other/unknown 123 24% 139 27% 137 27%
+
+Total 508 100% 508 100% 508 100%
+
+
+
+28 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+15 Looking at the ‘origin’ of the suspects.
+
+Almost half of the suspects are of Dutch nationality. Some of them were, however,
+born outside the Netherlands. Furthermore, a comparatively large number of suspects
+come from (former) Yugoslavia and, to a lesser extent, Nigeria, Turkey, Albania and
+Bulgaria. Further analyses show that suspects of cross-border THB come
+comparatively just as often from the Netherlands as suspects of THB within the
+Netherlands.15 Suspects with a foreign background from the last group do, however,
+come more frequently from Morocco, while suspects from the first group come more
+often from former Yugoslavia, Nigeria and a variety of other countries.
+Table 4.7 breaks down the nationality of the suspects by the year in which the
+investigation was completed. 
+
+Table 4.7 Nationality of suspects of THB, per year
+Nationality 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Netherlands 10 30% 17 23% 23 34% 50 51% 85 50% 185 42%
+
+(Former) Yugoslavia 1 3% 15 20% 16 24% 7 7% 15 9% 54 12%
+
+Nigeria - - - - 7 10% 11 11% 12 7% 30 7%
+
+Albania - - 7 9% 3 4% 1 1% 13 8% 24 5%
+
+Bulgaria - - 11 15% 3 4% - - 4 2% 18 4%
+
+Turkey 5 15% 6 8% 2 3% 2 2% 1 1% 16 4%
+
+Germany 2 6% 5 7% - - 1 1% 6 4% 14 3%
+
+Morocco - - 2 3% - - 10 10% 2 1% 14 3%
+
+Czech Republic - - 3 4% 2 3% 2 2% 4 2% 11 2%
+
+Romania 3 9% 1 1% 2 3% 1 1% 2 1% 9 2%
+
+Ukraine 1 3% - - - - 3 3% 4 2% 8 2%
+
+Other/unknown 11 33% 16 19% 15 21% 52 37% 31 17% 125 25%
+
+Total 33 100% 83 100% 73 100% 140 100% 179 100% 508 100%
+
+In the last year studied the number of suspects of Dutch nationality increased, also
+comparatively. Furthermore, the nationality of the suspects varies from year to year,
+whereby there seems to be no question of a clear trend.
+
+Residence status 
+For suspects of non-Dutch nationality for the years 2000 and 2001, their residence
+status was checked. This shows that 57% of the suspects reside legally in the
+Netherlands on the basis of a residence permit (usually based on living with a partner,
+
+
+
+4 police investigation into trafficking in human beings 29
+
+16 23% of these suspects are asylum-seekers. 77% have a residence permit on other grounds, for
+which a precise further breakdown based on the data collected is not possible. It is, however,
+clear that in virtually all further cases this involves a residence permit based on living with a
+partner. 
+
+17 The latter group then comes from countries with no visa obligation (for example the European
+Union or a few applicant-member states of the European Union). They can stay in the
+Netherlands for 3 to 6 months, depending on the country of origin, without a visa.
+Nevertheless, the free period expires on committing a criminal act. The perpetrator is then
+residing in the Netherlands illegally.
+
+18 N=105 (this could not be determined for all suspects of non-Dutch nationality).
+
+sometimes based on an asylum application)16 and 10% reside legally in the Netherlands
+on the basis of a visa or because they are travelling in the so-called ‘free period’.17 18 33%
+of the suspects of non-Dutch nationality reside illegally in the Netherlands. Among
+these illegals there are also suspects from countries with no visa obligation. Their
+residence has, however, become illegal because they have exceeded the ‘free period’. In
+2001 the number of suspects with a residence permit fell from 66% to 36% and the
+number of suspects residing illegally in the Netherlands rose from 10% to 42%. 
+
+Visa obligation
+A check was made as to what extent suspects of non-Dutch nationality come from
+countries for which there is no (longer a) visa obligation (for example member states
+and some of the applicant states of the EU. For this a check was made for each
+investigation as to how many suspects on the start date of the investigation were of a
+nationality of a country with or without a visa obligation. The link to the start date of
+the investigation is particularly important for countries for which the visa obligation
+was lifted during the investigation period (1997-2001), namely Estonia, Latvia and
+Lithuania (1-7-1999), Bulgaria (10-4-2001) and Romania (1-1-2002). The result of this
+exercise is shown in Table 4.8.
+
+Table 4.8 Suspects of THB, broken down by visa obligation and year
+Visa obligation 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Country without
+visa obligation
+
+8 35% 12 21% 5 11% 9 18% 23 28% 57 22%
+
+Country with
+visa obligation
+
+15 65% 46 79% 40 89% 40 82% 62 72% 203 78%
+
+Total 23 100% 58 100% 45 100% 49 100% 85 100% 260 100%
+
+
+
+30 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+19 This is the total of suspects from Central and Eastern Europe with no visa obligation (12%) and
+suspects from other countries with no visa obligation (10%).
+
+20 After all, it is not known whether they obtained the residence permit before or after an (il)legal
+residence in the Netherlands. 
+
+21 The survey group is suspects of THB in 2000 and 2001, with a foreign nationality, not having a
+residence permit. This group consists of 44 persons.
+
+22 The percentage of operators among the suspects is 15% (1997), 5% (1998), 11% (1999), 8% (2000)
+and 12% (2001) respectively.
+
+23 When one partner is a helper with a marginal role, the ‘partnership’ is categorised as a ‘soloist’.
+
+The percentage of suspects arrested that – based on their nationality – had no visa
+obligation at the time that the investigation started, is 22%.19 This percentage varies
+from year to year, but seems to have increased slightly in the last investigation year.
+Further analyses show this can be attributed to a comparatively greater influx of
+suspects from countries in Central and Eastern Europe with no visa obligation in that
+year. The percentage of suspects from these countries was in the years 1998 to 2000
+inclusive in fact 7% to 8% and in 2001 17%. These results may also be affected by factors
+other than whether or not there is a visa obligation. In addition, no account is taken of
+the fact that a number of suspects hold a residence permit. If this last group is left out
+of account20 – this may only be done for the years 2000 and 2001, because these data
+are missing for previous years – then it appears that 19 suspects (43%) upon their arrest
+came from a country with no visa obligation and 25 suspects (57%) from a country with
+a visa obligation.21 From the results taken together it is not then possible to directly
+deduce a disproportionate absence or considerable increase in the number of suspects
+from countries with no visa obligation.
+
+Operators of sex establishments
+Of the 508 suspects arrested 50 (10%) are operators of – mainly – clubs and brothels.
+This number did in fact increase per investigation year from five operators in 1997 to
+22 operators in 2001, but the percentage of operators out of the total number of
+suspects in the relevant years fluctuates somewhat.22 Many of the operators arrested
+(38, 76%) were ‘sent in’ to the PPS. 
+
+Type of partnership
+With regard to THB three forms of criminal organisation can be distinguished (Van
+Dijk, 2002). 
+Firstly, the soloist: one person has one or more girls working for him or her. This is for
+example often the case for ‘loverboy’ businesses and other forms of THB within the
+Netherlands, even where victims are also brought in from abroad. Although many
+‘pimps’ do know each other and also consult one another, these are ‘one-man
+businesses’. The pimp is sometimes assisted by a ‘helper’ who has a very marginal role,
+for example keeping an eye on the victim when the pimp is not present.
+Secondly, the isolated criminal group. This is a group of at least two members, each
+having a serious part in the THB,23 and maximum 5 members, responsible for the
+whole THB process – from recruitment to putting victims into prostitution – and has
+
+
+
+4 police investigation into trafficking in human beings 31
+
+24 48%, 52%, 0% (1997); 96%, 0%, 4% (1998); 75%, 16%, 8% (1999); 76%, 16%, 7% (2000) and 75%, 13%,
+11% (2001) respectively.
+
+no demonstrable contact with other groups or persons who are involved in THB. In
+the case of cross-border THB, the members of the group fetch the victims from
+abroad themselves – for example via a family member of the chief suspect or their
+partner, who lives abroad. The main suspects often run a brothel themselves. 
+Thirdly, the criminal networks. At least six, but usually many more persons are
+involved. These groups often meet the description of criminal macro-networks, as set
+out in the investigation of Klerks (2000, p. 75): “In this undifferentiated criminal
+infrastructure in principle everyone is associated with everyone else via one or more
+intermediaries. There are also clear clusters based on geographic closeness, family
+links, friendships, commercial chains and interrelated activities”. In the case of THB
+clusters arise around the recruitment in specific countries, the transport to the
+Netherlands and the prostitution of victims in one of more countries/towns. Victims
+are bought and sold on and often recruited and/or ‘employed’ in several countries.
+Over the period 1997-2001 27 ‘soloists’ were traced, 22 ‘isolated groups’ and 65 –
+virtually always branches of – ‘criminal networks’. Table 4.9 shows per year the forms
+of organisation traced.
+
+Table 4.9 Criminal organisations of THB, broken down by year
+Organisation
+form
+
+1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Soloist - - 3 21% 5 31% 4 16% 12 25% 24 22%
+
+Isolated group 5 63% - - 3 19% 6 24% 8 17% 22 20%
+
+Network 3 38% 11 79% 8 50% 15 60% 28 58% 65 59%
+
+Total 8 100% 14 100% 16 100% 25 100% 48 100% 111 100%
+
+Three fifths of the investigations focused on (branches of) criminal networks, one fifth
+on isolated groups and a further one fifth on soloists. The type of partnership, on
+which the investigations focused, did change somewhat comparatively over the years,
+but in virtually every year the majority of the investigations focused on criminal
+networks. Further analyses show that in the total investigation period 77% of the
+suspects arrested belong to a network, 15% to an isolated group and 8% are soloists.
+This ratio was found particularly in the last investigation years (from 1999).24 Of the
+soloists the majority (79%) are involved in THB within the Netherlands and of the
+isolated groups 41%. All the criminal networks are involved in cross-border THB.
+
+
+
+32 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+25 Adopted at a meeting of the Council of Europe in December 1994. For a description of the
+criteria is referred to Van Dijk (2002).
+
+Organised crime?
+THB, certainly cross-border THB, requires a certain form of organisation. The
+question is, however, to what extent the criminal groups committing THB in the
+present research, can be classed as ‘organised crime’. Van Dijk (2002) verified this by
+checking out the THB cases she studied against the definitions of and criteria for
+organised crime used by Fijnaut (1996), the Council of Europe25 and Klerks (2000).
+According to these criteria the percentage of investigations that can be regarded as
+investigation into organised crime differ considerably.
+Van Dijk found that criminal groups involved in THB operate fairly traditionally. They
+try more to evade the upper world, than to infiltrate it or go after economic or political
+power. Also, when carrying out the offence they show themselves to be conservative
+‘entrepreneurs’. Few new tricks, techniques or strategies, but rather walking known
+paths that have proved successful. Also – inherent in the offence – traffickers in
+human beings have a large operating area, from a geographic point of view. They often
+belong to extensive and widely branched networks. Many criminal groups are
+characterised by violence, usually against victims, but also against other group
+members and competitors. The most serious defensive contra-strategy that the
+criminal groups use consists of threatening victims who want to report an offence.
+Other commonly used measures to prevent or counteract being traced include using
+false and/or alternating identities for perpetrators and victims and frequently moving
+victims through the Netherlands and Europe. 
+
+4.5 Modus operandi of traffickers in human beings
+
+4.5.1 Recruitment and countries of origin
+
+The THB process begins with the recruitment of victims, in the Netherlands or
+abroad. Table 4.10 shows the countries where the victims in the investigations
+analysed were recruited. This table only shows the countries where was recruited
+comparatively frequently. A full list of all the recruitment countries is included in
+Annex 2 (Table 4). Because traffickers in human beings may recruit in several
+countries, the table does not add up to 100%.
+
+
+
+4 police investigation into trafficking in human beings 33
+
+26 Totals per column: N=8 (1997), 14 (1998), 16 (1999), 25 (2000), 48 (2001) and 111 (total).
+27 Totals per column: N= 8 (1997), 14 (1998), 16 (1999), 25 (2000), 48 (2001) and 111 (total).
+
+Table 4.10 Recruitment countries, broken down by year26
+
+Recruitment
+countries
+
+1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Netherlands 2 25% 3 21% 6 38% 8 32% 12 25% 31 28%
+
+Nigeria - - - - 1 6% 6 24% 6 13% 13 12%
+
+Czech Republic - - 4 29% 3 19% 3 12% 2 4% 12 11%
+
+Ukraine 2 25% 1 7% - - 2 8% 6 13% 11 10%
+
+Bulgaria - - 2 14% 2 13% - - 6 13% 10 9%
+
+Russian Federation - - 2 14% - - - - 6 13% 10 9%
+
+Poland 1 13% 3 21% 1 6% 3 12% 1 2% 9 8%
+
+Moldavia - - - - - - - - 7 15% 7 6%
+
+Romania - - 2 14% 1 6% 2 8% 2 4% 7 6%
+
+In almost a third of the investigations the cases involve recruitment in the
+Netherlands. Comparatively often also is recruited in Nigeria, the Czech Republic,
+Ukraine, Bulgaria and the Russian Federation. Comparatively the number of
+investigations in which victims were recruited in Moldavia, Bulgaria and the Russian
+Federation increased last year. Victims are often recruited in a number of countries.
+For this reason Table 4.11 classes the countries of origin of the foreign victims by
+region of origin. As recruitment is often carried out in Central and Eastern Europe,
+this region is broken down into Central Europe (Poland, the Czech Republic,
+Slovakia, Hungary), Eastern Europe (the former Soviet Union), the Baltic states
+(Estonia, Latvia, Lithuania) and the Balkans (countries from former Yugoslavia,
+Romania, Bulgaria, Albania). As traffickers in human beings may recruit in several
+regions, the table does not add up to 100%.
+
+Table 4.11 Regions of recruitment, broken down by year27
+
+Region of
+recruitment
+
+1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Western
+Europe
+
+1 13% - - - - - - 1 2% 2 2%
+
+Central
+Europe
+
+1 13% 7 50% 4 25% 7 28% 9 19% 28 25%
+
+
+
+34 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Region of
+recruitment
+
+1997 1998 1999 2000 2001 Total
+
+28 The differences are not significant.
+
+Eastern
+Europe
+
+2 25% 3 21% - - 3 12% 13 27% 21 19%
+
+Baltic states 1 13% - - - - 4 16% 8 17% 13 12%
+
+Balkans - - 4 29% 3 19% 3 12% 8 17% 18 16%
+
+Africa 1 13% 2 14% 2 13% 7 28% 7 15% 19 17%
+
+Latin
+America* 
+
+- - 1 7% 2 13% - - 1 2% 4 4%
+
+Asia - - - - - - 2 8% 2 4% 4 4%
+
+* Including Caribbean
+
+Victims are recruited comparatively often in Central Europe, closely followed by
+Eastern Europe and the Balkans. In addition Africa ‘scores’ high: in one sixth of the
+investigations (also) there is recruited. The percentage of victims per region of
+recruitment fluctuates from year to year. The regions of origin among these victims
+virtually correspond with the regions of origin as recorded by the STV and the regions
+of origin of victims and witnesses of THB who make use of the B-9 regulation (see
+Table 3.6).28
+
+Recruitment in countries with no visa obligation?
+It is conceivable that the choice of recruitment countries is related to the fact of
+whether victims from a country are obliged to have a visa or not. A check was
+therefore made as to what extent – when is recruited abroad – recruitment is carried
+out in countries with and with no visa obligation. For this the visa status of the
+recruitment countries at the start of the investigation was assumed. The result is
+shown in Table 4.12. This table distinguishes between investigations for which
+recruitment is carried out in countries with a visa obligation, countries with no visa
+obligation and both. Table 4.12 also breaks down the data by year. 
+
+
+
+4 police investigation into trafficking in human beings 35
+
+29 50% (1997), 67% (1998), 60% (1999), 65% (2000) and 62% (2001) respectively.
+
+Table 4.12 Recruitment in countries with(out) a visa obligation, broken down by year
+Recruitment
+countries
+
+1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Without visa
+obligation
+
+2 33% 5 42% 3 30% 3 18% 6 17% 19 23%
+
+With visa
+obligation
+
+3 50% 4 33% 4 40% 6 35% 14 39% 31 38%
+
+With and
+without visa
+obligation
+
+1 17% 3 25% 3 30% 8 47% 16 44% 31 38%
+
+Total 6 100% 12 100% 10 100% 17 100% 36 100% 82 100%
+
+In over a fifth of all the cases investigated, in which victims are recruited abroad,
+recruitment is only carried out in countries without a visa obligation and in two fifths
+in both countries with and without a visa obligation. Also in two fifths of the
+investigations recruitment is only carried out in countries with a visa obligation. The
+percentage of investigations in which recruitment is only or also carried out in
+countries without a visa obligation remained virtually constant in recent years, namely
+around 60%.29
+
+These data say nothing directly about the number of victims that are recruited in
+countries with and without a visa obligation; in the one case more victims are
+recruited/bought than in other cases. For some countries of origin the visa obligation
+was abolished during the investigation period. In the present research 28
+investigations are surveyed where victims were recruited in (among other things) one
+of these countries. Fourteen of these investigations (50%) were started before the visa
+obligation was abolished and also 14 investigations (50%) after the visa obligation was
+abolished. It therefore seems that whether or not a visa obligation exists does not play
+a direct part in the choice of recruitment in a particular country. 
+
+4.5.2 Travel route and travel and residence documents
+
+Travel route and border crossing
+Travel routes to the Netherlands, in the case of cross-border THB, vary considerably,
+on the one hand due to the differences in countries of origin, but also because criminal
+groups are always trying out new travel routes (Van Dijk, 2002). From the continents
+of Africa, America and Asia victims always come by plane, but not always flying
+directly to the Netherlands. From Central and Eastern Europe the journey is usually
+entirely over land. Table 4.13 shows per year where the border with the Netherlands
+
+
+
+36 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+30 In the study by Van Dijk this question was left out in the last phase of the research. On the
+request of PPM/dNP the question was added back into the questionnaire. The data on the year
+2000 therefore are not complete.
+
+31 Totals per column: N=6 (1997), 12 (1998), 10 (1999), 17 (2000), 36 (2001) and 81 (total).
+32 Or the trafficker in human beings and/or the operator of a sex establishment, for the victims.
+33 Totals per column: N=6 (1997), 11 (1998), 9 (1999), 16 (2000), 36 (2001) and 78 (total).
+
+was crossed.30 Because the border crossing within one investigation may be made in
+several ways, the table does not add up to 100%.
+
+Table 4.13 Border crossing, broken down by year31
+
+Border 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Country:
+Germany 
+
+5 83% 7 58% 4 40% 11 65% 23 64% 50 62%
+
+Country:
+Belgium
+
+1 17% 3 25% 4 40% 7 41% 10 28% 25 31%
+
+Schiphol
+Airport
+
+1 17% 2 17% 5 50% 2 1% 7 19% 17 21%
+
+In two thirds of the investigations it emerged that victims are (also) brought to the
+Netherlands over land via Germany, in one third (also) over land via Belgium. Almost
+one fifth of the investigations show that victims (also) enter the Netherlands via
+Schiphol.
+
+Travel documents
+Table 4.14 shows for all the investigations involving cross-border THB to what extent
+the victims32 are in possession of a (valid, false or forged) passport. Because within one
+investigation different victims may carry different identity documents, the table does
+not add up to 100%.
+
+Table 4.14 Passport of victims, broken down by year33
+
+Passport 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Genuine/valid 4 50% 8 64% 9 56% 12 69% 22 56% 46 59%
+
+Forged/false 7 83% 6 55% 9 89% 11 63% 20 50% 47 60%
+
+None - - - - - - 2 13% 6 17% 8 10%
+
+
+
+4 police investigation into trafficking in human beings 37
+
+34 Investigations in which the latter was the case, are included in the ‘forged/false passports’.
+35 N=90. Because in an investigation different victims may carry a number of visas with them, the
+
+percentages do not add up to 100%.
+36 Corresponding numbers: valid visa (2000: 9; 2001: 8), forged/false visa (2000: 1; 2001: 3), no
+
+visa (2000: 2; 2001: 15).
+37 9% in 2000 and 13% in 2001. N=23 (2000) and 45 (2001) respectively.
+
+In almost two thirds of the investigations into cross-border THB, one or more victims
+emerge that have a forged or false passport. Van Dijk (2002) found that the
+falsification of passports is often carried out by separate criminal groups. For a false
+passport, according to the data available in the research, one has to pay out € 300 to 
+€ 500. African traffickers in human beings use a lot of valid passports that are used by
+a number of victims of similar appearance (‘look-a-likes’).34
+
+A check has been made as to whether victims recruited in countries with a visa
+obligation are in possession of a visa upon arrest/reporting and, if so, what. This
+shows that visas are forged or copied comparatively much less than passports (in 13%
+of the cases investigated). Usually a visa is applied for (in 53% of cases) or people travel
+without a visa (in 40% of cases).35 It is only possible to break down these data by year to
+a limited extent, because in particular for many investigations completed in the years
+1997 to 1999 these data are missing. For this reason these data are only given for the
+years 2000 and 2001: the percentage of investigations where people travel with a valid
+visa fell from 73% in 2000 to 35% in 2001. The percentage of investigations where
+people travelled without a visa from a country for which a visa was compulsory
+increased on the other hand from 18% in 2000 to 61% in 2001.36 The percentage of
+investigations where a forged or false visa was used remained more or less the same.37
+
+4.5.3 Exploitation in prostitution
+
+Traffickers in human beings use many means of coercion to bring or keep people in
+prostitution and/or to confiscate their earnings. It was examined how the victims are
+brought to prostitute themselves and/or how a situation may arise in which they
+(must) hand over all their money. The result is shown in Table 4.15. This table breaks
+down the means of coercion used by the year in which the investigation was
+completed. Because traffickers in human beings may use several means of coercion,
+the table does not add up to 100%.
+
+
+
+38 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+38 Totals per column: N= 8 (1997), 14 (1998), 16 (1999), 25 (2000), 48 (2001) and 111 (total).
+39 74% and 71% respectively in the case of cross-border THB versus 13% and 13% for THB within
+
+the Netherlands. The differences are significant (respectively Chi2=32,45, df=1, p<.00;
+Chi2=29,10, df=1, p<.00).
+
+40 73% in the case of THB within the Netherlands versus 20% for cross-border THB. The
+difference is significant (Chi2=27.00, df=1, p<.00).
+
+Table 4.15 Means of coercion, broken down by year38
+
+Means of coercion 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Taking away
+passports
+
+6 86% 9 69% 9 56% 12 52% 25 52% 61 55%
+
+Threat of violence
+(physical)
+
+6 75% 11 85% 16 100
+%
+
+19 79% 37 77% 89 80%
+
+Threat of making
+prostitution work
+known
+
+1 14% 2 15% 5 31% 6 25% 17 35% 31 28%
+
+(Threat of) violence
+against victim’s family 
+
+2 29% 4 31% 6 38% 11 48% 20 42% 43 39%
+
+Violence (physical) 3 43% 9 69% 15 94% 18 75% 32 67% 77 69%
+
+Fake love 2 25% 6 46% 7 44% 9 38% 14 29% 38 34%
+
+Voodoo - - - - 2 13% 4 17% 4 8% 10 9%
+
+(Fictitious) debt 6 75% 7 54% 10 63% 14 58% 23 48% 60 54%
+
+Watching/
+Locking up
+
+5 71% 11 92% 13 87% 17 71% 32 67% 78 70%
+
+Victims of THB are very often threatened with violence to force them to (continue to)
+work in prostitution for the trafficker in human beings and/or to hand over the money
+they have earned. According to many investigations the suspects also often actually
+use violence against the victims. In addition, victims are according to many
+investigations locked up or constantly watched . Taking away passports and imposing
+(fictitious) debts occurs mainly in the case of cross-border THB.39 In the case of THB
+within the Netherlands, more often than for cross-border THB, victims are incited to
+prostitution with carefully planned, ‘played out’ love techniques.40 Victims from
+Nigeria and Malawi also report voodoo practices. It is not possible to discern clear
+developments over time: the means of coercion used vary from year to year.
+
+
+
+4 police investigation into trafficking in human beings 39
+
+41 Total numbers per column: N= 8 (1997), 14 (1998), 16 (1999), 25 (2000), 47 (2001) and 110
+(total).
+
+Mobility
+A characteristic of THB is that victims are set to work in different places within and
+outside the Netherlands. Firstly to meet the demand for ‘always new girls’ in the
+prostitution world. Secondly to prevent tracing by the police and to prevent victims
+making social contact (Van Dijk, 2002). Table 4.16 shows in which countries, outside
+the Netherlands and outside the country of origin, the victims have worked in
+prostitution. This table only mentions the commonest countries. The results are also
+given by investigation year.
+
+Table 4.16 Destination countries, broken down by year41
+
+Destination 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Not in
+prostitution
+elsewhere
+
+6 75% 7 50% 10 63% 12 48% 22 47% 57 52%
+
+Put in
+prostitution
+elsewhere: 
+
+2 25% 7 50% 6 38% 13 52% 25 53% 53 48%
+
+ Germany 2 25% 4 29% 3 19% 8 32% 11 23% 28 25%
+
+ Belgium - - 2 14% 3 19% 3 12% 8 17% 16 15%
+
+ Italy - - - - 3 19% 4 16% 7 15% 14 13%
+
+ Spain - - 1 7% 1 6% 5 20% 6 13% 13 12%
+
+ France - - - - - - 4 16% 2 4% 6 5%
+
+In half of the investigations it emerges that victims have also been put into prostitution
+elsewhere in Europe or outside it. In addition, the victims are sold (on), sometimes
+even several times (Van Dijk, 2002). This percentage remained fairly stable in recent
+years. Victims who are put into prostitution outside the Netherlands and outside the
+country of origin end up most often (also) in Germany. Other countries that ‘score’
+comparatively high are Belgium, Italy and Spain. The top 4 most common destination
+countries outside the Netherlands, remained the same from 1999. 
+
+Victims of cross-border THB are more often brought into prostitution outside the
+Netherlands (and the country of origin) than victims of THB within the Netherlands:
+58% against 23%. In the case of THB within the Netherlands this virtually always
+involves prostitution in the neighbouring countries Germany and Belgium, while
+
+
+
+40 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+42 This is not always known by the police people interviewed. In view of the enormous mobility
+in the sector, this is probably an underestimate.
+
+43 Total numbers per column: N= 8 (1997), 14 (1998), 16 (1999), 25 (2000), 48 (2001) and 111
+(total).
+
+victims of cross-border THB are (also) put to work in countries other than these –
+both within and outside the EU.
+
+Two thirds of all investigations (67%) concern cases where victims – where known –
+are (also) employed in different towns in the Netherlands.42
+
+4.6 Prostitution sectors involved
+
+In a THB case different prostitution sectors may be involved, such as window
+prostitution, clubs/brothels/private houses, the escort sector and street prostitution.
+Table 4.17 shows which prostitution sectors were involved in the THB cases
+investigated, broken down by the year in which the investigation was completed.
+Because an investigation may relate to several sectors, the percentages do not add up
+to 100%.
+
+Table 4.17 Prostitution sectors involved, broken down by year43
+
+Prostitution sector 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Window prostitution 3 38% 9 64% 13 81% 15 60% 22 46% 62 56%
+
+Clubs/brothels 7 88% 6 43% 6 38% 11 44% 28 58% 58 52%
+
+Escort 1 13% 3 21% 2 13% 1 4% 10 21% 17 15%
+
+Street prostitution - - 2 14% 2 13% 5 20% 7 15% 16 14%
+
+In well over half of the investigations it emerges that victims are (also) employed in
+window prostitution, and in well over half (also) in clubs/brothels. Comparatively
+fewer investigations focused on the escort sector and/or street prostitution. In 2001
+the number of investigations focused on the escort sector did however increase
+comparatively, after a low point in 2000. 
+Van Dijk (2002) studied for the period 1997-1999 to what extent the prostitution
+sector was involved in THB, that means to what extent operators of sex
+establishments were guilty of criminal acts relating to THB or knew of these.
+According to a quarter of the investigations operators were aware of the exploitation
+situation in which the victims found themselves, but were not actively involved in this.
+Also in a quarter of the investigations the operators were regarded as traffickers in
+human beings, that means that they played an active part in (parts of) the THB
+
+
+
+4 police investigation into trafficking in human beings 41
+
+44 Standard deviation and N respectively 2.23; 6 (1997); 11.43; 12 (1998); 3.63; 10 (1999); 4.90; 16
+(2000); 3.79; 36 (2001) and 5.74, 80 (total).
+
+45 Standard deviation and N respectively 2.83; 2 (1997); 0.00; 2 (1998); 0.82; 6 (1999); 2.50; 8
+(2000); 1.57; 12 (2001) and 1.80, 30 (total).
+
+46 Standard deviation and N respectively 2.20; 8 (1997); 10.82; 14 (1998); 3.55; 16 (1999); 4.31; 24
+(2000) and .45; 48 (2001).
+
+process, such as the recruitment and trade of victims or placing/holding victims in
+prostitution by force. For 2000 and 2001 this fact was not investigated. For 2002
+questions about this will come up again in the questionnaire.
+
+4.7 Victims of trafficking in human beings
+
+Number and type of victims
+In the investigations completed in the period 1997 to 2001 inclusive in total 471 victims
+made a statement. Table 4.18 presents the number of victims that made a statement,
+and for whom this led to an investigation sent in to the PPS. These data are also
+broken down by year and type of THB (cross-border and within the Netherlands).
+
+Table 4.18 Statements of victims of THB, broken down by year and type of THB
+Year Cross-border THB THB within the
+
+Netherlands
+Total
+
+N Average 44 N Average 45 N Average 46
+
+1997 19 3.2 8 4.0 27 3.4
+
+1998 96 8 2 1.0 98 7.0
+
+1999 59 5.9 10 1.7 69 4.3
+
+2000 72 4.5 19 2.4 91 3.8
+
+2001 156 4.3 30 2.5 186 3.9
+
+Total 402 5 69 2.3 471 4.3
+
+The number of statements in investigations completed increased particularly in the
+last investigation year, like the number of investigations completed in that year. The
+average number of statements per investigation hardly changed, with the exception of
+a peak in 1998. This peak is caused by one investigation with many reports of offences. 
+
+Table 4.19 presents the number of and percentage of investigations involving one or
+more underage victims, broken down by the year in which the investigations were
+completed and by type of THB.
+
+
+
+42 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+47 Art. 36e Penal Code, considerably amended on 1 March 1993.
+
+Table 4.19 Investigations with underage victims, broken down by year and type THB
+Year Cross-border THB THB within the
+
+Netherlands
+Total
+
+N %* N %* N %**
+
+1997 1 17% 2 100% 3 38%
+
+1998 4 33% - 0% 4 29%
+
+1999 5 50% 2 33% 7 44%
+
+2000 8 47% 5 63% 13 52%
+
+2001 11 31% 7 58% 18 38%
+
+Total 29 36% 16 53% 45 41%
+
+* Percentage of the total number of investigations into the relevant type of THB in the relevant year
+** Percentage of the total number of investigations in the relevant year
+
+In total two fifths of the investigations (41%) (partly) related to underage victims. This
+percentage fluctuates per year. How many underage victims are involved in these
+investigations was not researched. Van Dijk (2002) did do this for the period 1997-
+1999. This was 26, that is 17% of the total number of victims that reported THB in this
+period and for which the investigation was completed and sent in. The number of
+underage victims seems to be significantly greater in the case of THB within the
+Netherlands than in the case of cross-border THB.
+
+In the whole research period only one investigation into THB involved male victims.
+This case is described in by Van Dijk (2002).
+
+4.8 Proceeds of trafficking in human beings
+
+During or after an investigation into THB a decision may be made to try to confiscate
+the gain acquired illegally by the perpetrators. To do this – as established in the ‘Plukze
+Act47 – a criminal financial investigation (CFI) is carried out. Table 4.20 shows how
+often in the investigations into THB a CFI was opened and how often this has led to a
+confiscation order. Data regarding the confiscation orders instituted have, however,
+only been collected for 2000 and 2001. In 4 of the 111 cases investigated, consideration
+was still being given to whether a CFI would be opened. These cases are not included
+in Table 4.20.
+
+
+
+4 police investigation into trafficking in human beings 43
+
+48 This was not known for 8 of the 32 cases.
+49 On average illegally acquired gain per suspect per year: 1997: € 18,862; 1998: € 166,688; 1999:
+
+€ 79,545; 2000: €  104,953; 2001: € 210,999.
+50 In some cases income was also generated from criminal activities other than THB. When that
+
+is the case, an attempt was made to separate the proceeds of THB from other sources. The
+proceeds mentioned in the table then only relate to THB.
+
+Table 4.20 Financial investigation and confiscation, broken down by year
+Year Criminal financial investigation Confiscation order instituted
+
+N %* N %**
+
+1997 1 13% N/A N/A
+
+1998 4 31% N/A N/A
+
+1999 4 31% N/A N/A
+
+2000 8 32% 5 63%
+
+2001 15 32% 14 93%
+
+Total 32 30% 19 83%
+
+* Percentage of the total number of investigations in the relevant year
+** Percentage of the number of CFIs in the relevant year(s). The total percentage of the confiscation orders
+is calculated over the 23 CFIs in 2000 and 2001
+
+In one third of the investigations into THB a CFI was opened. This percentage
+remained virtually constant in the last investigation years. The percentage of
+investigations for which the CFI results in a confiscation order was higher in 2001
+than in 2000, namely 93% (against 63% in 2000). In its first report BNRM checked on
+how many of the cases registered with the PPS (~suspects) in the period 1995 to the
+first half of 2000, in which a summons was issued, led to a confiscation order. This
+was found to apply in 18% of cases. It is stated that this does not at first sight seem very
+often, but that information from PPS data shows that this happened in the same
+period regarding infringement of the Opium Act in no more than 11% of cases.
+
+The illegally acquired gain in the 24 cases in the period 1997-2001 for which this is
+known,48 taking everything together, rounds up to almost € 5,000,000. On average,
+this rounds up to € 200,000 per case and € 150,000 per suspect. The average illegally
+acquired gain per suspect varies considerably per investigation year and was the
+highest in 2001 at € 210,000 in round figures.49
+
+Because the illegally acquired gain is not calculated in every case, the police officials
+interviewed were asked to estimate how much the suspects have earned in total from
+THB. This was done in the light of possessions found and distinguished, lifestyle of
+the suspect(s), number of victims that they ran and the period that the victims were
+exploited in prostitution. In this way the proceeds were estimated for virtually all the
+cases investigated. The result is shown in Table 4.21.50 
+
+
+
+44 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+51 € 24,000.00 (Altink, 2000; Van Dijk, 2002).
+52 Numbers per year: 1997: 1; 1998: 0; 1999: 3; 2000: 2 and 2001: 10.
+53 Percentages per year: 1997: 4%; 1998: -; 1999: 4%; 2000: 2% and 2001: 5%.
+
+Table 4.21 Proceeds of THB per investigation, broken down by year
+Proceeds 
+(in € )
+
+1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+Less than
+45,000
+
+4 67% 4 40% 6 46% 9 39% 21 55% 44 49%
+
+45,000 to
+225,000
+
+1 17% 4 40% 3 23% 7 30% 9 24% 24 27%
+
+More than
+225,000
+
+1 17% 2 20% 4 31% 7 30% 8 21% 22 24%
+
+Total 6 100% 10 100% 13 100% 23 100% 38 100% 90 100%
+
+Half of the investigations involve cases where more than € 45,000 is earned by THB.
+This fluctuates little per year.
+
+Van Dijk (2002) estimated the total proceeds of THB, by starting from the number of
+months that the estimated 3,500 victims of THB (see paragraph 4.7) worked in
+prostitution in 2000, at € 118,000,000. Another possibility is to estimate the annual
+proceeds of THB by multiplying the number of estimated victims in that year by the
+average gross annual earnings of a prostitute in the Netherlands.51 Calculated in this
+way, in 2000 THB yielded a rounded gross amount of € 85,000,000. On the one hand,
+payments to operators of sex establishments and victims still have to be deducted
+from this (after all, in one third of cases according to Van Dijk something is paid to the
+victims out of the money they have earned) and not all victims work a whole year in
+prostitution. On the other hand, victims of THB probably earn more than the ‘average’
+prostitute, because they are often forced to work many long days. The amount
+mentioned must therefore be seen as a rough indication of the amount that is earned
+from THB.
+
+Damage claim victims 
+A check was made as to how many victims have tried via civil law proceedings or via a
+‘civil joinder in the criminal proceedings’ to get back (some of) the money they have
+earned. This is found to be the case – as far as is known – in 16 cases (14%). Of these, 10
+cases were completed in the last year of the research.52 The percentage of victims that
+submit a claim remains roughly the same in 2001 as in previous years.53 The extent of
+the amounts demanded and awarded is usually not known to the police.
+
+
+
+4 police investigation into trafficking in human beings 45
+
+54 Totals per column: N= 8 (1997), 14 (1998), 16 (1999), 25 (2000), 48 (2001) and 111 (total).
+
+4.9 Criminal activities other than trafficking in human beings
+
+A check was made as to whether the suspects in the studied investigations also carry
+out other criminal activities. The result is shown in Table 4.22. This table does not take
+into account activities committed to support THB, such as committing violence, rape,
+unlawful detention, falsification of or fraud with travel and residence documents.
+Because traffickers in human beings may carry out several criminal activities, the table
+does not add up to 100%.
+
+Table 4.22 Criminal activities in addition to THB, broken down by year54
+
+Activities 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N %
+
+No other
+activities
+
+6 75% 9 64% 10 63% 16 64% 21 44% 62 56%
+
+Other
+activities:
+
+2 25% 5 36% 6 38% 9 36% 27 56% 49 44%
+
+Crimes against
+property
+
+2 25% 2 14% 4 25% 2 8% 17 35% 27 24%
+
+Narcotics - - 4 29% 2 13% 7 28% 13 27% 26 23%
+
+Weapons
+related crimes
+
+- - 2 14% 1 6% 3 12% 6 13% 12 11%
+
+Migrant
+smuggling
+
+- - - - 1 6% 1 4% 5 10% 7 6%
+
+Financial crime - - 2 14% - - 1 4% 3 6% 6 5%
+
+In around half of the THB cases investigated, the suspects are also suspected of
+offences other than THB. This percentage is higher in the last year of the research
+(2001) than in previous years. High scoring secondary criminal activities are crimes
+against property and narcotics related crimes. A number of suspects are also involved
+in weapons related crimes. These are comparatively often suspects of (former)
+Yugoslav nationality (Van Dijk, 2002). In 2001 the number of investigations in which
+THB was combined with crimes against property increased considerably compared
+with 2000.
+
+
+
+
+
+1 The analyses were, on the request of BNRM, made by the Statistics and Policy Analysis
+department (Siba) of the Scientific Research and Documentation Centre (WODC) of the
+Ministry of Justice. Reference date 1 June 2002.
+
+2 This includes cases dropped at a later stage of the proceedings by the PPS and cases in which
+ultimately no suspicion of THB is included in the charges.
+
+5 Prosecution
+
+5.1 Introduction
+
+This chapter contains information on THB cases registered with the PPS. 
+
+ 
+5.2 Research method 
+
+To get an idea of the (progress of) criminal proceeding of THB cases, analyses were
+carried out on the national database of PPS data.1 With the help of PPS data it is
+possible to get an idea of the progress of cases in the first instance. There are no data
+on a possible appeal phase. PPS data contain details of cases and offences. Unlike in
+the preceding chapter on police investigation, a (criminal) case is understood here to
+mean the case against one suspect. Furthermore, it involves exclusively the offences for
+which principle charges are brought: offences for which alternative charges are
+brought are not included in PPS data. It also emerges that where principle charges are
+brought for several offences, only the first offence is recorded in PPS data. 
+
+5.3 Trafficking in human beings cases registered with the Public Prosecution
+Service
+
+Over the period from 1995 to 2001 inclusive 892 criminal cases were registered with
+the PPS involving (only or partly) a suspicion of THB.2 
+
+Table 5.1 indicates how many cases this involves per year and how many of these cases
+(partly) relate to underage victims.
+
+
+
+48 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+3 These are – as in the first report – all cases, including cases transferred (to another district).
+These are in total nine, varying in number per year from none to four (in 1997).
+
+4 These are in 2000 respectively four and two more than indicated in the first report for that
+year. These relate to cases received afterwards. The information on these cases is incorporated
+in the above and following tables.
+
+5 Provisional data for 2002 (source: printout of the National Office of the PPS, reference date 1
+November 2002) make it clear that for that year a considerable growth in the total number of
+cases registered with the PPS relating to suspicion of THB can be expected.
+
+6 For this, the same categories are used as in the first report, namely: 1) Only (a form of) THB (art.
+250ter or 250a Penal Code); 2) THB in combination with participation in a criminal organisation
+(art. 140 Penal Code); 3) THB in combination with certain forms of violence. Counted here are
+forms of both physical and mental violence, such as intentional unlawful detention, taking of
+hostages, kidnapping and abduction, rape, mistreatment, manslaughter and murder; 4) THB
+combined with forms of fraud and racketing, such as false passport, document forgery and
+bigamy; 5) THB combined with offences specifically against children (with the exception of THB
+with minors as victims), such as intercourse with children under 16 years of age, using or
+offering young people for pornography and inciting minors to vice. Looked at in retrospect
+categories 3 and 5 are unfortunately not clearly enough distinguished: some of the offences of a
+sexual nature against children are included in category 3, others in category 5; 6) THB combined
+with offences that involve immigration law aspects, such as migrant smuggling; 7) THB combined
+with one other type of offence, not belonging to one of the above-mentioned categories, such as
+violation of the opium act, theft and illegal entry into a dwelling; and 8) THB combined with
+
+Table 5.1 Number of registered cases3 and cases that (partly) involve underage victims, per
+year
+
+Year Registered cases Cases that (partly) involve underage victims4
+
+N N %
+
+1995 152  16 10%
+
+1996 117  21 18%
+
+1997 116  15 13%
+
+1998 134  17 13%
+
+1999 103  28 27%
+
+2000 138  36 26%
+
+2001 132  27 20%
+
+Total 892 160 18%
+
+The number of registered cases varies per year.5 The increase highlighted in the first
+report in the number of cases that (partly) involve underage victims does not continue
+in 2001.
+
+As indicated at the start of this paragraph, the studied cases involve suspicion of only
+or partly THB. Table 5.2 gives an idea of the (combination of) offences of which the
+people in question were suspected.6
+
+
+
+5 prosecution 49
+
+several other types of offences. This may be a combination of THB with several of the above-
+mentioned offences, and/or with several other crimes.
+
+7 The percentages amounted in the successive years 1995 to 2001 to 18%, 13%, 17%, 18%, 16%, 26%
+and 21% respectively. There can then be no question of a clear increase or reduction in the
+proportion of women among the suspects over the years, but there was a peak in 2000.
+
+Table 5.2 Overview of suspicions, per year
+Suspicion 1995 1996 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N % N % N %
+
+Only THB 40 26% 42 36% 64 55% 36 27% 38 37% 47 34% 47 36% 314 35%
+
+THB +
+criminal
+organisation
+
+37 24% 11 9%  3 3% 12 9% 11 11%  8 6%  9 7%  91 10%
+
+THB +
+violence
+
+33 22% 28 24% 19 16% 27 20% 16 16% 14 10% 20 15% 157 18%
+
+THB + fraud  1 1%  3 3%  4 3%  4 3%  3 3%  3 2%  7 5%  25 2%
+
+THB + offence
+against child
+
+ 4 3% - -  1 1%  2 1%  4 4%  2 1%  2 2%  15 2%
+
+THB +
+immigration
+law offence
+
+ 1 1%  2 2% - -  4 3%  1 1%  5 4% 14 11%  27 3%
+
+THB + one
+other type of
+offence
+
+ 5 3%  5 4%  3 3%  1 1%  2 2%  6 4%  8 6%  30 3%
+
+THB + several
+other types of
+offences
+
+31 20% 26 22% 22 19% 48 36% 28 27% 53 38% 25 19% 233 26%
+
+Total 152 100% 117 100% 116  100% 134 100% 103 100% 138 100% 132 100% 892 100%
+
+Well over a third of the cases involved suspicion of only THB (the first row in the
+table). 38% of cases involved suspicion of THB in combination with one other type of
+offence (rows 2 to 7 together). This was comparatively often a form of violence or
+membership of a criminal organisation. 26% of cases involved suspicion of THB in
+combination with several other types of offences (row 8 in the table). 2001, compared
+with the preceding years, showed an increase in suspicion of THB in combination with
+Immigration Law offences, and a reduction in THB in combination with several other
+types of offences.
+
+5.4 The suspects
+
+The suspects of THB are usually men, namely in 81% of cases. Per year the proportion
+of female suspects varied from 13% (in 1996) to 26% (in 2000).7 
+
+
+
+50 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+8 This differentiation is made because the same person may be suspected of several THB
+offences.
+
+9 32% fell in the age category 18 to 25 years, 24% in the category 26 to 30 years and 25% in the
+category 31 to 40 years. 
+
+10 In the successive years respectively 37.5%, 34%, 34.5%, 22%, 40%, 28% and 31% of the suspects
+were born in the Netherlands.
+
+11 An accent indicates that this involves a shared position. 
+
+The age of the suspects at the time of their first act of THB of which they were
+suspected,8 was in over 81% of the cases somewhere between 18 and 40 years9 and was
+on average around 30 years. From 1995 to 2001 inclusive there were 32 underage
+suspects. They account for 4% of the total number of suspects. In 2001 the (average)
+age of the suspects was a bit higher than in the years before this. The proportion of
+young suspects (aged up to 25 years) was in that year 24% compared with 37%, 40% and
+35% in the years 1998 to 2000 inclusive. 
+
+The country of birth of the suspects was often not the Netherlands. The percentages
+of suspects born in the Netherlands varied from 22% (in 1998) to 40% (in 1999).10 
+Countries of birth that frequently occurred among the suspects are shown in Table 5.3.
+Also shown per year of registration with the PPS is the ranking of the first five
+positions.11
+
+Table 5.3 Ranking of frequently occurring countries of birth of suspects, per year of registration 
+
+Country 1995 1996 1997 1998 1999 2000 2001 Total
+
+Rank Rank Rank Rank Rank Rank Rank N Rank
+
+Netherlands 1 1 1 1 1 1 1  278 1
+
+Yugoslavia 2 2 2 2 3’ 2  108 2
+
+Turkey 3 5 2 3 3’ 4  66 4
+
+Morocco 4 3 3 3 2’  68 3
+
+Hungary 5  14
+
+Soviet Union 4 5 5  33
+
+Poland 4  13
+
+Albania 4  18
+
+Nigeria 5 4 2’  39 5
+
+Bulgaria 5 3  24
+
+The list shows, in addition to a constant first place for the Netherlands as country of
+birth and a reasonably stable ‘position’ of Yugoslavia, Turkey and Morocco, certain
+more time-related developments. Examples of these are the – comparatively – less
+
+
+
+5 prosecution 51
+
+12 These are: Albania, the former Deutsche Demokratische Republik (DDR), Bulgaria, Estonia,
+Hungary, Yugoslavia, Latvia, Lithuania, Poland, Romania, the former Soviet Union and
+former Czechoslovakia.
+
+13 A separate category is made here because the Netherlands recruited many guest workers in
+these countries in the past.
+
+14 These are: Angola, Egypt, Ghana, Gold Coast, Guinea, the Cape Verde Islands, Liberia, Niger,
+Nigeria, Portuguese West Africa, Rwanda, Sudan and Tunisia.
+
+15 This ‘covers’ the (former) overseas territories from which suspects come.
+16 These are: Belgium, Germany, France, Greece, Ireland, Italy, Austria, Portugal and Spain. 
+17 These are: Argentina, Brazil, Colombia and the Dominican Republic.
+18 These are: the Philippines, Pakistan, Thailand and Vietnam.
+19 These are: Iraq, Iran, Jordan, Lebanon, Palestine and Syria.
+20 This also includes the category ‘international area’.
+
+often occurrence of Hungary as country of birth after 1995 and the – seemingly
+temporary – ‘rise’ of Nigeria as a country of origin of suspects since 1998; in 2001
+Nigeria no longer occupies a prominent place among the countries of birth. When
+interpreting this table one must consider that a country of origin may score high at
+one time because several people operating separately from one another, have been
+arrested, but also because one large network with a lot of suspects from the same
+country of origin has been rounded up.
+Table 5.4 offers a rather different view of the backgrounds of the suspects, in which
+their countries of birth are classified by region and are then shown by year of
+registration. The same breakdown was chosen as in the previous report, namely: a) the
+Netherlands b) Central and Eastern Europe12 c) Turkey and Morocco13 d) Africa14 e)
+Surinam, the Dutch Antilles and Indonesia15 f) Europe other16 g) Central and South
+America17 h) Asia18 i) the Middle East19 j) the United States and k) unknown/other20.
+
+Table 5.4 Region of origin of suspects, per year of registration
+Region of
+origin
+
+1995 1996 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N % N % N %
+
+Netherlands 57 38% 40 34% 40 34% 30 22% 41 40% 39 28% 31 23% 278 31%
+
+Central and
+Eastern
+Europe
+
+39 26% 37 32% 27 23% 52 39% 29 28% 24 18% 59 45% 26
+7
+
+30%
+
+Turkey and
+Morocco
+
+27 18% 20 17% 16 14% 21 16% 11 11% 26 19% 13 10% 134 15%
+
+Africa  1 1%  8 7%  9 8% 11 8% 13 13% 30 22% 12 9%  84 9%
+
+Surinam,
+Dutch Antilles
+and Indonesia
+
+10 7%  5 4%  4 3%  6 4%  5 5% 13 10%  8 6%  51 6%
+
+Europe other  2 1%  4 4%  8 7%  3 2%  4 4%  4 2%  1 1%  26 3%
+
+
+
+52 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Region of
+origin
+
+1995 1996 1997 1998 1999 2000 2001 Total
+
+Central and
+South
+America
+
+ 4 2% - -  7 6%  3 2% - - - -  1 1%  15 2%
+
+Asia  5 3%  2 2%  3 3%  1 1% - - - -  1 1%  12 1%
+
+Middle East  1 1% - -  1 1%  2 1% - - 1 1%  6 4%  11 1%
+
+United States  1 1% - - - - - - - - - - - -   1 0%
+
+Other/
+unknown
+
+ 5 3% 1 1%  1 1%  5 4% - - 1 1% - -  13 1%
+
+Total 152 100% 117 100% 116 100% 134 100% 103 100% 138 100% 132 100% 892 100%
+
+Around 30% of the suspects were born in the Netherlands, also around 30% came
+originally from Central or Eastern Europe, 15% from Turkey or Morocco and 9% from
+Africa. In total 13% of the suspects came from the other regions of origin together
+(rows 5 to 11 in the table). The slow rise highlighted in the previous report in the
+proportion of suspects from Africa seen up to 2000 has not continued in 2001. The
+proportion of suspects from Central and Eastern Europe on the other hand increased
+considerably in 2001 and amounts to almost double the number of suspects born in
+the Netherlands.
+
+5.5 Handling by the Public Prosecution Service
+
+Table 5.5 gives a summary, per year of registration, of the number of cases in which
+the suspect is remanded in custody.
+
+Table 5.5 Remand in custody, per year of registration
+Remand
+in
+custody
+
+1995 1996 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N % N % N %
+
+Yes 120 79% 79 68% 82 71% 111 83% 84 82% 109 79%  96 73% 681 76%
+
+No  30 20% 37 31% 34 28%  23 17% 19 18%  29 21%  36 27% 208 23%
+
+Unknown   2 1%  1 1% - - - - - - - - - -   3 0%
+
+Total 152 100% 117 100% 116 100% 134 100% 103 100% 138 100% 132 100% 892 100%
+
+In over three quarters of the cases (varying per year from 68% to 83%) the suspect was
+detained when the case was brought to court.
+
+
+
+5 prosecution 53
+
+21 This is then contrary to the first report in which the year of registration, even where this
+involved handling and judgement, always served as the starting point. The difference (between
+the number of cases registered with the PPS and the number of cases dealt with by the PPS) is
+due to the fact that the PPS has not yet taken a follow-up decision in all cases. By way of
+explanation: some of the cases registered at the end of 2001 will not be dealt with by the PPS
+until 2002.
+
+22 To another district or abroad.
+23 Important grounds for discharge are: ‘no legal evidence’, ‘wrongly reported as suspect’, ‘small
+
+share in the offence’ and ‘old offence’.
+24 The latter of course only occurs in case of suspicion of THB in combination with other types of
+
+offences.
+
+Table 5.6 shows how the PPS handles cases. In the above this involved the 892
+criminal cases registered over the period 1995 to 2001 inclusive. Table 5.6 involves the
+857 cases handled by the PPS over the period 1995 to 2001 inclusive.21 
+
+Table 5.6 Handling by the PPS, per year of handling
+Handling 1995 1996 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N % N % N %
+
+Summons for
+THB 
+
+69 73% 101 74% 81 67% 57 54% 84 60% 77 78% 103 63% 572 67%
+
+Uncondition-
+al discharge
+
+15 16%  29 21% 28 23% 44 42% 45 32% 17 17%  46 28% 224 26%
+
+Summons
+because of
+other offences
+
+ 8 8%  5 4% 4 3%  3 3%  4 3%  3 3%  12 7%  39 5%
+
+Transfer22 1 1% - - 4 3% - -  2 1%  1 1%  1 1%  9 1%
+
+Conditional
+discharge
+
+- -  1 1% 2 2% - -  2 1% - -  1 1%  6 1%
+
+Joinder 1 1% - - 2 2% 1 1%  2 1% - - - -  6 1%
+
+Out-of-court
+settlement
+
+- - - - - - - - - -  1 1% - -  1 0%
+
+Total 94 100% 136 100% 121 100% 105 100% 139 100% 99 100% 163 100% 857 100%
+
+In cases that (partly) relate to suspicion of THB summons is by far the most frequent
+method of handling the case. In over a quarter of cases the case was unconditionally
+discharged23 and in 5% of cases a summons was served for other offences.24 The other
+forms of settlement (transfer, conditional discharge and bargain) are only used
+sporadically.
+
+
+
+54 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+25 Mention is purposely made of ‘the same period’ and not of ‘the same cases’. Because time
+passes between registration and handling by the PPS and also between handling by the PPS
+and the judgement of the court, this does not always involve the same cases.
+
+26 These are not then precisely the same cases as those registered in the same period by the PPS,
+or dealt with by the PPS. In particular some of the cases dealt with further in the past will have
+been brought to court in preceding years by the PPS. And some of the cases handled in 2001 by
+the PPS, will only come to court in 2002 (at the earliest).
+
+5.6 Judgement by the court
+
+Over the same period 1995 to 2001 inclusive25 the court dealt with a total of 516 THB
+cases (in the first instance).26 Table 5.7 gives a summary of the judgements, per year of
+judgement.
+
+Table 5.7 Judgement in the first instance, per year of judgement
+Judgement 1995 1996 1997 1998 1999 2000 2001 Total
+
+N % N % N % N % N % N % N % N %
+
+Sentence
+imposed
+
+44 95% 94 93% 64 88% 56 89% 52 82% 71 84% 75 87% 456 88%
+
+Acquittal 2 4% 4 4% 5 7% 3 5% 6 9% 11 13% 7 8% 38 7%
+
+PPS not
+admissible
+
+- - 2 2% 2 3% 2 3% 3 5% 1 1% 3 3% 13 3%
+
+Joined to
+court sitting
+
+- - 1 1% - - 2 3% 2 3% 1 1% 1 1% 7 1%
+
+Acquittal on
+a point of
+law or
+exemption
+
+- - - - 2 3% - - - - - - - - 2 0%
+
+Total 46 100% 101 100% 73 100% 63 100% 63 100% 84 100% 86 100% 516 100%
+
+In a large majority of the summoned cases (88%) a sentence was imposed. In 7% of
+cases acquittal followed. These percentages do not differ from one another much per
+year, though there were comparatively more acquittals in 2000.
+
+The judgement is also interesting, seen by the combination of offences in the charge.
+Table 5.8 gives an overview of the judgements from the years 1995 to 2001 inclusive.
+
+
+
+5 prosecution 55
+
+27 In cases in the category ‘no main sentence’ an additional penalty may be imposed (for example
+confiscation), or a measure (for example detention order). 
+
+Table 5.8 Judgement per combination of offences (1995-2001)
+Offence
+(combination)
+
+Sentence
+imposed
+
+Acquittal PPS not
+admissible
+
+Joined to
+court
+
+sitting
+
+Acquittal
+on a point
+
+of law or
+exemption
+
+Total
+
+N % N % N % N % N % N %
+
+Only THB 141 81% 19 11% 8 4% 4 2% 2 1% 174 100%
+
+THB + criminal 
+Organisation
+
+49 83% 7 12% 3 5% - - - - 59 100%
+
+THB + violence 92 91% 8 8% 1 1% - - - - 101 100%
+
+THB + fraud 18 100% - - - - - - - - 18 100%
+
+THB + offence
+against children
+
+10 100% - - - - - - - - 10 100%
+
+THB +
+immigration law
+offence
+
+6 100% - - - - - - - - 6 100%
+
+THB + one other
+type of offence
+
+18 95% - - - - 1 5% - - 19 100%
+
+THB + several
+other types 
+of offences
+
+122 95% 4 3% 1 1% 2 2% - - 129 100%
+
+Total 456 88% 38 7% 13 2% 7 1% 2 0% 516 100%
+
+Table 5.9 shows by combination of offences what (main) sentences were imposed.
+
+Table 5.9 (Main) sentences imposed per combination of offences (1995-2001)27
+
+Offence
+(combination)
+
+Uncondi-
+tional
+
+imprison-
+ment 
+
+Community
+service
+
+Uncondi-
+tional fine
+
+Only
+conditional
+
+imprison-
+ment
+
+No main
+sentence 27
+
+Total
+
+N % N % N % N % N % N %
+
+Only THB 104 74% 22 16% 4 3% 6 4% 4 3% 141 100%
+
+THB + criminal 
+Organisation
+
+47 96% 2 4% - - - - - - 49 100%
+
+THB + violence 83 90% 5 5% 2 2% 2 2% - - 92 100%
+
+THB + fraud 10 56% 5 28% - - 2 11% 1 6% 18 100%
+
+
+
+56 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Offence
+(combination)
+
+Uncondi-
+tional
+
+imprison-
+ment 
+
+Community
+service
+
+Uncondi-
+tional fine
+
+Only
+conditional
+
+imprison-
+ment
+
+No main
+sentence 27
+
+Total
+
+N % N % N % N % N % N %
+
+28 The indication ‘additional sentence’ is rather misleading. In accordance with art. 9, para.5 Penal
+Code the court may, however, in cases in which the law permits a sentence to be imposed, pass
+only an ‘additional’ sentence.
+
+29 Standard deviation 20.8 months.
+30 Standard deviation 11.6 months.
+31 Standard deviation 20.8 months.
+
+THB + offence
+against children
+
+6 60% 3 30% 1 10% - - - - 10 100%
+
+THB +
+immigration law
+offence
+
+5 83% 1 17% - - - - - - 6 100%
+
+THB + one other
+type of offence
+
+13 72% 5 28% - - - - - - 18 100%
+
+THB + several
+other types of
+offences
+
+115 94% 6 5% 1 1% - - - - 122 100%
+
+Total 383 84% 49 10% 8 2% 10 2% 5 1% 456 100%
+
+In 84% of cases in which sentences were imposed, this was imprisonment (in 3% of
+cases in combination with an unconditional fine) and in 10% of cases this was
+community service. Unconditional fines, only conditional sentence or only additional
+sentences28 (or measures) were only occasionally imposed.
+
+The (unconditional) imprisonment has an average duration of 26 months29. This
+average is the lowest for charges of suspicion of only THB (17.2 months30) and the
+highest for charges of suspicion of THB in combination with several types of offences
+(34 months31).
+
+5.7 Appeal
+
+An appeal was brought against 234 of the total of 516 court judgements (45%). That was
+done 122 times by the suspect (in almost all cases after sentence was imposed), 23 times
+by the PPS (mainly in case of acquittal) and 89 times by both parties (in all cases after
+sentence was imposed).
+
+
+
+6 Other figures
+
+This chapter outlines different figures relating to THB, as they emerge in various
+publications. This outline also includes figures relating to prostitution, because
+according to the regulations now applicable in the Netherlands, THB is still placed in
+the context of exploitation only in the sex industry. The purpose of this outline is to
+offer a brief, efficient overview of available indicators relating to prostitution and
+THB.
+
+Table 6.1 only presents figures that relate to the (whole) of the Netherlands. Figures
+that relate to abroad are not included in the table. Figures in relation to municipalities,
+regions, etc. are also left out of account. 
+
+The figures presented in Table 6.1 relate to the year under which they are placed. If
+data are known or calculated over a period of several years, then the table-cells for
+these years are combined. If a report states that this is an annually recurring number,
+then the number is placed under the year of publication of the report.
+
+The figures in most cases can be commented on in one way or the other. For example,
+in the publications in which the figures are presented, factors are mentioned that
+affect the reliability and/or level of the figures. Also, an explanation is often given of
+the way in which, or the method by which the figures have been collected or
+calculated. It has nevertheless been decided in this chapter not to give an explanation
+of the figures. The reader is referred to the sources mentioned to check how precisely
+a figure came about and what the reliability of the data presented is. 
+
+
+
+58 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Table 6.1 Indicators of prostitution and THB in the Netherlands
+Data
+prostitution &
+THB
+
+Source 1996 1997 1998 1999 2000 2001
+
+Prostitution
+
+Number of
+prostitutes*
+
+Van der Helm & 
+Van Mens, 1999
+
+20,000-
+25,000
+
+Visser e.a., 2000 6,000
+per day
+
+Number of
+foreign
+prostitutes*iii
+
+Van der Helm & 
+Van Mens, 1999
+
+68%
+min.
+
+Number of
+underage
+prostitutes*
+
+Venicz &
+Vanwesenbeeck, 
+
+1998
+
+1000-
+2000
+
+(girls)
+min. 
+
+Van Gelder, 1998 3000
+(boys)
+
+Van Horn e.a., 
+2001
+
+1500
+(boys) 
+
+Number of
+boys/men in
+prostitution*
+
+Van Gelder, 1998 3000
+(minors)
+
+Van der Helm & 
+Van Mens, 1999
+
+1015
+
+Van Horn e.a., 
+2001
+
+1500
+(minors)
+
+Number of trans-
+genders in
+prostitution*
+
+Van der Helm & 
+Van Mens, 1999
+
+1003
+
+Number of
+brothels*
+
+Smallenbroek &
+Smits, 2001
+
+550
+
+Visser e.a., 2000 600-
+700
+
+Number of
+window
+brothelsiv*
+
+Smallenbroek &
+Smits, 2001
+
+630
+
+Number of
+windows
+
+Visser e.a., 2000 2040
+
+Number of escort
+agencies*
+
+Smallenbroek &
+Smits, 2001
+
+260
+
+Number of street
+prostitutes 
+
+Visser e.a., 2000 320
+per day
+
+
+
+6 other figures 59
+
+Data
+prostitution &
+THB
+
+Source 1996 1997 1998 1999 2000 2001
+
+THB
+
+Number of victims
+of THB reported
+to STV
+
+STV 180 228 287 341 284
+
+Number of victims
+of THB in contact
+with victim
+support
+
+NRM, 2002 608
+
+Number of
+victims/ witnesses
+of THB in B9
+
+BNRM/IND 46 41 39 71 58 122
+
+Number of victims
+of THB*
+
+Altink, 1996 2000-
+3000
+
+IRT NON, 1997 2000
+from
+
+Central
+and
+
+Eastern
+Europe
+
+Van Dijk, 2002 3,500
+min.
+
+Number of
+underage victims
+of THB*
+
+NRM, 2002* 600-1150
+
+Number of
+underage victims
+of THB in contact
+with victim
+support
+
+NRM, 2002 129
+
+Number of
+reports of THB
+
+Nat. Crime Chart
+KLPDv
+
+64 51 38 41 28 51
+
+BNRMi 27 98 69 91 186
+
+Number of
+current
+investigations into
+THB
+
+Van de Ven & 
+Neeve, 1998
+
+66
+
+Luykx & Van Soest,
+1999
+
+93 59
+
+PPM/dNPvi 106 144
+
+Van Dijk, 2002 12 24 26 43
+
+
+
+60 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Data
+prostitution &
+THB
+
+Source 1996 1997 1998 1999 2000 2001
+
+Number of
+completed
+investigations into
+THB
+
+BNRM(sent in to PPS) 8 14 16 25 48
+
+Number of
+suspects of THB
+
+Nat. Crime Chart
+KLPDv
+
+107 87 81 95 61 85
+
+BNRMI (reported) 53 93 82 160 224
+
+BNRMi (sent in to PPS) 29 76 69 129 142
+
+Number of cases
+(~suspects) of
+THB
+
+BNRM 117 116 134 103 138 132
+
+Number of
+sentences imposed
+for THB
+
+BNRM 94 64 56 52 71 75
+
+* Estimated
+i In investigations completed and sent in to the PPS
+ii In clubs and in window and street prostitution
+iii Not necessarily working illegally in prostitution
+iv A window brothel may have several windows in operation
+v Information from the National Crime Chart is partly taken from Boerman e.a. (2002) and partly from
+
+verbal information from the KLPD, NRI service
+vi As far as is known the results were not published in the form of a report. The data presented here come
+
+from a few separate summaries that the Bureau NRM obtained via the PPM/dNP
+
+Abbreviations used in Table 6.1:
+max. = maximum
+min. = minimum
+Nat. = National
+
+
+
+1 This concerns an analysis of the investigations into THB that the police completed in the
+period 1997-2001 (hereinafter called the police research), an analysis of data regarding the
+victims/witnesses that report an offence and make an appeal to the B-9 regulation (hereinafter
+called B-9 research) and an analysis carried out by the Statistical Information Supply and
+Policy Analysis department (SiBa) of the Scientific Research and Documentation Centre
+(WODC) of a national database of cases registered with the Public Prosecution Service (PPS)
+(hereinafter called the PPS research). 
+
+7 Summary and conclusions
+
+7.1 Introduction
+
+This report charts figures relating to trafficking in human beings (THB). For this, the
+Bureau of the Dutch National Rapporteur on THB (BNRM) has firstly carried out its
+own research work1 and secondly collected figures, as they emerge in publications. In
+this chapter the results are presented briefly and in relation to one another. The
+emphasis is placed here on the results for 2001, being the most recent complete
+reporting year, and on developments over time. This report must be seen and read in
+conjunction with the first report that contains all sorts of background information and
+is of a more reflective nature. The conclusions and recommendations formulated in
+the first report still apply without restriction; the cabinet viewpoint on them has only
+recently been published and they still had to be discussed in the Lower House, at the
+time of writing this second report. This report therefore only discusses to a limited
+degree the results obtained. Also, no further and far reaching conclusions are drawn
+and/or recommendations formulated. In the next, third, report conclusions and
+recommendations will, however, again be formulated. 
+
+Before going into the results, it is also important to state that the charting of the scale
+and character of THB, in quantitative terms, is a difficult task. After all, an (unknown)
+proportion of THB escapes the eye of the various bodies involved, directly or
+indirectly, with THB. By finding out and presenting the data that are available, an
+indication can, however, be obtained of the character and scale of the phenomenon of
+THB.
+
+7.2 Victims
+
+Number of victims
+In 2001 the Dutch Foundation against Trafficking in Women (STV) registered 284
+victims of THB. The number of victims reported to the STV does, however, as regards
+character and scale form an unknown selection of the total number of victims of THB
+in the Netherlands, but also of the number of victims that come into contact with the
+
+
+
+62 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+2 See for an explanation of this regulation paragraph 3.2 and paragraph 7.5.
+
+police and (victim support) organisations. The latter is caused on the one hand,
+because not all victims known to ‘third parties’ are reported to the STV. On the other
+hand, because in the course of 2001 the STV was less easily contactable. Other sources
+then indicate higher numbers of victims of THB. For example the BNRM found that
+in 2000 608 victims came into contact with victim support organisations (NRM,
+2002). Victims may have been counted several times here, after all they may be in
+contact with several victim support organisations, but this distortion is probably
+(partly) offset again because not all victim support organisations in the Netherlands
+have provided data for this investigation. On the basis of the records mentioned and
+others, different researchers have attempted to estimate the total number of victims in
+the Netherlands. The most recent estimate comes from Van Dijk (2002), who
+calculated that the number of victims in the Netherlands in 2000 would be at least
+3,500. This would mean that at least one fifth of all prostitutes according to legal
+criteria are victims of THB. Earlier estimates related to 1996 and 1997. These estimates
+range from 2000 victims of THB in total to also 2000 only from Central and Eastern
+Europe.
+
+Underage victims
+There are various estimates and figures available for the number of minors in
+prostitution and the number of victims of THB among them. The most recent
+estimate – for 1997 – is that there are 600 to 1150 underage victims of THB in the
+Netherlands (40% to 77% of the total number of underage prostitutes) (Venicz &
+Vanwesenbeeck in First report of the Dutch National Rapporteur on THB (NRM)
+(2002)). BNRM found that in 2000 (at least) 129 underage victims of THB were in
+contact with victim support organisations (NRM, 2002). In 2001 the Immigration and
+Naturalisation Service (IND) registered 72 applications from minors applying for a
+residence permit under the B-9 regulation.2 These minors, however, also include
+children of victims and witnesses. In 2001 27 (10%) underage victims were reported to
+the STV. In 2001 41% of the police investigations completed and sent in, related to
+underage victims. This also applied for 20% of the cases registered with the Public
+Prosecution Service (PPS) (~suspects). This at first sight remarkable difference
+between the police and the PPS data is probably caused because a) not all underage
+victims have also reported an offence, b) not all suspects identified in an investigation,
+that (partly) related to underage victims, also themselves might be suspected of
+trafficking in minors and c) the selection within the PPS database was carried out by
+selection of the paragraphs of articles 250ter and 250a Penal Code that relate to
+underage victims, while cases that (partly) relate to underage victims may also be
+registered under the general penal code article, or under other paragraphs.
+
+Male victims
+The number of men/boys among prostitutes is comparatively low (according to
+estimates 5% to 25% of the total number of prostitutes in the Netherlands) (Van der
+
+
+
+7 summary and conclusions 63
+
+Helm & Van Mens (1999); Venicz & Vanwesenbeeck (2000)). Also men/boys, as is
+generally assumed (e.g. in Van Gelder, 1998), are much less often victims of THB than
+women/girls. Of the investigations into THB completed by the police over the period
+1997-2001 one investigation (1%) also related to boys. Of the people who in 2001 made
+an appeal for the B-9 regulation in fact 7% were of the male sex, but these may (in part)
+also be witnesses of THB. The STV only very occasionally receives reports of
+men/boys that are exploited in prostitution.
+
+Origin of victims or recruitment countries
+Victims of THB are recruited in the Netherlands and/or abroad. In the first case this is
+called THB within the Netherlands, in the second case cross-border THB. Of the
+investigations that the police completed in 2001, 25% related to THB within the
+Netherlands and 75% to cross-border THB. The majority of the foreign victims (70% to
+80%) – in both 2001 and previous years – came from Central and Eastern Europe. In
+second place comes Africa, where 15% to 22% of the victims come from. Asia, Latin
+America and Western Europe score comparatively low. In all the records/researches
+Bulgaria, the Czech Republic, Poland, the Russian Federation, Ukraine and Romania
+emerge as major countries of origin in Central and Eastern Europe in 2001. The STV
+also mentions Lithuania, in the B-9 research Slovakia also scores comparatively high
+and in the police research Moldavia jumps out as a ‘rising country of origin’. For a
+number of these countries in 2001 there was no visa obligation (Bulgaria, the Czech
+Republic, Poland, Romania, Lithuania, Slovakia), for others there was (the Russian
+Federation, Ukraine, Moldavia). Whether or not a visa obligation exists does not seem
+to play a great part in the decision to recruit in a particular country.
+
+Reports by victims
+Prosecution of THB may also be carried out without reporting an offence. However, a
+report is in practice often considered to be vital. Of the number of victims of THB
+who report an offence, different records are available. None of these data do however
+give an accurate or complete picture of the actual situation. Nevertheless, the results
+are briefly set out here. Firstly the police Identification Service System (HKS, obtained
+via the National Crime Chart). This records 51 reports of THB in 2001. Secondly, the
+records of the IND of victims and witnesses that reported an offence and wanted to
+use the B-9 regulation. There were 147 in 2001. Thirdly, the reports of THB by victims,
+that in 2001 led to the cases (~suspects) sent in to the PPS. These were 186. This latter
+number is the highest, while this is a selection of victims that come into contact with
+the police, who decide to report an offence, for which the report leads to a police
+investigation and this investigation is also again completed and sent in to the PPS.
+When the number of 186 reports in 2001 is combined with the estimate of 3,500
+victims in 2000 (Van Dijk, 2002), then it is found that 5% of the victims of THB would
+report an offence. This corresponds reasonably well with estimates of police officials
+and victim support organisations regarding the percentage of THB victims found that
+
+
+
+64 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+3 Sources include various police officials involved in the fight of THB (among others from
+PPM/dNP) and the Foundation for Support and Reception of Prostitutes (Stichting
+Hulpverlening en Opvang Prostituees – SHOP).
+
+report an offence. They assume a readiness among these victims to report an offence
+of 5% to 10%.3
+
+7.3 Perpetrators
+
+Perpetrators or suspects
+In 2001 the police identified 224 suspects of THB, of which 179 (80%) were arrested
+and 142 (63%) were ‘sent in’ to the PPS. The number of suspects rose considerably in
+the last two years, but similar to the number of investigations that the police
+completed. The average number of suspects per investigation remained more or less
+the same over the period 1997-2000 and even fell in 2001. Also a check was made with
+the PPS on how many cases (~suspects) were registered in 2001. There are 132 of these.
+The difference with the number of suspects ‘sent in’ from the police research is so
+small, that no research consequences – in terms of unreliability – have to be associated
+with this. According to the police research, of the suspects arrested in 2001, 29% are
+women. The proportion of women among the suspects increased comparatively over
+the last two years. Of the suspects registered with the PPS in 2001, 21% are women.
+Furthermore, of all the suspects arrested in 2001, 12% operate a sex establishment. Of
+the operators of sex establishments arrested, 76% were ‘sent in’ to the PPS.
+
+Origin of suspects
+According to the police research, almost half of the suspects arrested in 2001 are of
+Dutch nationality. Some of these were however born outside the Netherlands. A high
+proportion of suspects in 2001 came from (former) Yugoslavia, Albania, Nigeria and,
+to a lesser degree, Ghana. Suspects of THB within the Netherlands come
+comparatively more often from Morocco than suspects of cross-border THB. In the
+PPS research – in addition to (former) Yugoslavia – Bulgaria, Turkey and the (former)
+Soviet Union emerge as the main countries of origin of suspects in 2001. In 2001,
+according to the police research, the percentage of foreign suspects residing illegally in
+the Netherlands rose compared with foreign suspects legally residing (that is with a
+residence permit or in some other legal way) in the Netherlands (from 10% to 42%).
+Though, foreign suspects without a residence permit do not come significantly more
+often from countries without than from countries with a visa obligation. To what
+extent the lifting of the visa obligation for applicant-member states of the EU can be
+seen in the origin of suspects of THB, will be further examined in the next report of
+the NRM. 
+
+
+
+7 summary and conclusions 65
+
+Co-operation
+The majority of the suspects arrested in 2001 (75%) belong to a criminal network.
+These criminal networks are usually extensive and widely branched, and bring their
+victims into prostitution in several countries in the European Union (EU). In 2001 28
+(58%) of police investigations focused on (branches of) ‘criminal networks’. In that
+same year 12 (25%) ‘soloists’ were traced and 8 (17%) ‘isolated criminal groups’ (see for
+the definitions paragraph 4.4). 
+
+7.4 Modus operandi
+
+In this paragraph a few data relating to the modus operandi of traffickers in human
+beings are summarised. Only data from the police research are presented here. Much
+more about the way in which traffickers in human beings operate can of course be said
+on the basis of other sources. This was partly done in the First report of the Dutch
+National Rapporteur on THB (NRM, 2002) and the NRI report THB in the Netherlands
+1997-2000 (Van Dijk, 2002). The data presented below form a supplement or update to
+the data already presented on the mechanisms of THB.
+
+Travel route and travel and residence documents
+The journey usually takes place by land, via Germany. This only seems logical in view
+of the fact that most victims come from Central and Eastern Europe (see paragraph
+7.2). Very regularly victims in the Netherlands were in possession of a forged or false
+passport. It is not clear whether the same passport is also used for the journey to the
+Netherlands. As far as is known, visas are forged or counterfeited much less often than
+passports. Usually a visa is applied for, or the person travels without a visa.
+
+Exploitation in prostitution
+Traffickers in human beings use many means of coercion to bring or hold people in
+prostitution and/or to confiscate their earnings. Victims are very often threatened
+with violence, or violence is actually used. Furthermore, victims are often locked up,
+kept under constant surveillance or their freedom is otherwise restricted. The taking
+away of passports and the imposition of (fictitious) debts mainly occurs in the case of
+cross-border THB. In the case of THB within the Netherlands victims are, more often
+than for cross-border THB, enticed into prostitution with carefully planned, ‘played
+out’ lover-boy techniques (the loverboy method). Victims from Nigeria and Malawi
+report voodoo-practices. 
+
+Mobility
+In 2001 half of the police investigations involved cases where victims were brought
+into prostitution not only in the Netherlands, but also elsewhere in Europe, relatively
+often in Germany, Belgium, Italy and Spain. In two thirds of the investigations (67%) it
+emerges that victims are (also) ‘employed’ in various towns in the Netherlands.
+
+
+
+66 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+4 For example committing violence, rape, unlawful detention and falsification or fraud with
+travel and residence documents.
+
+Proceeds of THB
+The average illegally acquired gain per suspect was the highest in 2001, namely roughly
+€ 210,000. In an investigation the illegally acquired gain is, however, only calculated if
+the total amount of illegally earned money is considered substantial. The amount
+mentioned is as a result not necessarily representative of the earnings of the average
+trafficker in human beings. For this reason police officials in the police research were
+also asked to estimate how much the suspects distinguished in an investigation earned
+with the THB investigated. From this it emerges that in half of the investigations into
+THB completed in 2001, more than € 45,000 is estimated to be earned. In total, in 2000
+THB in the Netherlands brought in an estimated gross amount of roughly 
+€ 85,000,000 (see paragraph 4.8 for the calculation). In 14% of the investigations
+victims have, as far as the police know – via civil law proceedings or via a ‘joinder of
+injured party for material and immaterial damage’ in the criminal proceedings –
+attempted to get back some of the money they have earned, or to obtain compensation
+for damage suffered.
+
+Characteristics of organised crime
+In 7% of cases (~suspects) registered by the PPS in 2001, in addition to THB, charges
+were also brought of belonging to a criminal organisation (art. 140 Penal Code). This
+indicates a lower limit and does not mean that in other cases there is no question of
+criminal organisations. For various reasons this charge is not in fact always brought.
+Research by Van Dijk (2002) has shown that criminal groups and networks meet a
+number of, but not all the characteristics of organised crime. It was for example found
+that they try to evade the upper world rather than try to infiltrate or aim for economic
+or political power. The area of operation, from a geographic point of view, is however
+generally large. Many suspects and criminal groups are characterised by violence, both
+towards victims and relations of victims (often family) and towards competing
+traffickers in human beings. Measures often used to prevent or counteract tracing
+include threatening victims who want to report an offence, the use of false and/or
+alternating identities for perpetrators and victims, and the frequent moving of victims
+through the Netherlands and Europe.
+
+Criminal activities other than THB
+In 2001 over half of the investigations involved cases where the suspects also
+committed offences other than THB (or THB-related offences)4. Crimes against
+properties and narcotics related crimes score high. Some way behind follow weapons
+related crimes and migrant smuggling. 
+That same year in well over two thirds of the cases (~suspects) registered with the PPS
+there was a suspicion of THB in combination with one of more other types of offences
+(particularly violence or belonging to a criminal organisation). This percentage is
+higher than in the police research, because THB-related offences are regarded as a
+separate offence in the PPS research. 
+
+
+
+7 summary and conclusions 67
+
+7.5 Police investigation
+
+Police investigation into THB
+The number of investigations into THB completed by the police rose considerably,
+particularly in 2001. In that year 48 investigations were completed and 142 suspects
+‘sent in’ to the PPS. The immediate cause for the investigations was in one third of the
+cases a ‘spontaneous’ report. In equal second place are controls in the prostitution
+environment and information from other investigations. On average, an investigation
+into THB in 2001 took 6 months. 
+
+Prostitution sectors involved
+In over half of the investigations it emerges that victims are (also) employed in
+window prostitution, and in well over half (also) in clubs/brothels. Comparatively far
+fewer investigations were carried out that involved prostitution in the escort sector or
+street prostitution. In 2001 the number of investigations involving the escort sector
+did, however, increase comparatively greatly, after a low point in 2000. 
+
+Criminal financial investigation
+In one third of the investigations a criminal financial investigation was opened. The
+number of criminal financial investigations that led to a confiscation order in 2001 was
+higher than in 2000, namely 93% (against 63% in 2000). BNRM checked in its first
+report in how many cases a confiscation order was instituted out of the cases
+(~suspects) registered over the period from 1995 to the first half of 2000 inclusive with
+the PPS, where a summons was issued. This was found to apply in 18% of cases. It is
+stated that this does not appear often at first sight, but information from PPS data
+shows that this happened in no more than 11% of cases in the same period with regard
+to infringement of the Opium Act.
+
+The B-9 regulation
+Foreign victims of THB residing illegally in the Netherlands who report an offence –
+and so co-operate in the tracing and prosecution of the suspects – are offered
+reception and a temporary residence status under the B-9 regulation. The number of
+victims who obtain a residence status on this basis, is recorded by the IND. For
+witnesses of THB a similar regulation applies. Witnesses may themselves be (have
+been) victims of THB, but do not have to be. Because the IND makes no distinction in
+its records between victims and witnesses of THB, the records of the IND cannot just
+be regarded as victim records. In 2001 for 147 victims/witnesses of THB a residence
+permit was applied for on the basis of the B-9 regulation (a B-9 permit). The number
+of applications rose considerably in that year compared with previous years and this
+increase will very probably continue in 2002. In 2001 122 B-9 permits were granted.
+This means that in 2001 upon 25 applications (17%) no B-9 permit was awarded. There
+may be a number of reasons for this. For example, applications are withdrawn or
+expire. This happens, for example, if the investigation and/or the prosecution is not
+started or is stopped. It also happens that victims/witnesses who report an offence or
+make a statement – and make an appeal for the B-9 regulation – ‘disappear’ before the
+
+
+
+68 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+B-9-status is granted. Possibly victims return to their country of origin or go back to
+work in prostitution, self employed or ‘employed’ by traffickers in human beings.
+
+7.6 Prosecution
+
+In 2001 – as previously stated in this chapter – 132 cases (~suspects) relating to THB
+were registered with the PPS. In 63% of these cases a summons was issued because of
+suspicion of THB and in 7% for acts other than THB. 29% of the cases were
+(un)conditionally discharged. 
+In 2001 86 cases relating to THB were settled by the court. In 87% of these cases a
+sentence was imposed. This was in most cases imprisonment.
+
+7.7 After the lifting of the general ban on brothels
+
+As of 1 October 2000, with the lifting of the general ban on brothels, the way was
+opened for the running of prostitution as a legal business. Municipalities lay down
+conditions by means of a licensing system under which the running of prostitution can
+be permitted within their municipal borders. Supervisors (so far usually the police)
+check whether the conditions are met. In many regions, these checks are combined
+with controls for illegal immigrants. In these controls they are also on the look out for
+indications of THB. If prostitution businesses do not meet the conditions laid down,
+administrative measures can be taken, such as imposing a fine or temporary or
+otherwise closure of the premises. By regulating the prostitution sector in this way, via
+an administrative path an attempt is made to make it as unattractive as possible for the
+sex establishment operator to employ victims of THB or to work with minors. This is
+in addition to the criminal law opportunities that have been present for many decades
+already. The figures presented in this report partly relate to the period after the lifting
+of the general ban on brothels. However, the new approach to prostitution policy has
+not yet got off the ground in all municipalities (see also Daalder, 2002). Furthermore,
+in particular larger municipalities with a comparatively extensive prostitution industry
+did in fact run ahead of the lifting of the ban and already combined a tolerance
+situation with a type of licensing system. As a result, the present data for the year 2001
+cannot simply be interpreted as ‘effects of the lifting of the general ban on brothels’.
+To draw conclusions on this, research with a broader set up is required. This has
+meanwhile been carried out by the Scientific Research and Documentation Centre
+(WODC) of the Ministry of Justice (Daalder, 2002). The results of this research and
+possible changes observed after the lifting of the general ban on brothels will be
+discussed in the next, third, report of the NRM.
+
+
+
+1 This bibliography contains an overview of the publications studied for writing the Dutch
+version of this report. Although the English translation is a somewhat abridged version, for the
+readers information the bibliography is included in its entirety.
+
+Bibliography1
+
+Altink, S.M. (1996). Handel en wandel. Malafide migratiebemiddeling van vrouwen In:
+Justitiële Verkenningen, jrg. 22, nr 1.
+
+Altink, S.M. (2000). Opheffing bordeelverbod. Een onderneming voor prostituees
+Amsterdam: De Rode Draad. 
+
+Boerman, F.A. e.a. (2002). Landelijke criminaliteitskaart 1999; Aangifte- en
+verdachtenanalyse op basis van HKS-gegevens Zoetermeer: KLPD.
+
+Daalder, A.L. (2002). Het bordeelverbod opgeheven: prostitutie in 2000-2001 Den Haag:
+WODC.
+
+Dijk, E.M.H. van (2002). Mensenhandel in Nederland 1997-2000 Zoetermeer:
+KLPD/NRI.
+
+Dijk, E.M.H. van & Savornin Lohman, P.M. de (2000). Externe Evaluatie Stichting
+Tegen Vrouwenhandel Amsterdam: DSP.
+
+Fijnaut, C.J.C.F. e.a. (1996). Inzake opsporing; enquête opsporingsmethoden; bijlage VII;
+Eindrapport onderzoeksgroep Fijnaut Den Haag: SDU.
+
+Gelder, P. van (1998). Kwetsbaar, kleurig en schaduwrijk. Jongens in de prostitutie: een
+verschijnsel in meervoud Amsterdam: Thela Thesis.
+
+Helm, Th. van der & Mens, L. van (1998/1999). Mobility in prostitution in the
+Netherlands 1998-1999 Amsterdam: EUROPAP.
+
+Horn, J.E. van, Bullens, R.A.R., Doreleijers, Th.A.H. & Jägers, M. (2002). Aard en
+omvang seksueel misbruik en prostitutie minderjarige allochtone jongens – een verkennend
+onderzoek 
+Amsterdam: Fora, VU Amsterdam.
+
+IRT-NON en Internationaal Politie Instituut Twente (1997). Mensenhandel vanuit
+Centraal- en Oost Europa Enschede: IRT-NON.
+
+Klerks, P.P.H.M. (2000). Groot in de hasj. Theorie en praktijk van de georganiseerde
+criminaliteit Antwerpen: Kluwer Rechtswetenschappen.
+
+
+
+70 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Luykx, F. & Soest, S. van (1999). Inventarisatie prostitutie en mensenhandel in Nederland,
+1999 Zoetermeer: Werkgroep prostitutie en mensenhandel/CRI.
+
+Nationaal Rapporteur Mensenhandel (2002): Mensenhandel – Eerste rapportage van de
+Nationaal Rapporteur Den Haag: Bureau NRM.
+
+Riet, F.J. van ‘t (2000). Bronnenboek 2000. Inventarisatie van gegevensbronnen met
+betrekking tot criminaliteit Den Haag: Ministerie van Justitie.
+
+Smallenbroek, A.J.H. & Smits, E.C.M. (2001). Gemeentelijk prostitutiebeleid na
+opheffing van het algemeen bordeelverbod Den Haag: VNG/SGBO.
+
+Stichting Tegen Vrouwenhandel (2001). Jaarverslag 2000 Utrecht: STV.
+
+Stichting Tegen Vrouwenhandel (2002). Jaarverslag 2001 Utrecht: STV.
+
+Ven, N. van de & Neefe, M. (1998). Inventarisatie stand van zaken prostitutie en
+mensenhandel in Nederland (versie 2) Zoetermeer: KLPD.
+
+Venicz, L. & Vanwesenbeeck, I. (1998). Aard en omvang van (gedwongen) prostitutie
+onder minderjarige (allochtone) meisjes Utrecht: NISSO.
+
+Visser, J.H., Oomens, H.C.D.M. & Boerman, F.A. (2000). Prostitutie in Nederland in
+1999 Amsterdam: Mr. A. de Graaf Stichting.
+
+
+
+Annex 1 Notes on tables, statistics and terminology
+
+Notes on the tables presented 
+
+This report includes many tables. Below are some comments that are important for
+the interpretation of these tables.
+Due to rounding, the tables do not always add up to exactly 100%. For the sake of
+readability the tables do, however, always indicate 100%.
+When numbers are set out in a column of a table, in the heading of the relevant column
+the letter N is used, an abbreviation for ‘number’.
+In the tables a dash (-) shows that the number is zero, and a dash (-) also indicates that
+the corresponding percentage is 0%. If the number is higher than zero, but the
+percentage when rounded comes to 0%, 0% is shown. 
+
+Notes on the statistics used
+
+Standard deviation
+This report sometimes indicates what the average is, for example the average number
+of suspects in investigations into THB. In addition, the number (N, see above) and the
+so-called standard deviation are also always given. The standard deviation indicates
+the extent to which the numbers on which the average is calculated, differ. The higher
+the standard deviation, the more this is the case. This is not the place to discuss
+statistical methods at length. However, a small example for clarification: in a class ten
+people all get a 6 for a test. The average report figure is then a 6, the standard deviation
+is low. After all, everyone scores the same. In another class five people get a 2 for the
+test and five people a 10. Here too the average is a 6. The standard deviation is,
+however, high here, because the people get a very wide range of scores.
+
+Index
+In some tables an index is given. The index shows how much the number of – for
+example suspects – has changed in a particular year compared with a base year. Which
+year is taken as a base year is indicated in the heading of the table. This year is set at
+100. An index of higher than 100 indicates a rise with respect to the base year and an
+index of lower than 100 a fall. For example: an index of 200 indicates that the number
+has doubled with respect to the base year.
+
+Significance 
+In this report results for different groups are sometimes compared with one another.
+If this is the case a check is usually made as to whether the difference found is
+‘significant’ or not. This is then indicated in the text, with in a footnote the
+corresponding values chi2, df and p. This means that a check has been made as to how
+big the chance is that the difference found is based on coincidence. Let us give a
+
+
+
+72 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+fictitious example here too. Say that there are three people who drink cola each day
+and three people who never drink cola. One person in the first group dies of a heart
+attack, no one in the second group. Is drinking cola related to having a heart attack?
+This is difficult to say with so few people. There is a high chance that the result found
+is based on coincidence and that drinking cola has nothing to do with heart attacks. A
+test would then show that the difference is not significant. Now there are 180 people
+of which 90 people drink cola and 90 do not, and 30 cola drinkers from the first group
+die of a heart attack. The man in the street would say: ‘that cannot be down to chance’.
+A statistical test would show ‘this difference is significant’.
+
+In this report it is assumed that the chance of coincidence may not be greater than 5% –
+a percentage often used in circles of researchers. Exactly how big this chance is, can be
+seen from the p value indicated in the footnote. For example: p<.01 means that the
+chance of a coincidence is less than 1%. The values chi2 and df (this stands for the
+number of degrees of freedom) are values that are necessary to determine whether
+differences are significant and are not discussed further here.
+
+Notes on terminology used
+
+Victims of THB
+Both women and girls, and men and boys, may become victims of THB. Because most
+victims of THB according to the present Dutch definition, that is (still) related to
+exploitation in the sex industry, are women and girls, and to avoid complicated he/she
+schemes, in this report female victims are always referred to.
+
+Cases recorded with the Public Prosecution Service
+The PPS records (criminal) cases, which are cases against one suspect. Because in theory
+several cases relating to one suspect may be registered with the PPS, the number of
+cases does not equate exactly with the number of suspects. Because the numbers will
+not, however, differ much in practice, for the sake of readability, this report also talks
+about cases registered with the PPS (~suspects).
+
+Central and Eastern Europe
+This report sometimes talks of Central and Eastern Europe, as complementary to
+Western Europe, and sometimes of the regions Central and Eastern Europe, which in
+the first case means the countries Poland, the Czech Republic, Slovakia, Hungary and
+in the second case countries from the former Soviet Union and the Russian
+Federation. If the latter is the case, then this is always explicitly explained in the text. In
+other cases one can then assume the first alternative.
+
+
+
+Annex 2 Supplementary tables
+
+Supplementary table to Chapter 3:
+
+Table 1 Nationality victims/witnesses with (application for) B-9 permit (1996 up to and
+including June 2002)
+
+Nationality Applications for B-9 permit Grants of B-9 permit
+N % N %
+
+Bulgarian 95 16% 93 20%
+
+Ukrainian 59 10% 42  9%
+
+Russian 47  8% 40  9%
+
+Nigerian 51  8% 39  8%
+
+Romanian 44  7% 33  7%
+
+Czech 38  6% 29  6%
+
+Polish 29  5% 21  5%
+
+Lithuanian 27  4% 17  4%
+
+Moldavian 13  2% 12  3%
+
+Slovakian 13  2% 12  3%
+
+Albanian  7  1%  5  2%
+
+Cameroon  8  1%  6  1%
+
+Latvian  8  1%  6  1%
+
+Chinese 13  2%  5  1%
+
+Estonian  6  1%  5  1%
+
+Sierra Leonese  7  1%  5  1%
+
+Belarussian  5  1%  4  1%
+
+Dominican  4  1%  4  1%
+
+German  8  1%  4  1%
+
+Hungarian  5  1%  4  1%
+
+Yugoslav 12  2%  4  1%
+
+Moroccan  4  1%  4  1%
+
+Thai  3  1%  4  1%
+
+Angolese  3  1%  3  1%
+
+Belgian  5  1%  3  1%
+
+Ghanaian  3  1%  3  1%
+
+Guinean  3  1%  3  1%
+
+Bosnian  4  1%  2  0%
+
+Colombian  3  1%  2  0%
+
+
+
+74 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Nationality Applications for B-9 permit Grants of B-9 permit
+Croatian  2  0%  2  0%
+
+Malawian  2  0%  2  0%
+
+Ugandan  2  0%  2  0%
+
+Venezuelan  3  1%  2  0%
+
+Brazilian  1  0%  1  0%
+
+Finish  1  0%  1  0%
+
+Greek  2  0%  1  0%
+
+Italian  3  1%  1  0%
+
+Ivorian  1  0%  1  0%
+
+Kyrgyzian  1  0%  1  0%
+
+Liberian  3  1%  1  0%
+
+Uzbekian  1  0%  1  0%
+
+Sudanese  3  1%  1  0%
+
+Soviet Union  2  0%  1  0%
+
+Sri Lankan  1  0%  1  0%
+
+Surinamian  3  1%  1  0%
+
+Turkish  3  1%  1  0%
+
+Namibian  1  0%  1  0%
+
+Afghan  1  0% - -
+
+Armenian  1  0% - -
+
+Indonesian  1  0% - -
+
+Jamaican  2  0% - -
+
+Congo Kinshasan  1  0% - -
+
+Austrian  1  0% - -
+
+Spanish  2  0% - -
+
+Togolese  2  0% - -
+
+Trinidadan  1  0% - -
+
+Zairian  2  0% - -
+
+Zambian  1  0% - -
+
+Unknown 30  5%  24   5%
+
+Total 607 100% 462 100%
+
+
+
+annex 2 supplementary tables 75
+
+Supplementary tables to Chapter 4:
+
+Table 2 Standard deviations belonging to Table 4.5
+Year Suspects distinguished Suspects arrested Suspects ‘sent in’
+
+Sd Sd Sd
+
+1997 4.1 2.1 3.3
+
+1998 9.9 8.5 8.6
+
+1999 4.3 4 3.8
+
+2000 8.7 7.4 7.5
+
+2001 4.3 4.1 2.9
+
+Total 6.4 5.6 5.3
+
+Table 3 Nationality and country of birth of suspects of THB (1997 to 2001 inclusive)
+Country Nationality Country of birth
+
+N % N %
+
+Netherlands 185 42% 119 26%
+
+(Former) Yugoslavia 54 12% 59 13%
+
+Nigeria 30 7% 35 8%
+
+Albania 24 5% 25 6%
+
+Bulgaria 18 4% 18 4%
+
+Turkey 16 4% 32 7%
+
+Germany 14 3% 13 3%
+
+Morocco 14 3% 19 4%
+
+Czech Republic 11 2% 12 3%
+
+Romania 9 2% 10 2%
+
+Ukraine 8 2% 9 2%
+
+Slovakia 5 1% 5 1%
+
+Estonia 5 1% 5 1%
+
+Italy 5 1% 5 1%
+
+Poland 5 1% 4 1%
+
+Soviet Union 4 1% 5 1%
+
+Dominican Republic 3 1% 3 1%
+
+Lebanon 3 1% 3 1%
+
+
+
+76 Trafficking in Human Beings; Second report of the Dutch National Rapporteur
+
+Country Nationality Country of birth
+
+N % N %
+
+Moldavia 3 1% 3 1%
+
+Sudan 3 1% 5 1%
+
+Thailand 2 0% 2 0%
+
+Tunisia 2 0% 2 0%
+
+Belgium 2 0% 4 1%
+
+Colombia 2 0% 4 1%
+
+Ghana 2 0% 9 2%
+
+Greece 2 0% 2 0%
+
+Hungary 2 0% 2 0%
+
+Israel 2 0% 2 0%
+
+Stateless 2 0% - -
+
+Algeria - - 1 0%
+
+Angola 1 0% 1 0%
+
+Azerbaijan 1 0% 1 0%
+
+Brazil 1 0% 1 0%
+
+Liberia 1 0% 1 0%
+
+Lithuania 1 0% 4 1%
+
+Indonesia 1 0% 6 1%
+
+Spain 1 0% 2 0%
+
+Syria 1 0% 1 0%
+
+Egypt - - 2 0%
+
+Great Britain - - 1 0%
+
+Iraq - - 1 0%
+
+Dutch Antilles - - 9 2%
+
+Surinam - - 5 1%
+
+Unknown 63 13% 56 11%
+
+Total 508 100% 508 100%
+
+
+
+annex 2 supplementary tables 77
+
+Table 4 Recruitment countries total and in the last investigation year (2001)
+Recruitment countries Total 2001
+
+N % N %
+
+Netherlands 31 28% 12 25%
+
+Nigeria 13 12% 6 13%
+
+Czech Republic 12 11% 2 4%
+
+Ukraine 11 10% 6 13%
+
+Bulgaria 10 9% 6 13%
+
+Russian Federation 10 9% 6 13%
+
+Poland 9 8% 1 2%
+
+Moldavia 7 6% 7 15%
+
+Romania 7 6% 2 4%
+
+Hungary 6 5% 4 8%
+
+Lithuania 6 5% 3 6%
+
+Slovakia 6 5% 2 4%
+
+Latvia 5 5% 4 8%
+
+Ghana 4 4% 3 6%
+
+White Russia 4 4% 4 8%
+
+Albania 3 3% 1 2%
+
+Estonia 3 3% 2 4%
+
+Malawi 3 3% - -
+
+Sierra Leone 3 3% - -
+
+Dominican Republic 2 2% - -
+
+Indonesia 2 2% 1 2%
+
+Italy 2 2% 1 2%
+
+(Former) Yugoslavia 2 2% 1 2%
+
+Thailand 2 2% 1 2%
+
+Belgium 1 1% 1 2%
+
+Colombia 1 1% - -
+
+Morocco 1 1% - -
+
+Azerbaijan 1 1% 1 2%
+
+Brazil 1 1% 1 2%
+
+
+
+Colophon
+
+Reference:
+
+Dutch National Rapporteur on THB (2003). THB – Supplementary figures. Second
+report of the Dutch National Rapporteur The Hague: Bureau NRM. 
+
+May 2003
+
+Bureau of the Dutch National Rapporteur on THB
+P.O. Box 20301
+NL-2500 EH The Hague
+The Netherlands
+
+Tel.: +31 (0)70 370 4514
+Fax: +31 (0)70 370 4537
+
+Production and printing: olf Legal Productions (WLP), Nijmegen/Tilburg
+© Bureau NRM 2003
+
+

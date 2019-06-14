@@ -1,0 +1,4034 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Drukklaar NRM 6e JvdS 25-04-08.doc
+
+
+MENSENHANDEL
+Aanvullende kwantitatieve gegevens 
+
+Zesde rapportage van de Nationaal Rapporteur 
+
+C.E. Dettmeijer-Vermeulen (Nationaal Rapporteur Mensenhandel)
+
+M. Boot-Matthijssen 
+
+E.M.H. van Dijk 
+
+H. de Jonge van Ellemeet 
+
+M. Smit 
+
+
+
+
+
+iii
+
+Inhoudsopgave 
+
+OVERZICHT TABELLEN V
+
+GEBRUIKTE AFKORTINGEN VII
+
+1 INLEIDING 1
+
+1.1 Inleiding 1
+
+1.2 Uitbuiting buiten de seksindustrie 1
+
+1.3 Enkele ontwikkelingen rond B9 en voortgezet verblijf 2
+
+1.4 Instelling Task Force Mensenhandel 4
+
+1.5 Gemeenten (Amsterdam) 4
+
+1.6 Trendrapportage positie slachtoffers mensenhandel 5
+
+1.7 Onderhavige rapportage 5
+
+2 SLACHTOFFERS 7
+
+2.1 Inleiding 7
+
+2.2 Slachtofferregistratie Comensha 7
+2.2.1 Land van herkomst 8
+2.2.2 Sekse 10
+2.2.3 Verblijfplaats 11
+2.2.4 Melders 12
+2.2.5 Nadere achtergrondinformatie over de slachtoffers 13
+
+2.3 Slachtoffers in de B9 14
+2.3.1 B9-aanvragen en -verleningen 14
+2.3.2 Leeftijd personen met (aanvraag) B9 14
+2.3.3 Sekse personen met (aanvraag) B9 15
+2.3.4 Herkomst personen met (aanvraag) B9 15
+2.3.5 Politieregio en B9 17
+2.3.6 Voortgezet verblijf 18
+
+2.4 Schadevergoeding 18
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+iv
+
+3 VERDACHTEN EN VEROORDEELDE DADERS 21
+
+3.1 Inleiding 21
+
+3.2 Leeftijd 21
+3.2.1 Leeftijd verdachten 21
+3.2.2 Leeftijd veroordeelde daders 22
+
+3.3 Land van herkomst 23
+3.3.1 Land van herkomst verdachten 23
+3.3.2 Land van herkomst veroordeelde daders 24
+
+3.4 Sekse 26
+3.4.1 Sekse verdachten 26
+3.4.2 Sekse veroordeelde daders 27
+
+4 VERVOLGING 29
+
+4.1 Inleiding 29
+
+4.2 Bij het Openbaar Ministerie ingeschreven zaken mensenhandel 29
+4.2.1 Aantal ingeschreven zaken 29
+4.2.2 ‘Aard’ van de zaken 31
+
+4.3 Afhandeling door het Openbaar Ministerie 33
+
+4.4 Afdoening door de rechter 35
+4.4.1 Afdoening naar zwaarste feit 35
+4.4.2 Veroordeling wegens mensenhandel 37
+
+4.5 Hoger beroep? 39
+
+LITERATUURLIJST 41
+
+BIJLAGE 1 ARTIKEL 273F WETBOEK VAN STRAFRECHT 43
+
+BIJLAGE 2 VERANTWOORDING GEBRUIKTE ONDERZOEKSMETHODEN 45
+1 Het B9-onderzoek 45
+2 Het OM-data-onderzoek 46
+
+BIJLAGE 3 TOELICHTING BIJ TABELLEN EN STATISTIEK 49
+1 Toelichting bij tabellen 49
+2 Toelichting bij gebruikte statistiek 49
+
+BIJLAGE 4 AANVULLENDE TABELLEN 51
+
+BIJLAGE 5 ACTIVITEITENOVERZICHT 2007  59 
+
+
+
+v
+
+Overzicht tabellen 
+
+TABEL 2.1 RANGORDENING VAN MEEST VOORKOMENDE HERKOMSTLANDEN 
+VAN BIJ COMENSHA GEMELDE (MOGELIJKE) SLACHTOFFERS, PER JAAR 8
+
+TABEL 2.2 NATIONALITEIT VAN BIJ COMENSHA GEREGISTREERDE (MOGELIJKE)
+SLACHTOFFERS, PER JAAR 9
+
+TABEL 2.3 LEEFTIJDSVERDELING VAN BIJ COMENSHA GEMELDE (MOGELIJKE)
+SLACHTOFFERS, PER JAAR 10
+
+TABEL 2.4 VERBLIJFPLAATS (MOGELIJKE) SLACHTOFFERS OP MOMENT VAN 
+MELDING BIJ COMENSHA (2006) 11
+
+TABEL 2.5 MELDERS VAN (MOGELIJKE) SLACHTOFFERS, PER JAAR 12
+TABEL 2.6 LEEFTIJDSVERDELING VAN PERSONEN MET (AANVRAAG) B9
+
+(2005 EN 2006) 14
+TABEL 2.7 NATIONALITEIT PERSONEN MET (AANVRAAG) B9 (2005 EN 2006) 15
+TABEL 2.8 HERKOMSTREGIO PERSONEN MET (AANVRAAG) B9 (2005 EN 2006) 16
+TABEL 2.9 POLITIEREGIO WAARUIT B9(-AANVRAAG) AFKOMSTIG IS 
+
+(2005 EN 2006) 17
+TABEL 2.10 OPGELEGDE STRAFFEN NA VEROORDELING VOOR (MEDE)
+
+MENSENHANDEL, PER JAAR 18
+TABEL 2.11 BESLISSINGEN OVER SCHADEVERGOEDING 19
+TABEL 3.1 LEEFTIJD VERDACHTEN, PER JAAR VAN REGISTRATIE 21
+TABEL 3.2 LEEFTIJD VOOR MENSENHANDEL VEROORDEELDE DADERS,
+
+PER JAAR VAN VEROORDELING 22
+TABEL 3.3 RANGORDENING FREQUENT VOORKOMENDE GEBOORTELANDEN 
+
+VERDACHTEN, PER JAAR VAN REGISTRATIE 23
+TABEL 3.4 GEBOORTELANDEN VERDACHTEN, PER JAAR VAN REGISTRATIE 24
+TABEL 3.5 RANGORDENING GEBOORTELANDEN VOOR MENSENHANDEL 
+
+VEROORDEELDE DADERS, PER JAAR VAN VEROORDELING 25
+TABEL 3.6 GEBOORTELANDEN VOOR MENSENHANDEL VEROORDEELDE DADERS,
+
+PER JAAR VAN VEROORDELING 25
+TABEL 4.1 AANTAL INGESCHREVEN ZAKEN, WAARONDER ZAKEN DIE (MEDE)
+
+MINDERJARIGE SLACHTOFFERS BETREFFEN, PER JAAR 30
+TABEL 4.2 AANTALLEN ZAKEN PER ARRONDISSEMENTSPARKET EN 
+
+RANGORDENING, PER JAAR VAN REGISTRATIE 30
+TABEL 4.3 ‘TYPE’ MENSENHANDEL, PER JAAR VAN REGISTRATIE 32
+TABEL 4.4 ZWAARSTE FEIT, PER JAAR VAN REGISTRATIE 32
+TABEL 4.5 PREVENTIEVE HECHTENIS, PER JAAR VAN REGISTRATIE 33
+TABEL 4.6 AFHANDELING DOOR HET OM, PER JAAR VAN AFHANDELING 34
+TABEL 4.7 AFDOENING IN EERSTE AANLEG, PER JAAR VAN AFDOENING 35
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+vi
+
+TABEL 4.8 AFDOENING IN EERSTE AANLEG NAAR ZWAARSTE FEIT,
+PER JAAR VAN AFDOENING 35
+
+TABEL 4.9 OPGELEGDE STRAFFEN, PER JAAR 37
+TABEL 4.10 OPGELEGDE VRIJHEIDSSTRAFFEN IN DUURCATEGORIEËN, PER JAAR 38
+TABEL 4.11 BEROEP AANGETEKEND, PER JAAR VAN AFDOENING 
+
+(IN EERSTE AANLEG) 39
+TABEL B2.2 NATIONALITEIT VAN BIJ COMENSHA GEREGISTREERDE (MOGELIJKE)
+
+SLACHTOFFERS, PER JAAR 51
+TABEL B2.7 NATIONALITEIT PERSONEN MET (AANVRAAG) B9 (2005 EN 2006) 54
+TABEL B3.4 GEBOORTELANDEN VERDACHTEN, PER JAAR VAN REGISTRATIE 56
+TABEL B3.6 GEBOORTELANDEN VOOR MENSENHANDEL VEROORDEELDE DADERS,
+
+PER JAAR VAN VEROORDELING 57
+
+
+
+vii
+
+Gebruikte afkortingen 
+
+Ama Alleenstaande minderjarige asielzoeker 
+ACTA Anti Corruption and Anti Trafficking Regional Organization 
+
+Network
+AECT Alliance Expert Coordination Team 
+ACVZ Adviescommissie voor Vreemdelingenzaken  
+APPG All Party Parliamentary Group on Trafficking of Women and 
+
+Children
+ASC  American Society of Criminology 
+ASSR Amsterdam School of Social Science research  
+ATAU Anti-Trafficking Assistance Unit 
+BLinN Bounded Labour in Netherlands 
+BNRM Bureau Nationaal Rapporteur Mensenhandel 
+BOOM Bureau Ontnemingswetgeving Openbaar Ministerie 
+BuZa Ministerie van Buitenlandse Zaken  
+BZK Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 
+CBS Centraal Bureau voor de Statistiek 
+CDA Christen Democratisch Appel  
+CIROC Centre for Information and Research on Organised Crime 
+COA Centraal Orgaan opvang Asielzoekers 
+Comensha Coördinatiecentrum Mensenhandel 
+DCIM Data Collection and Information Management  
+dNP de Nederlandse Politie 
+ECPAT End Child Prostitution, Child Pornography and the Trafficking 
+
+of Children for Sexual Purposes 
+ELPAT Ethical, Legal and Psychological Aspects of Organ 
+
+Transplantation 
+EMM Expertisecentrum Mensenhandel en Mensensmokkel 
+ENAR European Network Against Racism 
+EU Europese Unie 
+Europol Europese politie 
+FNV Federatie van Nederlandse Vakbewegingen 
+GGD Gemeentelijke Gezondheidsdienst 
+GGZ Geestelijke Gezondheidszorg Nederland 
+HKS Herkenningssysteem 
+HOM Humanist Committee on Human Rights 
+IAP International Association of Prosecutors 
+ICLN International Criminal Law Network 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+viii
+
+ICMPD International Centre for Migration Policy Development 
+ILO International Labour Organisation 
+IND Immigratie- en Naturalisatiedienst 
+IOM International Organisation for Migration 
+KLPD Korps Landelijke Politie Diensten 
+KMar Koninklijke Marechaussee 
+LEM Landelijke Expertgroep Mensenhandel 
+LJN Landelijk Jurisprudentie Nummer 
+LOS Landelijke Ongedocumenteerden Stichting 
+LOVS Landelijk Overleg Voorzitters Strafsectoren 
+MMA Meld Misdaad Anoniem 
+MOB Met onbekende bestemming 
+MvJ Ministerie van Justitie 
+NGO Niet gouvernementele organisatie 
+NIK Netwerk voor Innovatie en Kwaliteit 
+NLDA Nederlandse Defensieacademie  
+NRM Nationaal Rapporteur Mensenhandel 
+NRM3 Derde rapportage van de Nationaal Rapporteur Mensenhandel 
+NRM5 Vijfde rapportage van de Nationaal Rapporteur Mensenhandel 
+NVK Nederlandse Vereniging voor Kriminologie  
+OKIA Ondersteuningskomitee Illegale Arbeiders 
+OM Openbaar Ministerie 
+ONA Office of National Assessments  
+OOM Operationeel Overleg Mensenhandel 
+OSCE Organization for Security and Cooperation in Europe 
+OSR OSCE Special Representative 
+OvJ Officier van Justitie 
+OVSE Organisatie voor Veiligheid en Samenwerking in Europa 
+PG Procureur-Generaal 
+PV Permanente Vertegenwoordiger 
+PvdA Partij van de Arbeid 
+SAMAH Stichting Alleenstaande Minderjarige Asielzoekers Humanitas 
+sd Standaarddeviatie  
+SiBa Statistische informatievoorziening en Beleidsanalyse 
+Sr Strafrecht 
+SRTV Stichting Religieuzen Tegen Vrouwenhandel 
+SSR Studiecentrum Rechtspleging 
+STV Stichting Tegen Vrouwenhandel 
+SZW Ministerie van Sociale Zaken en Werkgelegenheid 
+TBS Terbeschikkingstelling 
+TIP Trafficking in Persons 
+
+
+
+GEBRUIKTE AFKORTINGEN
+
+ix
+
+TRM Transnational Referral Mechanisms 
+UK United Kingdom 
+UNFPA United Nations Population Fund 
+UNICEF United Nations Children’s Fund 
+UN Gift United Nations Global Initiative to Fight Human Trafficking  
+UNODC United Nations Office on Drugs and Crime 
+Vb Vreemdelingenbesluit 
+Vc Vreemdelingencirculaire 
+VS Verenigde Staten  
+VU Vrije Universiteit 
+VVD Volkspartij voor Vrijheid en Democratie 
+Vw Vreemdelingenwet 
+VWS Volksgezondheid, Welzijn en Sport 
+WODC Wetenschappelijk Onderzoek- en Documentatiecentrum 
+WvSr Wetboek van Strafrecht 
+
+
+
+
+
+1
+
+1
+ Inleiding 
+
+1.1 Inleiding 
+
+In deze zesde Mensenhandelrapportage staan cijfers (tot en met het jaar 2006) centraal. 
+Daarmee wordt het gebruikelijke patroon voortgezet van afwisselend uitgebreide, kwalita-
+tieve én kwantitatieve gegevens bevattende rapportages, en kortere, cijfermatige updates. 
+Op de vijfde rapportage, die in de zomer van 2007 verscheen, is vanuit het Nederlandse ka-
+binet nog niet gedetailleerd gereageerd en er heeft daarover nog geen gedachtewisseling 
+plaatsgevonden in het parlement. Een deel van de 66 aanbevelingen in de vijfde rapportage 
+geldt dan ook nog onverkort. Andere zijn inmiddels opgevolgd, of er wordt aan gewerkt. Zo 
+wordt momenteel bijvoorbeeld landelijke wetgeving voorbereid die een strikter kader stelt 
+voor de gemeentelijke regelgeving op het gebied van commerciële seksuele dienstverlening 
+(aanbeveling 2NRM5), zijn er positieve ontwikkelingen rond de B9-regeling voor onder ande-
+re het tijdelijk verblijfsrecht van slachtoffers van mensenhandel en rond voortgezet verblijf 
+(aanbevelingen 4 tot en met 10NRM5), is er een Task Force Mensenhandel ingesteld en is er 
+overleg gaande over categorale eerste opvang van slachtoffers van mensenhandel (aanbeve-
+ling 35NRM5). Verder verscheen er in 2007 weer een Korpsmonitor prostitutie & mensenhan-
+del waarin de politie onder andere de eigen inzet en prestaties monitort op het gebied 
+van het toezicht op de vergunde prostitutiebranche en de bestrijding van illegale prosti-
+tutie en mensenhandel. De politie doet dit sinds de opheffing van het algemeen bor-
+deelverbod en gebruikt de resultaten om per korps verbeteringen aan te brengen. Ook 
+werd een eerste trendrapportage gepubliceerd over de positie van slachtoffers van men-
+senhandel die zijn uitgebuit in de seksindustrie. Deze en andere ontwikkelingen komen 
+in voorliggende cijfermatige rapportage niet (uitgebreid) aan bod, maar enkele binnenlandse 
+ontwikkelingen worden in dit inleidende hoofdstuk wel kort beschreven, te beginnen met 
+jurisprudentie betreffende uitbuiting buiten de seksindustrie. 
+
+1.2 Uitbuiting buiten de seksindustrie 
+
+In de vijfde rapportage is uitgebreid aandacht besteed aan mensenhandel met het oogmerk 
+van uitbuiting buiten de seksindustrie. Ondermeer werd aangegeven dat het ontbreken van 
+een scherpe afbakening van het begrip (niet-seksuele) uitbuiting de signalering, opsporing 
+en vervolging van mensenhandel buiten de seksindustrie in de eerste fase na de inwerking-
+treding van art. 273f Sr bemoeilijkt heeft. Inmiddels zijn door verschillende (nieuwe) keten-
+partners stappen gezet om ‘overige uitbuiting’ te bestrijden en voor de slachtoffers ervan 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+2
+
+passende opvang te creëren. Hier wordt alleen gewezen op de eerste strafzaken waarin de 
+verdachte(n) vervolgd werd(en) voor deze vorm van mensenhandel.1
+
+Tot 1 februari 2008 hebben, voorzover BNRM bekend, vier opsporingsonderzoeken naar 
+overige uitbuiting tot vonnissen geleid. In november 2006 werden verdachten die illegaal in 
+Nederland verblijvende Bulgaren hennepplanten lieten knippen (onherroepelijk) vrijge-
+sproken van mensenhandel.2 Ook de vervolging voor mensenhandel van de chef en de sous-
+chef in een Chinees restaurant leidde tot vrijspraken, zowel bij de rechtbank als bij het ge-
+rechtshof.3 Het Openbaar Ministerie heeft cassatie ingesteld.4 De vervolging van een drietal 
+personen voor de (mensenhandel met het oogmerk van) uitbuiting van Poolse schoonmaak-
+sters leidde najaar 2007 evenmin tot veroordelingen.5 Op het moment van schrijven staat in 
+deze zaak nog hoger beroep open. In december 2007 volgden de eerste veroordelingen,6 die 
+ook nog niet onherroepelijk zijn. De rechtbank kwalificeerde de omstandigheden waaron-
+der verdachten hun illegale, Indiase huispersoneel huisvestten en tewerkstelden als mensen-
+handel. Daarbij was van belang dat zij deze mensen in een situatie van volledige afhankelijk-
+heid hadden gebracht, waarbij hun lichamelijke en geestelijke integriteit en hun persoonlijke 
+vrijheid verregaand werden geschonden. 
+De rechtspraak tot op heden bevestigt dat art. 273f Sr alleen ziet op excessief misbruik in re-
+latie tot arbeid. Tegelijkertijd blijkt het waarderen van de feiten en omstandigheden in zaken 
+over overige uitbuiting vol voetangels en klemmen, bijvoorbeeld in verband met de vraag of 
+de tewerkgestelde wel of geen reëel alternatief had en van welk belang het is voor de consta-
+tering van mensenhandel bij wie het initiatief heeft gelegen7 en of de tewerkgestelde wel of 
+niet heeft ingestemd met bepaalde voorwaarden. Naar verwachting zal in de jurisprudentie 
+de reikwijdte van het verbod op mensenhandel ‘niet gerelateerd aan de seksindustrie’ steeds 
+duidelijker ingevuld worden. De door Nederland ondertekende (en geratificeerde) verdra-
+gen en Europese regelgeving zullen hierbij leidend moeten zijn. 
+
+1.3 Enkele ontwikkelingen rond B9 en voortgezet verblijf 
+
+Een van de positieve ontwikkelingen8 met betrekking tot hoofdstuk B9 in de Vreemdelin-
+gencirculaire (Vc) is dat met ingang van 14 november 2007 ook aan slachtoffers die geen 
+
+                                                                     
+1 Zie voor een uitgebreidere bespreking van de jurisprudentie in relatie tot overige uitbuiting tot augustus 2007 
+
+de Jonge van Ellemeet (2007). 
+2 LJN AZ2702. 
+3 Op respectievelijk 8 maart 2007 ( LJN BA0145) en 30 januari 2008 (LJN BC2999 en LJN BC3000). 
+4 Persbericht van het Openbaar Ministerie d.d. 30 januari 2008. 
+5 LJN BB5303. 
+6 LJN BC1195. 
+7 Vergelijk in dit opzicht LJN BC1195 en LJN BC3000. 
+8 In de zevende, uitgebreidere mensenhandelrapportage zal in worden gegaan op alle ontwikkelingen op het ge-
+
+bied van B9 en voortgezet verblijf, waaronder de verhouding tussen B9 en asiel (Stb. 2007, 68), en het feit dat 
+slachtoffers van mensenhandel ‘in de B9’ inzake studiefinanciering en tegemoetkoming onderwijsbijdrage en 
+schoolkosten gelijk worden gesteld met Nederlanders (Stb. 2007, 264). 
+
+
+
+INLEIDING
+
+3
+
+aangifte doen, maar op andere wijze meewerken aan de opsporing en vervolging9 een ver-
+blijfsvergunning voor bepaalde tijd kan worden verleend.10 De laatste versie van de B911 be-
+vat een passage over het verlenen van de bedenktijd aan vreemdelingen die zich (op grond 
+van art. 59 Vw) in bewaring bevinden: Indien er aanwijzingen zijn dat een vreemdeling in 
+bewaring slachtoffer is van mensenhandel, dient de politie de vreemdeling te wijzen op de 
+mogelijkheid van het doen van aangifte of het op andere wijze verlenen van medewerking 
+aan het strafrechtelijk opsporings- of vervolgingsonderzoek. Ook dan heeft het vermoede-
+lijke slachtoffer van mensenhandel recht op de bedenktijdfase. Het verlenen van de bedenk-
+tijd heeft tot gevolg dat de grondslag aan de bewaring komt te ontvallen en de bewaring dus 
+dient te worden opgeheven. Daarbij wordt echter wel vermeld dat de bedenktijdfase in die 
+gevallen alleen verleend zal worden indien het OM en de politie hiermee akkoord gaan. Op 
+grond van welke criteria dit gebeurt en wat de implicaties van deze voorwaarden in de prak-
+tijk zullen zijn, is (nog) niet duidelijk. 
+Aanbeveling 8NRM5 hield in dat de grond voor voortgezet verblijf onder a in B16/7 Vc (het 
+slachtoffer heeft aangifte gedaan ten behoeve van een strafzaak die heeft geleid tot een ver-
+oordeling) niet beperkt zou moeten zijn tot strafzaken die hebben geleid tot een veroorde-
+ling voor mensenhandel. Ook wanneer mensenhandel in de tenlastelegging was opgenomen 
+en de verdachte veroordeeld is niet voor mensenhandel maar wel voor een ander, met de 
+mensenhandel in verband staand strafbaar feit, dient er van uit te worden gegaan dat daar-
+door in rechte vast staat dat terugkeer voor het slachtoffer risico’s meebrengt. Deze aanbe-
+veling is overgenomen bij de laatste wijziging van dit deel van de Vc.  
+Daarnaast is de grond voor voortgezet verblijf, conform een andere aanbeveling van de 
+NRM, zo aangepast dat hierin beter tot uitdrukking komt dat, na drie jaar in de B9, de ver-
+blijfsduur van het slachtoffer de humanitaire grond is waarop een aanvraag voortgezet ver-
+blijf kan worden ingewilligd. In de Vc staat nu: ‘Het slachtoffer dat drie jaar op basis van een 
+verblijfsvergunning op grond van B9 in Nederland verblijft, kan ook indien er nog een straf-
+zaak loopt voortgezet verblijf aanvragen. In die gevallen kan de aanvraag, mits zich verder 
+geen algemene weigeringsgrond voordoet, in ieder geval worden ingewilligd.’ 
+Voorts is verduidelijkt dat de vermelde gronden voor voortgezet verblijf, zoals vrees voor 
+represailles, vrees voor vervolging wegens prostitutie en gebrek aan mogelijkheden voor 
+maatschappelijke reïntegratie, niet limitatief zijn (B16/7).12
+
+                                                                     
+9 Te denken valt aan het afleggen van een verklaring, of als getuige worden gehoord (brief van de Staatssecretaris 
+
+van Justitie, d.d. 18 oktober 2007 inzake de verblijfspositie van slachtoffers mensenhandel, Tweede Kamer, ver-
+gaderjaar 2007-2008, 19 637, nr. 1174). 
+
+10 Art. 3.48 lid 1 sub b Vb. Zie Stb. 2007, 436. 
+11 Wijziging Vreemdelingencirculaire 2000 (2008/09) van 12 februari 2008, Stcrt. 2008, 37. 
+12 Ook gedacht kan worden aan psychische problemen waarvoor de vreemdeling in Nederland wordt behandeld, 
+
+de zorg die de vreemdeling heeft voor kinderen die in Nederland geboren zijn of hier een opleiding volgen en 
+de positie van alleenstaande vrouwen in het land van herkomst. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+4
+
+1.4 Instelling Task Force Mensenhandel 
+
+De vijfde mensenhandelrapportage rondde af met de constatering dat veel van de 66 aanbe-
+velingen gericht waren op het daadwerkelijk in de praktijk brengen van wat al op papier ge-
+regeld is en met de constatering dat een ‘high-level’ Task Force Mensenhandel, waarin alle
+relevante ketenpartners vertegenwoordigd zijn, hierin een belangrijke stimulerende en faci-
+literende rol zou kunnen spelen. Deze aanbeveling werd voortvarend opgepakt en op 27 fe-
+bruari 2008 is inderdaad een Task Force ingesteld, onder voorzitterschap van de portefeuil-
+lehouder mensenhandel van het College van Procureurs-generaal. In het instellingsbesluit 
+staat vermeld dat een van de taken van de Task Force, die drie keer per jaar bijeen zal komen, 
+het signaleren, oplossen dan wel adresseren van knelpunten is. De NRM, die deel uitmaakt 
+van de Task Force, is er van meet af aan van uitgegaan dat aan een dergelijke Task Force ook 
+ngo’s deel zouden nemen. Toen duidelijk werd dat dit mogelijk niet de bedoeling was heeft 
+zij hier meermalen op aangedrongen. Dat de hulpverlening niet vertegenwoordigd is in de 
+Task Force is een gemiste kans.13
+
+1.5 Gemeenten (Amsterdam) 
+
+Ook gemeenten hebben een verantwoordelijkheid bij het voorkomen en bestrijden van 
+mensenhandel. Een van de gemeenten die dit voortvarend ter hand nemen is Amsterdam. 
+Na gebleken misstanden in het Wallengebied is een pakket aan maatregelen voorgesteld 
+waarmee ondermeer de mensenhandel een slag toe moet worden gebracht.14 Zo is voorge-
+steld het eenzijdig rechtstreeks financieel voordeel trekken uit de relatie met een prostituee 
+strafbaar te stellen. Daarnaast worden verblijfsverboden voor overlastgevende souteneurs 
+en het verhogen van de leeftijdsgrens voor prostituees naar 21 jaar gesuggereerd. Het pakket 
+bevat ook preventieve, deels op daders gerichte, maatregelen zoals weerbaarheidstrainingen 
+voor prostituees en het inschakelen van imams bij loverboyproblematiek. De wenselijkheid 
+en haalbaarheid van deze (en andere) maatregelen wordt nog onderzocht. Inmiddels zijn 
+wel al diverse (raam)bordelen gesloten en/of opgekocht. 
+De NRM onderschrijft de noodzaak om op een creatieve en vernieuwende manier naar het 
+vraagstuk mensenhandel te kijken. Daarbij is het wel van belang een sluitende aanpak na te 
+streven en in dat kader zou ook – en met kracht – het illegale prostitutiecircuit moeten wor-
+den aangepakt, zeker nu met de voorgenomen plannen verschuivingen naar het illegale cir-
+cuit te verwachten zijn. Daarvoor moet (politie)capaciteit worden vrijgemaakt. 
+
+                                                                     
+13 Dat de Task Force, aldus het Instellingsbesluit, nauw contact zal onderhouden met relevante partijen in het veld 
+
+die niet vertegenwoordigd zijn in de Task Force, waaronder Comensha (voorheen de Stichting tegen Vrou-
+wenhandel) doet hier niet aan af. 
+
+14 Neergelegd in ondermeer de nota’s Oud beroep, nieuw beleid. Nota prostitutie 2007 - 2010 en Grenzen aan handha-
+ving.
+
+
+
+INLEIDING
+
+5
+
+1.6 Trendrapportage positie slachtoffers mensenhandel 
+
+De trendrapportage 2006 over de positie van slachtoffers van mensenhandel die zijn uitge-
+buit in de seksindustrie (Van Vianen e.a., 2007) is het resultaat van een monitor die is ont-
+wikkeld om met behulp van indicatoren de positie van deze slachtoffers periodiek in kaart te 
+brengen op zeven terreinen, te weten: 1) signalering, 2) toegang tot en gebruik van de B9-
+regeling, 3) rechtshulp en strafrechtelijke procedure, 4) opvang/huisvesting, 5) gezondheids-
+zorg, 6) inkomen en scholing, en 7) voortgezet verblijf en terugkeer. Er was voorzien in een 
+tweejaarlijkse periodieke meting, maar over nogal wat indicatoren is geen betrouwbare in-
+formatie te verkrijgen en de onderzoekers concluderen dat er, alvorens de monitor opnieuw 
+af te nemen, geïnvesteerd moet worden in de kwaliteit van registratie en informatieverzame-
+ling. Voorts wordt de vraag gesteld of de NRM enkele van de wel betrouwbare indicatoren 
+in de jaarlijkse mensenhandelrapportages terug kan laten komen. Een aantal van de ook in 
+de monitor gebruikte indicatoren maakt al standaard deel uit van de BNRM-rapportages, 
+andere kunnen worden toegevoegd. Hierbij moet wel aangetekend worden dat in verschil-
+lende van de gebruikte databestanden niet gedifferentieerd kan worden naar sector waarin 
+de uitbuiting plaatsvond, zoals ook Vianen e.a. (2007) aangeven. Ging het in 2006, het jaar 
+waarop de eerste trendrapportage betrekking heeft, nog om incidentele gevallen van uitbui-
+ting buiten de seksindustrie die nauwelijks of geen effect zullen hebben op gesignaleerde 
+trends, dit verandert met de toegenomen aandacht voor dat fenomeen. Dat is ook voor 
+BNRM een probleem.15 Het BNRM werkterrein omvat weliswaar mensenhandel in brede 
+zin, maar het is toch van groot belang om in de rapportages, bij kwantitatieve gegevens over 
+opsporing, vervolging, B9 aanvragen en -verleningen, aan te kunnen geven welk gedeelte 
+van de informatie betrekking heeft op uitbuiting in de seksindustrie, en welk deel op uitbui-
+ting in andere economische sectoren of wellicht op mensenhandel met het oogmerk van 
+verwijdering van organen. 
+Een belangrijke meerwaarde van het trendonderzoek is dat verschillende databestanden aan 
+elkaar werden gekoppeld, zodat er nu meer inzicht is in de (on)mogelijkheden en in de in-
+formatie die dat oplevert. 
+
+1.7 Onderhavige rapportage 
+
+Hoofdstuk 2 gaat over de slachtoffers van mensenhandel. Het bevat cijfermatige gegevens 
+over hun leeftijd, sekse en land van herkomst, afkomstig van Comensha (voorheen STV) en 
+informatie over B9-aanvragen en -verleningen, afkomstig van de Immigratie- en Naturalisa-
+tiedienst (IND). 
+
+                                                                     
+15 Dit leidde tot de aanbeveling om te bezien hoe een dergelijke differentiatie wel kan worden gemaakt in OM-
+
+data en de B9-informatie van de IND (zie aanbeveling 64NRM5).
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+6
+
+Hoofdstuk 3 gaat over verdachten van mensenhandel en over voor mensenhandel veroor-
+deelde daders. Het bevat cijfermatige gegevens over hun leeftijd, land van herkomst en sek-
+se. De gegevens zijn afkomstig uit OM-data. 
+Hoofdstuk 4 betreft de vervolging van verdachten van mensenhandel. Het bevat informatie 
+over het aantal en de aard van de bij het OM ingeschreven zaken, de afhandeling door het 
+OM en de afdoening door de rechter. 
+
+Op deze plaats tot slot een woord van dank aan alle personen en instanties die hebben bijge-
+dragen aan de totstandkoming van deze rapportage. 
+
+
+
+7
+
+2
+ Slachtoffers 
+
+2.1 Inleiding 
+
+Dit hoofdstuk bevat gegevens over de slachtoffers van mensenhandel. Daarbij gaat het om 
+enkele achtergrondkenmerken, waaronder leeftijd, sekse en land van herkomst. Voorts om 
+het aantal aanvragen en verleningen van de B9 en (summiere) informatie over schadever-
+goeding aan slachtoffers. De informatie is afkomstig van Comensha, voorheen Stichting 
+Tegen Vrouwenhandel (STV),1 de Immigratie- en Naturalisatiedienst (IND) en – voor wat 
+betreft de schadevergoeding – uit OM-data. De politie registreert aangiften in het Herken-
+ningsdienstsysteem (HKS). Omdat de bij de KLPD (Dienst Nationale Recherche Informa-
+tie) opgevraagde HKS-gegevens voor mensenhandel incompleet bleken te zijn – niet alle po-
+litiekorpsen registreren deze informatie voldoende betrouwbaar – is het niet mogelijk 
+hiervan een compleet landelijk beeld te geven (Mantgem e.a., 2007) en is besloten deze in-
+formatie niet in de onderhavige rapportage op te nemen. 
+
+2.2 Slachtofferregistratie Comensha 
+
+Comensha heeft ondermeer de taak (vermoedelijke) slachtoffers van mensenhandel te regi-
+streren. Daarbij gaat het om slachtoffers die op verschillende wijzen en door verschillende 
+melders bij Comensha bekend worden, niet om slachtoffers die, via formele toetsing op be-
+paalde criteria, als ‘officiële slachtoffers’ kunnen worden beschouwd.2
+
+Echter niet alle slachtoffers worden gesignaleerd en niet alle (wel gesignaleerde) slachtoffers 
+worden gemeld. Doordat Comensha voor informatie afhankelijk is van derden en zelf aan-
+geeft niet genoeg capaciteit te hebben om deze informatie – voor zover elders beschikbaar – 
+te achterhalen, is over veel wél gemelde slachtoffers maar weinig bekend.3 Daardoor is het 
+maken van kruistabellen op meer dan basale kenmerken als land van herkomst, leeftijd en 
+sekse, in feite onmogelijk. Ook zijn, zeker als de informatie beperkt is, dubbeltellingen niet 
+geheel uit te sluiten. 
+
+                                                                     
+1 Hoewel zowel de gegevens als de verzameling daarvan dateren van de tijd dat Comensha nog STV heette, 
+
+wordt hier waar mogelijk gerefereerd aan Comensha, al was het maar om aan de nieuwe naam te wennen.  
+2 Het is van belang dat op te merken omdat deze slachtoffercijfers vaak worden vergeleken met slachtoffercijfers 
+
+uit andere landen, die dan veelal uitsluitend betrekking hebben op ‘officieel erkende slachtoffers’ en die om die 
+reden waarschijnlijk voor wat betreft de buitenlandse slachtoffers het best vergeleken kunnen worden met de 
+Nederlandse B9-cijfers.  
+
+3 Een van de aanbevellingen in de vijfde mensenhandelrapportage betrof verbetering van de cliëntenregistratie 
+van (toen nog) STV. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+8
+
+Deze paragraaf bevat informatie over de door Comensha geregistreerde (mogelijke) slacht-
+offers. Hun aantal groeide jaarlijks: in 2004 waren het er 403, in 2005 424 en in 2006 579.4
+
+De gegevens betreffen de bovengenoemde basale kenmerken van de slachtoffers. Vervol-
+gens wordt aangegeven wie de melders zijn en wordt, voor zover mogelijk, over de in 2005 
+en 2006 gemelde slachtoffers enige nadere informatie gepresenteerd.5 De informatie in deze 
+paragraaf is grotendeels gebaseerd op door Comensha verstrekte bestanden. De gepresen-
+teerde aantallen wijken op enkele punten af van de aantallen in de STV-jaarverslagen.6 Voor 
+sommige gegevens wordt gerefereerd aan de jaarverslagen. Waar dit laatste het geval is, is dit 
+expliciet vermeld. 
+
+2.2.1 Land van herkomst 
+
+Tabel 2.1 bevat per jaar een rangordening van de vijf meest voorkomende landen van her-
+komst van slachtoffers.7
+
+Tabel 2.1 Rangordening van meest voorkomende herkomstlanden van bij Comensha gemelde  
+(mogelijke) slachtoffers, per jaar8
+
+Land 2001 2002 2003 2004 2005 2006
+
+Nederland 5 4 1 1 1
+
+Nigeria 4 2 3 4 3 2
+
+Bulgarije 1 1 1 2 2 3
+
+Roemenië 3 2 3 4 4
+
+China 5
+
+Tsjechië 5
+
+Russische Federatie 2 5 5
+
+Oekraïne 3 4
+
+Brazilië 5
+
+Nederland is in 2006, evenals in de twee jaren daarvoor, het meest voorkomende herkomst-
+land van slachtoffers mensenhandel. Nigeria, Bulgarije en Roemenië staan op plaats twee, 
+drie en vier. Deze plaatsen bezetten ze, in wisselende volgorde, voor het derde jaar. De al ge-
+signaleerde opkomst van China als belangrijk land van herkomst (STV Nieuws, 1, 2007) ma-
+nifesteert zich in een vijfde plaats voor deze nieuwkomer in de top vijf.9
+
+                                                                     
+4 In 2007 waren er 716 meldingen (op 11 maart 2008 naar buiten gebrachte cijfers uit de slachtofferregistratie van 
+
+Comensha). 
+5 Voor 2005 is deze informatie voor het eerst op iets grotere schaal dan voorheen beschikbaar. 
+6 Over 2006 kreeg BNRM voor het eerst een uiteraard anoniem, maar wel tot individuele slachtoffers herleid-
+
+baar STV-databestand. Dat bood meer inzicht in de beperkingen van de registratie. Volgens Comensha zijn de 
+hier vermelde gegevens de juiste (Comensha, via de mail). 
+
+7 Het meest recente jaar bepaalde de volgorde waarin de landen in de tabel zijn genoemd. 
+8 Gebaseerd op de nationaliteit van de (mogelijke) slachtoffers. 
+9 Voor 2007 ziet de top 5 er als volgt uit: 1) Nederland, 2) Nigeria, 3) Bulgarije, 4) China en 5) Sierra Leone (op 11 
+
+maart 2008 naar buiten gebrachte cijfers uit de slachtofferregistratie van Comensha). 
+
+
+
+SLACHTOFFERS
+
+9
+
+De in 2006 bij Comensha geregistreerde slachtoffers hebben 55 verschillende nationalitei-
+ten. Tabel 2.2 bevat de meest voorkomende.10 In Bijlage 4 (Tabel B2.2) is een compleet over-
+zicht van alle nationaliteiten – in alfabetische volgorde – opgenomen. 
+
+Tabel 2.2 Nationaliteit van bij Comensha geregistreerde (mogelijke) slachtoffers, per jaar 
+
+Nationaliteit 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Albanese 8 2% 2 1% 8 2% 2 0% 1 0% 
+
+Angolese 3 1% 2 1% 2 0% 8 2% 2 0% 
+
+Belarussische 8 2% - - 12 3% 3 1% - -
+
+Braziliaanse - - 12 5% 5 1% 8 2% 17 3%
+
+Bulgaarse 59 17% 48 19% 55 14% 52 12% 39 7%
+
+Chinese 8 2% 8 3% 9 2% 5 1% 29 5%
+
+Congolese 3 1% 1 0% - - 3 1% 5 1%
+
+Hongaarse 1 0% - - 3 1% 9 2% 13 2% 
+
+Indiase - - - - - - - - 7 1%
+
+Joegoslavische - - 1 0% 2 0% 5 1% 1 0% 
+
+Kameroense 10 3% 5 2% 11 3% 4 1% 4 1%
+
+Litouwse 13 4% 9 4% 3 1% 3 1% 6 1%
+
+Marokkaanse 4 1% 2 1% 11 3% 11 3% 9 2% 
+
+Moldavische 14 4% 1 0% 6 1% 2 0% 2 0% 
+
+Nederlandse 18 5% 11 4% 59 15% 98 23% 146 25% 
+
+Nigeriaanse 45 13% 21 8% 39 10% 28 7% 86 15%
+
+Oekraïense 5 1% 14 5% 8 2% 10 2% 10 2% 
+
+Poolse 9 3% 3 1% 8 2% 13 3% 27 5%
+
+Roemeense 22 6% 31 12% 45 11% 23 5% 34 6% 
+
+Russische 16 5% 11 4% 14 3% 13 3% 12 2% 
+
+Sierra Leoonse 12 3% 11 4% 6 1% 14 3% 20 4% 
+
+Slowaakse 2 1% 2 1% 3 1% 10 2% 2 0% 
+
+Thaise 3 1% 5 2% 2 0% 2 0% 3 1%
+
+Togolese 6 2% 2 1% 2 0% 2 0% 2 0% 
+
+Tsjechische 6 2% 3 1% 2 0% 18 4% 3 1%
+
+Turkse 5 1% 1 0% 2 0% 2 0% 5 1%
+
+Overige 42 12% 32 12% 70 17% 49 12% 56 10% 
+
+Onbekend 21 6% 19 7% 16 4% 27 6% 38 7%
+
+Totaal 343 100% 257 100% 403 100% 424 100% 579 100% 
+
+In 2006 komen 146 (25%) van de bij Comensha gemelde slachtoffers uit Nederland. In 2006 
+was er sprake van een toename (absoluut en percentueel) van slachtoffers met Braziliaanse, 
+
+                                                                     
+10 Een nationaliteit is opgenomen als in een (of meer) van de jaren in de periode 2002 tot en met 2006 ten minste 
+
+vijf slachtoffers die nationaliteit hadden. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+10
+
+Chinese, Nigeriaanse en Poolse nationaliteit. Nog steeds komen er veel slachtoffers uit Bul-
+garije, maar hun aandeel in het totaal nam wel af. India is in 2006 een nieuwkomer (7 slacht-
+offers). De voor 2004 en 2005 gemelde groei van het aantal (en aandeel) van slachtoffers met 
+Marokkaanse en Tsjechische nationaliteit zette niet door. 
+
+Tabel 2.3 bevat de leeftijdsverdeling van de in 2001 tot en met 2006 bij Comensha gemelde 
+slachtoffers. 
+
+Tabel 2.3 Leeftijdsverdeling van bij Comensha gemelde (mogelijke) slachtoffers, per jaar 
+
+Leeftijd 2001 2002 2003 2004 2005 2006
+
+N % N % N % N % N % N %
+
+10 t/m 14 jr 2 1% - - 2 1% 3 1% 1 0% 10 2% 
+
+15 t/m 17 jr 25 9% 41 12% 18 7% 23 6% 23 5% 93 16% 
+
+18 t/m 23 jr 86 30% 130 38% 112 44% 165 41% 167 39% 222 38%
+
+24 t/m 30 jr 39 14% 56 16% 54 21% 141 35% 150 35% 151 26% 
+
+31 t/m 40 jr 12 4% 19 6% 25 10% 61 15% 50 12% 66 11%
+
+41 jr en ouder 1 0% 5 1% 5 2% - - 15 4% 9 2% 
+
+Onbekend 119 42% 92 27% 41 16% 12 3% 18 4% 28 5%
+
+Totaal 284 100% 343 100% 257 100% 405 100% 424 100% 579 100% 
+
+Bron: STV (jaarverslagen). 
+
+De meeste gemelde slachtoffers waren in 2006, net als in de jaren daarvoor, in de leeftijd van 
+18 tot en met 30 jaar. De toename van het aantal meldingen met betrekking tot minderjarige 
+slachtoffers, vooral in de leeftijd van 15 tot en met 17 jaar, is opvallend. 
+
+Van de 101 minderjarige slachtoffers van wie leeftijd en nationaliteit bekend zijn, hebben er 
+35 de Nederlandse nationaliteit, 32 de Nigeriaanse, zes de Chinese, zes de Sierra Leoonse, vijf 
+de Bulgaarse en vier de Roemeense nationaliteit.11 De overige minderjarigen hebben 13 ver-
+schillende nationaliteiten.12
+
+2.2.2 Sekse 
+
+In 2006 bevonden zich onder de 579 nieuw aangemelde slachtoffers 30 mannen of jongens. 
+Vijf van hen waren minderjarig, van wie twee jonger dan 15 jaar. De herkomstlanden zijn – 
+met tussen haakjes het aantal mannen of jongens dat uit het betreffende land afkomstig is – 
+India (7), China (4), Bangladesh, Nigeria en Turkije (elk 3), Congo (2), Armenië, Azerbei-
+dzjan, Bulgarije, Chili, Kameroen, Mauritanië en Siërra Leone (elk 1). Van één man is het 
+land van herkomst onbekend. Vijf van de 30 mannen werden tewerkgesteld in de prostitutie, 
+
+                                                                     
+11 Het aandeel minderjarigen loopt uiteen van rond de 12% (voor de Bulgaarse en Roemeense slachtoffers) tot 
+
+37% (voor de Nigeriaanse slachtoffers).  
+12 Zes slachtoffers hebben de Congolese, Marokkaanse, of Surinaamse nationaliteit (elk 2) en zeven slachtoffers 
+
+respectievelijk de Armeense, Chinese, Italiaanse, Litouwse, Mongolische, Russische of Turkse nationaliteit. 
+
+
+
+SLACHTOFFERS
+
+11
+
+de vier Chinese mannen werkten in de horeca, maar meldingen in relatie tot de land- en 
+tuinbouw kwamen het meest frequent voor (negen mannen) (Jaarverslag STV 2006, p.8). 
+Het aantal meldingen van mannelijke slachtoffers is, waarschijnlijk door toegenomen aan-
+dacht voor uitbuiting buiten de seksindustrie en het daar op gang komen van mensenhan-
+delonderzoeken, in 2006 veel groter dan in eerdere jaren en groeit nog steeds.13 In 2005 be-
+vonden zich onder de 424 nieuw aangemelde slachtoffers slechts twee mannen. Zij werden 
+beide in de prostitutie uitgebuit. In 2004 is één man of jongen gemeld,14 in 2003 geen. 
+
+2.2.3 Verblijfplaats 
+
+Tabel 2.4 geeft een beeld van de verblijfplaats van de in 2006 gemelde slachtoffers op het 
+moment van aanmelding.  
+
+Tabel 2.4 Verblijfplaats (mogelijke) slachtoffers op moment van melding bij Comensha (2006) 
+
+Verblijfplaats vrouwen mannen totaal
+
+N % N % N %
+
+zelfstandig 110 20% - - 110 19% 
+
+opvang 83 15% 1 3% 84 15%
+
+(vreemdelingen)detentie15 60 11% 16 53% 76 13%
+
+inwonend 42 8% 1 3% 43 7%
+
+zwervend 11 2% - - 11 2% 
+
+buitenland 9 2% - - 9 2% 
+
+MOB* 7 1% - - 7 1%
+
+land van herkomst 5 1% - - 5 1%
+
+ziekenhuis/GGZ instelling 3 1% 1 3% 4 1%
+
+gesloten inrichting16 1 0% - - 1 0% 
+
+overig/onbekend17 218 40% 11 37% 229 40% 
+
+Totaal 549 100% 30 100% 579 100% 
+
+* Vertrokken met onbekende bestemming 
+
+Veel van de bij Comensha gemelde slachtoffers wonen op het moment van aanmelding – 
+voor zover bekend – zelfstandig, 15% verblijft in een vorm van opvang en een aanzienlijk 
+deel (13%) zit in (vreemdelingen)detentie. Onder de laatsten zijn naar verhouding veel man-
+nen: het geldt voor 53% van de mannen tegen 11% van de vrouwen. Voorts lijken onder de 
+
+                                                                     
+13 In 2007 zijn 49 mannen gemeld (op 11 maart 2008 naar buiten gebrachte cijfers uit de slachtofferregistratie van 
+
+Comensha). 
+14 Mondelinge informatie van STV. 
+15 ‘Vreemdelingen’ staat tussen haakjes, maar het gaat hier met name om vreemdelingendetentie.  
+16 Hier moet men denken aan gesloten opvang voor een slachtoffer van een loverboy. 
+17 Daarbij gaat het in de meeste gevallen om een onbekende verblijfplaats, in enkele gevallen om verblijf bij ou-
+
+ders. Deze laatste optie is in de Comensha registratiegegevens over 2007 overigens als aparte verblijfscategorie 
+opgenomen (informatie van Comensha, via de mail en mondeling). 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+12
+
+gedetineerde slachtoffers naar verhouding veel Nigerianen te zijn (in ieder geval 26). En 20 
+van de gedetineerde slachtoffers (18 meisjes en 2 jongens) zijn minderjarig.  
+
+2.2.4 Melders 
+
+Tabel 2.5 geeft een overzicht van de verschillende categorieën melders in de periode van 
+2001 tot en met 2006. 
+
+Tabel 2.5 Melders van (mogelijke) slachtoffers, per jaar 
+
+Melder 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Politie18 193 56% 153 60% 192 47% 218 51% 310 54%
+
+Netwerken mensenhandel19 nvt nvt nvt nvt nvt nvt nvt nvt 104 18%
+
+KMar20 nvt nvt nvt nvt nvt nvt nvt nvt 56 10% 
+
+IND21 nvt nvt nvt nvt nvt nvt nvt nvt 15 3%
+
+Opvangvoorziening22 24 7% 20 8% 49 12% 75 18% 21 4% 
+
+Vluchtelingenwerk/asiel23 25 7% 17 7% 12 3% 19 4% 8 1%
+
+Hulpverleningsinstelling24 11 3% 10 4% 18 4% 2 0% 9 2% 
+
+Jeugdhulpverlening25 10 3% 6 2% 14 3% 6 1% 8 1%
+
+Gezondheidszorg/veldwerk26  5 1% 4 2% 3 1% 5 1% 3 1%
+
+Juridische/Maatschappelijke 
+dienstverlening27
+
+13 4% 3 1% 22 5% 10 2% 16 3%
+
+                                                                     
+18 Daarbij gaat het om alle mogelijke politiediensten die met mensenhandel te maken (kunnen) krijgen. 
+19 De netwerken mensenhandel zijn door Comensha opgezet met als doel geïntegreerde hulpverlening aan 
+
+slachtoffers tot stand te brengen. De netwerken staan onder supervisie van een zorgcoördinator of - als die er 
+niet is - Comensha zelf. De (weinige) meldingen vanuit de netwerken werden voorheen ondergebracht in de 
+categorie ‘opvangvoorzieningen’. Vanwege de toename in 2006 van de meldingen vanuit de netwerken, zijn 
+deze als aparte categorie opgenomen in het Jaarverslag 2006 van de STV en dus ook in deze tabel. 
+
+20 In 2006 werden door de KMar voor het eerst veel (mogelijke) slachtoffers gemeld; daarom deze aparte catego-
+rie in het Jaarverslag 2006 van de STV en in deze tabel. De Kmar-meldingen zijn het resultaat van de activiteiten 
+van het Sluisteam dat op Schiphol (potentiële) slachtoffers van mensenhandel onderschept. 
+
+21 Voor de IND geldt eveneens dat daar in 2006 voor het eerst zoveel meldingen vandaan kwamen dat er een 
+aparte categorie in het Jaarverslag 2006 van de STV en in deze tabel werd opgenomen . 
+
+22 Waaronder voorzieningen voor maatschappelijke- en vrouwenopvang en religieuze, particuliere of lokale initi-
+atieven. 
+
+23 Daarbij gaat het om beroepsgroepen die werkzaam zijn in aanmeldcentra, opvangcentra en asielzoekerscentra, 
+zoals Vluchtelingenwerk, maar ook om begeleiders en medische staf, het COA en het Grenshospitium. 
+
+24 Algemeen Maatschappelijk Werk en Prostitutie Maatschappelijk Werk. 
+25 Raad voor de Kinderbescherming, Bureaus Jeugdzorg en het Voogdijmaatschappelijk werk van Stichting 
+
+NIDOS.
+26 Instellingen (GGD’s, artsen, ziekenhuismedewerkers) die op de werkplek of tijdens spreekuren medische zorg 
+
+en voorlichting bieden aan prostituees. 
+27 In het STV-jaarverslag over 2004 werd de categorie ‘maatschappelijke dienstverlening’ geïntroduceerd (zonder 
+
+specificatie). Daarvóór werd gewerkt met de categorie ‘juridische dienstverlening’ (Bureaus voor Rechtshulp, 
+Sociale Raadslieden, Bureaus voor slachtofferhulp en advocaten). In het STV-Jaarverslag over 2006 worden 
+beide categorieën gebruikt. Ten behoeve van de vergelijkbaarheid zijn in Tabel 2.5 voor 2006 beide categorieën 
+samengevoegd. In de tabel betreffen de jaren 2001 en 2002 dus gegevens over ‘juridische dienstverlening’, de ja-
+
+
+
+SLACHTOFFERS
+
+13
+
+Vervolg Tabel 2.5 
+Melder 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Slachtoffer zelf 11 3% 3 1% 12 3% 12 3% 7 1%
+
+Particulier28 36 10% 23 9% 23 6% nvt nvt 20 3%
+
+Onbekend29 - - - - - - 37 9% 2 0% 
+
+Overige30 15 4% 18 7% 60 15% 40 9% - -
+
+Totaal 343 100% 257 100% 405 100% 424 100% 579 100% 
+
+Bron: STV (jaarverslagen). 
+
+In 2006 is de politie, evenals de voorgaande jaren, verreweg de belangrijkste melder, op af-
+stand gevolgd door de (hulpverlenings)netwerken mensenhandel. Ook KMar en IND zijn 
+frequente melders (geworden). 
+
+2.2.5 Nadere achtergrondinformatie over de slachtoffers 
+
+In 2003 nam Comensha een geautomatiseerd systeem met diverse relevante (achtergrond) 
+variabelen in gebruik. Na startproblemen zou met ingang van 2005 meer informatie over de 
+geregistreerde (mogelijke) slachtoffers beschikbaar zijn dan voorheen, maar het blijft moei-
+lijk deze informatie te achterhalen, zodat ook over 2006 voor veel cliënten een groot deel 
+van de informatie ontbreekt. Toch is er weer voor gekozen enkele (achtergrond)kenmerken 
+te presenteren die desondanks interessant kunnen zijn. Omdat de navolgende cijfers en per-
+centages door de vele ontbrekende gegevens als ondergrens moeten worden beschouwd, 
+worden ze echter niet vergeleken met de gegevens over 2005. 
+Van de in 2006 bij Comensha aangemelde slachtoffers is bekend dat ten minste: 
+– 73 van de 549 aangemelde vrouwelijke slachtoffers (13%) kinderen hebben. De kinderen 
+
+van 25 van hen verblijven bij hun moeder in Nederland, de kinderen van twaalf slachtof-
+fers verblijven elders in Nederland, die van 23 slachtoffers verblijven in het land van her-
+komst en van de overigen is niet bekend waar hun kinderen verblijven (Bron: STV Jaar-
+verslag 2006, p.8); 
+
+– 14 van de (vrouwelijke) slachtoffers (3%) op het moment van registratie zwanger zijn, on-
+der wie twee minderjarigen en 119 (22%) niet (voor de overige 75% is dit niet bekend). Naar 
+verhouding veel van de Chinese vrouwen en meisjes zijn zwanger (3 van de 10); 
+
+– 15 (4%) van de in totaal 579 slachtoffers drugs gebruiken, 156 (27%) niet (voor de overige 
+408 – 70% – is dit niet bekend); 
+
+                                                                     
+ren 2003 tot en met 2005 gegevens over ‘maatschappelijke dienstverlening’ en het jaar 2006 een combinatie van 
+beide.
+
+28 Het kan gaan om familie, vrienden of (nieuwe) partner van het slachtoffer. Soms komt een melding van een 
+klant (Jaarverslag STV, 2006).  
+
+29 Het valt op dat er in 2005 veel melders als ‘onbekend’ zijn gecategoriseerd, daarvoor geen enkele en in 2006 
+kwam dit alleen heel incidenteel voor. 
+
+30 Waaronder migrantenorganisaties en - in 2005 - particulieren. In 2006 zijn de meldingen van particulieren 
+weer, evenals vóór 2005, in een aparte categorie ondergebracht. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+14
+
+– 35 slachtoffers (6%) (ook) uitgebuit zijn buiten de prostitutie,31 387 (67%) niet (voor 157 – 
+27% – onbekend); 
+
+– aan 101 slachtoffers bedenktijd is aangeboden. Dit is 26% van de slachtoffers waarvan be-
+kend is dat zij geen Nederlandse nationaliteit hebben.32 Aan 144 slachtoffers (36%) is geen 
+bedenktijd aangeboden en voor de overige niet-Nederlandse slachtoffers is dit niet be-
+kend.
+
+– 49 slachtoffers gebruik maakten van bedenktijd. Dit is 12% van de slachtoffers waarvan 
+bekend is dat zij geen Nederlandse nationaliteit hebben. 
+
+– 208 slachtoffers (36%) aangifte hebben gedaan en 101 (17%) niet. Van 52 slachtoffers liep 
+de bedenktijd nog en voor de overigen is niet bekend of zij al of niet aangifte deden.  
+
+(Bron: STV-bestanden). 
+
+2.3 Slachtoffers in de B9 
+
+2.3.1 B9-aanvragen en -verleningen 
+
+In 2006 ontving de IND 180 B9-aanvragen en verleende er 150. Dat is meer dan twee keer zo 
+veel als het jaar ervoor, een enorme toename dus. Het gaat hier om een specifieke categorie 
+slachtoffers/getuige-aangevers van mensenhandel, namelijk zij die illegaal in Nederland ver-
+blijven en die mee (willen) werken met politie en justitie. Op grond van deze gegevens kan 
+geen percentage verleningen worden berekend omdat niet alle B9-aanvragen in het jaar van 
+aanvraag worden afgehandeld. Voor de onderzoeksverantwoording en enkele aanvullende 
+kanttekeningen bij de gegevens wordt verwezen naar Bijlage 2.  
+
+2.3.2 Leeftijd personen met (aanvraag) B9  
+
+Tabel 2.6 bevat de leeftijdsverdeling van slachtoffers/getuigen die in 2005 of 2006 een B9 
+aanvroegen/kregen 
+
+Tabel 2.6 Leeftijdsverdeling van personen met (aanvraag) B9 (2005 en 2006) 
+
+Leeftijd B9 Aanvragen 2005 B9 Aanvragen 2006 B9 verleningen 2005 B9 verleningen 2006
+
+N % N % N % N %
+
+0 t/m 10 jaar 2 3% 1 1% - - - -
+
+11 t/m 17 jaar 5 7% 33 18% 5 8% 27 18%
+
+18 t/m 25 jaar 36 47% 82 46% 29 48% 70 47% 
+
+26 t/m 30 jaar 22 29% 29 16% 18 30% 23 15%
+
+31 t/m 40 jaar 10 13% 25 14% 8 13% 24 16% 
+
+41 jaar en ouder 2 3% 10 6% 1 2% 6 4% 
+
+Totaal 77 100% 180 100% 61 100% 150 100% 
+
+                                                                     
+31 Dat vond plaats in de land- en tuinbouw (16 slachtoffers), de horeca (11 slachtoffers), huishoudelijk werk (5 
+
+slachtoffers), ‘in het huwelijk’ (2 slachtoffers) en in slachterijen (1 slachtoffer). 
+32 In 2006 hadden 395 slachtoffers een niet-Nederlandse nationaliteit (579 slachtoffers in totaal minus 146 Neder-
+
+landse slachtoffers en minus 38 slachtoffers met onbekende nationaliteit). 
+
+
+
+SLACHTOFFERS
+
+15
+
+In 2006 was, evenals in het jaar daarvoor, bijna de helft van de personen voor wie een B9 is 
+aangevraagd c.q. afgegeven, in de leeftijd van 18 tot 26 jaar. Gezien de forse toename van het 
+aantal aanvragen en verleningen in 2006 is het niet verwonderlijk dat het aantal aanvra-
+gen/verleningen in bijna alle leeftijdscategorieën in absolute zin groeide. Procentueel is er al-
+leen sprake van een substantiële toename in de leeftijdscategorie van 11 tot en met 17-jarigen, 
+terwijl het aandeel aanvragen van/verleningen aan 26 tot en met 30-jarigen fors daalde. Onder 
+de aanvragers bevonden zich in 2006 34 minderjarigen en in datzelfde jaar werd aan 27 min-
+derjarigen de B9 verleend. Onder de minderjarigen worden – incidenteel en abusievelijk – 
+ook wel kinderen van slachtoffers en kinderen van getuigen als B9-aanvragers geregistreerd. 
+Het jongste kind, een jongen, is waarschijnlijk het kind van een slachtoffer. Van de 11 tot en 
+met 17-jarigen is er waarschijnlijk één (ook een jongen) het kind van een slachtoffer. 
+
+2.3.3 Sekse personen met (aanvraag) B9  
+
+De verwachte verschuiving wat betreft de sekse van de slachtoffers ten gevolge van de uit-
+breiding van het mensenhandelartikel (meer mannelijke slachtoffers) lijkt zich inderdaad af 
+te tekenen. Waren in 2005, het eerste jaar na de wetswijziging, vrijwel alle B9-aanvragers 
+vrouw (96%), in 2006 betrof 11% van de aanvragen mannen. De B9-verleningen geven een 
+vergelijkbaar beeld: in 2005 betrof 2% mannen, in 2006 11%. 
+
+2.3.4 Herkomst personen met (aanvraag) B9 
+
+Tabel 2.7 bevat een overzicht van de meest voorkomende nationaliteiten van slachtoffers en 
+getuigen met een B9(-aanvraag).33 Een tabel met alle nationaliteiten is opgenomen in Bijlage 
+4 (Tabel B2.7). 
+
+Tabel 2.7 Nationaliteit personen met (aanvraag) B9 (2005 en 2006) 
+
+Nationaliteit Aanvragen 2005 Aanvragen 2006 Verleningen 2005 Verleningen 2006
+
+N % N % N % N %
+
+Bulgaarse 12 16% 19 11% 11 18% 18 12% 
+
+Chinese 2 3% 9 5% 1 2% 9 6% 
+
+Nigeriaanse 6 8% 43 24% 4 7% 33 22% 
+
+Poolse 3 4% 9 5% 3 5% 2 1%
+
+Roemeense 6 8% 26 14% 6 10% 24 16% 
+
+Russische 5 7% 3 2% 5 8% 3 2% 
+
+Sierra Leoonse 7 9% 11 6% 8 13% 10 7%
+
+Overige 34 44% 59 33% 22 36% 50 33%
+
+Onbekend 2 3% 1 1% 1 2% 1 1%
+
+Totaal 77 100% 180 100% 61 100% 150 100% 
+
+                                                                     
+33 Een nationaliteit is in de tabel opgenomen als in ten minste een van de jaren 2005 of 2006 vijf of meer slachtof-
+
+fers/getuigen die een B9 aanvroegen of kregen, de betreffende nationaliteit bezaten. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+16
+
+In 2006 heeft bijna een kwart van de slachtoffers/getuigen van mensenhandel, voor wie een 
+B9-verblijfsvergunning is aangevraagd c.q. afgegeven, de Nigeriaanse nationaliteit, een 
+enorme toename vergeleken met het jaar daarvoor. Nigeria staat daarmee aan de top van 
+herkomstlanden van slachtoffers en getuigen ‘in de B9’. Roemenië staat zowel qua aanvra-
+gen als qua verleningen in 2006 op de tweede plaats, gevolgd door Bulgarije dat in 2005 nog 
+op nummer één stond.34
+
+In Tabel 2.8 zijn de slachtoffers/getuigen met B9(-aanvraag) ingedeeld naar herkomstregio. 
+Daarbij wordt binnen Europa – waar veel slachtoffers vandaan komen – onderscheid ge-
+maakt tussen landen die in 1995 lid waren van de EU,35 landen die in 2004 lid werden van de 
+EU of die op dat moment kandidaat-lid waren en in 2007 toetraden,36 niet-EU-landen in 
+Oost-Europa37 en niet-EU-landen in West-Europa.38 Daarnaast worden continenten onder-
+scheiden.39
+
+Tabel 2.8 Herkomstregio personen met (aanvraag) B9 (2005 en 2006) 
+
+Herkomstregio Aanvragen 2005 Aanvragen 2006 Verleningen 2005 Verleningen 2006
+
+N % N % N % N %
+
+EU: 1995 2 3% - - 2 3% - -
+
+EU: nieuwe (kandi-
+daat)lidstaten 2004 
+
+26 34% 62 34% 26 43% 51 34%
+
+Niet-EU-landen Oost-
+Europa 
+
+15 20% 13 7% 10 16% 12 8%
+
+Niet-EU-landen 
+West-Europa
+
+1 1% - - 1 2% - -
+
+Afrika 19 25% 76 42% 17 28% 60 40% 
+
+Latijns-Amerika en 
+Caraïben
+
+4 5% 2 1% 1 2% 2 1%
+
+Azië 8 10% 25 14% 3 5% 23 15%
+
+Onbekend/stateloos 2 3% 2 1% 1 2% 2 1%
+
+Totaal 77 100% 180 100% 61 100% 150 100% 
+
+Voor zowel 2006 als 2005 geldt dat het merendeel van de slachtoffers en getuigen, voor wie 
+een B9-verblijfsvergunning is aangevraagd of afgegeven, afkomstig is uit de landen die in 
+2004 en 2007 toetraden tot de EU, Afrika en niet-EU-landen in Oost-Europa. Het aandeel 
+van Afrika nam hierin zowel absoluut als relatief fors toe, terwijl dat van niet-EU landen in 
+Oost-Europa – vooral naar verhouding – afnam.  
+                                                                     
+34 Net als in 2000 en 2001.NRM5
+35 België, Duitsland, Frankrijk, Italië, Luxemburg, Nederland, Denemarken, Ierland, Verenigd Koninkrijk, Grie-
+
+kenland, Portugal, Spanje, Finland, Oostenrijk en Zweden. 
+36 Cyprus, Estland, Hongarije, Letland, Litouwen, Malta, Polen, Slovenië, Slowakije, Tsjechië, Bulgarije en Roe-
+
+menië. 
+37 Russische Federatie, Moldavië, Oekraïne, Wit-Rusland, Albanië, Bosnië en Herzegovina, Klein-Joegoslavië, 
+
+Macedonië, Kroatië, Montenegro, Kazachstan, Turkije, Kyrgyzstan. 
+38 Zwitserland, Noorwegen, IJsland, Eiland Man, Faeröer Eilanden, Andorra, Gibraltar, Griekenland, Heilige 
+
+Stoel, San Marino, Liechtenstein, Monaco. 
+39 Alleen opgenomen in de tabel als daar personen met B9(-aanvraag) vandaan kwamen. 
+
+
+
+SLACHTOFFERS
+
+17
+
+2.3.5 Politieregio en B9 
+
+De politie geeft de namen van slachtoffers en getuigen van mensenhandel die een verklaring 
+hebben afgelegd (wat ambtshalve wordt opgevat als een aanvraag voor een tijdelijke ver-
+blijfsvergunning in het kader van de B9-regeling) door aan de IND. De IND verstrekt de 
+verblijfsvergunningen en registreert – naast andere kenmerken – uit welke politieregio een 
+aanvraag afkomstig is. Tabel 2.9 geeft daarvan een overzicht. 
+
+Tabel 2.9 Politieregio waaruit B9(-aanvraag) afkomstig is (2005 en 2006) 
+
+Regio Aanvragen 2005 Aanvragen 2006 Verleningen 2005 Verleningen 2006
+
+N % N % N % N %
+
+Amsterdam-Amstelland 8 10% 25 14% 6 10% 23 15%
+
+Brabant-Noord 1 1% 2 1% - - 2 1%
+
+Brabant-Zuid-Oost 2 3% 8 4% 2 3% 8 5%
+
+Drenthe 1 1% 4 2% 2 3% 3 2% 
+
+Flevoland 1 1% 2 1% 2 3% 2 1%
+
+Friesland 10 13% 4 2% 8 13% 4 3%
+
+Gelderland-Midden 3 4% 6 3% 2 3% 2 1%
+
+Gelderland-Zuid - - 2 1% - - 2 1%
+
+Gooi en Vechtstreek 1 1% - - 1 2% - -
+
+Groningen 2 3% 9 5% 3 5% 8 5%
+
+Haaglanden 2 3% 17 9% 2 3% 16 11%
+
+Hollands Midden 1 1% 3 2% 1 2% 3 2% 
+
+IJsselland 3 4% 3 2% 1 2% 1 1%
+
+Kennemerland 3 4% 43 24% 2 3% 34 23% 
+
+Limburg-Noord - - - - - - - -
+
+Limburg-Zuid 1 1% 2 1% 1 2% 2 1%
+
+Midden- en West-
+Brabant 
+
+1 1% 10 6% 1 2% 8 5%
+
+Noord- en Oost-
+Gelderland
+
+5 7% 3 2% 4 7% 2 1%
+
+Noord-Holland Noord 2 3% 3 2% - - 3 2% 
+
+Rotterdam-Rijnmond 10 13% 13 7% 9 15% 11 7%
+
+Twente 3 4% 1 1% 3 5% 1 1%
+
+Utrecht 9 12% 5 3% 5 8% 4 3%
+
+Zaanstreek-Waterland - - - - 1 2% - -
+
+Zeeland - - 4 2% - - 4 3%
+
+Zuid-Holland-Zuid 1 1% 1 1% 1 2% 1 1%
+
+Onbekend 7 9% 10 6% 4 7% 6 4% 
+
+Totaal 77 100% 180 100% 61 100% 150 100% 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+18
+
+B9-aanvragen waren – evenals verleningen – in 2006 naar verhouding vaak afkomstig uit 
+Kennemerland, Amsterdam Amstelland, en Haaglanden.  
+
+2.3.6 Voortgezet verblijf 
+
+Veel slachtoffers en getuigen willen na afloop van de B9 in Nederland blijven.NRM3 Zoals 
+gemeld in de vijfde mensenhandelrapportage zijn bij de IND-contactpersonen mensenhan-
+del in 2006 34 aanvragen voor voortgezet verblijf binnengekomen, waarvan er – in eerste 
+aanleg – evenveel zijn gehonoreerd als afgewezen (17 om 17). 
+
+2.4 Schadevergoeding 
+
+In de vijfde mensenhandelrapportage zijn de verschillende mogelijkheden beschreven die 
+open staan voor slachtoffers van mensenhandel om materiële of immateriële schade ver-
+goed te krijgen. Een daarvan is zich als benadeelde partij te voegen in het strafproces. De ci-
+viele vordering van het slachtoffer wordt dan tegelijk met de strafzaak behandeld. De rech-
+ter kan, naast de toewijzing van de civiele vordering, ook een schadevergoedingsmaatregel
+opleggen. Het slachtoffer kan daarom vragen, maar de rechter kan deze sanctie ook ambts-
+halve opleggen. Ook kan de rechter bij het toekennen van een straf als bijzondere voor-
+waarde stellen storting van een bedrag in het Schadefonds Geweldsmisdrijven of een andere 
+instelling die de belangen van slachtoffers van strafbare feiten behartigt. Verder kunnen 
+slachtoffers een beroep doen op het Schadefonds Geweldsmisdrijven,40 gebruik maken van 
+schadebemiddeling – al is dat laatste gezien de aard van het misdrijf geen voor de hand lig-
+gende optie – of zich tot de civiele rechter wenden. 
+
+OM-data bevat (enige) informatie over de (straf)rechterlijke beslissingen betreffende scha-
+devergoeding. Alvorens die te presenteren eerst (in Tabel 2.10) een overzicht van de aantal-
+len verdachten die in de jaren 2003 tot en met 2006 (mede) veroordeeld werden wegens 
+mensenhandel41 en de hen opgelegde straffen (zie voor gedetailleerder informatie hierover 
+hoofdstuk 4, tabel 4.9). 
+
+Tabel 2.10 Opgelegde straffen na veroordeling voor (mede) mensenhandel, per jaar 
+
+Opgelegde hoofdstraf42 2003 2004 2005 2006
+
+Geen hoofdstraf 1 - - -
+
+Alleen vw. hoofdstraf 3 3 2 1
+
+Vrijheidsstraf 65 (72%) 103 (70%) 75 (88%) 63 (90%) 
+
+Taakstraf 7 8 4 6
+
+Geldboete 4 2 - -
+
+Totaal 80 116 81 70
+
+                                                                     
+40 Slachtoffers van mensenhandel beginnen de weg naar het Schadefonds te vinden; in 2007 zijn 25 aanvragen 
+
+gedaan door slachtoffers mensenhandel, en er zijn 18 aanvragen toegekend. 
+41 Zaken waarin wel is gedagvaard, maar niet is veroordeeld voor mensenhandel, blijven hier dus buiten be-
+
+schouwing. 
+42 Het gaat om onvoorwaardelijke straffen. 
+
+
+
+SLACHTOFFERS
+
+19
+
+Tabel 2.11 bevat informatie over (eventuele) beslissingen ten aanzien van schadevergoeding 
+in de bovengenoemde strafzaken.  
+
+Tabel 2.11   Beslissingen over schadevergoeding 
+
+Beslissing over schadever-
+goeding
+
+2003 2004 2005 2006
+
+Geen 63 79% 91 78% 54 67% 41 59%
+
+Afwijzing/niet ontvankelijk 
+verklaring 
+
+8 10% 3 3% 4 5% 6 9% 
+
+Schadevergoedingsmaatregel 3 4% 7 6% 7 9% 12 17%
+
+(Gedeeltelijke) toewijzing 
+civiele vordering  
+
+- - - - 2 2% 2 3%
+
+Schadevergoedingsmaatregel 
+en (gedeeltelijke) toewijzing 
+civiele vordering 
+
+6 7% 15 13% 14 17% 9 13%
+
+Totaal 80 100% 116 100% 81 100% 70 100% 
+
+Hoewel in 2006 in meer dan de helft van de zaken waarin verdachten veroordeeld werden 
+(mede) voor mensenhandel, schadevergoeding niet aan de orde komt, is wel duidelijk dat er 
+een stijgende trend zichtbaar is in de zin dat dit steeds vaker een thema is waarover van de 
+strafrechter een beslissing wordt gevraagd. Dit resulteert het meest frequent in een schade-
+vergoedingsmaatregel, of in een schadevergoedingsmaatregel gecombineerd met (gedeelte-
+lijke) toewijzing van een civiele vordering. Hierbij moet men zich wel realiseren dat het gaat 
+om aantallen zaken waarin dergelijke uitspraken zijn gedaan. De uitspraken kunnen meerde-
+re slachtoffers betreffen en verschillen ten aanzien van verschillende slachtoffers.43
+
+Hoeveel slachtoffers daadwerkelijk schadevergoeding ontvingen, op grond van boven-
+staande uitspraken in de strafzaken is niet bekend, noch wat er wellicht (alleen of aanvul-
+lend) is geclaimd (en ontvangen) via de andere schadevergoedingsmogelijkheden. 
+
+                                                                     
+43 Wanneer in één uitspraak sprake is van zowel afwijzing/niet ontvankelijkverklaring (ten aanzien van een be-
+
+paald slachtoffer) als van een schadevergoedingsmaatregel, een (gedeeltelijke) toewijzing van een civiele vorde-
+ring of een combinatie van beide (ten aanzien van een of meer andere slachtoffers), is de uitspraak onder een 
+van deze laatste drie categorieën ondergebracht. 
+
+
+
+
+
+21
+
+3
+ Verdachten en veroordeelde daders 
+
+3.1 Inleiding 
+
+Dit hoofdstuk bevat gegevens over verdachten van mensenhandel – personen wier mensen-
+handelstrafzaak is ingeschreven bij het OM – (201 in 2006, hun aantal fluctueert per jaar) én 
+– voor het eerst in de BNRM-rapportages – over in eerste aanleg voor mensenhandel ver-
+oordeelde daders (70 in 2006; ook hun aantal fluctueert per jaar). Daarbij gaat het om leef-
+tijd, sekse en land van herkomst. De informatie over de verdachten betreft de jaren 2002 tot 
+en met 2006, die over de veroordeelde daders 2003 (het eerste jaar waarvoor deze gegevens 
+beschikbaar waren) tot en met 2006. De informatie is afkomstig uit OM-data. Ook de politie 
+registreert verdachten, namelijk in het Herkenningsdienstsysteem (HKS). De bij het KLPD 
+(Dienst Nationale Recherche Informatie) opgevraagde HKS-gegevens voor mensenhandel 
+bleken echter incompleet. Om deze reden is besloten deze informatie niet in de onderhavige 
+rapportage op te nemen. 
+
+3.2 Leeftijd 
+
+3.2.1 Leeftijd verdachten 
+
+Tabel 3.1 geeft een overzicht van de leeftijden van de bij het OM geregistreerde verdachten, 
+verdeeld in leeftijdscategorieën. 
+
+Tabel 3.1 Leeftijd verdachten, per jaar van registratie 
+
+Leeftijd 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Jonger dan 18 jaar 3 1% 7 4% 4 2% 4 3% 11 5%
+
+18 t/m 25 jaar 70 35% 29 19% 79 36% 58 42% 62 31%
+
+26 t/m 30 jaar 44 22% 29 19% 35 16% 23 17% 27 13%
+
+31 t/m 40 jaar 48 24% 60 38% 59 27% 21 15% 49 24% 
+
+41 t/m 50 jaar 24 12% 19 12% 24 11% 20 14% 35 17%
+
+51 t/m 60 jaar 7 3% 8 5% 15 7% 10 7% 11 5%
+
+61 t/m 70 jaar 3 1% 3 2% 2 1% - - 3 1%
+
+nvt (rechtspersoon) - - 1 1% 1 0% - - 1 0% 
+
+onbekend 1 0% - - 1 0% 2 1% 2 1%
+
+Totaal 200 100% 156 100% 220 100% 138 100% 201 100% 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+22
+
+In bijna 70% van de in 2006 geregistreerde zaken lag de leeftijd van de verdachten ten tijde 
+van het eerste mensenhandelfeit1 tussen 18 en 41 jaar. Hun gemiddelde leeftijd was 32 jaar2 en 
+er waren elf minderjarige verdachten (5%), dat is (ook naar verhouding) meer dan in de jaren 
+daarvoor.
+Bezien over de periode 2002 tot en met 2006 ligt de gemiddelde leeftijd van de verdachten 
+eveneens op 32 jaar (sd. 10,9). De vrouwelijke verdachten zijn gemiddeld iets jonger: 29 jaar 
+(sd. 10,8). 
+
+3.2.2 Leeftijd veroordeelde daders 
+
+Tabel 3.2 bevat vergelijkbare informatie, maar nu over de leeftijd (ten tijde van het delict) van 
+de in de jaren 2003 tot en met 2006 voor mensenhandel in eerste aanleg veroordeelde daders. 
+Daarbij is het van belang aan te tekenen dat het jaar van inschrijving bij het OM niet altijd 
+ook het jaar is waarin de rechter uitspraak doet. De overzichten betreffen per jaar om die re-
+den dan ook niet (precies) dezelfde ingeschreven, respectievelijk veroordeelde personen. In 
+theorie kunnen er in een bepaald jaar bijvoorbeeld meer veroordelingen zijn dan inschrij-
+vingen van (ten tijde van het delict) minderjarigen. 
+
+Tabel 3.2 Leeftijd voor mensenhandel veroordeelde daders, per jaar van veroordeling 
+
+Leeftijd 2003 2004 2005 2006
+
+N % N % N % N %
+
+Jonger dan 18 jaar - - 2 2% 1 1% 4 6% 
+
+18 t/m 25 jaar 15 19% 35 30% 31 38% 29 41% 
+
+26 t/m 30 jaar 23 29% 19 16% 14 17% 11 16% 
+
+31 t/m 40 jaar 24 30% 40 34% 23 28% 17 24% 
+
+41 t/m 50 jaar 11 14% 12 10% 8 10% 5 7%
+
+51 t/m 60 jaar 5 6% 6 5% 3 4% 2 3%
+
+61 t/m 70 jaar 2 2% 2 1% - - 1 1%
+
+onbekend - - - - 1 1% 1 1%
+
+Totaal 80 100% 116 100% 81 100% 70 100% 
+
+Van de in 2006 voor mensenhandel veroordeelde daders was ten tijde van het eerste men-
+senhandelfeit 81% tussen 18 en 41 jaar en er werden in dat jaar vier daders (6%) veroordeeld 
+die ten tijde van het delict minderjarig waren. 
+
+                                                                     
+1 Eenzelfde persoon kan van meerdere mensenhandelfeiten worden verdacht. 
+2 Standaarddeviatie (sd.) 11,4. Standaarddeviaties geven een beeld van de mate waarin de gegevens (hier: de leef-
+
+tijden) waarover het gemiddelde is berekend onderling verschillen. Hoe hoger de sd., hoe groter het verschil. 
+Zie voor verdere uitleg Bijlage 3. 
+
+
+
+VERDACHTEN EN VEROORDEELDE DADERS
+
+23
+
+3.3 Land van herkomst 
+
+3.3.1 Land van herkomst verdachten 
+
+De verdachten zijn, bezien over de periode 2002 tot en met 2006, afkomstig uit 55 verschil-
+lende landen. Per jaar zijn het van 2002 tot en met 2005 (ruim) 20 verschillende landen. Het 
+jaar 2006 spant op dit punt de kroon met verdachten uit 32 verschillende geboortelanden.  
+Tabel 3.3 bevat per jaar een rangordening van de vijf meest frequent voorkomende geboorte-
+landen van verdachten.3 Een accent geeft aan dat het om een gedeelde plaats in de rangorde-
+ning gaat. 
+
+Tabel 3.3 Rangordening frequent voorkomende geboortelanden verdachten, per jaar van registratie 
+
+Land 2002 2003 2004 2005 2006
+
+Rang Rang Rang Rang Rang 
+
+Nederland 1 1 1 1 1
+
+Turkije 3’ 4 2 3 2
+
+Roemenië 4 2 3 4’ 3
+
+Marokko 5’ 2 4’ 
+
+Bulgarije 2 3 4 4’ 
+
+Hongarije 4’ 
+
+Suriname 5’ 4’ 
+
+(vml.) Sovjet-Unie 5
+
+Albanië 3’
+
+Het overzicht laat, evenals voorgaande jaren een eerste plaats voor Nederland als geboorte-
+land zien en een ‘stabiele positie’ van Turkije en Roemenië in de top vijf.  
+
+Tabel 3.4 bevat (in alfabetische volgorde) de belangrijkste landen van herkomst van de ver-
+dachten.4 Zie Tabel B3.4 in Bijlage 4 voor een compleet overzicht. 
+
+                                                                     
+3 Bij de bepaling van de volgorde waarin de landen genoemd worden, is het meest recente jaar (2006) als uit-
+
+gangspunt genomen. 
+4 Criterium voor opname in deze tabel is dat in één van de jaren ten minste vijf, of in de gehele periode 2002 tot 
+
+en met 2006 ten minste tien verdachten afkomstig waren uit het desbetreffende land. De cijfers over de jaren 
+2002 tot en met 2005 wijken, door correcties in OM-data, op sommige punten enigszins af van die in eerdere 
+rapportages. Omdat het om kleine verschillen gaat wordt daar verder niet op ingegaan.  
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+24
+
+Tabel 3.4 Geboortelanden verdachten, per jaar van registratie 
+
+Land 2002 2003 2004 2005 2006
+
+N N N N N
+
+Albanië 26 5 - - -
+
+(Bondsrepubliek) Duitsland - 1 5 1 -
+
+Bulgarije 27 19 14 4 13
+
+Hongarije 1 - - 6 1
+
+India - - - - 7
+
+Irak 6 - 2 - 2
+
+(vml.) Joegoslavië 6 3 3 4 6
+
+Marokko 3 3 9 17 13
+
+Nederland 51 46 91 54 76
+
+Nederlandse Antillen 1 2 7 3 4
+
+Nigeria 7 5 4 - 2
+
+Polen 4 - 3 3 3
+
+Roemenië 8 22 23 6 14 
+
+(vml.) Sovjet-Unie 7 11 8 2 7
+
+Suriname 5 10 9 6 11
+
+(vml.) Tsjecho-Slowakije 2 - 2 5 3
+
+Turkije 26 16 24 15 18
+
+Onbekend 4 2 2 - 1
+
+Overig5 16 11 14 12 20
+
+Totaal 200 156 220 138 201 
+
+Nederland is in 2006, evenals in voorgaande jaren, het meest frequent voorkomende ge-
+boorteland van bij het OM ingeschreven verdachten.6 Daarnaast vallen Turkije, Marokko, 
+Bulgarije en Roemenië op als relatief frequent (meer dan 5% van de gevallen) voorkomende 
+geboortelanden. India is een opvallende ‘nieuwkomer’. Ook over de totale periode 2002 tot 
+en met 2006 bezien is, naast het overgrote aandeel Nederlandse verdachten, het aandeel van 
+verdachten geboren in Turkije, Bulgarije en Roemenië fors. De betekenis van Albanië lijkt in 
+dit opzicht voorbij te zijn en die van Nigeria lijkt te dalen, al doen de berichten over (aan-
+houdingen in) mensenhandelzaken eind 2007 en begin 2008, vermoeden dat dit beeld er 
+voor wat betreft Nigeria als herkomstland wel weer anders uit zal komen te zien. 
+
+3.3.2 Land van herkomst veroordeelde daders 
+
+Ging het voorgaande om de geboortelanden van de bij het OM ingeschreven verdachten 
+van mensenhandel, Tabel 3.5 bevat per jaar een rangordening van de vijf meest frequent 
+
+                                                                     
+5 In enkele gevallen (1 in 2003, 1 in 2004 en 1 in 2006) gaat het om rechtspersonen. 
+6 Op etnische achtergrond wordt niet geregistreerd. 
+
+
+
+VERDACHTEN EN VEROORDEELDE DADERS
+
+25
+
+voorkomende geboortelanden van in de jaren 2003 (het eerste jaar waarvoor deze gegevens 
+beschikbaar zijn) tot en met 2006 voor mensenhandel veroordeelde personen.7
+
+Tabel 3.5 Rangordening geboortelanden voor mensenhandel veroordeelde daders, per jaar van  
+veroordeling
+
+Land 2003 2004 2005 2006
+
+Rang Rang Rang Rang 
+
+Nederland 1 1 1 1
+
+Marokko 5’ 2
+
+Turkije 4’ 3 2 3’
+
+(vml.) Tsjecho-Slowakije 3’
+
+Bulgarije 2 4 5’ 4’ 
+
+Hongarije 4’ 
+
+Roemenië 4’ 2
+
+Suriname 5’ 3’
+
+(vml.) Sovjet-Unie 5’ 4
+
+Albanië 3
+
+Het overzicht laat een permanente eerste plaats voor Nederland als geboorteland zien en 
+een ‘stabiele positie’ van Turkije en Bulgarije in de top vijf.  
+
+In Tabel 3.6 komen de meest frequent voorkomende geboortelanden van voor mensenhan-
+del veroordeelde daders aan de orde.8 Tabel B3.6 in Bijlage 4 bevat een compleet overzicht. 
+
+Tabel 3.6 Geboortelanden voor mensenhandel veroordeelde daders, per jaar van veroordeling 
+
+Land 2003 2004 2005 2006
+
+N N N N
+
+Albanië 9 2 - -
+
+België 2 1 2 -
+
+(Bondsrepubliek) Duitsland - 1 1 -
+
+Bulgarije 16 11 4 4
+
+Colombia - - 1 -
+
+Griekenland 1 - - 1
+
+Hongarije - - 2 4
+
+Indonesië 1 - 1 -
+
+(vml.) Joegoslavië - 1 - 1
+
+Marokko 2 7 3 13
+
+                                                                     
+7 Bij de bepaling van de volgorde waarin de landen genoemd worden, is wederom het meest recente jaar (2006) 
+
+als uitgangspunt genomen. Een accent geeft weer aan dat het om een gedeelde plaats gaat. 
+8 Alleen de 12 geboortelanden die in deze jaren maar één keer voorkwamen zijn niet opgenomen in de tabel. Dat 
+
+zijn: Litouwen en Soedan (2004), Iran, Korea en de VS (in 2005) en Angola, Ghana, Groot-Brittanië, Irak, 
+Kaapverdië, Koeweit en Sierra Leone (2006).  
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+26
+
+Vervolg Tabel 3.6 
+Land 2003 2004 2005 2006
+
+N N N N
+
+Nederland 26 37 36 21 
+
+Nederlandse Antillen - 2 3 -
+
+Nigeria - 5 - -
+
+Polen 1 - - 1
+
+Roemenië 7 18 3 3
+
+(vml.) Sovjet-Unie 5 7 5 -
+
+Suriname 1 7 8 1
+
+Thailand 1 1 - 1
+
+(vml.) Tsjecho-Slowakije - - - 6
+
+Turkije 7 14 9 6
+
+Land onbekend 1 - - 1
+
+Overig - 2 3 7
+
+Totaal 80 116 81 70
+
+Nederland is in 2006, evenals in voorgaande jaren, het meest frequent voorkomende ge-
+boorteland van voor mensenhandel veroordeelde daders.9 Net als bij de ingeschreven ver-
+dachten vallen naast Marokko, Turkije en Bulgarije ook voormalig Tsjecho-Slowakije en 
+Hongarije op als relatief frequent voorkomende geboortelanden. Ook over de totale periode 
+2003 tot en met 2006 bezien valt, naast het overgrote aandeel Nederlandse veroordeelden, 
+het relatief grote aandeel van veroordeelden geboren in Turkije, Bulgarije, Roemenië en 
+Marokko op. Het aantal veroordelingen van Bulgaren, Roemenen en – in mindere mate – 
+Turken lijkt wel te dalen.  
+
+3.4 Sekse 
+
+3.4.1 Sekse verdachten 
+
+De meeste verdachten zijn man; in 2006 geldt dat voor 83% van de verdachten. De (32) bij 
+het OM ingeschreven vrouwelijke verdachten zijn afkomstig uit Bulgarije, Roemenië, de 
+(voormalige) Sovjet-Unie (elk 5), Nederland (4), Marokko (3) en Brazilië, Hongarije, Hong-
+kong, India, Iran, (voormalig) Joegoslavië, Litouwen, Nigeria, Polen en (voormalig) Tsjecho-
+Slowakije (elk 1).  
+Er zijn duidelijke verschillen tussen de herkomstlanden. Beperkt tot de in de rangordening-
+tabel 3.4 opgenomen belangrijke herkomstlanden van verdachten valt op dat er onder de 
+Turkse verdachten geen vrouwen zijn, onder de Nederlandse verdachten weinig (5%), ter-
+wijl van de Bulgaarse en Roemeense verdachten 38% respectievelijk 36% vrouw is. Werd in 
+
+                                                                     
+9 Op etnische achtergrond wordt niet geregistreerd. 
+
+
+
+VERDACHTEN EN VEROORDEELDE DADERS
+
+27
+
+de vorige rapportage nog geconstateerd dat onder de Marokkaanse verdachten nauwelijks 
+vrouwen zijn (gerekend over de voorgaande vijf jaar was dat niet meer dan 2 à 3%), voor 
+2006 is dat 23% (3 van de 13 verdachten is vrouw). 
+Hoewel Nigeria als herkomstland van bij het OM ingeschreven verdachten geen rol van be-
+tekenis meer speelt, is het aandeel van vrouwen het vermelden waard: van de 18 in de perio-
+de 2002 tot en met 2006 ingeschreven verdachten is 78% vrouw. 
+
+3.4.2 Sekse veroordeelde daders 
+
+Bezien we de veroordelingen voor mensenhandel, dan blijkt dat in 2006 13 van de 70 – in 
+eerste aanleg – veroordeelden vrouw zijn, dat is 19%, iets meer dan het jaar daarvoor, maar 
+vergelijkbaar met de situatie in 2003 en 2004.10 Deze 13 vrouwen komen uit Nederland, Ma-
+rokko, Roemenië en (voormalig) Tsjecho-Slowakije (elk 2) en Bulgarije, Groot-Brittannië, 
+Hongarije, Polen en Thailand (elk 1). Landen verschillen sterk wat betreft het aandeel van 
+vrouwen onder de veroordeelde daders. Voor de acht landen waar in de periode 2003 tot en 
+met 2006 meer dan tien veroordeelde daders vandaan kwamen, varieert dit aandeel van 0% 
+(Albanië) tot 35% (voormalige Sovjet-Unie).11
+
+                                                                     
+10 Veroordelingen van vrouwen voor mensenhandel: in 2003 13 (16%), in 2004 21 (18%), in 2005 10 (12%).  
+11 Het aandeel van vrouwen onder de veroordeelden uit de andere zes landen is 3% (Turkije), 8% (Nederland en 
+
+Marokko), 17% (Suriname), 23% (Bulgarije) en 29% (Roemenië). 
+
+
+
+
+
+29
+
+4
+ Vervolging 
+
+4.1 Inleiding 
+
+Dit hoofdstuk bevat de resultaten van (secundaire) analyses op de mensenhandelzaken bin-
+nen OM-data, over de periode 2002 tot en met 2006.1
+
+Per jaar wordt aangegeven hoeveel zaken bij het OM zijn ingeschreven, door het OM afge-
+handeld, respectievelijk door de rechter afgedaan. Er wordt dus geen cohort gevolgd.2 De 
+onderzoeksverantwoording is te vinden in Bijlage 2.  
+Met de inwerkingtreding van het artikel 273a Sr op 1 januari 2005 – medio 2005 zonder in-
+houdelijke wijzigingen vernummerd tot 273f Sr – zijn ook uitbuiting in andere sectoren dan 
+de seksindustrie en bepaalde activiteiten in relatie tot de verwijdering van organen onder de 
+noemer ‘mensenhandel’ komen te vallen. Helaas maakt de redactie van het artikel het niet 
+mogelijk om – binnen OM-data – op grond van leden en subonderdelen een beeld te geven 
+van de aard van de uitbuiting (binnen de seksindustrie, binnen andere economische secto-
+ren, of in relatie tot verwijdering van organen). Wel weten we dat alle zaken tot en met 2005 
+betrekking hebben op uitbuiting in de seksindustrie, en ook dat enkele zaken in 2006 uitbui-
+ting in andere sectoren betreffen. Geen van de zaken betreft verwijdering van organen. 
+
+4.2 Bij het Openbaar Ministerie ingeschreven zaken mensenhandel 
+
+4.2.1 Aantal ingeschreven zaken 
+
+In 2006 zijn bij het OM 201 strafzaken ingeschreven waarin (alleen of mede) verdenking van 
+mensenhandel (art. 250ter (oud), art. 250a (oud), art. 273a (oud) of art. 273f) aan de orde was.3
+
+Onder een (straf)zaak wordt in het kader van vervolging de zaak tegen één verdachte ver-
+staan.
+
+Tabel 4.1 geeft per jaar aan om hoeveel zaken het gaat en hoeveel van deze zaken (voor zover 
+bekend) (ook) minderjarige slachtoffers betroffen.4
+
+                                                                     
+1 Deze werden ook voor deze rapportage weer verricht door SIBA, WODC. 
+2 Het gaat dus niet steeds over precies dezelfde zaken, want niet alle zaken worden in eenzelfde jaar geregi-
+
+streerd, door het OM afgehandeld en (eventueel) door de rechter afgedaan. 
+3 Inclusief zaken die later door het OM zijn geseponeerd of waarin de tenlastelegging uiteindelijk geen mensen-
+
+handel bevat. 
+4 Criterium: registratie onder artikelleden en -subs die minderjarigheid van de slachtoffers impliceren. Bij art. 
+
+250ter zijn dat lid 1 sub 3 en lid 2 sub 2. Bij art. 250a Sr zijn dat lid 1 sub 3 en 5 en lid 2 sub 2. Bij art. 273a en 273f Sr 
+zijn dat lid 1 sub 2, 5 en 8, lid 3 sub 2 en lid 4.  
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+30
+
+Tabel 4.1 Aantal ingeschreven zaken, waaronder zaken die (mede) minderjarige slachtoffers betreffen, 
+per jaar 
+
+Jaar Ingeschreven zaken Zaken die (mede) betrekking hebben 
+op minderjarige slachtoffers 
+
+N N %
+
+2002 200 27 13%
+
+2003 156 41 26% 
+
+2004 220 32 15%
+
+2005 138 36 26% 
+
+2006 201 24 12% 
+
+Het aantal geregistreerde zaken fluctueert: op de lage aantallen in 2003 en 2005 geregi-
+streerde zaken, volgden hoge aantallen in 2004 en 2006.5
+
+Ook het aantal zaken dat (mede) betrekking heeft op minderjarige slachtoffers fluctueert: 
+zowel absoluut als relatief nam dit af in 2004, toe in 2005 en weer af in 2006. Over de totale 
+periode 2002 tot en met 2006 heeft ten minste6 17% van het aantal zaken (mede) betrekking 
+op minderjarige slachtoffers. Dit zegt niets over het totale aantal betrokken minderjarige 
+slachtoffers, dat kunnen er namelijk meerdere per zaak zijn. 
+
+Tabel 4.2 geeft, per jaar, weer bij welke arrondissementsparketten de zaken werden inge-
+schreven, evenals de rangordening van de parketten naar het aantal zaken. Bij dat laatste zijn 
+steeds alleen de vijf ‘hoogst genoteerde’ parketten vermeld. Een accent geeft aan dat het om 
+een gedeelde plaats in de rangordening gaat. 
+
+Tabel 4.2 Aantallen zaken per arrondissementsparket en rangordening, per jaar van registratie7
+
+Parket 2002 2003 2004 2005 2006
+N R N R N R N R N R
+
+Alkmaar 8 13 4 3 5 11
+Almelo 7 5 11 15 3  9 
+Amsterdam 25 2 25 1 25 3’ 11 5’  24 3’
+Arnhem 20 4 3 15 6 12 
+Assen - 2 8 - 2
+Breda 15 11 5 4 1 -
+Den Bosch 33 1 20 2 25 3’ 19 2 14 4
+
+                                                                     
+5 Dit is conform de verwachtingen op grond van de Standaardrapportage mensenhandel van het Parket-Generaal 
+
+van 30 november 2006. Daaruit bleek dat er in 2006, tot en met augustus al 137 mensenhandelzaken waren in-
+geschreven bij het OM, meer dus dan in heel 2005 (NRM5). 
+
+6 Ook onder andere dan de in een eerdere voetnoot vermelde artikelleden en -subs geregistreerde zaken kunnen 
+minderjarige slachtoffers betrokken zijn. 
+
+7 Ook in deze rapportage zijn er weer kleine verschillen met in vorige rapportages vermelde aantallen, waar-
+schijnlijk als gevolg van correcties in OM-data na de voor de vorige analyses gebruikte peildatum (er zijn over 
+2005 sindsdien drie zaken bijgekomen). Omdat het om kleine verschillen gaat wordt er niet per verschil op in-
+gegaan. Wel wordt opgemerkt dat de rangordening over 2005 iets gewijzigd is ten opzichte van die in de vorige 
+rapportage: Amsterdam stond daar op de vierde plaats, Leeuwarden op een gedeelde vijfde.  
+
+
+
+VERVOLGING
+
+31
+
+Vervolg Tabel 4.2 
+Parket 2002 2003 2004 2005 2006
+
+N R N R N R N R N R
+Den Haag 13 18 3 28 1 9 24 3’
+Dordrecht - 3 1 1 -
+Groningen 9 7 11 11 5’ 10 
+Haarlem 19 5 6 8 6 7
+Leeuwarden 1 7 27 2 13 4 7
+Maastricht - 3 1 2 5
+Middelburg 3 - - - 4
+Roermond 1 1 6 - 2
+
+Rotterdam 4 5 11 22 1 33 1
+Utrecht 14 9 6 8 6
+Zutphen 4 10 9 4 4
+
+Zwolle 24 3 8 21 4 5 27 2
+Totaal 200 156 220 138 201 
+
+Hoewel bepaalde parketten standaard weinig mensenhandelzaken hebben en Amsterdam 
+en Den Bosch altijd een plaats innemen binnen de ‘top vijf’ fluctueert ook het aantal zaken 
+per parket flink over de jaren. Zo ‘scoorde’ Den Haag in 2004 het hoogst, kwam in 2005 niet 
+voor in de ‘top vijf’ en staat nu weer op een gedeelde derde plaats. De in 2005 ingezette groei 
+van het aantal zaken in het arrondissement Rotterdam nam in 2006 verder toe, waarmee 
+Rotterdam in 2006, evenals in 2005 het hoogst scoorde.8
+
+Bezien over de gehele periode (2002 tot en met 2006) heeft Den Bosch het grootste aantal 
+zaken, op de voet gevolgd door Amsterdam en – in iets mindere mate – Den Haag, Zwolle 
+en Rotterdam. Zoals ook eerder opgemerktNRM5: het aantal ingeschreven zaken wordt – ui-
+teraard – niet uitsluitend bepaald door de inspanningen binnen een arrondissement. 
+
+4.2.2 ‘Aard’ van de zaken 
+
+Uitsplitsing van de bij het OM ingeschreven mensenhandelzaken naar leden binnen de men-
+senhandelbepaling(en) in het Wetboek van Strafrecht9 levert de in Tabel 4.3 weergegeven 
+resultaten op. 
+
+                                                                     
+8 In de vorige rapportage werd geopperd dat de oprichting van het nieuwe Rotterdamse prostitu-
+
+tie/mensenhandelteam in mei 2005, vruchten leek af te werpen (NRM5). 
+9 Wellicht ten overvloede: registratie, dagvaarding of veroordeling onder art. 273f lid 3, 4, 5 of 6, betreft de straf-
+
+verzwarende omstandigheden waaronder mensenhandel is gepleegd (art. 273f lid 1).  
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+32
+
+Tabel 4.3 ‘Type’ mensenhandel, per jaar van registratie10
+
+‘Type’ 2002 2003 2004 2005 2006
+
+mensenhandel N % N % N % N % N %
+
+250ter/a lid 1 52 26% 31 20% 60 27% 22 16% 4 2% 
+
+250ter/a lid 2 148 74% 125 80% 160 73% 41 30% 27 13%
+
+273a/f lid 1 nvt nvt nvt nvt nvt nvt 25 18% 64 32%
+
+273a/f lid 3 nvt nvt nvt nvt nvt nvt 46 33% 103 51%
+
+273a/f lid 4 nvt nvt nvt nvt nvt nvt 4  3% 1 0% 
+
+273f lid 5 nvt nvt nvt nvt nvt nvt - - 2 1%
+
+Totaal 200 100% 156 100% 220 100% 138 100% 201 100% 
+
+Het overgrote deel van de mensenhandelzaken in de periode 2002 tot en met 2006 betreft 
+gekwalificeerde mensenhandel: zaken waarbij twee of meer personen in vereniging hande-
+len, of een slachtoffer betrokken is dat jonger is dan 16 jaar, of ernstig fysiek letsel is toege-
+bracht. Ook ongekwalificeerde mensenhandel komt in die periode vrij frequent voor. In 
+2005 en 2006 werden vijf zaken geregistreerd onder 273a/f lid 4 (mensenhandel in vereni-
+ging gepleegd, waarbij tevens een slachtoffer jonger dan 16 jaar betrokken is), en twee in 
+2006 ingeschreven zaken betreffen art. 273f lid 5 (mensenhandel met zwaar lichamelijk letsel 
+als gevolg). 
+Mensenhandel wordt vaak in combinatie met andere delicten gepleegd.11 Een zaak kan dan 
+ook meerdere feiten betreffen. 
+
+Tabel 4.4 geeft een overzicht van de zwaarste geregistreerde feiten per (mensenhan-
+del)zaak.12
+
+Tabel 4.4 Zwaarste feit, per jaar van registratie 
+
+Zwaarste feit 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Seksueel geweld 14 7% 14 9% 26 12% 16 12% 36 18%
+
+Overig geweld 7 3% 2 1% 13 6% 7 5% 2 1%
+
+Vermogensdelicten - - 1 1% - - - - 1 0% 
+
+Vernieling/openbare orde - - - - 2 1% - - - -
+
+Mensenhandel: 250ter/a lid 1 43 21% 23 15% 43 20% 16 12% 4 2% 
+
+                                                                     
+10 Art. 250ter/a lid 3, art. 273a lid 5 en 273a/f lid 6 worden in de tabel niet genoemd omdat zij in de desbetreffende 
+
+periode niet voorkomen. 
+11 Zoals toegang verschaffen aan een illegale vreemdeling, (poging tot) verkrachting of medeplegen daarvan, wa-
+
+penbezit of -gebruik, (poging tot) opzettelijke vrijheidsberoving of medeplegen daarvan en delicten op het ge-
+bied van drugs, het maken en gebruiken van (ver)vals(t)e reispassen en mishandeling en bedreiging.NRM3, NRM5
+
+12 De indeling die het CBS hanteert, en waarbij per zaak het feit met de zwaarste strafdreiging ‘prevaleert’, is aan-
+gepast door van mensenhandel een aparte categorie te maken. Bij combinaties van delicten met gelijke straf-
+dreiging is mensenhandel als zwaarste feit opgenomen in het overzicht. Mocht er dan nog sprake zijn van 
+meerdere feiten met eenzelfde strafdreiging, dan prevaleert een eerder gepleegd feit. 
+
+
+
+VERVOLGING
+
+33
+
+Vervolg Tabel 4.4 
+Zwaarste feit 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Mensenhandel: 250ter/a lid 2 131 65% 109 70% 131 60% 37 27% 26 13%
+
+Mensenhandel: 273a lid 1 nvt nvt nvt nvt nvt nvt 21 15% 44 22% 
+
+Mensenhandel: 273a/f lid 3 nvt nvt nvt nvt nvt nvt 35 25% 80 40% 
+
+Mensenhandel: 273a lid 4 nvt nvt nvt nvt nvt nvt 4 3% 1 0% 
+
+Mensenhandel: 273a lid 5 nvt nvt nvt nvt nvt nvt - - 2 1%
+
+Overige misdrijven WvSr13 5 2% 7 4% 5 2% 2 1% 5 2% 
+
+Totaal 200 100% 156 100% 220 100% 135 100% 201 100% 
+
+Mensenhandel is in de afgelopen jaren in rond de 80% van de gevallen het enige, of het 
+zwaarste geregistreerde delict. In de gevallen dat er, naast mensenhandel, een (nog) zwaar-
+der misdrijf aan de orde was, betrof dat meestal een vorm van seksueel geweld. In 2006 was 
+seksueel geweld in 18% van de mensenhandelzaken het zwaarste geregistreerde delict. 
+Waar in de vorige rapportage een – geleidelijke – afname werd gesignaleerd van (registratie 
+van) mensenhandel in combinatie met ‘deelneming aan een criminele organisatie’ (art. 140 
+Sr), tot die in 2005 in het geheel niet voorkwam, kwam een dergelijke combinatie in 2006 
+wel weer voor, namelijk 29 keer (in 14% van de gevallen). Het lijkt erop dat er dus niet alleen 
+(meer) wordt geïnvesteerd in ‘korte klapzaken’ en solistisch opererende verdachten, een 
+mogelijke verklaring die in de vorige rapportage als punt van zorg wel werd geopperd. 
+
+4.3 Afhandeling door het Openbaar Ministerie 
+
+Tabel 4.5 bevat, per jaar van inschrijving, een overzicht van de aantallen zaken waarin de ver-
+dachte in preventieve hechtenis is genomen. 
+
+Tabel 4.5 Preventieve hechtenis, per jaar van registratie14
+
+Preventieve 2002 2003 2004 2005 2006
+
+hechtenis N % N % N % N % N %
+
+Ja 155 78% 130 83% 161 73% 102 74% 152 76%
+
+Nee 45 22% 26 17% 59 27% 36 26% 49 24% 
+
+Totaal 200 100% 156 100% 220 100% 138 100% 201 100% 
+
+In 2006 zat ruim driekwart van de verdachten in preventieve hechtenis op het moment dat 
+de zaak bij de rechter werd aangebracht. Dit percentage is redelijk stabiel over de jaren. 
+In het voorgaande ging het telkens om de bij het OM ingeschreven strafzaken. In Tabel 4.6 
+gaat het om de in diezelfde jaren door het OM afgehandelde zaken.15
+
+                                                                     
+13 Het betreft bijvoorbeeld (mensenhandel in combinatie met) fraude, omkoping van een ambtenaar, valse aangif-
+
+te, bigamie, dronken voeren van een minderjarige of onttrekking van een minderjarige aan het gezag.NRM3
+14 Ook hier kleine wijzigingen ten opzichte van de cijfers die in de vorige rapportage werden gepresenteerd. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+34
+
+Tabel 4.6 Afhandeling door het OM, per jaar van afhandeling 
+
+Afhandeling 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Dagvaarding mensenhandel16 111 68% 116 66% 175 71% 99 72% 163 75%
+
+Onvoorwaardelijk sepot17 40 25% 42 24% 61 25% 28 20% 41 19% 
+
+Dagvaarding andere feiten18 10 6% 11 6% 4 2% 2 1% 10 5%
+
+Overdracht19 - - 2 1% 2 1% 1 1% 1 0% 
+
+Voeging20 1 1% 4 2% 1 0% 2 1% 1 0% 
+
+Voorwaardelijk sepot21 - - - - 2 1% 4 3% - -
+
+Transactie22 1 1% - - 1 0% 2 1% - -
+
+Totaal 163 100% 175 100% 246 100% 138 100% 216 100% 
+
+Het aantal afhandelingen vertoont eenzelfde patroon als het aantal bij het OM geregistreer-
+de zaken: 2004 was met 246 behandelde zaken een topjaar. Dat werd gevolgd door een rela-
+tief dieptepunt met 138 behandelde zaken in 2005, waarop 2006 vervolgens weer een sub-
+stantieel groter aantal zaken laat zien.23
+
+Een dagvaarding was, evenals voorgaande jaren, in 2006 weer verreweg de meest frequent 
+toegepaste afhandeling (in 2006 zelfs in 80% van de zaken). Meestal (mede) voor mensen-
+handel, soms uitsluitend voor andere feiten. Het aantal onvoorwaardelijke sepots nam licht 
+af, en vond in 2006 in 19% van de gevallen plaats. Het ging daarbij voornamelijk om techni-
+sche sepots. De sepotgrond was meestal ‘geen wettig bewijs’. 
+Daar waar sprake was van verdenking van ongekwalificeerde mensenhandel werd vaker 
+onvoorwaardelijk geseponeerd dan daar waar sprake was van strafverzwarende omstandig-
+heden.24
+
+                                                                     
+15 Dat er in 2006 meer zaken door het OM zijn afgehandeld dan er bij het OM ingeschreven waren lijkt misschien 
+
+vreemd, maar wordt veroorzaakt doordat er geen cohort gevolgd is en het OM niet altijd in hetzelfde jaar dat 
+een zaak is ingeschreven een besluit neemt over de vervolging. Ook in deze tabel overigens weer (kleine) ver-
+schillen met in eerdere rapportages gepresenteerde cijfers. 
+
+16 Het betreft een dagvaarding waarop uitsluitend of ook mensenhandel vermeld staat. 
+17 Een sepot is een beslissing van het OM om niet te vervolgen. 
+18 Het betreft zaken waarbij, ondanks eerdere verdenking van (en registratie onder) mensenhandel, uiteindelijk 
+
+geen mensenhandel ten laste is gelegd, maar wel een of meer andere strafbare feiten. 
+19 Naar een ander arrondissement of naar het buitenland. 
+20 Voeging is het samenvoegen van verschillende strafbare feiten tot één zaak. 
+21 Voorwaardelijk sepot is voorwaardelijk uitstel over de beslissing van het OM om te vervolgen. 
+22 Transactie of schikking is het (vrijwillig) betalen van een geldbedrag aan het OM, waarna het OM afziet van 
+
+vervolging. 
+23 Ook dit is conform de verwachtingen op grond van de Standaardrapportage mensenhandel van het Parket-
+
+Generaal (d.d. 30 november 2006). 
+24 In 2006, ongekwalificeerd: 64% dagvaardingen wegens mensenhandel en 26% onvoorwaardelijke sepots; ge-
+
+kwalificeerd: 81% dagvaardingen wegens mensenhandel en 15% onvoorwaardelijke sepots. 
+
+
+
+VERVOLGING
+
+35
+
+4.4 Afdoening door de rechter 
+
+Recapitulerend: in 2006 zijn er 201 zaken bij het OM ingeschreven waarin (mede) sprake 
+was van verdenking mensenhandel. In datzelfde jaar zijn er 216 zaken door het OM afge-
+handeld en behandelde de rechter (in eerste aanleg) 100 zaken waarin (ondermeer) mensen-
+handel ten laste is gelegd.25
+
+Tabel 4.7 geeft, per jaar van afdoening, een overzicht van de rechterlijke beslissingen. 
+
+Tabel 4.7 Afdoening in eerste aanleg, per jaar van afdoening 
+
+Afdoening 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Veroordeling 84 88% 105 91% 135 89% 98 86% 90 90% 
+
+Vrijspraak 10 11% 5 4% 11 7% 13  11% 10 10% 
+
+Ovar* - - - - 1 1% - - - -
+
+OM niet ontvankelijk 1 1% 1 1% - - - - - -
+
+T.t.z. gevoegd** - - 5 4% 4 3%  3 3% - -
+
+Totaal 95 100% 116 100% 151 100% 114 100% 100 100% 
+
+* ontslag van alle rechtsvervolging 
+** ter terechtzitting gevoegd 
+
+In 2006 heeft wederom een grote meerderheid van de gedagvaarde zaken geresulteerd in 
+een veroordeling (90%). In 10% van de zaken volgde vrijspraak. De overige vormen van af-
+doening kwamen in 2006 niet voor, in de jaren daarvoor incidenteel. 
+
+4.4.1 Afdoening naar zwaarste feit 
+
+Tabel 4.8 geeft een overzicht van de aard van de afdoening in eerste aanleg naar het zwaarste 
+feit in de tenlastelegging.26
+
+Tabel 4.8 Afdoening in eerste aanleg naar zwaarste feit, per jaar van afdoening 
+Zwaarste feit Soort uitspraak 2002 2003 2004 2005 2006
+
+Mensenhandel: Veroordeling 12 (92%) 10 (91%) 21 (87%) 19 (86%) 2
+
+250ter/a lid 1 Sr Vrijspraak 1 1 2 1 2
+
+Ovar* - - 1 - -
+
+T.t.z. gevoegd** - - - 2 -
+
+Totaal  13 11 24 22 4
+
+Mensenhandel: Veroordeling 61 (87%) 81 (89%) 95 (91%) 48 (81%) 24 (86%) 
+
+250ter/a lid 2 Sr Vrijspraak 9 4 6 10 4
+
+                                                                     
+25 Zaken die bij het OM werden geregistreerd als (ondermeer) mensenhandel, maar waarin werd gedagvaard 
+
+voor uitsluitend andere feiten, worden in het navolgende dus niet meer meegenomen. 
+26 Alleen bij de wat beter gevulde cellen (tien of meer) zijn ook percentages opgenomen. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+36
+
+Vervolg Tabel 4.8 
+Zwaarste feit Soort uitspraak 2002 2003 2004 2005 2006
+
+OM niet ontvankelijk - 1 - - -
+
+T.t.z. gevoegd - 5 3 1 -
+
+Totaal 70 91 104 59 28 
+
+Mensenhandel: Veroordeling nvt nvt nvt 3 10 (92%) 
+
+273a lid 1 Sr Vrijspraak nvt nvt nvt 1 1
+
+Totaal  nvt nvt nvt 4 11
+
+Mensenhandel: Veroordeling nvt nvt nvt 5 30 (97%) 
+
+273a lid 3 Sr Vrijspraak nvt nvt nvt 1 1
+
+Totaal  nvt nvt nvt 6 31
+
+Mensenhandel: Veroordeling nvt nvt nvt - 4
+
+273a lid 4 Sr Totaal  nvt nvt nvt - 4
+
+Seksueel geweld Veroordeling 8 9 8 16 (100%) 12 (92%) 
+
+Vrijspraak - - 2 - 1
+
+OM niet ontvankelijk 1 - - - -
+
+T.t.z. gevoegd - - 1 - -
+
+Totaal 9 9 11 16 13
+
+Overig geweld Veroordeling 1 2 3 6 6
+
+Vrijspraak - - 1 - 1
+
+Totaal  1 2 4 6 7
+
+Vermogens- Veroordeling - 1 - - -
+
+delicten Totaal  - 1 - - -
+
+Vernieling/  Veroordeling - - 2 - -
+
+openbare orde Totaal - - 2 - -
+
+Overige  Veroordeling 2 2 6 1 2
+
+Totaal 2 2 6 1 2
+
+Totaal Veroordeling 84 (88%) 105 (91%) 135 (89%) 98 (86%) 90 (90%) 
+
+Vrijspraak 10 5 11 13 10 
+
+Ovar - - 1 - -
+
+OM niet ontvankelijk  1 1 - - -
+
+Dagvaarding nietig - - - - -
+
+T.t.z. gevoegd - 5 4 3 -
+
+Totaal  95 116 151 114 100
+
+* ontslag van alle rechtsvervolging 
+** ter terechtzitting gevoegd 
+
+
+
+VERVOLGING
+
+37
+
+4.4.2 Veroordeling wegens mensenhandel 
+
+Opgelegde straffen 
+Tabel 4.9 bevat een overzicht van de aard van de opgelegde straffen in die gevallen waarin de 
+verdachten veroordeeld werden (mede) wegens mensenhandel. Zaken waarin wel is gedag-
+vaard, maar niet is veroordeeld voor mensenhandel, blijven hier dus buiten beschouwing.27
+
+Tabel 4.9 Opgelegde straffen, per jaar28
+
+Veroordeeld voor  Opgelegde hoofdstraf29 2002 2003 2004 2005 2006
+
+Mensenhandel: Geen hoofdstraf30 1 - - - -
+
+250ter/a lid 1 Sr Alleen vw. hoofdstraf 1 1 - 2 1
+
+Vrijheidsstraf31 12 12 20 22 4
+
+Taakstraf 1 3 3 2 -
+
+Geldboete - 2 - - -
+
+Totaal  15 18 23 26 5
+
+Mensenhandel: Geen hoofdstraf - 1 - - -
+
+250ter/a lid 2 Sr Alleen vw. hoofdstraf 2 2 3 - -
+
+Vrijheidsstraf32 44 (83%) 53 (85%) 83 (89%) 45 (96%) 21 (87%) 
+
+Taakstraf 33 7 4 5 2 3
+
+Geldboete - 2 2 - -
+
+Totaal 53 62 93 47 24
+
+Mensenhandel: Vrijheidsstraf nvt nvt nvt 3 14 
+
+273a lid 1 Sr Totaal  nvt nvt nvt 3 14
+
+Mensenhandel: Vrijheidsstraf34 nvt nvt nvt 5 20 (87%) 
+
+273a lid 3 Sr Taakstraf35 nvt nvt nvt - 3
+
+Totaal  nvt nvt nvt 5 23
+
+Mensenhandel: Vrijheidsstraf nvt nvt nvt - 4
+
+273a lid 4 Sr Totaal  nvt nvt nvt - 4
+
+                                                                     
+27 Dat gebeurde in 2006 in 20 (22%) van de 90 zaken waarin wel (mede) voor mensenhandel werd gedagvaard en 
+
+die in een veroordeling resulteerden. 
+28 Ook in deze tabel weer verschillen met de in eerdere rapportages gepresenteerde gegevens. Deze zijn op som-
+
+mige punten aanzienlijk. 
+29 Het gaat om onvoorwaardelijke straffen, tenzij anders vermeld. 
+30 Er kan wel een bijkomende straf zijn opgelegd (bijvoorbeeld verbeurdverklaring), of een maatregel (bijvoor-
+
+beeld TBS). De rechter kan, anders dan de term doet vermoeden, ook alleen een ‘bijkomende’ straf opleggen 
+(art. 9 lid 5 Sr). 
+
+31 De combinatie vrijheidsstraf en taakstraf is opgenomen onder de categorie ‘vrijheidsstraf’. Deze combinatie 
+komt in de periode 2002 tot en met 2006 drie keer voor.  
+
+32 Combinaties van een vrijheidsstraf met een geldboete of een taakstraf zijn opgenomen onder de categorie ‘vrij-
+heidsstraf’. Deze combinaties komen in de periode 2002 tot en met 2006 acht respectievelijk twaalf keer voor. 
+
+33 De combinatie taakstraf en geldboete is opgenomen onder de categorie ‘taakstraf’. Deze combinatie komt in de 
+periode 2002 tot en met 2004 vier keer voor. 
+
+34 De combinatie vrijheidsstraf en taakstraf is opgenomen onder de categorie ‘vrijheidsstraf’ en komt één keer 
+voor (in 2006). 
+
+35 De combinatie taakstraf en boete is opgenomen onder de categorie ‘taakstraf’ en komt één keer voor (in 2006). 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+38
+
+Vervolg Tabel 4.9 
+Veroordeeld voor Opgelegde hoofdstraf 2002 2003 2004 2005 2006
+
+Totaal Geen hoofdstraf 1 1 - - -
+
+veroordelingen Alleen vw. hoofdstraf 3 3 3 2 1
+
+Vrijheidsstraf 56 (82%) 65 (81%) 103 (89%) 75 (93%) 63 (90%) 
+
+Taakstraf 8 7 8 4 6
+
+Geldboete - 4 2 - -
+
+Totaal 68 80 116 81 70
+
+Vrijheidsstraffen 
+In 2006 werden in 63 (dat is 90%) van bovenbedoelde 70 mensenhandelzaken onvoorwaar-
+delijke vrijheidsstraffen opgelegd, 23 keer in combinatie met een (onvoorwaardelijke) taak-
+straf of geldboete.  
+De gemiddelde duur van die vrijheidsstraf liep in dat jaar uiteen van ruim 9 maanden (285 
+dagen, sd. 114) bij veroordeling voor art. 273a/f lid 4 (in vereniging gepleegd) tot ongeveer 22 
+maanden (669 dagen, sd. 486) bij veroordeling voor art. 250ter/a lid 2 (minderjarige slachtof-
+fers).
+
+Wellicht sprekender is het overzicht in Tabel 4.10, waarin de opgelegde vrijheidsstraffen in 
+duurcategorieën zijn weergegeven. Alleen in geval van subtotalen van 20 of meer zijn ook 
+percentages vermeld. 
+
+Tabel 4.10 Opgelegde vrijheidsstraffen in duurcategorieën, per jaar 
+
+Veroordeeld voor  Duur vrijheidstraffen 2002 2003 2004 2005 2006
+
+Mensenhandel: Tot 1 jaar 4 6 9 (45%) 9 (41%) 2
+
+250ter/a lid 1 Sr 1 tot 4 jaar 7 6 10 (50%) 12 (55%) 1
+
+Meer dan 4 jaar 1 - 1 (5%) 1 (5%)36 1
+
+Totaal  12 12 20 22 4
+
+Mensenhandel: Tot 1 jaar 13 (30%) 19 (36%) 34 (41%) 19 (42%) 8 (38%) 
+
+250ter/a lid 2 Sr 1 tot 4 jaar 26 (59%) 26 (49%) 41 (49%) 18 (40%) 11 (52%) 
+
+Meer dan 4 jaar 5 (11%) 8 (15%) 8 (10%) 8 (18%) 2 (10%) 
+
+Totaal 44 53 83 45 21
+
+Mensenhandel: Tot 1 jaar nvt nvt nvt 1 10 
+
+273a lid 1 Sr 1 tot 4 jaar nvt nvt nvt 2 3
+
+Meer dan 4 jaar nvt nvt nvt - 1
+
+Totaal nvt nvt nvt 3 14
+
+Mensenhandel: Tot 1 jaar nvt nvt nvt 1 7 (35%) 
+
+273a lid 3 Sr 1 tot 4 jaar nvt nvt nvt 2 12 (60%) 
+
+Meer dan 4 jaar nvt nvt nvt 2 1 (5%) 
+
+                                                                     
+36 Dit betreft een levenslange veroordeling (voor moord, verkrachting, andere zedendelicten in combinatie met 
+
+mensenhandel).  
+
+
+
+VERVOLGING
+
+39
+
+Vervolg Tabel 4.10 
+Veroordeeld voor Duur vrijheidstraffen 2002 2003 2004 2005 2006
+
+Totaal  nvt nvt nvt 5 20
+
+Mensenhandel: Tot 1 jaar nvt nvt nvt - 4
+
+273a lid 4 Sr 1 tot 4 jaar nvt nvt nvt - -
+
+Meer dan 4 jaar nvt nvt nvt - -
+
+Totaal  nvt nvt nvt - 4
+
+Totaal Tot 1 jaar 17 (30%) 25 (38%) 43 (42%) 30 (40%) 31 (49%) 
+
+1 tot 4 jaar 33 (59%) 32(49%) 51 (50%) 34 (45%) 37 (43%) 
+
+Meer dan 4 jaar 6 (11%) 8 (12%) 9 (9%) 11 (15%) 5 (8%) 
+
+Totaal 56 (100%) 65 (100%) 103 (100%) 75 (100%) 63 (100%) 
+
+In 2006 kent bijna de helft van de in eerste aanleg opgelegde vrijheidsstraffen een duur van 
+minder dan een jaar.  
+
+Het voorgaande gaat om veroordelingen voor mensenhandel. Bezien naar zwaarste feit 
+waarvoor veroordeeld werd, werd in 2006 evenals in voorgaande jaren, de hoogste gemid-
+delde vrijheidsstraf opgelegd bij geweld als zwaarste feit waarvoor veroordeeld werd: 832 
+dagen (sd. 678) oftewel ruim 27 maanden.37
+
+4.5 Hoger beroep? 
+
+OM-data bevat uitsluitend informatie over afdoening in eerste aanleg. Daarnaast is bekend 
+of in een zaak beroep is aangetekend en door wie. Tabel 4.11 geeft een overzicht.38
+
+Tabel 4.11  Beroep aangetekend, per jaar van afdoening (in eerste aanleg) 
+
+Beroep 2002 2003 2004 2005 2006
+
+aangetekend N % N % N % N % N %
+
+Geen 47 49% 69 59% 91 60% 57 50% 57 57%
+
+Alleen door OvJ 11 12% 6 5% 6 4% 13 11% 5 5%
+
+Alleen door verdachte 23 24% 28 24% 46 30% 25 22% 26 26% 
+
+Door beide partijen 14 15% 13 11% 8 5% 19 17% 12 12% 
+
+Totaal 95 100% 116 100% 151 100% 114 100% 100 100% 
+
+Uit de tabel blijkt dat in 2006 in 43% van de gevallen beroep werd aangetekend, meestal (ook 
+of alleen) door de verdachte.39 Het percentage schommelt door de jaren heen licht. 
+
+                                                                     
+37 Dit betreft in totaal vijf zaken 
+38 Ook hier weer (kleine) verschillen met cijfers in de voorgaande rapportages. 
+39 De verdachte doet dit - uiteraard - in geval van veroordeling, de OvJ het vaakst in geval van vrijspraak. 
+
+
+
+
+
+41
+
+Literatuurlijst 
+
+De Nederlandse Politie (2007). Korpsmonitor prostitutie & mensenhandel. Z.pl., z.uitg. 
+
+Gemeente Amsterdam (z.jr.). Oud beroep, nieuw beleid. Nota prostitutie 2007 - 2010.
+Amsterdam: gemeente Amsterdam. 
+
+Jonge van Ellemeet, H. (2007). Slecht werkgeverschap of ‘moderne slavernij’; handhaving 
+van een nader af te bakenen verbod. Justitiële Verkenningen, 7, 107-199.
+
+Mantgem, J. van e.a. (2007). Landelijke criminaliteitskaart 2006. Een analyse van misdrijven en 
+verdachten op basis van gegevens uit HKS. Zoetermeer, KLPD-DNRI. 
+
+Nationaal Rapporteur Mensenhandel (2004). Mensenhandel - Derde rapportage van de 
+Nationaal Rapporteur. Den Haag: BNRM. 
+
+Nationaal Rapporteur Mensenhandel (2007). Mensenhandel - Vijfde rapportage van de 
+Nationaal Rapporteur. Den Haag: BNRM. 
+
+Stichting Tegen Vrouwenhandel (2007). Jaarverslag 2006. Amersfoort: STV.  
+
+STV (2007). Wat doet STV in de strijd tegen mensenhandel? STV Nieuws, 1, 4.
+
+Vianen, R. van e.a. (2007). Positie van slachtoffers van mensenhandel. 1e trendrapportage 2006.
+Utrecht: Verwey-Jonker Institituut, Adviesbureau Van Montfoort. 
+
+
+
+
+
+43
+
+Bijlage 1 
+ Artikel 273f Wetboek van Strafrecht 
+
+1. Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste zes jaren of 
+geldboete van de vijfde categorie gestraft: 
+1°. degene die een ander door dwang, geweld of een andere feitelijkheid of door dreiging 
+
+met geweld of een andere feitelijkheid, door afpersing, fraude, misleiding dan wel door 
+misbruik van uit feitelijke omstandigheden voortvloeiend overwicht, door misbruik van 
+een kwetsbare positie of door het geven of ontvangen van betalingen of voordelen om de 
+instemming van een persoon te verkrijgen die zeggenschap over die ander heeft, werft, 
+vervoert, overbrengt, huisvest of opneemt, met het oogmerk van uitbuiting van die ander 
+of de verwijdering van diens organen; 
+
+2°. degene die een ander werft, vervoert, overbrengt, huisvest of opneemt, met het oogmerk 
+van uitbuiting van die ander of de verwijdering van diens organen, terwijl die ander de 
+leeftijd van achttien jaren nog niet heeft bereikt; 
+
+3°. degene die een ander aanwerft, medeneemt of ontvoert met het oogmerk die ander in 
+een ander land ertoe te brengen zich beschikbaar te stellen tot het verrichten van seksue-
+le handelingen met of voor een derde tegen betaling; 
+
+4°. degene die een ander met een van de onder 1° genoemde middelen dwingt of beweegt 
+zich beschikbaar te stellen tot het verrichten van arbeid of diensten of zijn organen be-
+schikbaar te stellen dan wel onder de onder 1° genoemde omstandigheden enige hande-
+ling onderneemt waarvan hij weet of redelijkerwijs moet vermoeden dat die ander zich 
+daardoor beschikbaar stelt tot het verrichten van arbeid of diensten of zijn organen be-
+schikbaar stelt; 
+
+5°. degene die een ander ertoe brengt zich beschikbaar te stellen tot het verrichten van sek-
+suele handelingen met of voor een derde tegen betaling of zijn organen tegen betaling 
+beschikbaar te stellen dan wel ten aanzien van een ander enige handeling onderneemt 
+waarvan hij weet of redelijkerwijs moet vermoeden dat die ander zich daardoor beschik-
+baar stelt tot het verrichten van die handelingen of zijn organen tegen betaling beschik-
+baar stelt, terwijl die ander de leeftijd van achttien jaren nog niet heeft bereikt; 
+
+6°. degene die opzettelijk voordeel trekt uit de uitbuiting van een ander; 
+7°. degene die opzettelijk voordeel trekt uit de verwijdering van organen van een ander, ter-
+
+wijl hij weet of redelijkerwijs moet vermoeden dat diens organen onder de onder 1° be-
+doelde omstandigheden zijn verwijderd; 
+
+8°. degene die opzettelijk voordeel trekt uit seksuele handelingen van een ander met of voor 
+een derde tegen betaling of de verwijdering van diens organen tegen betaling, terwijl die 
+ander de leeftijd van achttien jaren nog niet heeft bereikt; 
+
+9°. degene die een ander met een van de onder 1° genoemde middelen dwingt dan wel be-
+weegt hem te bevoordelen uit de opbrengst van diens seksuele handelingen met of voor 
+een derde of van de verwijdering van diens organen. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+44
+
+2. Uitbuiting omvat ten minste uitbuiting van een ander in de prostitutie, andere vormen van 
+seksuele uitbuiting, gedwongen of verplichte arbeid of diensten, slavernij en met slavernij of 
+dienstbaarheid te vergelijken praktijken. 
+
+3. De schuldige wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete 
+van de vijfde categorie, indien: 
+1°. de feiten, omschreven in het eerste lid, worden gepleegd door twee of meer verenigde 
+
+personen;
+2°. de persoon ten aanzien van wie de in het eerste lid omschreven feiten worden gepleegd, 
+
+de leeftijd van zestien jaren nog niet heeft bereikt. 
+
+4. De feiten, omschreven in het eerste lid, gepleegd door twee of meer verenigde personen 
+onder de omstandigheid, bedoeld in het derde lid, onder 2°, worden gestraft met gevangenis-
+straf van ten hoogste tien jaren of geldboete van de vijfde categorie. 
+
+5. Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge 
+heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten 
+hoogste twaalf jaren of geldboete van de vijfde categorie opgelegd. 
+
+6. Indien een van de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt ge-
+vangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd. 
+
+7. Artikel 251 is van overeenkomstige toepassing. 
+
+
+
+45
+
+Bijlage 2 
+ Verantwoording gebruikte onderzoeksmethoden 
+
+BNRM verzamelt op verschillende manieren informatie. In deze bijlage worden de gebruik-
+te onderzoeksmethoden beknopt toegelicht.  
+
+1 Het B9-onderzoek 
+
+Doelstelling en onderzoeksvragen 
+BNRM analyseert in principe jaarlijks door de IND geleverde bestanden waarin alle aanvra-
+gen en inwilligingen van verblijfsvergunningen in het kader van de B9-regeling (B9-
+verblijfsvergunningen) zijn opgenomen.  
+De onderzoeksvragen zijn: 
+– Voor hoeveel slachtoffers/getuigen is een B9-verblijfsvergunning aangevraagd? 
+– Aan hoeveel slachtoffers/getuigen is een B9-verblijfsvergunning verleend? 
+– Welke (achtergrond)kenmerken hebben personen met een B9-verblijfsvergunning? 
+– Uit welke politieregio’s zijn aanvragen voor een B9-verblijfsvergunning afkomstig? 
+
+Onderzoeksmethode 
+Op verzoek van BNRM heeft de IND – de instantie waar verzoeken om verblijfsvergunnin-
+gen in het kader van de B9-regeling worden ingediend – bestanden aangeleverd met alle 
+contacten 2001 tot en met 2006 waarbij de B9-regeling een rol speelde. Deze bestanden be-
+vatten dus zowel alle aanvragen van B9-verblijfsvergunningen (eerste aanvragen en aanvra-
+gen tot verlenging), als alle inwilligingen daarvan (ook wanneer die pas in een later stadium 
+hebben plaatsgevonden, bijvoorbeeld na een bezwaar- of beroepsprocedure en/of een ver-
+lening van een verblijfsvergunning op andere gronden). BNRM heeft alle bestanden geag-
+gregeerd naar persoonsniveau1 en samengevoegd. Om verschillende redenen die zijn toege-
+licht in de vijfde mensenhandelrapportageNRM5 wordt in de onderhavige rapportage (in 
+Hoofdstuk 2) alleen over de jaren 2005 en 2006 gerapporteerd.  
+Waar relevant wordt verwezen naar de resultaten voor de periode tot 2002, zoals gepubli-
+ceerd in de 3e rapportage van de NRM. Voor de indeling in jaren is zoals voorheen gebruik 
+gemaakt van de automatisch toegekende en dus betrouwbare ‘opvoerdatum’. 
+
+Kanttekeningen bij het onderzoek 
+De B9-gegevens hebben alleen betrekking op illegaal in Nederland verblijvende slachtoffers 
+en getuigen van mensenhandel. Immers alleen dan is opschorting van uitzetting ten behoeve 
+van het opsporingsonderzoek en de vervolging noodzakelijk. De regeling voorziet in een 
+tijdelijke verblijfsvergunning voor zowel buitenlandse slachtoffers als buitenlandse getuigen 
+
+                                                                     
+1 Een persoon kan immers meerdere procedures bij (en per procedure meerdere contacten hebben met) de IND. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+46
+
+die aangifte van mensenhandel doen of anderszins hebben meegewerkt. Of iemand een B9-
+verblijfsvergunning krijgt als slachtoffer of als getuige registreert de IND niet.  
+
+2 Het OM-data-onderzoek 
+
+Inleiding 
+Op verzoek van BNRM worden jaarlijks analyses verricht op een subbestand ‘mensenhan-
+del’ uit het landelijke databestand OM-data, waarin vanuit de 19 arrondissementsparketten 
+informatie is opgenomen over de vervolging van verdachten.2 De analyses geven een beeld 
+van de procesgang in eerste aanleg. OM-data bevat gegevens over zaken en feiten. Onder 
+een (straf)zaak wordt, in het kader van vervolging, anders dan in het kader van opsporing, 
+verstaan de zaak tegen één verdachte. Strafzaken tegen individuele verdachten kunnen 
+meerdere strafbare feiten betreffen. De resultaten van het onderzoek zijn te vinden in 
+Hoofdstuk 3 (Verdachten en veroordeelde daders) en Hoofdstuk 4 (Vervolging). 
+
+Doelstelling en onderzoeksvragen 
+Doelstelling van het onderzoek was het bieden van inzicht in de vervolging van verdachten 
+van mensenhandel in Nederland 
+
+De onderzoeksvragen luiden: 
+– Hoeveel mensenhandelzaken zijn bij het OM ingeschreven in 2006? 
+– Hoe vaak zijn er minderjarige slachtoffers betrokken? 
+– Hoe zijn de verdachten te typeren, qua sekse, leeftijd en land van herkomst? 
+– Hoe zijn voor mensenhandel veroordeelde personen te typeren, qua sekse, leeftijd en land 
+
+van herkomst? 
+– Van welke andere delicten dan mensenhandel worden verdachten van mensenhandel ook 
+
+verdacht? 
+– Hoe handelt het OM in 2006 zaken af? 
+– Hoe doet de rechter in 2006 zaken af? 
+– Hoe vaak tekenen de verschillende partijen beroep aan tegen de uitspraak van de rechter? 
+– Welke ontwikkelingen in de tijd doen zich voor ten aanzien van mensenhandel? 
+
+Onderzoeksmethode 
+Uit het totale OM-databestand zijn de zaken geselecteerd waarin (onder meer) het feit men-
+senhandel is geregistreerd (art. 250a, 250ter, 273a of 273f Sr.). Bij de analyses wordt geen co-
+hort gevolgd, maar wordt per jaar bezien hoeveel zaken zijn ingeschreven, door het OM af-
+gehandeld, respectievelijk door de rechter afgedaan.3
+
+                                                                     
+2 De analyses worden verricht door SiBa (Statistische Informatievoorziening en Beleidsanalyse) van het Weten-
+
+schappelijk Onderzoek- en Documentatiecentrum (WODC). 
+3 Dit betekent dat het niet noodzakelijkerwijs steeds over dezelfde zaken gaat. 
+
+
+
+BIJLAGE 2
+
+47
+
+Aanvullende opmerkingen 
+Alleen primair ten laste gelegde feiten worden opgenomen in OM-data. Verder komt het 
+voor dat bij meerdere primair ten laste gelegde feiten alleen het eerste feit in OM-data wordt 
+geregistreerd. Dit betekent dat OM data niet alleen een beeld geeft van een beperkt deel van 
+het totale aantal mensenhandeldelicten dat wordt begaan (namelijk dat gedeelte dat ter ken-
+nis komt van de politie en dat afgerond wordt met inzending naar het OM), maar dat bo-
+vendien een gedeelte van de informatie die het OM wel bereikt en die mogelijk wel een rol 
+speelt in het verloop van de vervolging, niet terug te vinden is binnen OM-data. Hoeveel in-
+formatie aldus wellicht verloren gaat is niet bekend. 
+
+
+
+
+
+49
+
+Bijlage 3 
+ Toelichting bij tabellen en statistiek 
+
+1 Toelichting bij tabellen 
+
+Dit rapport bevat meerdere tabellen. Hieronder staan enkele opmerkingen die van belang 
+zijn voor de interpretatie van deze tabellen. 
+Door afronding tellen de tabellen niet altijd op tot 100%. Ten behoeve van de leesbaarheid is 
+in de tabellen evenwel steeds 100% als totaal genoteerd. 
+Wanneer in een kolom van een tabel aantallen worden weergegeven, dan wordt in de kop 
+van de desbetreffende kolom de letter N – een afkorting van het Engelse ‘number’ – ge-
+bruikt.
+In de tabellen wordt met een streepje (-) weergegeven dat het aantal nul is, en eveneens met 
+een streepje dat het bijbehorende percentage ook nul is. Wanneer het aantal hoger is dan 
+nul, maar het percentage door afronding op 0% uitkomt, wordt geen streepje weergegeven 
+maar 0%. 
+
+2 Toelichting bij gebruikte statistiek 
+
+In dit rapport worden soms gemiddelden gegeven, bijvoorbeeld de gemiddelde leeftijd van 
+bij het OM ingeschreven verdachten in mensenhandelzaken. Daarbij worden vaak ook het 
+aantal (N, zie boven) en de zogenaamde standaarddeviatie vermeld. De standaarddeviatie 
+geeft aan in welke mate de aantallen waarover het gemiddelde berekend is, uiteen lopen. 
+Hoe hoger de standaarddeviatie, des te meer dit het geval is. 
+
+
+
+
+
+51
+
+Bijlage 4 
+ Aanvullende tabellen 
+
+Tabel B2.2 Nationaliteit van bij Comensha geregistreerde (mogelijke) slachtoffers, per jaar 
+
+Nationaliteit 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Afghaanse - - - - 1 0% - - - -
+
+Albanese 8 2% 2 1% 8 2% 2 0% 1 0% 
+
+Algerijnse 1 0% - - - - - - - -
+
+Angolese 3 1% 2 1% 2 0% 8 2% 2 0% 
+
+Antiguaanse/Barbudaanse - - - - - - 1 0% - -
+
+Armeense - - 3 1% 3 1% - - 4 1%
+
+Azerbeidzjaanse - - - - - - - - 1 0% 
+
+Bengalese - - - - 1 0% - - 3 1%
+
+Belarussische 8 2% - - 12 3% 3 1% - -
+
+Belgische 1 0% - - - - 2 0% 1 0% 
+
+Beninse - - 1 0% 1 0% 2 0% - -
+
+Bosnische 1 0% 1 0% - - 1 0% - -
+
+Braziliaanse - - 12 5% 5 1% 8 2% 17 3%
+
+Britse - - - - 2 0% - - - -
+
+Bulgaarse 59 17% 48 19% 55 14% 52 12% 39 7%
+
+Burundische 1 0% - - - - 2 0% 1 0% 
+
+Canadese - - - - 1 0% - - - -
+
+Chileense - - - - - - - - 2 0% 
+
+Chinese 8 2% 8 3% 9 2% 5 1% 29 5%
+
+Colombiaanse 2 1% 1 0% 4 1% 1 0% - -
+
+Comorese - - - - - - - - 1 0% 
+
+Congolese 3 1% 1 0% - - 3 1% 5 1%
+
+Cubaanse 3 1% - - 2 0% - - - -
+
+Dominicaanse 3 1% - - 2 0% 1 0% - -
+
+Duitse 1 0% 1 0% 1 0% 2 0% - -
+
+Ecuadoriaanse 1 0% - - 1 0% - - - -
+
+Egyptische - - - - - - - - - -
+
+Eritrese - - - - 1 0% - - - -
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+52
+
+Nationaliteit 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Estse - - 2 1% 1 0% - - 1 0% 
+
+Ethiopische 1 0% 2 1% 2 0% 1 0% 1 0% 
+
+Filippijnse - - 1 0% 2 0% - - - -
+
+Finse - - - - - - - - 1 0% 
+
+Franse 1 0% - - - - - - - -
+
+Georgische 1 0% 1 0% - - - - 2 0% 
+
+Ghanese 2 1% 1 0% 6 1% 2 0% 1 0% 
+
+Griekse - - - - - - 1 0% - -
+
+Guinee-Bissause - - - - 5 1% 4 1% - -
+
+Guinese 6 2% 5 2% 3 1% 4 1% 8 1%
+
+Guyaanse 1 0% - - - - - - - -
+
+Hongaarse 1 0% - - 3 1% 9 2% 13 2% 
+
+Ierse - - 1 0% - - 1 0% - -
+
+Indiase - - - - - - - - 7 1%
+
+Indonesische 1 0% 1 0% - - - - 2 0% 
+
+Iraakse - - - - 2 0% - - - -
+
+Iraanse 1 0% - - 5 1% - - 3 1%
+
+Italiaanse - - - - - - 2 0% 1 0% 
+
+Ivoriaanse 4 1% 2 1% 2 0% - - - -
+
+Jamaicaanse - - - - - - - - 1 0% 
+
+(vml.) Joegoslavische - - 1 0% 2 0% 5 1% 1 0% 
+
+Kameroense 10 3% 5 2% 11 3% 4 1% 4 1%
+
+Kenyaanse - - - - 2 0% 1 0% 3 1%
+
+Kirgizstaanse - - 1 0% - - - - - -
+
+Kroaatse 1 0% - - - - - - 1 0% 
+
+Letse 1 0% - - 1 0% 3 1% 3 1%
+
+Libanese - - - - - - - - 1 0% 
+
+Liberiaanse - - 2 1% 1 0% 1 0% - -
+
+Litouwse 13 4% 9 4% 3 1% 3 1% 6 1%
+
+Luxemburgse - - - - 1 0% - - - -
+
+Macedonische - - - - 1 0% - - - -
+
+Maleisische - - - - 1 0% - - - -
+
+
+
+BIJLAGE 4
+
+53
+
+Nationaliteit 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Marokkaanse 4 1% 2 1% 11 4% 11 3% 9 2% 
+
+Mauritaanse - - - - - - - - 1 0% 
+
+Mexicaanse - - - - 1 0% - - - -
+
+Moldavische 14 4% 1 0% 6 1% 2 0% 3 1%
+
+Mongolische 2 1% - - - - 2 0% 1 0% 
+
+Namibische - - - - - - 1 0% - -
+
+Nederlandse 18 5% 11 4% 59 15% 98 23% 146 25% 
+
+Nigeriaanse 45 13% 21 8% 39 10% 28 7% 86 15%
+
+Noord-Koreaanse - - - - - - 1 0% 1 0% 
+
+Noorse - - - - - - 1 0% - -
+
+Oekraïense 5 1% 14 5% 8 2% 10 2% 10 2% 
+
+Oezbekistaanse - - - - 2 0% 1 0% - -
+
+Pakistaanse - - - - 1 0% - - - -
+
+Poolse 9 3% 3 1% 8 2% 13 3% 27 5%
+
+Portugese - - - - - - 1 0% - -
+
+Roemeense 22 6% 31 12% 45 11% 23 5% 34 6% 
+
+Russische 16 5% 11 4% 14 3% 13 3% 12 2% 
+
+Rwandese 1 0% - - 1 0% - - - -
+
+Senegalese - - - - 2 0% 1 0% - -
+
+Sierra Leoonse 12 3% 11 4% 6 1% 14 3% 20 3%
+
+Slowaakse 2 1% 2 1% 3 1% 10 2% 2 0% 
+
+Soedanese 1 0% - - 2 0% 1 0% 2 0% 
+
+Somalische 1 0% 1 0% - - - - 2 0% 
+
+Surinaamse 1 0% 1 0% 3 1% 1 0% 2 0% 
+
+Taiwanese 1 0% 1 0% - - - - - -
+
+Tanzaniaanse - - - - - - - - 1 0% 
+
+Thaise 3 1% 5 2% 2 0% 2 0% 3 1%
+
+Togolese 6 2% 2 1% 2 0% 2 0% 2 0% 
+
+Tsjechische 6 2% 3 1% 2 0% 18 4% 3 1%
+
+Tunesische - - - - - - - - 1 0% 
+
+Turkse 5 1% 1 0% 2 0% 2 0% 5 1%
+
+Ugandese 1 0 3 1 - - 4 1% - -
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+54
+
+Nationaliteit 2002 2003 2004 2005 2006
+
+N % N % N % N % N %
+
+Vietnamese - - - - 3 1% 1 0% - -
+
+Zimbabwaanse - - - - - - 2 0% - -
+
+Zuid-Afrikaanse - - - - - - - - 2 0% 
+
+Onbekend 21  6% 19  7% 16 4% 27 6% 38 7%
+
+Totaal 343 100% 257 100% 403 100% 424 100% 579 100% 
+
+Tabel B2.7 Nationaliteit personen met (aanvraag) B9 (2005 en 2006) 
+
+Nationaliteit Aanvragen 2005 Aanvragen 2006 V erleningen 2005 Verleningen 2006 
+
+N % N % N % N %
+
+Albanese 1 1% 1 1% 1 2% 1 1%
+
+Angolese - - 2 1% - - 2 1%
+
+Armeense 1 1% 2 1% 1 2% 2 1%
+
+Belarussische 2 3% - - 1 2% - -
+
+Bengalese - - 2 1% - - 2 1%
+
+Braziliaanse 1 1% 1 1% - - 1 1%
+
+Britse 1 1% - - 1 2% - -
+
+Bulgaarse 12 16% 19 11% 11 18% 18 12% 
+
+Burundische 1 1% 1 1% 1 2% 1 1%
+
+Chinese 2 3% 9 5% 1 2% 9 6% 
+
+Congolese - - 3 2% - - 2 1%
+
+Dominicaanse 1 1% 1 1% 1 2% 1 1%
+
+Estse - - 1 1% - - 1 1%
+
+Ethiopische - - 1 1% - - - -
+
+Guinese 2 3% 4 2% - - 3 2% 
+
+Hongaarse 1 1% 2 1% 1 2% 2 1%
+
+Indiase - - 3 2% - - 3 2% 
+
+Iraakse - - 1 1% - - - -
+
+Iraanse 1 1% - - - - - -
+
+Italiaanse 1 1% - - 1 2% - -
+
+Kaapverdische - - 1 1% - - 1 1%
+
+Kameroense 1 1% 1 1% - - 2 1%
+
+Kroatische - - 1 1% - - 1 1%
+
+Letse - - 1 1% 1 2% 1 1%
+
+
+
+BIJLAGE 4
+
+55
+
+Nationaliteit Aanvragen 2005 Aanvragen 2006 V erleningen 2005 Verleningen 2006 
+
+Libanese - - 1 1% - - 1 1%
+
+Litouwse - - 1 1% - - - -
+
+Marokkaanse 2 3% 4 2% 1 2% 1 1%
+
+Mauritaanse - - 2 1% - - 1 1%
+
+Moldavische - - 4 2% - - 3 2% 
+
+Nigerese 1 1% - - 1 2% - -
+
+Nigeriaanse 6 8% 43 24% 4 7% 33 22% 
+
+Noordkoreaanse - - 1 1% - - 1 1%
+
+Noorse 1 1% - - 1 2% - -
+
+Oekraïnse 4 5% 4 2% 1 2% 4 3%
+
+Oezbekistaanse 2 3% - - 2 3% - -
+
+Poolse 3 4% 9 5% 3 5% 2 1%
+
+Roemeense 6 8% 26 14% 6 10% 24 16% 
+
+Russische 5 7% 3 2% 5 8% 3 2% 
+
+Senegalese - - - - 1 2% - -
+
+Sierra Leoonse 7 9% 11 6% 8 13% 10 7%
+
+Slowaakse 2 3% - - 2 3% - -
+
+Soedanese - - 3 2% - - 3 2% 
+
+Surinaamse 2 3% - - - - - -
+
+Taiwanese - - 1 1% - - 1 1%
+
+Tanzaniaanse - - 1 1% - - 1 1%
+
+Thaise 1 1% 1 1% 1 2% 1 1%
+
+Togolese - - 1 1% - - 1 1%
+
+Tsjechische 2 3% 3 2% 2 3% 3 2% 
+
+Turkse 1 1% - - - - - -
+
+Ugandese 1 1% 1 1% 1 2% 1 1%
+
+Vietnamese 1 1% - - - - - -
+
+Zuid-Afrikaanse - - 1 1% - - 1 1%
+
+Onbekend/staatloos 2 3% 2 1% 1 2% 2 2% 
+
+Totaal 77 100% 180 100% 61 100% 150 100% 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+56
+
+Tabel B3.4 Geboortelanden verdachten, per jaar van registratie 
+
+Land 2002 2003 2004 2005 2006
+
+N N N N N
+
+Afganistan 1 - - 1 -
+
+Albanië 26 5 - - -
+
+Angola - - - 1 1
+
+Australië - - - - 1
+
+België 2 1 2 - -
+
+(Bondsrepubliek) Duitsland - 1 5 1 -
+
+Brazilië - 1 - - 1
+
+Brits Borneo - - - - 1
+
+Bulgarije 27 19 14 4 13
+
+China 1 - - 2 1
+
+Colombia 1 - 1 1 -
+
+Egypte 1 - - - 1
+
+Estland 1 - - - -
+
+Frankrijk - - 1 - -
+
+Ghana 1 - - 2 -
+
+Griekenland 2 - - - 1
+
+Groot-Brittannië - - 1 - -
+
+Hongarije 1 - - 6 1
+
+Hongkong - - - - 1
+
+India - - - - 7
+
+Indonesië 1 - 2 - 1
+
+Irak 6 - 2 - 2
+
+Iran - - 2 - 2
+
+(vml.) Joegoslavië 6 3 3 4 6
+
+Kaapverdië - - - 2 -
+
+Kameroen - 1 - - -
+
+Koeweit - - - 1 -
+
+Korea - - 1 - -
+
+Liberia - 2 - - -
+
+Libië - 1 - - -
+
+Litouwen - - - - 1
+
+
+
+BIJLAGE 4
+
+57
+
+Land 2002 2003 2004 2005 2006
+
+N N N N N
+
+Maleisië - 1 - - -
+
+Marokko 3 3 9 17 13
+
+Nederland 51 46 91 54 76
+
+Nederlandse Antillen 1 2 7 3 4
+
+Niger - - - - 1
+
+Nigeria 7 5 4 - 2
+
+Pakistan - - - - 2
+
+Polen 4 - 3 3 3
+
+Portugal - - 1 - 1
+
+(vml.) Portugees Indië - - - - 1
+
+Roemenië 8 22 23 6 14 
+
+Sierra Leone 1 1 - - 1
+
+Soedan 2 - - - -
+
+Somalië 1 - - - -
+
+(vml.) Sovjet-Unie 7 11 8 2 7
+
+Suriname 5 10 9 6 11
+
+Thailand 1 2 - 1 -
+
+(vml.) Tsjecho-Slowakije 2 - 2 5 3
+
+Turkije 26 16 24 15 18
+
+Uganda - - - 1 -
+
+Venezuela - - - - 1
+
+Verenigde Staten van Amerika - - 1 - -
+
+(vml.)Zaïre  - - 1 - -
+
+Land onbekend 4 2 2 - 1
+
+nvt (rechtspersoon) - 1 1 - 1
+
+Totaal 200 156 220 138 201 
+
+Tabel B3.6 Geboortelanden voor mensenhandel veroordeelde daders, per jaar van veroordeling 
+
+Land 2003 2004 2005 2006
+
+N N N N
+
+Albanië 9 2 - -
+
+Angola - - - 1
+
+België 2 1 2 -
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+58
+
+Land 2003 2004 2005 2006
+
+N N N N
+
+(Bondsrepubliek) Duitsland - 1 1 -
+
+Bulgarije 16 11 4 4
+
+Colombia 1 1 1 -
+
+Ghana - - - 1
+
+Griekenland 1 - - 1
+
+Groot-Brittannië - - - 1
+
+Hongarije - - 2 4
+
+Indonesië 1 - 1 -
+
+Irak - - - 1
+
+Iran - - 1 -
+
+(vml.) Joegoslavië - 1 - 1
+
+Kaapverdië - - - 1
+
+Koeweit - - - 1
+
+Korea - - 1 -
+
+Litouwen - 1 - -
+
+Marokko 2 7 3 13
+
+Nederland 26 37 36 21 
+
+Nederlandse Antillen - 2 3 -
+
+Nigeria - 5 - -
+
+Polen 1 - - 1
+
+Roemenië 7 18 3 3
+
+Sierra Leone - - - 1
+
+Soedan - 1 - -
+
+(vml.) Sovjet-Unie 5 7 5 -
+
+Suriname 1 7 8 1
+
+Thailand 1 1 - 1
+
+(vml.) Tsjecho-Slowakije - - - 6
+
+Turkije 7 14 9 6
+
+Verenigde Staten van Amerika - - 1 -
+
+Land onbekend 1 - - 1
+
+Totaal 80 116 81 70
+
+
+
+59
+
+Bijlage 5 
+ Activiteitenoverzicht 2007 
+
+1 Gesprekken, bijeenkomsten en werkbezoeken (Nederland)1/2
+
+1.1 Politie/KMar/bijzondere opsporingsdiensten
+
+ Expertisecentrum Mensenhandel Mensensmokkel (EMM): expertbijeenkomst bestuurlijke 
+rapportage Sneep 
+
+ EMM: diverse overlegsituaties over diverse onderwerpen  
+
+ KMar Schiphol  
+
+ Landelijke Expertgroep Mensenhandel (LEM)* 
+
+ LEM: voorzitter(s) (a.i.)  
+
+ Operationeel Overleg Mensenhandel (OOM)* 
+
+ Portefeuillehouder Mensenhandel in Raad van Hoofdcommissarissen/dNP, voorzitter Strategische 
+Beleids Groep Zeden, Drugs, Tegenhouden, Publiek Private Samenwerking en Mensenhandel
+
+1.2 OM/ZM
+
+ Landelijk officier mensenhandel en mensensmokkel* 
+
+ Landelijk overleg (OM) portefeuillehouders mensenhandel en mensensmokkel*  
+
+ Landelijk Parket Rotterdam: voorbereiding seminar mensenhandel 
+
+ LOVS: presentatie vijfde rapportage NRM 
+
+ LOVS: voorzitter 
+
+ PG portefeuillehouder mensenhandel* 
+
+ SSR: rector 
+
+ SSR: expertmeeting mensenhandel* 
+
+1.3 Hulpverlening, belangenbehartiging en NGO’s
+
+ Amnesty International: onderzoeker vreemdelingenbewaring  
+
+ Amnesty International: Afdeling Vluchtelingen 
+
+ B9 platform*  
+
+ BLinN  
+
+ Breedstedelijk Overleg Hulpverleners Illegalen 
+
+ Ex-ama steunpunt Utrecht  
+
+ IOM Nederland  
+
+                                                                     
+1 Met diverse van de vermelde personen en instanties werd meermalen overlegd, soms ook in andere gespreks-
+
+samenstellingen, alsook in de context van andere bijeenkomsten. 
+2 (Periodieke) overleggen die door Bureau NRM structureel werden bijgewoond zijn voor zien van een *. 
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+60
+
+ Nederlands Helsinki Comité  
+
+ Netwerk Mensenhandel Amsterdam 
+
+ Netwerk Mensenhandel Rotterdam  
+
+ NIDOS 
+
+ OKIA, Stichting Lydia, Portugese parochie Den Haag, Portugese Vereniging Nederland 
+
+ OKIA, Stichting LOS  
+
+ Platform Jeugdprostitutie* 
+
+ Nederlandse Rode Kruis  
+
+ Stichting Lydia Foundation 
+
+ Stichting Noodopvangcentrum Vlaardingen  
+
+ SRTV 
+
+ SRTV, BLinN, STV  
+
+ STV 
+
+ Stop the Traffik Nederland  
+
+ UNICEF Nederland 
+
+1.4 Overheid, semi-overheid en politiek
+
+ Adviescommissie voor Vreemdelingenzaken (ACVZ) 
+
+ Gemeente Amsterdam: projectleider mensenhandel en ketenregisseur mensenhandel 
+
+ Gemeente Amsterdam: Werkgroep Integrale Ketenaanpak prostitutie en mensenhandel  
+
+ Gemeente Amsterdam: adviseur bestuursdienst  
+
+ Gemeente Amsterdam: PvdA gemeenteraadsleden 
+
+Interdepartementaal overleg mensenhandel: MvJ, BuZa, BZK, SZW, VWS 
+ Ministerie van Buitenlandse Zaken: mensenrechtenambassadeur 
+
+ Ministerie van Buitenlandse Zaken en Ministerie van Justitie  
+
+ Ministerie van Justitie: directeurenoverleg prostitutie 
+
+ Ministerie van Justitie: directie Vreemdelingenbeleid  
+
+ Ministerie van Justitie: minister 
+
+ Ministerie van Sociale Zaken en Werkgelegenheid: mensenhandel coördinator 
+
+ Ministerie van Sociale Zaken en Werkgelegenheid: brainstormsessie over uitbuiting buiten de  
+seksindustrie
+
+ Ministerie van Sociale Zaken en Werkgelegenheid: minister 
+
+ Staatssecretaris van Justitie  
+
+ Stuurgroep Aanpak Illegaliteit*  
+
+ Stuurgroep Toezicht en Terugkeer* 
+
+ Tweede Kamer der Staten-Generaal: Tweede Kamerlid CDA  
+
+ Europees Parlement: VVD Europarlementariër  
+
+
+
+BIJLAGE 5
+
+61
+
+1.5 Onderzoek/wetenschap/advieslichamen
+
+ Aristoteles Universiteit Thessaloniki 
+
+ Begeleidingscommissie Evaluatie opheffing algemeen bordeelverbod: Illegaliteit en uitbuiting*
+
+ Begeleidingscommissie Positie slachtoffers van mensenhandel*
+
+ Bureau Van Montfoort, M. Wijers, onderzoeker 
+
+ Directeur HEUNI (European Institute for Crime Prevention and Control) 
+
+ VU, OKIA, FNV 
+
+ A. van Delden, onderzoeker 
+
+ ECPAT Nederland  
+
+ Intervict, Universiteit van Tilburg 
+
+ Meld Misdaad Anoniem  
+
+ Universiteit Leiden: promotie Z. Deen-Racsmany 
+
+ Universiteit Leiden: promotie V. Haket  
+
+ Universiteit van Amsterdam: promotie I. van Liempt 
+
+ Schadefonds Geweldsmisdrijven  
+
+ Universiteit van Tilburg 
+
+ Universiteit van Tilburg: inaugurele rede F Winkel  
+
+1.6 Werkbijeenkomsten (overig)
+
+ Expertmeeting Slachtoffermonitor 
+
+ ICMPD  
+
+ Stuurgroep Registratie Jeugdprostitutie* 
+
+1.7 Bezoeken en delegaties uit het buitenland
+
+ Australië: Office of National Assessments (ONA)  
+
+ Indonesië: politie  
+
+ Oostenrijk: OVSE PV Nederland 
+
+ Roemenië: delegatieleden van ministeries, directoraten Criminaliteit en Terrorisme,  
+National Agency against Trafficking in Persons  
+
+ Verenigd Koninkrijk: delegatie APPG on Trafficking in Women and Children  
+
+ Verenigde Staten: Global Issues Section 
+
+ Zweden: ambassadeur mensenhandel  
+
+ Zweden: delegatie aanpak overige uitbuiting  
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+62
+
+2 Internationale werkbezoeken en werkbijeenkomsten3
+
+2.1 Internationale werkbijeenkomsten
+
+OVSE-ATAU AECT Meeting* 
+
+PICUM, ENAR Intergroup lunch on policy coherence in managing integration: the 
+case of irregular migration and employment (Brussel, 6 juni 2007)  
+
+ICMPD ICMPD DCIM Regional Meeting (Zagreb, 19-21 juni 2007) 
+
+3 Congressen, symposia en overige activiteiten 
+
+3.1 Congressen, symposia, studie(mid)dagen en lezingen
+
+Directie Algemene Justitiële Strategie Symposium Justitie over Morgen
+(Den Haag, 25 januari 2007) 
+
+Amsterdam School of Social Science research 
+(ASSR) 
+
+Conferentie Mobility of people, goods, technologies and 
+money, and ideas (Amsterdam, 25 januari 2007) 
+
+Politieacademie Congres Runnen in de bovenwereld
+(Den Haag, 21 februari 2007)  
+
+OSR** Studiedag Verdiepingsmodule Rechtsbijstand aan slacht-
+offers van mensenhandel (Utrecht, 22 maart 2007) 
+
+Ministerie van Justitie, Ministerie van  
+Economische Zaken 
+
+Seminar Kennis onder handen (Den Haag, 26 maart 
+2007)
+
+Ambassade van het Koninkrijk der Nederlanden in 
+Frankrijk 
+
+Themadag Mensenhandel Mensensmokkel
+(Parijs, 26 maart 2007)  
+
+OKIA, Stichting LOS  Juristenoverleg ongedocumenteerden  
+(Utrecht, 27 maart 2007) 
+
+Landelijk Coördinatiecentrum Megazaken** Landelijk megazakencongres 2007: Inzicht met uitzicht
+(Amersfoort, 29 maart 2007) 
+
+ELPAT Conference Organ transplantation: ethical, legal and 
+psychological aspects. Towards a common European po-
+licy (Rotterdam, 1-4 april 2007) 
+
+ICMPD, Ministry of Interior Bulgaria, ACTA, 
+MARRI
+
+Seminar Programme to Support the Development of 
+Transnational Referral Mechanisms (TRM) for Traf-
+ficked Persons in South-Eastern Europe
+(Sofia, 23-26 april 2007) 
+
+Het Trefpunt Lezing C. Wortmann Wat doet Europa tegen vrou-
+wenhandel (Bennebroek, 11 mei 2007)  
+
+OSCE** Conferentie Alliance against trafficking in persons. Na-
+tional monitoring and reporting mechanism to address 
+THB: the role of National Rapporteurs
+(Wenen, 21 mei 2007) 
+
+                                                                     
+3 Bijeenkomsten waaraan door Bureau NRM een bijdrage werd geleverd in de vorm van een presentatie zijn 
+
+voorzien van twee **. 
+
+
+
+BIJLAGE 5
+
+63
+
+HOM Public Symposium on The Human Rights Impact of 
+Anti-Trafficking Interventions: Developing an Assess-
+ment Tool (Utrecht, 13 juni 2007) 
+
+Nederlandse Vereniging voor Kriminologie (NVK) NVK Marktdag 2007 (Leiden, 14 juni 2007) 
+
+International Criminal Law Network  Lustrumsymposium ICLN (Den Haag, 14 juni 2007) 
+
+Nederlandse Defensieacademie (NLDA), Emory 
+University School of Law (Feminism & Legal Theory 
+Project)  
+
+Congres Sexual abuse and exploitation of women in 
+violent conflict (Amsterdam, 17-19 juni 2007) 
+
+SAMAH Conferentie Jongeren in Vreemdelingenbewaring (Am-
+sterdam, 20 juni 2007)  
+
+Vienna Migration Group Conferentie Trafficking in Persons - Current Trends and 
+Challenges (Wenen, 26 juni 2007) 
+
+UNFPA  Presentatie World Population Report  
+(Den Haag, 27 juni 2007) 
+
+Wilton Park Wilton Park Conference Human trafficking: How best 
+to stem the flow? (London, 28-29 juni 2007) 
+
+Faculteit Rechten, Universiteit Leiden Studiemiddag en afscheidsrede P. Boeles European 
+Courts as the Migrants’ Guardian
+(Leiden, 29 juni 2007) 
+
+Irish School of Ecumenics, Trinity College Dublin en 
+Ireland En Route  
+
+Conferentie The European Slave Trade: Character, 
+Causes, Consequences (Dublin, 3-5 juli 2007)  
+
+SSR, Studiecentrum Kerckebosch Congres Informatie en opsporing
+(Nieuwegein, 9 september 2007) 
+
+Europol Annual THB Experts Meeting  
+(Den Haag, 10-11 september 2007) 
+
+OSCE OVSE 7th Alliance Against TIP conference en HD 
+meeting (Wenen, 10-12 september 2007)  
+
+International Association of Prosecutors 12th IAP annual conference  
+(Hong Kong, 16-20 september 2007) 
+
+European Society of Criminology** 7th Annual Conference of the European Society of 
+Criminology (Bologna, 26-29 september 2007) 
+
+Landelijk Parket, BNRM** Themadag Mensenhandel  
+(Zwolle, 27 september 2007) 
+
+UNODC** Informal Expert Group Meeting to review and 
+finalize a set of draft model laws against trafficking 
+in persons, a legislative checklist and a compilation 
+of definitions (Wenen, 1-4 oktober 2007)  
+
+The Portuguese Presidency of the European Union, 
+Commission for Citizenship and Gender Equality 
+and EU Commission** 
+
+Porto conference: Trafficking in Human Beings and 
+Gender (Porto, 8-9 oktober 2007)  
+
+
+
+MENSENHANDEL – ZESDE RAPPORTAGE VAN DE NATIONAAL RAPPORTEUR
+
+64
+
+Migrinter - UMR 6588 CNRS, Université de Poitiers International Conference: The migration of unaccom-
+panied minors in Europe: the contexts of origin, the mi-
+gration routes, the reception systems
+(Poitiers, 10-11 oktober 2007)  
+
+NIK NIK Grensoverschrijdende criminaliteit
+(Ede, 11 oktober 2007)  
+
+Europese Commissie EU Anti-Trafficking Day - Trafficking in human be-
+ings: time for action. Launch of the annual EU anti-
+trafficking day (Brussel, 18 oktober 2007)  
+
+OSCE, UNODC, UN GIFT, Ministry of the Interior, 
+Ministry of Foreign Affairs of the Republic of Lithu-
+ania
+
+Vilnius Conference Preventing trafficking in human 
+beings: challenges and solutions
+(Vilnius, 25-26 oktober 2007)  
+
+BLinN BLinN werkconferentie Voodoo - Invloed van rituele 
+praktijken op Nigeriaanse slachtoffers van mensenhandel
+(Amsterdam, 29 oktober 2007)  
+
+CIROC** CIROC studiedag Mensenhandel: achtergronden en 
+aanpak (Amsterdam, 31 oktober 2007)  
+
+Tijdschrift voor Criminologie, Nederlandse Vereni-
+ging voor Kriminologie (NVK)  
+
+Discussiemiddag Theoretische vernieuwing in de crimi-
+nologie (Utrecht, 2 november 2007) 
+
+ASC 2007 Annual Meeting  
+(Atlanta, 14-17 november 2007) 
+
+IOM Nederland, IOM Dublin, IOM Nigeria**  Conferentie Voluntary Assisted Return and Reintegra-
+tion of Vulnerable Irregular Nigerian Nationals
+(Den Haag, 20-21 november 2007) 
+
+Politieacademie Themadag Financieel rechercheren
+(Apeldoorn, 23 november 2007)  
+
+BOOM Studiedag Waar is de buit
+(Amsterdam, 29 november 2007)  
+
+Intervict, Universiteit van Tilburg Mini-symposium Victims of stalking: a comparison of 
+law enforcement approaches
+(Tilburg, 30 november 2007)  
+
+ILO** Labour expert meeting The role of labour inspectors in 
+combating human trafficking and forced labour in 
+Europe (Geneve, 5-6 december 2007)  
+
+Council of Europe, Home Office UK** Regional Seminar on Action against THB: measures to 
+protect and promote the rights of victims
+(London, 10-11 december 2007) 
+
+Ministerie van Justitie, Stichting Tegen Vrouwen-
+handel**
+
+Symposium jubileum STV Mensenhandel actueler dan 
+ooit ... (Doorn, 12-13 december 2007)  
+
+International Criminal Law Network** ICLN 6th Annual Conference 2007 Public-Private
+Cooperation in International Criminal Law  
+(Den Haag, 13-14 december 2007) 
+
+
+
+BIJLAGE 5
+
+65
+
+3.2 Overige activiteiten
+
+Rabobank: directeur maatschappelijk verantwoord 
+ondernemen
+
+Maatschappelijk verantwoord ondernemen  
+(Den Haag, 5 april 2007)
+
+Coördinatiepunt Mensenhandel Opening (Amsterdam, 8 mei 2007) 
+
+Soroptimisten Club** Den Haag, 10 juli 2007 
+
+Minister van Justitie Aanbieding vijfde rapportage  
+(Den Haag, 15 juli 2007)  
+
+Defence for Children International Nederland Afscheid directeur (Amsterdam, 28 juni 2007) 
+
+Bijwonen Prostitutiecontrole  Zwolle/Utrecht, 27 augustus 2007 
+
+Stichting Meld Misdaad Anoniem 1e lustrum MMA (Den Haag, 4 september 2007)  
+
+Diverse Rechtbanken Bijwonen zittingen mensenhandel 
+
+Movies That Matter-programma over mensen-
+handel**
+
+Film by the Sea festival  
+(Vlisssingen, 16 september 2007)  
+
+Lions club** Arnhem, 2 oktober 2007  
+
+Tweede Kamer der Staten-Generaal  Algemeen Overleg evaluatie partiële wijziging zede-
+lijkheidswetgeving (1996)  
+(Den Haag, 4 oktober 2007) 
+
+BLinN** Persconferentie Mensenhandeldag  
+(Den Haag, 18 oktober 2007)  
+
+Stop the Traffik Nederland Concert Rock ’n Roll Stops the Traffik  
+(Amsterdam, 28 oktober 2007)  
+
+Tweede Kamer der Staten-Generaal Algemeen Overleg evaluatie partiële wijziging zede-
+lijkheidswetgeving (1996) - tweede termijn  
+(Den Haag, 31 oktober 2007) 
+
+Stop the Traffik Nederland  Introductiebijeenkomst (Amsterdam, 21 november 
+2007)
+
+International Institute for Asian Studies in Leiden, 
+Asian Studies in Amsterdam en De Rode Hoed, Ra-
+dio Nederland Wereldomroep 
+
+Moderne slaven? Paniek rond (il)legale migratie. 
+Deel 3 uit de serie Mensen en grenzen  
+(Amsterdam, 11 december 2007)  
+
+Voorzitter vereniging van abortusartsen Amsterdam, 14 december 2007  
+
+Studenten Diverse contacten in het kader van scripties en ande-
+re werkstukken 
+
+Media Diverse contacten 
+
+Onderzoek/dataverzameling Diverse niet separaat op het overzicht opgenomen 
+contacten
+
+
+
+
+
+Colofon 
+
+Referentie:
+
+Mensenhandel. Aanvullende kwantitatieve gegevens. 
+Zesde rapportage van de nationaal rapporteur.
+
+April 2008 
+
+Bureau Nationaal Rapporteur Mensenhandel 
+Postbus 20301 
+
+2500 EH Den Haag 
+
+Tel: +31 (0)70 3704514 
+www.bnrm.nl
+
+Productie: aolf Legal Publishers, Nijmegen/Tilburg 
+Layout: Jook van der Snel 
+© BNRM 2008 
+
+
+
+
+
+
+
+

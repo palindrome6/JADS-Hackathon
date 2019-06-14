@@ -1,0 +1,628 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOI: 10.14197/atr.20121666 
+
+The Prominent Role of National Judges in Interpreting the 
+International Definition of Human Trafficking  
+ 
+
+Luuk B Esser and Corinne E Dettmei jer -Vermeulen 
+
+ 
+
+ 
+
+Abstract 
+ 
+Although there has been much discussion of the scope of the concept of human trafficking in international 
+literature, the part played by national courts in interpreting definitions based on the international definition of 
+human trafficking in the UN Trafficking Protocol has received little attention. When a judge interprets an offence, 
+he or she clarifies or adds new meaning to it. The space for this is even greater when the underlying definition is 
+broadly formulated, as in the case of the international definition of human trafficking. This article demonstrates that, 
+although this international definition establishes the outer parameters within which conduct must be made a 
+criminal offence, domestic courts still have room to flesh out the definition in national contexts. The role of national 
+judges needs more consideration in today’s discourse on the legal definition of human trafficking.  
+ 
+Keywords: human trafficking, definitions, exploitation, abuse of a position of vulnerability 
+ 
+Please cite this article as: L B Esser and C E Dettmeijer-Vermeulen, ‘The Prominent Role of National Judges in 
+Interpreting the International Definition of Human Trafficking’, Anti-Trafficking Review, issue 6, 2016, pp. 91–105, 
+www.antitraffickingreview.org 
+ 
+ 
+
+El papel destacado de las juezas y los jueces nacionales en 
+la interpretación de la definición internacional de trata de 
+personas.     
+ 
+
+Luuk B Esser y Corinne E Dettmei jer -Vermeulen 
+
+ 
+
+ 
+
+Resumen 
+
+ 
+Aunque se ha dicho mucho sobre el alcance del concepto de trata de personas a nivel internacional, no se ha 
+prestado mucha atención al papel desempeñado por las cortes nacionales en la interpretación de las definiciones, 
+basándose en la definición internacional de trata de personas del protocolo de la ONU contra la trata. Cuando una 
+jueza o juez interpreta un delito, lo hace añadiendo un nuevo significado. El hueco para que esto ocurra es incluso 
+mayor cuando la definición subyacente es formulada de forma generalizada, como es el caso de la definición 
+internacional de la trata de personas. Este artículo demuestra que, aunque la definición internacional establece los 
+parámetros externos dentro de los que una conducta debe ser considerada un crimen, las cortes nacionales tienen 
+cierto margen para desarrollar la definición en los contextos nacionales. El papel de las juezas y jueces nacionales 
+necesita ser tenido en cuenta en el discurso actual sobre la definición legal de la trata de personas.   
+ 
+Palabras clave: trata de personas, definiciones, explotación y abuso de una situación de vulnerabilidad. 
+ 
+ 
+ 
+
+Definitions and the Absence of the Perspective of the National Judge 
+ 
+Sixteen years after it was drafted, the international definition of human trafficking in the Trafficking Protocol1 still 
+causes controversy. Many authors and organisations have addressed the complex issues related to the scope of the 
+
+                                                           
+1  UN General Assemby, Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, Supplementing the United Nations 
+
+Convention against Transnational Organized Crime, 15 November 2000, (Trafficking Protocol). 
+
+
+
+DOI: 10.14197/atr.20121666 
+
+definition. For example, how can ‘abuse of a position of vulnerability’ be understood? And what sort of evidence is 
+needed in order to prove the definition’s mens rea element, i.e. the purpose of exploitation?2 
+ 
+Without any pretence of providing even a remotely comprehensive overview of the available literature, it is possible 
+to identify a number of streams in the current discourse about the concept of human trafficking. One stream seeks 
+to find the similarities and nexuses between human trafficking and new and emerging phenomena that are not at 
+present commonly associated with it. In this regard, a 2013 article by Tyldum is illustrative.3 In it she applies the 
+definition of human trafficking to the (already existing) phenomenon of transnational marriages in Norway and 
+comes to understand the latter as directly related to the former. Here, the definition is used in a functionalistic way; 
+it serves as a framework to deepen the understanding of the characteristics of a (previously presumed to be) 
+distinguishable concept and has, as such, the capacity to shed more conceptual light on other phenomena. A second 
+stream in recent literature is characterised by the ongoing search for the parameters of the definition of human 
+trafficking and, related to this, the most effective perspective on which to build policies. One of the main recent 
+contributors in this respect is Chuang, who criticises the erosion of the definition’s apparent boundaries and pleas 
+for more careful consideration of its scope.4 Subsequently, Chuang is, as is Shamir,5 advocating a labour perspective 
+or paradigm on human trafficking, adding an approach that, among other measures, focusses on labour market 
+regulation.  
+ 
+For all the attention that has been devoted to the potential scope of the definition of human trafficking in theory, far 
+less has been written—or is otherwise known—about the role played by domestic courts in delineating the 
+definition. Although States are under an obligation to criminalise the act of human trafficking as laid down in Article 
+3(a) of the Trafficking Protocol, the definition of human trafficking is sufficiently flexible to enable it to be fleshed 
+out in the ‘local contexts’ of different countries.6 Hence, from the outset it was clear that national actors would play 
+a pivotal role in searching for the definition’s exact radius of action. Naturally, the object of interpretation at these 
+national levels is the national definition. However, bearing in mind the transnational background of this definition 
+and the fact that most States have adopted language very similar to the international legal definition in formulating 
+their understanding of trafficking, national interpretations can also be insightful and valuable in an international 
+context. Especially where the national definition is closely aligned with the international counterpart it stems from, 
+interpretations and case law by national courts can be of importance for and add meaning to international debates 
+about elements of the definition.7 Of course, the weight of influence should not be overstated and can only be 
+properly understood as indirect. A useful analogy might be the concept of ‘subsidiary means’ in the context of 
+international (criminal) law. In Article 38, paragraph 1, under d of the Statute of the International Court of Justice it 
+is stipulated that the Court shall apply inter alia (and subject to the provisions of Article 59) ‘judicial decisions and the 
+teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of 
+rules of law’.8 More recently, Van der Wilt described the domestic courts’ role vis-à-vis international criminal law as 
+follows: ‘By applying the law, they [the domestic courts] refine, interpret and—therefore—change the law and they 
+contribute to the further development of international (criminal) law.’9  
+
+ 
+To demonstrate the consequences of the space left open for judges, the focus in this article is on the way Dutch 
+courts have interpreted the (national) human trafficking definition that was derived from the Trafficking Protocol. 
+The article presents an analysis of how the Dutch courts have interpreted two main elements of the definition, the 
+element of means, specifically: ‘abuse of a position of vulnerability’, and the element ‘purpose of exploitation’. This 
+article also elaborates upon the term ‘transnational criminal law’ in order to improve our understanding of the 
+
+                                                           
+2  UNODC recently published a series of issue papers addressing what states parties to the Protocol identified as ‘problematic’ aspects of the 
+
+international legal definition of trafficking in persons. See: United Nations Office on Drugs and Crime, Abuse of a Position of Vulnerability and 
+Other “Means” within the Definition of Trafficking in Persons, UNODC, Vienna, 2013; United Nations Office on Drugs and Crime, The Role of 
+Consent in the Trafficking in Persons Protocol, UNODC, Vienna, 2014; United Nations Office on Drugs and Crime, The Concept of ‘Exploitation’ in 
+the Trafficking in Persons Protocol, UNODC, Vienna, 2015. 
+
+3  G Tyldum, ‘Dependence and Human Trafficking in the Context of Transnational Marriage’, International Migration, vol. 51, 2013, pp. 103–
+115. 
+
+4  J Chuang, ‘Exploitation Creep and the Unmaking of Human Trafficking Law’, American Journal of International Law, vol. 108, 2014, pp. 609–
+649. 
+
+5  H Shamir, ‘A Labor Paradigm for Human Trafficking’, UCLA Law Review, vol. 60, 2012, pp. 76–136. 
+6  UNODC issue papers observe that ‘[the] potential breadth and narrowness of the definition has raised several issues to which States have 
+
+taken quite different positions’. See, for instance: United Nations Office on Drugs and Crime, The Concept of ‘Exploitation’ in the Trafficking in 
+Persons Protocol, UNODC, Vienna, 2015, p. 15. 
+
+7  Arato is of the opinion that ‘[...] national courts have a particular responsibility to supervise the proper interpretation of treaties because their 
+judgments have a recursive relationship to the treaty being applied’. And: ‘[...] domestic interpretations can have a significant impact on the 
+meaning of a treaty over time. They not only interpret and apply international treaties, but further contribute to their meaning and affect 
+their growth.’ J Arato, ‘Deference to the Executive: The US debate in global perspective’ in H P Aust and G Nolte (eds), The Interpretation of 
+International Law by Domestic Courts: Uniformity, diversity, convergence, Oxford University Press, Oxford, 2016, p. 211. 
+
+8  Statute of the International Court of Justice, accessible online via http://www.icj-cij.org/documents/?p1=4&p2=2#CHAPTER_II, 
+retrieved 10 February 2016. 
+
+9  Van der Wilt makes this remark in an article on the influence of domestic courts on international criminal law. H van der Wilt, ‘Domestic 
+Courts’ Contribution to the Development of International Criminal Law: Some reflections’, Israel Law Review, vol. 42, 2013, p. 209. 
+
+
+
+DOI: 10.14197/atr.20121666 
+
+relation between international definitions and national judges. Finally, the focus shifts to the actual application of the 
+national definition by the Dutch courts.  
+
+ 
+
+ 
+
+The Role of Domestic Courts in Applying and Interpreting Transnational Crimes 
+ 
+Within international law, human trafficking is considered a transnational crime. This criminological term embraces 
+‘offences whose inception, prevention and/or direct or indirect efforts involved more than one country’.10 
+Expanding on this, Boister introduced the concept of ‘transnational criminal law’, or ‘the indirect suppression by 
+international law through domestic penal law of criminal activities that have actual or potential transboundary effects’ 
+[author’s italics].11 Both concepts are directly related. Where the first elaborates on the (transnational) nature of the 
+crimes, the latter is more concerned with the specific action prescribed and, subsequently, the actor who has the task 
+to take action. Prominent in Boister’s definition of transnational criminal law is the dual responsibility for realising 
+an effective approach of transnational crime, for both international and national actors. On the one hand, the outer  
+parameters within which conduct must be made a criminal offence are established at the international level. National 
+actors, on the other hand, have to take steps to actually criminalise the behaviour (States) and apply and  
+interpret the definition in practice. Accordingly, when it comes to the ‘realisation of criminalisation’, there is a 
+degree of interdependence observable between transnational and national law.  
+ 
+Human trafficking’s status as part of transnational criminal law is not the sole explanation for the domestic courts’ 
+paramount role. No less important is the method by which the definition was established at the international level. A 
+definition can be formulated in such a way as to leave little room for doubt about its scope or it can be worded in 
+what could be described as open-ended terms. The latter increases the chance that actors within States, responsible 
+for applying and interpreting the law, will play a major role in determining the scope of application of the definition. 
+That is the case with human trafficking. The drafting history confirms that in order to accommodate many parties 
+with divergent interests, aspects of the definition were deliberately left vague.12  
+
+ 
+Accordingly, the international definition of human trafficking leaves room for interpretation of its individual 
+components.13 That is noteworthy in view of the high standards that should be met in terms of certainty and 
+predictability in the law, particularly in criminal law.14 However, when little is known about a particular phenomenon 
+at the time it is being criminalised and when there are strong priority reasons to secure consensus, it is perhaps 
+preferable not to make the law too rigid, but to leave room for the courts to apply it in practice in specific cases. 
+That was also the feeling in relation to human trafficking, especially with respect to forms of exploitation outside the 
+sex industry, which many countries had not yet any experience addressing as a criminal phenomenon. 
+ 
+In sum, that human trafficking is part of transnational criminal law implies that states and domestic courts play a 
+major role in the actual realisation of the human trafficking criminalisation. In this case, the open definition,  
+presuming it is transposed without clarification into domestic law, can be considered problematic (in light of the 
+principle of legal certainty), but can also be conceived as an invitation to domestic courts to flesh out its precise 
+meaning in their respective local contexts. The next section reviews how the Dutch courts have approached that 
+invitation.  
+
+ 
+
+ 
+
+The Human Trafficking Provision in the Dutch Criminal Code and its 
+Interpretation by the Supreme Court 
+ 
+
+                                                           
+10  A.CONF.169/15/Add.1, 4 April 1995, https://www.unodc.org/documents/congress//Previous_Congresses/9th_Congress_199517_ 
+ ACONF.169.15.ADD.1_Interim_Report_ Strengthening_the_Rule_of_Law.pdf, retrieved 7 July 2015. For the history of this term, see: G 
+
+Mueller, ‘Transnational Crime: Definitions and concepts’ in P Williams and D Vlassis, Combating Transnational Crime: Concepts, activities and 
+responses, Frank Cass Publishers, London/Portland, 2001, p. 14. 
+
+11  N Boister, ‘‘Transnational Criminal Law?’’, European Journal of International Law, vol. 14, 2003, p. 955. See for a more thorough treatise of this 
+subject by the same author: N Boister, An Introduction to Transnational Criminal Law, Oxford University Press, Oxford, 2012. 
+
+12  For an overview of the key issues at stake during the drafting process of the Trafficking Protocol, see: A Gallagher, The International Law of 
+Human Trafficking, Cambridge University Press, Cambridge, 2010, para 1.2.1. See also: Chuang, p. 610. 
+
+13  Every norm, however precisely formulated, in fact leaves some room for interpretation. Or, as the European Court of Human Rights 
+succinctly expressed it in a landmark judgment: ‘However clearly drafted a legal provision may be, in any system of law, including criminal 
+law, there is an inevitable element of judicial interpretation. There will always be a need for elucidation of doubtful points and for adaptation 
+to changing circumstances.’ ECtHR 22 November 1995, appl.no. 20190/92 (C.N. v. UK), para 34. 
+
+14  Regarding the meaning of the principle of legal certainty in criminal law, see: M Faure, M Goodwin and F Weber, ‘The Regulator’s Dilemma: 
+Caught between the need for flexibility & the demands of foreseeability. Reassessing the lex certa principle’, Albany Law Journal of Science & 
+Technology, vol. 24 (2), 2014, pp. 283–364. 
+
+
+
+DOI: 10.14197/atr.20121666 
+
+In the Netherlands the main source of criminal law is the Dutch Criminal Code, but the scope of the human 
+trafficking provision cannot properly be understood without taking into account decisions of the Supreme Court.15 
+Human trafficking for the purposes of sexual exploitation already was an offence under Dutch criminal law when 
+the Trafficking Protocol was drafted. Human trafficking is a criminal offence under Article 273f of the Dutch 
+Criminal Code (DCC). Legislators decided to take the Protocol definition almost verbatim, thereby widening the 
+range of human trafficking to other forms of exploitation and ensuring alignment with international law. The 
+offence stipulated in Article 273f paragraph 1, under 1, involves (1) an action (2) by certain means and with a 
+specific intention (the criminal intent), (3) the purpose of exploitation. In a series of judgments, the Supreme Court 
+has shed further light on how the individual components of this definition should be interpreted. This case law has 
+concentrated on the interpretation of the means element, in particular ‘abuse of a position of vulnerability’, and the 
+criminal intent element: ‘the purpose of exploitation’.  
+
+ 
+
+Abuse of a Position of Vulnerability (APOV) in the International Definition of Human 
+
+Trafficking16 
+
+Abuse of a position of vulnerability (APOV) is one of the ‘means’ in the international definition of human 
+trafficking and, apart from its inclusion in the Trafficking Protocol, it is not otherwise known to international law.17 
+According to the travaux préparatoires to the Protocol, the term is to be understood ‘as referring to any situation in 
+which the person involved has no real or acceptable alternative but to submit to the abuse involved’.18 Essentially, 
+this requires that in each individual case, it has to be established whether (1) there was a position of vulnerability, 
+and, if so, (2) whether the suspect (intentionally) abused that position to secure the ‘act’ element of the offence. To 
+prove this, therefore, it is necessary to consider the situation of both the victim and the suspect. Neither the 
+Trafficking Protocol nor the various guidance material available elaborate on these requirements. An issue paper on 
+this subject published by the UNODC in 2012, which included the results of a survey of law and practice in 12 
+countries, confirmed wide variation between States with regard to how this means is understood and applied. The 
+main area of discussion concerned the question of what exactly constitutes a ‘position of vulnerability’ and the 
+differences in the evidentiary requirements for establishing abuse of that vulnerability. Unquestionably, the term is 
+very open-ended. Should a person’s precarious financial situation constitute a position of vulnerability, for example? 
+Is a person’s status as an illegal immigrant in itself sufficient to presume the existence of a position of vulnerability? 
+And what kind of intentional involvement is required to prove the defendant’s abuse of an established vulnerability? 
+The issue paper provides important insight into these questions and includes a Guidance Note for Practitioners that 
+sets out key issues for consideration. 
+
+ 
+
+Abuse of a Position of Vulnerability in the DCC and Case Law in the Netherlands 
+
+In Dutch case law, abuse of a position of vulnerability (APOV) plays a significant role. In a quantitative study into 
+83 Dutch cases conducted in 2012 by the Office of the Dutch Rapporteur on Trafficking in Human Beings and 
+Sexual Violence against Children, it appeared that in almost all cases APOV was included in the indictment. 
+Moreover, in all cases of trafficking for labour exploitation that led to a conviction, APOV was established.19 APOV 
+truly is—in the wording of the UNODC issue paper on this subject—‘[…] an inherent feature of most, if not all, 
+trafficking cases’.20  
+
+ 
+Not surprisingly, it did not take long for the Supreme Court to render its first decision on the interpretation of this 
+means of trafficking. In 2009, the Court delivered a landmark judgment which set out the requirements that have to 
+be met to prove the abuse element (the Diamond City case).21 Furthermore, the legislative history and Supreme Court 
+judgments from before 2005, when the international definition was incorporated into the Dutch Criminal Code, are 
+still relevant, since one of the means specified in the already existing Dutch definition of human trafficking is ‘abuse 
+of the position of dominance arising from the factual relationships’. According to the Supreme Court, this concept 
+
+                                                           
+15  In this regard, the Dutch legal scholar Rozemond speaks about the ‘method of substantive criminal law’ by which he means that the exact 
+
+scope of the substantive criminal law can only be found when the criminal provision in the Code and the Supreme Court’s judgments are 
+taken together. K Rozemond, De methode van het materiële strafrecht, Ars Aequi Libri, Nijmegen, 2006 (in Dutch only). 
+
+16  This section draws on the relevant issue paper produced by the United Nations on this subject: United Nations Office on Drugs and Crime, 
+Abuse of a Position of Vulnerability and Other “Means” within the Definition of Trafficking in Persons, UNODC, Vienna, 2013. 
+
+17  Ibid., p. 17. 
+18  United Nations Office on Drugs and Crime, Travaux Préparatoires of the Negotiations for the Elaboration of the United Nations Convention against 
+
+Transnational Organized Crime and the Protocols Thereto, 2006, p. 347. 
+19  Dutch Rapporteur on Trafficking in Human Beings, Trafficking in Human Beings. Case law in trafficking in human beings 2009–2012. An analysis, 
+
+BNRM, The Hague, 2013, para 4.4.3. 
+20  United Nations Office on Drugs and Crime, Abuse of a Position of Vulnerability and Other “Means” within the Definition of Trafficking in Persons, 
+
+UNODC, Vienna, 2013, p. 71. 
+21  Diamond City case. This decision is fully translated into English and available through the online UNODC Case Law Database. Retrieved 1 
+
+July 2015, https://www.unodc.org/res/cld/case-law/nld/2009/diamond_city_html/Diamond-_English_version.pdf 
+
+
+
+DOI: 10.14197/atr.20121666 
+
+overlaps with that of APOV.22 Many of the examples discussed by legislators in 1988, when the national definition 
+of human trafficking was being debated in Parliament, would therefore also have been included under the term 
+‘abuse of a position of vulnerability’ today. Because the intention of the 1988 legislation was to provide extensive 
+protection against every form of force or compulsion in the sex industry, legislators opted for a relatively broad 
+approach: stipulating that the means ‘abuse of the position of dominance arising from the factual relationships’ is 
+sufficiently proven ‘when the prostitute is in a situation or comes into a situation that is other than the 
+circumstances accepted by an assertive prostitute in the Netherlands’.23 Examples provided included indebtedness, 
+drug addiction, not possessing documentation and lack of personal financial resources. In its 2009 judgment, the 
+Supreme Court also ruled that a person’s illegal status places that person in a vulnerable position.24  
+
+ 
+A vulnerable position alone however is not enough to prove abuse of a position of vulnerability. In the 
+aforementioned judgment of 2009, the Supreme Court elaborated on the criteria that have to be met to establish 
+such abuse. The judgment was rendered in a trafficking for labour exploitation case involving Chinese irregular 
+immigrants who had, literally, begged the owner of a Chinese restaurant for work. Before looking at the criteria 
+given by the Supreme Court, it is useful to focus at the facts. The Appeal Court in the underlying case established 
+inter alia the following facts:  
+ 
+
+- The irregular Chinese immigrants involved as victim-witnesses had decided to come to the 
+Netherlands of their own accord in order to earn money.  
+
+- They applied for work to the restaurant owner: a number also asked for meals and lodging and a 
+number asked solely for meals and lodging. The last group then worked in exchange for meals and 
+lodging, without receiving any further remuneration. 
+
+- None had any monetary debts or other obligations towards the restaurant owners. All were free to 
+depart at any time they wished. A number of them had already worked in the Netherlands at one or 
+more other locations.25 
+
+ 
+The legal question that arose in this case was whether it could be said under these circumstances that the restaurant 
+owner abused the position of vulnerability of the irregular migrants. In its consideration of the judgment of the 
+Court of First Instance, the appeal court answered this question in the negative and considered that, in view of the 
+facts mentioned above:  
+ 
+It is not possible to state that the accused and/or one or more others had taken the initiative or acted actively 
+towards the aforementioned Chinese, for example by approaching them or persuading them to work in the 
+restaurant. Rather, they responded to requests and, in a number of instances, pleas from the Chinese. In view of 
+these circumstances it is not possible to find proved that the accused and/or one or more others purposefully 
+abused a position of dominance arising from the factual relationships with or the weaker/ 
+vulnerable position of the Chinese in accommodating or harbouring them.26 
+
+ 
+What the appeal court in this case did was interpret the means of APOV in such a way that it became an evidentiary 
+requirement to determine whether an accused purposefully abused the vulnerable position, for instance by taking the 
+initiative and playing an active role in the recruitment process of victims. The Supreme Court however did not 
+follow the judgment. In contrast, it ruled that: 
+
+ 
+[...] adequate proof of ‘abuse’ has been submitted when it is established that the 
+perpetrator must have been aware of the relevant factual circumstances of the 
+person concerned from which the position of dominance arose or may be 
+presumed to have arisen, in the sense that these circumstances gave cause to the 
+perpetrator’s conditional intent. The same is applicable to situations in which the 
+victim is in a vulnerable position as referred to in the provision. It should be noted 
+that in addition to this requirement of intent another, more stringent, requirement 
+of intent is applicable to the exploitation, namely the purpose of exploitation. 
+
+ 
+The judgment of the Supreme Court takes a different approach when establishing the evidentiary requirements to 
+prove the abuse element in the context of APOV. Where the appeal court explicitly focusses on the degree of 
+
+                                                           
+22  Dutch Rapporteur on Trafficking in Human Beings, Trafficking in Human Beings. Case law in trafficking in human beings 2009–2012. An Analysis, 
+
+BNRM, The Hague, 2013, para 4.4.5. 
+23  Ibid., p. 61. The authors purposely do not refer to the original documents, since these are only available in Dutch. The case law report of the 
+
+Dutch Rapporteur however consists of an in-depth analysis of the history of the Dutch human trafficking legislation in English. 
+24  Diamond City, para 2.6.2. 
+25  Diamond City, para 2.2.2. 
+26  Ibid. 
+
+
+
+DOI: 10.14197/atr.20121666 
+
+initiative of the accused and his active role in the process of recruitment, the Supreme Court determined that a lower 
+threshold was required. There is, according to the Court, already a presumption of abuse at such time as the 
+offender is aware of the factual circumstances that create the vulnerable position. To put it another way: the 
+conscious use of a position of vulnerability itself constitutes the abuse (one can call this the use = abuse doctrine). This 
+decision confirms that the scope of this means is actually (in the specific circumstances of that case) and potentially 
+(in relation to different circumstances) very wide. In this instance, the accusation being made against the suspect is 
+that he acted, for example, by employing people in a vulnerable position, despite being aware of their vulnerability. 
+To prove this, it does not have to be established that he also purposefully intended to abuse the position of those 
+individuals in that situation.  
+
+ 
+This approach has been criticised, nationally and internationally.27 Some authors are of the opinion that this 
+interpretation contributes to an expansion of the definition, rendering it capable of including within its scope 
+conduct that has little to do with the concept of trafficking. The UNODC issue paper on APOV states that ‘[...] the 
+low standard set in some countries, whereby perpetrators are not required to have taken any initiative in order for 
+the element to be proven, differentiates APOV from other means, all of which appear to require some level of 
+action or initiative by on behalf of the alleged perpetrator’.28 However, international law does not prevent States to 
+use a broader interpretation of the definition. And although the term ‘abuse’ undeniably points in the direction of a 
+perpetrator acting deliberately, the nature of the intent is not further elaborated upon in international law. Thus, the 
+fact that the Dutch Supreme Court applies one of the lower forms of criminal intent—the conditional intent—fulfils 
+the intent requisite. Finally, to establish human trafficking also requires proof of other elements. As shown below, 
+the element ‘purpose of exploitation’ and its interpretation by the Supreme Court prevents the human trafficking 
+definition from becoming overly inclusive.  
+
+ 
+
+The Mens Rea Element: Purpose of exploitation 
+
+In the definition of human trafficking, exploitation is primarily the purpose for which the actions are undertaken. To 
+cite Gallagher, the purpose of exploitation constitutes the mens rea element of the international definition of human 
+trafficking and therefore rests on intention: what was the suspect’s intention while performing the acts and utilising 
+the means?29 It is beyond the scope of this article to discuss at length the relevance of intention in criminal law. In 
+discussing ‘purpose of exploitation’, the main question is how to establish that a person specifically intended to 
+exploit another person. To do that, it is necessary to (1) form a judgment of what constitutes  
+exploitation and (2) formulate requirements regarding the degree to which the suspect’s intentions can be 
+ascertained. Suspects generally remain silent about their intentions, and in those cases, the court is compelled to 
+establish intent on the basis of available evidence.  
+ 
+
+The Purpose of Exploitation in the Case Law of the Dutch Supreme Court 
+
+In the aforementioned judgment of 2009, the Supreme Court also ruled on how the ‘purpose of exploitation’ can be 
+established. Before discussing its findings, it is important to note that ‘purpose’, as one of the forms of intent, 
+already existed in Dutch criminal law. According to the standard formula adopted by the Supreme Court, a suspect 
+can be said to have acted with a specific purpose if he must have realised that his actions would lead or have led to 
+the other person being exploited and that, consequently, this was what the suspect wished.30 The ‘purpose’ 
+requirement therefore calls for more than dolus eventualis; the suspect must not simply have been aware of the 
+possibility of a particular consequence, but must also have specifically desired that consequence: dolus specialis.31 
+
+ 
+To examine whether this requirement is met, the Court must have an idea of what constitutes exploitation, since 
+only then can it address the question of whether the evidence that was furnished has shown to have been the 
+suspect’s purpose. Subsection 2 of the relevant Dutch law contains a non-exhaustive list of forms of exploitation, 
+which follows more or less the wording of Article 3(a), second part, of the Trafficking Protocol.32 The logical course 
+
+                                                           
+27  United Nations Office on Drugs and Crime, Abuse of a Position of Vulnerability and Other “Means” within the Definition of Trafficking in Persons, 
+
+UNODC, Vienna, 2013, p. 81. See also the critical comment about this judgment by legal scholar Buruma. Dutch Supreme Court, 27 
+October 2009, ECLI:NL:HR:2009:BI7099, NJ 2010, 598 with comment by Y Buruma (in Dutch only). 
+
+28  United Nations Office on Drugs and Crime, Abuse of a Position of Vulnerability and Other “Means” within the Definition of Trafficking in Persons, 
+UNODC, Vienna, 2013, p. 81. 
+
+29  Gallagher, p. 34. 
+30  The standard evidential criterion for the purpose element is formulated in Dutch Supreme Court, 21 April 1998, 
+
+ECLI:NL:HR:1998:ZD1031. 
+31  See for more on the modes of intention distinguished in criminal law: T Weigend, ‘Subjective Elements of Criminal Liability’ in M D Dubber 
+
+and T Hörnle, The Oxford Handbook of Criminal Law, Oxford University Press, Oxford, 2014, chapter 22. 
+32  The list was recently supplemented with forced begging and exploitation in criminal activities with the implementation of the EU Human 
+
+Trafficking Directive. Directive 2011/36/EU of the European Parliament and of the Council on preventing and combating trafficking in 
+
+
+
+DOI: 10.14197/atr.20121666 
+
+to take in interpreting ‘exploitation’ would be to follow the various forms of exploitation listed in the law and the 
+definitions of them that already exist at the international level or indeed in national law itself.33 However, the  
+Supreme Court took a different path and chose instead to formulate a number of factors that should apply in 
+assessing every form of exploitation, regardless of the precise form of exploitation. Relevant factors in that  
+context, the Supreme Court found, include the nature and duration of the work, the limitations it imposes on the 
+individual concerned and the economic advantage accruing to the employer. Furthermore, the frame of reference 
+for weighing these and other relevant factors should be the prevailing social standards in the Netherlands.34 It is not 
+necessary for all of the factors to apply. Ultimately, the various factors have to be weighed against each other; some 
+will weigh more heavily than others in some cases, while different factors will weigh more heavily in others.35 It is 
+possible, for example, that in a particular situation the employer enjoys a major financial advantage but imposes 
+relatively few limitations on the victim. This perspective can be particularly important in cases where victims do not 
+self-identify as having been exploited. In other cases, it might not be the profit made that stands out, but rather the 
+number of hours worked, the nature of the work or the limitations that the situation imposed on the employee. In 
+the case of the Chinese immigrants, the Supreme Court qualified the decision by the Appeal Court that the purpose 
+of exploitation could not be established as incomprehensible in view of the facts and the criteria mentioned above.36 
+
+ 
+In a 2015 judgment the Supreme Court added another dimension to these criteria when it ruled that the outcome of 
+this ‘weighing of perspectives’ can be different when the victim is a minor.37 The Court’s meaning and the 
+implications of this aspect of the judgement are both unclear, but it must be assumed that it calls on lower courts to 
+include in their weighting the fact that the victim in the case is a minor.  
+ 
+The factors enunciated by the Supreme Court provide a clear framework that reflects the complexity of the element 
+‘purpose of exploitation’ and the variety of forms that exploitation can take and contexts in which it can occur. In 
+practice, this framework serves as an important benchmark, which is decisive for establishing the parameters of the 
+offence. 
+ 
+
+Conclusion 
+ 
+This article shows the discretion that domestic courts enjoy in clarifying the definition of human trafficking and 
+thereby provides insight into the interaction between international and national law in cases involving transnational 
+criminal law (as is the case in the field of human trafficking). This interaction is one of mutual dependence. On the 
+one hand, national courts are bound to render judgment within the boundaries of the international parameters, in 
+this case (the elements of) the international definition of human trafficking as integrated into national law. At the 
+same time, we have seen that the use of open norms in that definition invariably requires domestic courts to engage 
+in interpretation. In that context, relevant developments in the Netherlands have been the broad interpretation of 
+APOV (and the enduring influence of national legislative history around this concept) and the decision to interpret 
+‘purpose of exploitation’ without making a distinction between the different forms of exploitation. The fact of such 
+interpretation is not surprising. As the UNODC Studies confirmed, the international legal definition of trafficking is 
+interpreted in significantly different ways and only assumes concrete form in the individual States.38  
+
+ 
+The space left for domestic courts to give further meaning to the definition of human trafficking raises the question 
+of how unavoidable differences in interpretations between different states should be understood. The answer 
+depends on the perspective from which the interaction between international and national law is assessed. Some 
+tend to opt for a more ‘sovereigntist perspective’, arguing that criminal law is primarily the province of 
+(democratically legitimated) national legislators.39 On that basis, the room that is left to the courts to interpret the 
+definition of human trafficking can be regarded as positive. In contrast, for adherents of a more uniform application 
+
+                                                                                                                                                                                     
+human beings and protecting its victims, and replacing Council Framework Decision 2002/629/JBZ, 5 April 2011. The directive was 
+published in the Official Journal of the EU, OJ 2011, L 101/1 on 5 April 2011. 
+
+33  For instance, the existing definition of ‘forced or compulsory labour’ as laid down in the ILO Forced Labour Convention (ILO Convention 
+of 28 June 1930 concerning Forced or Compulsory Labour). See for a recent analysis of other legal concepts surrounding the trafficking 
+definition: N Siller, ‘‘‘Modern Slavery” Does international law distinguish between slavery, enslavement and trafficking?’, Journal of 
+International Criminal Justice, vol. 14, 2016, pp. 1–23. 
+
+34  Diamond City, para 2.6.1. 
+35 See also the advisory opinion of Advocate-General Knigge in the Diamond City case, https://www.unodc.org/res/cld/case-
+
+law/nld/2009/diamond_city_html/Diamond-_English_version.pdf, retrieved 7 July 2015 (available in English). 
+36  Diamond City, para 2.6.2. 
+37  Dutch Supreme Court 24 November 2015, ECLI:NL:HR:2015:3309 (not available in English). Repeated in Dutch Supreme Court, 5 April 
+
+2016, ECLI:NL:HR:2016:554. 
+38  United Nations Office on Drugs and Crime, Abuse of a Position of Vulnerability and Other “Means” within the Definition of Trafficking in Persons, 
+
+UNODC, Vienna, 2013; United Nations Office on Drugs and Crime, The Role of Consent in the Trafficking in Persons Protocol, UNODC, Vienna, 
+2014; United Nations Office on Drugs and Crime, The Concept of ‘Exploitation’ in the Trafficking in Persons Protocol, UNODC, Vienna, 2015. 
+
+39  For more on this ‘tendency’, see: J Ouwerkerk, ‘Criminal Justice beyond National Sovereignty’, European Journal of Crime, Criminal Law and 
+Criminal Justice, vol. 23, 2015, pp. 11–31. 
+
+
+
+DOI: 10.14197/atr.20121666 
+
+of global definitions and norms, the discretion granted to domestic courts defeats the original purpose of developing 
+a universal understanding of human trafficking, namely to harmonise national legal frameworks in order to  
+facilitate more effective international cooperation. 
+ 
+Whatever viewpoint is taken, domestic courts will continue to play a major role in the application and interpretation 
+of national definitions derived from the international human trafficking definition. To cite van der Wilt again, 
+domestic courts are able to ‘refine, interpret and—therefore—change the law and they contribute to the further 
+development of international (criminal) law’.40 As noted previously, the international definition of human trafficking 
+in the Trafficking Protocol still generates controversy, and many authors and organisations have addressed the 
+complex issues that arise with regard to the scope of the definition. Remarkably, less attention has been paid to the 
+application and interpretation of national definitions. Mindful of the prominent role of national judges, this is a 
+subject that needs more attention. This new stream in the discourse on the legal definition of human trafficking is 
+more than welcome.  
+
+ 
+
+ 
+Luuk B Esser works as a researcher at the bureau of the Dutch Rapporteur on Trafficking in Human Beings and 
+Sexual Violence against Children and is also affiliated with Leiden Law School (Leiden University) as a PhD 
+Candidate. Email: l.b.esser@nationaalrapporteur.nl  
+ 
+Corinne E Dettmeijer-Vermeulen is the Dutch Rapporteur on Trafficking in Human Beings and Sexual Violence 
+against Children and has worked as a judge and public prosecutor.  
+Email: c.e.dettmeijer-vermeulen@nationaalrapporteur.nl 
+
+                                                           
+40  H van der Wilt, ‘Domestic Courts’ Contribution to the Development of International Criminal Law: Some reflections’, Israel Law Review, vol. 
+
+42, 2013, p. 209. 
+
+

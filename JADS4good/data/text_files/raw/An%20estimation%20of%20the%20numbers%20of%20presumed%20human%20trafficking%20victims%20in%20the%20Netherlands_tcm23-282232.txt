@@ -1,0 +1,3773 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research brief
+
+Vienna International Centre, PO Box 500, 1400 Vienna, Austria 
+Tel.: (+43-1) 26060-0, Fax: (+43-1) 26060-5866, www.unodc.org
+
+Monitoring Target 16.2 of the United Nations  
+Sustainable Development Goals  
+
+A multiple systems estimation of the numbers of presumed 
+human trafficking victims in the Netherlands in 2010-2015 
+ by year, age, gender, form of exploitation and nationality
+
+
+
+ 
+
+ 
+
+ 
+Foreword 
+ 
+
+The Dutch National Rapporteur on Trafficking in Human Beings and Sexual Violence against 
+
+Children and the United Nations Office on Drugs and Crime are proud to present a joint 
+
+report on a multiple systems estimation of the number of presumed human trafficking victims 
+
+in the Netherlands.  
+
+ 
+
+This joint venture was triggered by the need of the Dutch National Rapporteur to gain insight 
+
+into the actual volume of human trafficking in the Netherlands and is part of UNODC’s 
+
+efforts to assist countries to monitor Sustainable Development Goals indicator 16.2.2 (number 
+
+of victims of human trafficking per 100,000 population, by sex, age and form of exploitation). 
+
+Knowing the total number of trafficked victims (detected and not detected) helps the 
+
+Netherlands to tackle human trafficking more effectively, while the development and 
+
+application of an innovative methodology can serve as a tool for other United Nations 
+
+Member States. 
+
+ 
+
+Since human trafficking is a hidden crime, statistics on identified trafficking victims only 
+
+reveal a small part of the problem, and the actual number of victims can only be estimated 
+
+through statistical techniques. For methodological and definitional reasons, no comprehensive 
+
+estimation of the true volume of presumed trafficked victims in the Netherlands was 
+
+available. With  this new study  the ‘dark figure’ of trafficking in persons and the ‘dark figure 
+
+ratios’ of different groups of presumed victims has been revealed so more targeted policy 
+
+interventions can now be implemented to improve the detection of – and assistance to – the 
+
+most hidden populations. In the Dutch context, these include underage victims, Dutch victims, 
+
+and victims of trafficking for non-sexual exploitation.  
+
+ 
+
+By using multi-year data and by including four relevant covariates into the model (gender, 
+
+age, nationality and form of exploitation), the results are more robust and more stable over 
+
+time than the previous multiple systems estimation published for the Netherlands. A thorough, 
+
+scientific approach has been followed to compute the estimates presented in this document 
+
+and we are confident that the results - between 5,000 and 8,000 presumed victims per year, of 
+
+which about 2,000-3,000 foreign presumed victims of sexual or non-sexual exploitation - 
+
+approach the actual order of magnitude of trafficking in persons in the Netherlands. 
+
+
+
+ 
+
+ 
+
+Presenting such figures is a great step forward in the field of trafficking in persons research, 
+
+which we hope can be taken up by many other countries so that ultimately a solid global 
+
+figure on the total number of victims can be computed.   
+
+ 
+
+While the estimates are based on a substantially improved MSE methodology, limitations still 
+
+need to be considered. Therefore, we encourage the continuing development, testing and 
+
+validation of the MSE methodology and its application to trafficking in persons. 
+
+ 
+
+The development of this brief has been a unique and valuable experience for all parties 
+
+involved. It has showed how close cooperation between methodological experts on multiple 
+
+systems estimation and national experts on human trafficking and data collection is essential. 
+
+We hope that this collaboration will incite other countries to initiate similar studies. 
+
+ 
+
+Our thanks go to prof. Jan J.M. van Dijk for initiating this important project and bringing 
+
+together all the different parties, and to dr. Maarten Cruyff and prof. Peter G.M. van der 
+
+Heijden for their work in further developing the MSE methodology and subsequently 
+
+applying it to the data of the Netherlands. 
+
+ 
+
+ 
+
+Corinne Dettmeijer-Vermeulen, Dutch National Rapporteur on Trafficking in Human Beings 
+
+and Sexual Violence against Children 
+
+Angela Me, Chief, Research and Trend Analysis Branch, United Nations Office on Drugs and 
+
+Crime 
+
+  
+
+
+
+1 
+
+ 
+
+Monitoring Target 16.2 of the United Nations’ Sustainable 
+
+Development Goals; a multiple systems estimation of the 
+
+numbers of presumed human trafficking victims in the 
+
+Netherlands in 2010-2015 by year, age, gender, form of 
+
+exploitation and nationality 
+ 
+
+Based on a contribution by Jan J. M. van Dijk, Maarten Cruyff, Peter G. 
+
+M. van der Heijden and Suzanne L. J. Kragten-Heerdink  
+ 
+
+ 
+
+ 
+
+Executive summary 
+
+In September 2015, United Nations Member States adopted the 2030 Agenda for Sustainable 
+
+Development. At the heart of this bold agenda are the Sustainable Development Goals 
+
+(SDGs); a set of goals aimed at stimulating action in a wide range of policy areas. Trafficking 
+
+in persons features prominently in the agenda as three of the goals include targets that 
+
+specifically mention this crime.  
+
+The measurement of crime in general and trafficking in persons specifically is challenging 
+
+because much of the conduct remains undetected and unreported. While there is data on the 
+
+number of reported cases of trafficking worldwide, the ‘dark (or hidden) figure’ remains 
+
+unknown. The present paper explores the application of a recent methodology to generate a 
+
+sound estimate of the ‘dark figure’ of trafficking in persons. The hope is that such studies will 
+
+be replicated in many countries so that the severity of trafficking can be monitored over time. 
+
+The United Nations Office on Drugs and Crime is the guardian of the United Nations 
+
+Convention against Transnational Organized Crime, and its supplementing Protocol to 
+
+Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children. The 
+
+National Rapporteur on Trafficking in Human Beings and Sexual Violence against Children 
+
+of the Netherlands is one of the foremost national research centres on this topic.  
+
+These two entities carried out a joint, in-depth pilot test of a promising methodology, multiple 
+
+systems estimation (MSE), to estimate the total presumed yearly number of trafficking 
+
+victims in the Netherlands, broken down by age, sex, form of exploitation and nationality. 
+
+The key finding is that in 2014 and 2015, the most recent years for which records are 
+
+available, the total number of presumed victims of human trafficking in the Netherlands was 
+
+approximately 6,250-6,500 per year. This means that the estimated numbers are four to five 
+
+times higher than the recorded numbers of detected victims. 
+
+
+
+2 
+
+ 
+
+Abstract 
+
+A multiple systems estimation (MSE) was carried out using the statistics on possible victims 
+
+identified by different groups of organizations reporting to CoMensha1 on behalf of the Dutch 
+
+National Rapporteur on Trafficking in Human Beings and Sexual Violence against Children 
+
+over a period of six consecutive years (2010 - 2015). In total six different groups of 
+
+organizations (lists) reported to CoMensha, among which the Border Police. The presumed 
+
+victims reported by the Border Police concern presumed victims of a particular type of 
+
+trafficking that is not informed by the Palermo Protocol. Moreover, this type of trafficking is 
+
+no longer upheld as human trafficking by the Supreme Court in the Netherlands. For these 
+
+reasons, two log-linear models were fitted: one including those reported by the Border Police 
+
+(based on six lists, concerning 8,234 presumed victims between 2010 and 2015), and one 
+
+excluding those exclusively reported by the Border Police (based on five lists, concerning 
+
+6,935 presumed victims between 2010 and 2015). To enhance the robustness of the estimates, 
+
+they were stratified by four covariates, namely age (minor/adult), gender (female/male), form 
+
+of exploitation (sexual/non-sexual) and nationality (Dutch/non-Dutch).  
+
+The key finding is that in 2014 and 2015, the most recent years for which records are 
+
+available, the total number of presumed victims of human trafficking in the Netherlands was 
+
+approximately 6,500 (six lists) / 6,250 (five lists) per year. This means that the estimated 
+
+numbers are four to five times higher than the recorded numbers of victims that come to the 
+
+attention of the authorities. 
+
+Expressed as rates per 100,000 persons, the rate of presumed victims is about 38/37 (six/five 
+
+lists) per 100,000 inhabitants per year (based on the estimates for 2014 and 2015). The 
+
+victimization rates are 32/29 (six/five lists) per 100,000 adult Dutch females, 1 per 100,000 
+
+adult Dutch males (in both models), 235/257 (six/five lists) per 100,000 Dutch girls (between 
+
+12-17 years old) and 14 (in both models) per 100,000 Dutch boys (between 12-17 years old). 
+
+The rate of non-Dutch (legal or illegal) residents is 326/311 (six/five lists) victims per 
+
+100,000, or about fifteen/fourteen (six/five lists) times higher than for Dutch nationals (22 per 
+
+100,000 in both models). 
+
+ 
+
+1 The challenge of counting victims of human trafficking 
+
+In 2016, the United Nations adopted the target to ‘end abuse, exploitation, trafficking and all 
+
+forms of violence and torture against children’ as Target 16.2 of its 2030 Agenda for 
+
+                                                        
+1 CoMensha has been appointed as the official registration organization of all identified possible victims of 
+
+human trafficking in the Netherlands on behalf of the Dutch National Rapporteur. 
+
+
+
+3 
+
+ 
+
+Sustainable Development (under Goal 16: Promote peaceful and inclusive societies for 
+
+sustainable development, provide access to justice for all and build effective, accountable and 
+
+inclusive institutions at all levels). To monitor implementation of this Target, the UN 
+
+Statistical Commission's Interagency and Expert Group on SDG Indicators (IAEG-SDGs) 
+
+recommended (among other indicators): ‘Number of victims of human trafficking per 100,000 
+
+population, by sex, age and form of exploitation.’ The United Nations Office on Drugs and 
+
+Crime (UNODC) has been identified as the custodian international agency responsible for the 
+
+global reporting of the indicator and for providing support to Member States to collect data on 
+
+the indicator. In order to fulfill this commitment UNODC has been working with Member 
+
+States and the academic community to develop methodologies to estimate the number of 
+
+undetected victims of trafficking in persons. 
+
+Statistics on detected victims are routinely collected by statistical authorities across the world. 
+
+These national statistics are periodically collated by international organizations such as 
+
+UNODC and Eurostat, and used by UNODC as the basis for its biennial Global Reports on 
+
+Trafficking in Persons (GLOTIP). However, these statistics say very little about the true 
+
+volume of trafficking in persons. They reflect just ‘the tip of the iceberg.’ If the ratio between 
+
+the recorded cases and the real numbers would - as is the case with icebergs - be roughly 
+
+constant over time and across countries, the numbers of recorded cases would provide useful 
+
+information. In that case, the true numbers could simply be multiplied by the constant factor 
+
+to arrive at estimates of the true volume. Unfortunately, the presumption of 19th century 
+
+criminologists of constant ratios between numbers of recorded and real cases of crime has 
+
+proven to be untenable. The detection rates of law enforcement agencies show great variation 
+
+both over time and across countries, and so do consequently ratios between recorded crimes 
+
+and total crimes and victims. Rankings of countries in terms of recorded crimes per 100,000 
+
+inhabitants often bear little or no relationship to the ranking of the real total crime numbers. 
+
+Many countries with high levels of corruption report very few arrests or convictions for 
+
+corruption (Van Dijk, 2008). This might also be the case with the offence of human 
+
+trafficking. To give just one example, taken from the GLOTIP report of 2014, the 
+
+Netherlands, population 17 million, registered about 1,700/1,300 (six/five lists) victims of 
+
+human trafficking in 2012, whereas the United States of America, population 500 million, a 
+
+mere 500 victims, and Japan, population 127 million, 27. If these numbers were taken at face 
+
+value, the rate of trafficking victims per 100,000 would in the Netherlands be 100/76 (six/five 
+
+lists) times higher than in the United States, and 470/360 (six/five lists) times higher than in 
+
+Japan. Even assuming that the Netherlands would be faced with uniquely serious problems of 
+
+
+
+4 
+
+ 
+
+exploitation – an assumption for which there is no basis - these comparative statistics beggar 
+
+belief. More likely, the lower rates in the United States and Japan reflect a different level of 
+
+detection and recording of victims.  
+
+Within the European Union, the rates of identified victims per 100,000 reported to Europol 
+
+for 2012 vary between lows in Portugal (0.0), Germany (0.8) and Sweden (0.9) to highs in the 
+
+Netherlands (10.2), Bulgaria (7.9) and Romania (5.2) (Eurostat, 2015). As revealed 
+
+elsewhere, this variation reflects differences in defining, identifying and recording victims 
+
+rather than in their actual numbers (Van Dijk et al, 2014). The European rates show highly 
+
+diverging trends in the numbers of identified victims between 2010 and 2012 as well. These 
+
+changes over time too largely reflect changes in identification strategies and recording 
+
+policies rather than in the volume of the crime (Eurostat, 2015). In publications on numbers of 
+
+recorded crimes UNODC and Eurostat have warned against interpreting these statistics as 
+
+measures of the true volumes of crime. In recent years, Eurostat has refrained from publishing 
+
+statistics of identified victims per country altogether. Clearly, to monitor progress with SDG 
+
+Target 16.2, other international human trafficking statistics than the official figures of 
+
+recorded victims are urgently needed.  
+
+The estimation of statistics on undetected victims poses a formidable challenge, known in 
+
+criminology as the old problem of assessing the “hidden figure of crime”. Criminologists have 
+
+made headway with cracking the “hidden figures” through the conduct of annual surveys 
+
+among the public about personal or household experiences with common types of crime. 
+
+Examples of such surveys include the National Crime Victims Surveys in the United States 
+
+(Addington & Rennison, 2014), the National Crime Victims Survey of England and Wales 
+
+(Jansson, 2006), the National Safety Monitor in the Netherlands (Smit & van Dijk, 2014) and, 
+
+for comparative purposes, the International Crime Victims Surveys (Van Dijk, 2015). 
+
+UNODC has developed standards to implement large-scale victimization surveys and has 
+
+been supporting countries to undertake victimization surveys (UNODC-UNECE Manual on 
+
+Victimization Surveys, 2010). Surveys to explore the hidden figure of trafficking in persons 
+
+are more complex than general victimization surveys. Some have experimented with survey 
+
+methodology to collect data on forced labour, including trafficking in persons for forced 
+
+labour (ILO, 2012). Gallup International has designed and tested a standardized questionnaire, 
+
+which is used as module in its annual World Poll. In this questionnaire, respondents are asked 
+
+about forced labour victimization experiences of themselves or family members over the past 
+
+year. The first survey results in a sample of developing countries have revealed some 
+
+limitations. Unlike burglary or street mugging, the crime of human trafficking/forced labour 
+
+
+
+5 
+
+ 
+
+tends to be statistically rare, and more deeply “hidden” in the population at large. General 
+
+victimization surveys on common crimes produce victimization rates of, on average, 15 per 
+
+cent per year. The first surveys conducted by Gallup Int. and others produced prevalence rates 
+
+for non-sexual exploitation far below 1 per cent. The reliable estimation of annual changes in 
+
+this phenomenon per country will require large sample sizes, and concomitant budgets. Also, 
+
+with such small numbers of identified victims, little can be said about the nature of trafficking 
+
+cases or the characteristics of the victims. In the Western world the challenges are even bigger 
+
+since exploitation seems heavily concentrated among hard to find migrant workers, especially 
+
+in the case of labour exploitation (Zhang, 2012; Abraham & Van Dijk, 2017). To complicate 
+
+matters further, the first batch of Gallup surveys detected almost no cases of sexual 
+
+exploitation. Respondents seemed reluctant to report cases of sexual exploitation experienced 
+
+by themselves or family members. Data collection about sexual exploitation through 
+
+interviewing may prove to be very challenging in many countries if not impossible due to 
+
+endemic feelings of fear or shame among respondents. Measuring sexual exploitation, just 
+
+like measuring domestic violence through surveys, requires the use of highly trained 
+
+interviewers and special interview techniques, which will be hard to sustain on a large scale 
+
+across the world.  
+
+In conclusion, data on numbers of detected victims provide little or no information on the true 
+
+numbers of total victims and, when presented in a comparative perspective, can easily lead to 
+
+fundamentally flawed conclusions. Research using sample population surveys may cast light 
+
+on the true extent of forced labour in developing countries, but not on the volume of sexual 
+
+exploitation. With current methods, the SDG proposed indicator on numbers of victims, 
+
+disaggregated by sex, age and form of exploitation, is unlikely to be comprehensively 
+
+reported through survey research alone.  
+
+ 
+
+2 An international definition allowing a range of interpretations 
+
+In the past, efforts of the United Nations to collect international statistics on crime were 
+
+hampered by the lack of internationally recognized definitions of even the most common 
+
+types of crime such as household burglary, robbery and assault (United Nations, 1950). More 
+
+recently, the development of the International Classification of Crime for Statistical Purposes 
+
+(ICCS) has enhanced the collection of comparable crime data although it will take time for all 
+
+countries to fully implement the classification. Trafficking in persons is among the few types 
+
+of crime for which a treaty-based international definition exists.  
+
+
+
+6 
+
+ 
+
+Most national counter-trafficking legislation is largely based on recently adopted international 
+
+instruments, particularly the United Nations Protocol to Prevent, Suppress and Punish 
+
+Trafficking in Persons.2 This so-called Palermo Protocol, adopted in the year 2000, has to 
+
+date been ratified by 170 countries. Article 3(a) of the Palermo Protocol provides the basis for 
+
+much national legislation: ““Trafficking in persons” shall mean the recruitment, 
+
+transportation, transfer, harbouring or receipt of persons, by means of the threat or use of 
+
+force or other forms of coercion, [...], for the purpose of exploitation.” In this definition, one 
+
+recognizes a threefold structure: for trafficking in persons to be constituted it is necessary to 
+
+prove an act with a means and with a purpose of exploitation. The means used in the process 
+
+of trafficking can be non-violent in nature such as deception or abuse of a person’s position of 
+
+vulnerability. Furthermore, Article 3(b) of the Palermo Protocol states that consent on the part 
+
+of the victim is irrelevant if one of the means in Article 3(a) is used. Finally, Articles 3(c) and 
+
+3(d) of the Palermo Protocol codify that in the case of a victim younger than eighteen years, 
+
+there is no need to prove the use of a ‘means’.  
+
+Despite this widely shared definition, the national legal definitions of human trafficking (in 
+
+national criminal codes), and in particular their interpretations, still differ greatly between 
+
+countries (Aromaa, 2007; Dutch National Rapporteur, 2012; Esser and Dettmeijer-
+
+Vermeulen, 2016; Gallagher, 2010; UNODC, 2013; UNODC, 2014; UNODC, 2015). One of 
+
+the reasons might be that key aspects of the Palermo Protocol definition, including the 
+
+element of ‘purpose of exploitation’, are not uniformly interpreted and, therefore may not be 
+
+consistently applied in different jurisdictions (UNODC, 2013; UNODC, 2014; UNODC, 
+
+2015). Although the Palermo Protocol definition has been duly incorporated in the criminal 
+
+codes of a large number of countries, the international comparability of statistics on identified 
+
+human trafficking is still hampered by considerable variation in the national definitions and 
+
+interpretations.  
+
+Because this publication is about the estimated number of victims in the Netherlands, it is 
+
+important to reflect on the Dutch interpretation of the Palermo Protocol definition of human 
+
+trafficking. The Netherlands applies a relatively broad interpretation, both with regard to the 
+
+element ‘abuse of a position of vulnerability’ as well as with regard to the element of ‘purpose 
+
+of exploitation’ (Esser and Dettmeijer-Vermeulen, 2016). Therefore, it is to be expected that 
+
+the number of identified cases as well as the estimation of the total number of victims, is 
+
+                                                        
+2 Protocol to prevent, suppress and punish trafficking in persons, especially women and children, supplementing 
+
+the United Nations Convention against Transnational Organized Crime (available at: 
+
+http://www.unodc.org/unodc/en/treaties/CTOC/index.html) 
+
+
+
+7 
+
+ 
+
+higher than in countries with a more restrictive interpretation. Moreover, while the Dutch 
+
+definition (Article 273f of the Dutch Criminal Code (DCC) is predominantly based on the 
+
+Palermo Protocol, it is not solely based on it. Article 273f DCC includes aspects that are not 
+
+informed by the Palermo Protocol and are based on an older international instrument.3 For 
+
+instance Article 273f (1)(3) DCC considers the recruiting, taking or abducting of a person 
+
+with the intention of inducing that person to make himself or herself available for prostitution 
+
+in another country. Until recently, neither means nor the intention of exploitation was 
+
+required. However, in 2016 the Dutch Supreme Court ruled that the intention of exploitation 
+
+is actually a “latent” part of this subsection of the Dutch definition.4 This means that since this 
+
+ruling, the Dutch definition of human trafficking changed and has become narrower.5  
+
+National laws of other countries may contain similar (historical) peculiarities in their 
+
+definitions of human trafficking that go beyond the Palermo Protocol. This further 
+
+compromises international comparisons. 
+
+For reasons of international comparability, and because the particular type of trafficking 
+
+under Article 273f (1)(3) DCC is no longer upheld as human trafficking by the Supreme 
+
+Court in the Netherlands, this paper presents estimated numbers of victims both including and 
+
+excluding the victims of this particular type of trafficking (reported by the KMar, the Dutch 
+
+Border Police, see hereafter). 
+
+  
+
+3 National referral systems and multi - source datasets  
+
+As explained above, both the measurement of the hidden figures of human trafficking through 
+
+population surveys and the lack of uniformity in the definition of human trafficking, pose 
+
+formidable methodological challenges for the collection of international statistics on this type 
+
+of crime. On a more positive note, estimating the true volume of human trafficking is favored 
+
+by one unique feature of data collection on human trafficking victims, namely the 
+
+involvement of a variety of different institutions besides the police. This multi-agency 
+
+involvement flows directly from the victim-centeredness of the Palermo Protocol, which 
+
+stipulates that the fight against human trafficking must be equally focused on the arrest and 
+
+punishment of offenders and providing protection and assistance to victims. Victims of 
+
+human trafficking should be allowed to remain temporarily or permanently in the country 
+
+                                                        
+3 The International Convention for the Suppression of the Traffic in Women of Full Age (1933).  
+4 Supreme Court 17 May 2016, ECLI:NL:HR:2016:857. 
+5 Which emphasizes the prominent role of national judges in the interpretation of the trafficking definition (Esser 
+
+and Dettmeijer-Vermeulen, 2016) and the fact that national definitions of human trafficking are  not 
+
+univocal/comparable over time. 
+
+
+
+8 
+
+ 
+
+where they are identified and should be offered protection and assistance. This dual focus on 
+
+punishment and protection calls for the involvement of other organizations besides police and 
+
+border control in the identification of victims. As prescribed in the United Nations Model 
+
+Law against Trafficking in Persons, 6  governmental and non-governmental organizations 
+
+should play a supporting role in the identification of victims, enabling them to reach out to 
+
+victims and offer assistance to them independently of action by law enforcement authorities. 
+
+In Europe, national multi-agency referral and identification systems involving all relevant 
+
+actors have for years been promoted by, inter alia, the Organization for Security and 
+
+Economic Co-operation in Europe (OSCE/ODIHR, 2004). Consequently, in many Western 
+
+and Eastern European countries, national multi-agency systems of identifying and supporting 
+
+victims, known as National Referral Mechanisms (NRMs) have duly been put in place. For 
+
+example, in the United Kingdom, dedicated NGOs, municipal agencies and the police work 
+
+together to identify persons who are entitled to special services and protection as possible 
+
+victims of human trafficking. In the Netherlands, a coordinated approach to consistently 
+
+protect possible victims of human trafficking that have been identified by the different 
+
+relevant actors/organizations (like the National Police, the Royal Netherlands Marechaussee 
+
+[RNLM, in Dutch: KMar, further: the Border Police], NGOs, municipal institutions, et 
+
+cetera), has been in practice for years already. The formal establishment of an official NRM is 
+
+currently under development following the EU Directive on Human Trafficking and the 
+
+European Commission’s Strategy towards the Eradication of Trafficking in Human Beings 
+
+2012-2016, and subsequently the recommendation of the Dutch National Rapporteur on 
+
+Trafficking in Human Beings and Sexual Violence against Children (further: Dutch National 
+
+Rapporteur) (Dutch National Rapporteur, 2013).  
+
+The primary aim of multi-agency identification and referral mechanisms is to assure that all 
+
+victims, including those who are reluctant to cooperate with the police, are duly offered 
+
+protection and support. A positive side effect of such mechanisms is that their administrative 
+
+records can provide comprehensive statistics on all persons identified as victims by any of the 
+
+organizations in the country participating in an NRM or equivalent arrangement. In Europe, 
+
+Eurostat in its 2012 questionnaire on human trafficking specifically required Member States 
+
+to report on the organizations that provided data regarding registration of victims and to 
+
+indicate the procedures used to collect the data (Eurostat, 2015). In 2012, the police are the 
+
+principal source for the registration of victims in fifteen Member States. Six Member States 
+
+                                                        
+6 Available at: http://www.unodc.org/unodc/en/legal-tools/model-treaties-and-laws.html. 
+
+
+
+9 
+
+ 
+
+provided data originating from NGOs, three Member States from ‘Border Guards’ and two 
+
+from ‘Immigration Services’. ‘Labour Inspectors’ were reported in one Member State. The 
+
+category ‘Others’ as registration source included: 
+
+·  victim support units (Hungary), 
+
+·  prosecutors (Lithuania), 
+
+·  IOM-International Organization for Migration (Poland, the Netherlands, Romania), 
+
+·  social services (United Kingdom, Romania), 
+
+·  reception centres (Finland), 
+
+·  prisons (United Kingdom), 
+
+·  local authorities, regional councils (the Netherlands, United Kingdom). 
+
+ 
+
+The possibility that the same persons might be counted twice or more by different reporting 
+
+organizations complicates the collection of aggregated statistics. For example, in Germany 
+
+and Austria, the police and the NGO community maintain parallel data systems of the 
+
+numbers of victims they have identified. It is certain that many victims identified by the 
+
+police have received services from NGOs and vice versa, but the extent of the overlap is 
+
+unknown. For this reason, the numbers of victims recorded by the police and the NGOs 
+
+cannot be added up for a total count. The victims reported to Eurostat by Germany and 
+
+Austria are therefore derived from the databases of the national police only and miss out on 
+
+victims exclusively identified by NGOs.  
+
+In order to arrive at more comprehensive counts, controlling for double counting of the same 
+
+victims, the collation of data from all relevant sources has in many countries been 
+
+commissioned to single entities. Examples include the United Kingdom Human Trafficking 
+
+Centre (UKHTC) of the British Home Office, the government funded NGO Coordination 
+
+Centre for Trafficking in Human Beings (Dutch acronym: CoMensha) on behalf of the Dutch 
+
+National Rapporteur, the Centre for the Protection of Human Trafficking Victims in Serbia 
+
+and the Ministry of Interior in Romania. Units responsible for these statistics have for some 
+
+time promoted the use of unique identifiers in the data collected from the various contributing 
+
+organizations while safeguarding data protection standards.  
+
+Whereas the gathering of statistics on trafficking victims from different organizations was 
+
+initially seen as a factor complicating statistical analyses, the recording of persons belonging 
+
+to the same hidden population by different organizations now proves to be an asset for the 
+
+estimation of the dark figures. The existence of multiple lists of identified victims have in fact 
+
+become a useful tool to develop methodology based on the capture-recapture approach to 
+
+estimate total number of victims. In 2012, ILO researchers applied capture-recapture analysis, 
+
+using two teams of researchers identifying cases of forced labour from public sources, to 
+
+
+
+10 
+
+ 
+
+estimate the global numbers of forced labour victims at any time (ILO, 2012). However, 
+
+despite the fact that the methodology of this estimate was innovative in the context of human 
+
+trafficking at the time, there were still significant reservations (Dutch National Rapporteur, 
+
+2012; Gould, 2010). The Dutch National Rapporteur emphasized in this context the 
+
+importance of combining the substantive knowledge of professionals engaged in the fight 
+
+against human trafficking and statistical expertise (Dutch National Rapporteur, 2012), 
+
+especially on methods to estimate the scale of hidden populations. In 2014, at an expert 
+
+meeting on “Researching hidden populations: approaches to and methodologies for generating 
+
+data on trafficking in persons”, convened by UNODC, Prof Peter van der Heijden elaborated 
+
+on the potential of multi-source data systems for estimating the true numbers through various 
+
+techniques (Van der Heijden et al, 2015). He explained the advantages of using three or more 
+
+different registers in the estimation models, as practiced in MSE.  
+
+In 2014 a team of researchers under the leadership of Prof. Bernard Silverman, chief scientist 
+
+of the Home Office in London, actually applied MSE to the integrated multi-source dataset on 
+
+persons identified as possible victims of human trafficking in the United Kingdom in 2012 
+
+(Silverman, 2014; Bales et al, 2015). This exercise was replicated in the Netherlands with the 
+
+data CoMensha collected in 2014 on behalf of the Dutch National Rapporteur (Van Dijk and 
+
+van der Heijden, 2016). The following section first describes how MSE works, illustrated by 
+
+the British and Dutch studies just mentioned. Then the results of an MSE of the total number 
+
+of victims (detected and undetected) in the Netherlands are presented, disaggregated by age, 
+
+sex, form of exploitation and nationality per year for the period between 2010 and 2015 using 
+
+an integrated, multi-year dataset with four covariates provided by the Dutch National 
+
+Rapporteur. 
+
+ 
+
+4 The alternative of multiple systems estimation (MSE) 
+
+The statistical technique to estimate the volume of hidden populations, known as capture-
+
+recapture analysis, multiple systems analysis or multiple record systems analysis, was 
+
+originally developed by biologists to estimate animal populations. Although the precise 
+
+historical origins of the technique are disputed, Danish marine biologist Johannes Petersen 
+
+(1860-1928) is often credited with the early use of the capture-recapture method to estimate 
+
+the sizes of fish populations.  
+
+The quintessential idea to estimate the number of fish in a pond is as follows. One catches a 
+
+number of fish (say 100), tags them, and then throws them back into the same pond. Some 
+
+time later, one takes a new catch (say another 100) from the same pond, and counts how many 
+
+
+
+11 
+
+ 
+
+of the second catch are tagged, as being part of the returned original first catch. If the overlap 
+
+between the two catches is zero, or very small, this suggests that the population of fish in the 
+
+pond is much larger than 100. If the overlap is considerable, say 50, this suggests that the 
+
+population is smaller. The larger the overlap, the smaller the size of the fish population. If of 
+
+the 100 fishes in the second catch, 20 are tagged, it follows that tagged fishes in the pond had 
+
+a chance of one in five of being caught. Assuming that the non-tagged fishes have similar 
+
+catchment chances, the total number of fishes in the pond can be estimated at 500, of which 
+
+400 untagged. 
+
+The capture-recapture approach of biologists has translated into a well-known method for 
+
+estimating the size of a hidden human population using two independent recording systems 
+
+(or registers) which partially list its members. Linking the individuals in the two registers 
+
+allows for the estimation of the number of individuals that are not recorded in any of the 
+
+registers. For example, with two registers A and B, linkage gives a count of individuals in A 
+
+but not in B, a count of individuals in B but not in A, and a count of individuals in both A and 
+
+B. The counts form a contingency table denoted by A × B, with the variable labeled A being 
+
+short for “inclusion in register A” differentiating between the categories “yes” and “no,” and 
+
+likewise for register B. The statistical problem is to estimate the value in the cell “no, no”. An 
+
+estimate of the total population size is obtained by adding the estimated count of doubly 
+
+missed individuals to the counts of individuals found in at least one of the registers. 
+
+The capture-recapture method has been successfully applied to estimate the size of hidden 
+
+human populations by determining the overlaps between unique individuals appearing in 
+
+separate recording systems (or lists). Using such capture-recapture analysis, estimates have, 
+
+for example, been made of the numbers of casualties of human rights violations in Peru and 
+
+irregular migrants in the Netherlands (Lum, Price & Banks, 2013; Van der Heijden, et al,  
+
+2015).  
+
+Capture-recapture analysis depends on certain assumptions about the lists and the population 
+
+from which they are drawn. Arguably the most problematic condition to fulfill when using 
+
+recording systems of human individuals is the condition that recording systems are 
+
+independent of each other. In the case of records of persons, this assumption of independence 
+
+of lists is usually not met. For example, persons identified by law enforcement authorities as 
+
+possible victims of human trafficking are likely to be referred to social assistance programs, 
+
+and they consequently have a higher probability of being included in the recording systems of 
+
+the involved NGOs. In this case the inclusion in the list of a service provider is far from 
+
+independent from registration by the police. This is an example of positive dependence. Since 
+
+
+
+12 
+
+ 
+
+such positive dependence increases the overlap between the two lists, the number of the 
+
+unobserved population is consequently underestimated. In practice negative dependence may 
+
+also occur, for example, when inclusion in one register lowers the chance of being registered 
+
+in another register, which leads to an overestimation.  
+
+A promising approach to relax the condition of independence is to include a third register, or 
+
+multiple registers, and to analyze the three way, or multiple way contingency tables. With 
+
+three (or more) lists the independence assumption in the two-list case is replaced by the less 
+
+severe assumption that three (or more) factor interaction is absent. In official statistics, this 
+
+extension of the two-list capture-recapture method is known under the name of multiple 
+
+systems estimation (MSE).  
+
+In the United Kingdom, the obligation to identify presumed victims of human trafficking is 
+
+discharged by the NRM, a framework for identifying victims and ensuring they receive 
+
+appropriate protection and support. Its datasets are managed by the United Kingdom Human 
+
+Trafficking Centre (UKHTC) of the Home Office. The National Crime Agency (NCA) of the 
+
+Home Office collates data from various sources to produce Strategic Assessments of 
+
+presumed victims. In 2013, 2,744 unique presumed trafficking victims were identified. The 
+
+information about presumed victims came from a large number of separate source 
+
+organizations. This information can be summarized into five lists based on the source type:  
+
+• LA: Local Authority 
+
+• NG: Non-governmental organization  
+
+• PF: Police force/National Crime Agency 
+
+• GO: Government Organization (mostly Home Office agencies e.g. UK Border Force, 
+
+Gangmasters Licensing Authority)  
+
+• GP: The general public, through various routes 
+
+Of the 2,744 victims included in the 2013 database some appeared on two and a few on three 
+
+or four of the five lists. Table 1 shows the distribution of the identified victims over the five 
+
+lists.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+13 
+
+ 
+
+Table 1: Contingency table for the National Crime Agency Strategic Assessment data, 
+
+2013*  
+
+ 
+
+Source: Silverman (2014). 
+
+*Each column shows the number of cases which fall in the combination of lists indicated by the cells marked. 
+
+Columns corresponding to patterns which do not occur in the observed data are omitted. 
+
+ 
+
+The bottom row of Table 1 gives the numbers of presumed victims falling under each of the 
+
+possible categories. MSE allows an estimation of the number of individuals not appearing on 
+
+any of the lists, given the distribution of individuals in the contingency table. This is done by 
+
+assuming that each of the counts is derived from a Poisson distribution, a distribution for the 
+
+occurrence of rare events. A restrictive Poisson log-linear model is estimated for each of the 
+
+cells and the parameter estimates are projected on the cell with the non-appearing (or hidden) 
+
+individuals (Baillargeon & Rivest, 2007). With log-linear modeling, it is possible to assess how 
+
+much being on one particular list affects a person’s chances of being on another. Possible 
+
+interactions between lists can be detected, and controlled for in the estimates. The condition 
+
+of independence can therefore be relaxed.  
+
+Bales, Hesketh and Silverman (2015) fitted a log-linear model to the data in Table 1 which 
+
+allows for individual list effects, and also for interaction between lists. The estimated number 
+
+of victims was 11,304. The 95 per cent confidence interval for the actual population size was 
+
+estimated as between 10,000 to 13,000, including the 2,744 victims already known. This 
+
+suggests that the Strategic Assessment was aware of roughly 20 per cent to 30 per cent of all 
+
+possible victims in the UK in 2013. In round numbers, therefore, the dark figure is around 
+
+7,000 to 10,000.  
+
+There is a positive correlation between list LA and each of lists NG and PF, so that being 
+
+known to the local authority apparently increases the chance of being known to NGOs or the 
+
+police. This may reflect the existence of referral pathways for potential victims between these 
+
+agencies, in particular in relation to minors who, unlike adults, do not need to consent to 
+
+referral to the NRM, or joint operations between the local authorities and other agencies. The 
+
+upshot of the exploratory MSE carried out on the lists of the National Crime Agency is that 
+
+
+
+14 
+
+ 
+
+the true number of victims during 2013 is estimated at 11,300, or four times the numbers of 
+
+detected victims (2,744).  
+
+ 
+
+The case of the Netherlands 
+
+In the Netherlands, CoMensha has been appointed as the official registration organization of 
+
+all identified possible victims of human trafficking on behalf of the Dutch National 
+
+Rapporteur. Ideally, all possible victims identified by any organization or person in the 
+
+Netherlands should be reported to CoMensha. Institutions authorized to carry out criminal 
+
+investigations into human trafficking are: the National Police (comprising ten regional police 
+
+districts and one central police unit) coming across all forms of trafficking, the Border Police 
+
+typically coming across cross-border (sex) trafficking, and the Inspectorate Social Affairs and 
+
+Employment (Inspectorate SZW) typically coming across cases of labour exploitation. There 
+
+is no legal obligation for these institutions to report victims they have identified to CoMensha 
+
+but they are strongly urged to do so. In addition, designated regional coordinators and other 
+
+governmental as well as non-governmental institutions – such as organizations providing 
+
+services to victims/migrants/prostitutes specifically; organizations providing social or legal 
+
+services; and youth welfare agencies – are invited to report on all cases of presumed 
+
+victimization. Finally, concerned citizens (or even victims themselves) can identify possible 
+
+victims and report them to CoMensha directly. Although this system has been in place for 
+
+several years already, and reporting and registering has steadily improved, it can still not be 
+
+assumed that every identified possible victim in the Netherlands is always duly reported. In 
+
+order to report to CoMensha, the organizations/persons that come across potential victims 
+
+should (1) be capable of identifying possible victimization (be capable of recognizing and 
+
+interpreting signals); (2) be aware of CoMensha as the national registration organization; (3) 
+
+be willing to report to CoMensha/acknowledge the importance of reporting (youth welfare 
+
+agencies are much more reluctant to report to CoMensha than for example service providing 
+
+organizations specialized in human trafficking victims) and; (4) be able to report to 
+
+CoMensha (with regard to consent of the presumed victim to reporting, that is currently 
+
+required for privacy reasons, especially when it concerns minors). These are not constant 
+
+omnipresent factors, they vary per organization/person, per region, in time et cetera and might 
+
+constitute possible limitations in MSE-based estimation.   
+
+In the CoMensha registration covering 2014, a total of 1,561 uniquely defined cases were 
+
+registered once or more. In roughly one in eighteen cases, victims have been reported by more 
+
+than one organization, usually two, and in a few cases three. Many of the theoretically 
+
+
+
+15 
+
+ 
+
+possible combinations of two lists occurred. Using this contingency table, Van Dijk and Van 
+
+der Heijden (2016) applied log-linear models to estimate the dark figure of victims not 
+
+recorded on any of the lists. Six lists were used: P = National Police; K = Border Police; I = 
+
+Inspectorate SZW; R = regional coordinators; O = residential treatment centers and shelters; Z 
+
+= others (for example, ambulatory care centers, organizations providing legal services, 
+
+Immigration and Naturalization Service). A model search was carried out using the stepwise 
+
+selection procedure of the R-package STEP. This procedure is similar to well-known stepwise 
+
+regression analyses, that is, it starts with a simple model and includes significant and deletes 
+
+non-significant interaction terms between the lists until the fit of the model to the data is 
+
+deemed adequate.  
+
+In Table 2, the first five models are reported. The standard approach for goodness-of-fit 
+
+assessment of these models is to evaluate the chi-squared value based on the deviance in 
+
+combination with the degrees of freedom through the Aikake Information Criterion (AIC) or 
+
+the Bayesian Information Criterion (BIC). Considering the relatively large sample size of 
+
+1,561 cases, the  BIC was chosen, which better prevents overfitting. For the data at hand, the 
+
+goodness-of-fit assessment of the BIC model is still problematic because of the many empty 
+
+cells (there are no observations for certain combinations of registers), as a result of which the 
+
+chi-squared approximation does not hold. As an alternative, the parametric bootstrap was used 
+
+to simulate the chi-squared distribution, and determined the p-value of the model as percentile 
+
+in the simulated distribution. 20,000 random samples were simulated under the fitted model to 
+
+estimate the distribution of the Pearson chi-square, and took the percentile of the chi-square of 
+
+the fitted model as the p-value. For example, the third model in Table 2 (M3) has a chi-square 
+
+value of 66, and the Pearson values of approximately 2,600 simulated samples were larger 
+
+than this value, which corresponds to 13 per cent. This shows that the M3 fits adequately, 
+
+because 13 per cent is larger than the significance level of 5 per cent.   
+
+A first analysis looked at a model assuming independence of all lists (Model M1). This model 
+
+showed an inadequate fit (the p-value is smaller than .05).  In subsequent models, interactions 
+
+have been fitted between the residential treatment centers and shelters and others and between 
+
+the Inspectorate SZW and others. Models M2 and M3 showed better fits (with the latter 
+
+having a p-value above .05). Models fitting more interactions proved to be overfitting, that is, 
+
+they were more complicated than necessary to describe the data well which may result in 
+
+unstable estimates. The fit of model 3 is adequate (p = 0.130), and the p-values of models 4 
+
+and 5 are not substantially better. Therefore, model 4 and 5 were ignored. The preferred 
+
+
+
+16 
+
+ 
+
+model 3 was the model fitting the interactions between the residential treatment centers and 
+
+shelters and others (OZ) and between the Inspectorate SZW and others (IZ). 
+
+ 
+
+Table 2: Results of log-linear modelling of six lists of human trafficking victims in the 
+
+Netherlands, 2014  
+
+         Estim    Confidence Interv.  Pearson       p 
+
+M1. P,R,K,O,I,Z      10,542       (8,802  - 12,956)      577 .007 
+
+M2. P,R,K,OZ,I   15,711 (12,552  – 20,576) 226 .017 
+
+M3. P,R,K,OZ,IZ  17,812 (14,026  – 23,874) 66 .130 
+
+M4. R,K,OP,OZ,IZ  22,270    (16,871   –  32,275) 49 .175 
+
+M5. K,PR,OP,OZ,IZ  32,646    (22,299   –  56,048) 46 .173 
+
+Source: Van Dijk & van der Heijden, 2016. 
+
+ 
+
+As can be seen, the preferred model 3 gives an estimate of about 17,800 victims. These 
+
+17,800 victims include the 1,560 recorded by CoMensha. The estimate suggests that roughly 
+
+ten per cent of all victims were detected. Or, in other words, that there were approximately ten 
+
+times more victims present on the Dutch territory in the course of 2014 than those recorded. 
+
+The 95 per cent confidence interval ranges from approximately 14,000 to 24,000.  
+
+ 
+
+5 A model with six or five lists, four covariates and data from six years 
+
+As discussed above, one of the agreed global statistical indicators for SDG Target 16.2 to end 
+
+abuse, exploitation, trafficking and all forms of violence against and torture of children 
+
+consists of the number of victims of human trafficking per 100,000, disaggregated by sex, age 
+
+and form of exploitation. The proposed disaggregation serves, inter alia, to inform anti-human 
+
+trafficking policies. Victims of cross-border (sex) trafficking are typically identified by border 
+
+police units during transportation (while entering the Netherlands). During exploitation, 
+
+victims of sexual exploitation (Dutch or non-Dutch) are typically identified by special police 
+
+forces and service providing NGOs. Victims of forced labour are mostly identified by 
+
+Inspectorates for fair, healthy and safe working conditions or NGOs advancing migrant rights. 
+
+Underage victims can be detected by a variety of organizations including youth welfare 
+
+agencies. Ideally, each of these institutions needs to be informed about the total numbers of 
+
+victims, identified and non identified, and on the proportions of potential clients reached by 
+
+them.  
+
+
+
+17 
+
+ 
+
+The disaggregation of estimated numbers of undetected victims by gender, age, form of 
+
+exploitation and nationality does not only serve important policy purposes but can also, as 
+
+will be explained hereafter, improve the overall estimates themselves. A well-documented 
+
+complication of the MSE method is that the likelihood of persons to be listed or included can 
+
+vary across subgroups of the population. In the analogy of estimating numbers of fishes, some 
+
+species might have larger chances of getting caught than others. If these subgroups’ 
+
+probabilities are structurally different, the condition of homogeneity of inclusion chances is 
+
+violated. In such cases, estimates based on average probabilities might result in erroneous 
+
+estimates (Van der Heijden et al., 2012; Van der Heijden et al., 2015).  
+
+The phenomenon of human trafficking manifests itself in a multitude of different forms. Four 
+
+main types can be distinguished: internal trafficking for sexual exploitation, cross-border 
+
+trafficking for sexual exploitation, internal trafficking for non-sexual exploitation and cross 
+
+border trafficking for non-sexual exploitation.7 Each of these sub-types might have different 
+
+capture (inclusion) probabilities. For example, Dutch victims of sexual exploitation may have 
+
+different capture (inclusion) probabilities than non-Dutch victims of labour exploitation, 
+
+because, inter alia, different sets of organizations are involved in their identification (Kragten-
+
+Heerdink, Dettmeijer-Vermeulen & Korf, 2017).  
+
+The condition of homogeneous inclusion probabilities on at least one of the lists can be 
+
+approximated by stratification of the analysis according to relevant covariates. If, for 
+
+example, certain categories of victims are more likely to be recorded than others, estimates 
+
+can, and should, be made for each of these groups of victims separately (Van der Heijden et 
+
+al, 2012).  
+
+For policy purposes the CoMensha registration includes the covariates age, sex, form of 
+
+exploitation experienced by the victim (for example, sexual services, forced labour or forced 
+
+crime) and nationality. In the reports of the Dutch National Rapporteur the numbers of 
+
+victims presented are broken down by these variables. In the initial study using the 2014 data 
+
+on identified victims, the modeling did not, as presented above, include any covariate. The 
+
+                                                        
+7 Note that according to Kragten-Heerdink, Dettmeijer-Vermeulen & Korf (2017) the different types of 
+
+trafficking are based on the ‘form of exploitation’ (sexual or non-sexual) times the ‘route of trafficking’ based on 
+
+the country of recruitment and the country of exploitation (internal or – arrived/departed/traversed - cross-
+
+border). Because in the Netherlands the registration of the country of recruitment and the country of exploitation 
+
+is for the most part lacking, the route of trafficking is based on the nationality of the victims instead. This is 
+
+legitimate because Dutch victims are all/predominantly victims of internal trafficking and non-Dutch victims are 
+
+all/predominantly victims of cross-border trafficking. However, note that nationality/country of origin can only 
+
+determine the route of trafficking (internal or cross-border) in countries where cross-border trafficking 
+
+exclusively/predominantly involves cross-border trafficking from other countries to the country in question, i.e. 
+
+arrived cross-border trafficking (instead of (also) from the country in question to other countries, i.e. departed 
+
+cross-border trafficking). 
+
+
+
+18 
+
+ 
+
+present round of estimations of the total number of victims (detected and undetected), 
+
+incorporates in the log-linear models the covariates male/female, adult/minor, sexual 
+
+exploitation/other forms of exploitation and Dutch/non-Dutch. In order to increase the number 
+
+of cases and to explore changes over time of the estimated numbers of victims (detected and 
+
+undetected), data on presumed victims from six consecutive years, 2010 up to 2015 have been 
+
+incorporated. An integrated dataset with these variables was prepared by the Dutch National 
+
+Rapporteur.  
+
+As mentioned before (see 2: An international definition allowing a range of interpretations), 
+
+the Dutch definition of trafficking included a type of trafficking that is not informed by the 
+
+Palermo Protocol (under Article 273f (1)(3) DCC): the recruiting, taking or abducting of a 
+
+person with the intention of inducing that person to be  available for, in brief, prostitution, in 
+
+another country, while no means nor the intention to exploitation is required. Research into 
+
+the human trafficking case files of the Border Police conducted by the Dutch National 
+
+Rapporteur, showed that the victims reported to CoMensha by the Border Police 
+
+predominantly concern presumed victims of this particular type of trafficking (Nationaal 
+
+Rapporteur, 2014). To allow for better international comparisons, and because this type of 
+
+trafficking without the requirement of any means or the intention of exploitation, is no longer 
+
+upheld as human trafficking by the Supreme Court8 in the Netherlands, two MSE-based 
+
+models were developed. In the first analysis, all  8,2349 reported presumed victims in the 
+
+period 2010-2015 were included, and used the same six lists as before: P = National Police; K 
+
+= Border Police; I = Inspectorate SZW; R = regional coordinators; O = residential treatment 
+
+centers and shelters; Z = others (such as ambulatory care centers, organizations providing 
+
+legal services and Immigration and Naturalization Service). In the second analysis, the 
+
+presumed victims who were solely reported by the Border Police were excluded, and 
+
+therefore used five of the aforementioned six lists (excluding K = Border Police), concerning 
+
+6,935 reported presumed victims in the period 2010-2015. Figure 1 shows the trends in the 
+
+numbers of presumed victims reported to CoMensha by the six organizations just mentioned. 
+
+ 
+
+ 
+
+ 
+
+                                                        
+8 Supreme Court 17 May 2016, ECLI:NL:HR:2016:857. 
+9 In total 8,245 presumed victims were reported to CoMensha in 2010-2015 (Nationaal Rapporteur, 2016). 11 
+
+victims were excluded because the reporting organizations were not registered. 
+
+
+
+19 
+
+ 
+
+Figure 1: Numbers of presumed victims reported to CoMensha by six organizations or 
+
+sets of organizations during the years 2010-2015 
+
+ 
+
+ 
+
+Figure 1 shows at a glance that the National Police reported the largest part of all victims in 
+
+all years. The second feature that catches the eye is that the numbers reported by the National 
+
+Police peaked in 2011 and 2012 and the numbers reported by the Border Police in 2012. After 
+
+2012, the numbers reported by the National Police and by the Border Police have both moved 
+
+downwards.  
+
+ 
+
+In order to give further insight in the statistics underpinning the model, Table 3 presents  the 
+
+distribution of the 8,234 victims over the six lists, broken down to the occurring 
+
+combinations. In the far right column the frequencies are given for the 6,935 victims that were 
+
+not solely reported by the Border Police. 
+
+ 
+
+Table 3: Contingency table for CoMensha registration on presumed victims,* 2010-2015  
+
+I 
+
+(Inspector
+
+ate SZW) 
+
+K  
+
+(Borde
+
+r 
+
+Police) 
+
+O  
+
+(residential 
+
+centers/shelt
+
+ers) 
+
+P 
+
+(Nation
+
+al 
+
+Police) 
+
+R  
+
+(regional 
+
+coordinato
+
+rs) 
+
+Z 
+
+(other
+
+s) 
+
+frequen
+
+cy 
+
+(N=8,23
+
+4) 
+
+frequen
+
+cy 
+
+(N=6,93
+
+5) 
+
+        
+
+X  X X   4 4 
+
+X  X    1 1 
+
+X   X  X 4 4 
+
+X   X   18 18 
+
+X    X  3 3 
+
+X     X 16 16 
+
+
+
+20 
+
+ 
+
+X      352 352 
+
+ X X    1 - 
+
+ X  X   44 - 
+
+ X    X 4 - 
+
+ X     1,299 - 
+
+  X X X  2 2 
+
+  X X  X 7 7 
+
+  X X   59 59 
+
+  X  X  2 2 
+
+  X   X 57 57 
+
+  X    403 404 
+
+   X X X 1 1 
+
+   X X  82 82 
+
+   X  X 125 125 
+
+   X   4,466 4,510 
+
+    X X 2 2 
+
+    X  650 650 
+
+     X 632 636 
+
+398 1,348 536 4,812 742 848   
+
+ 
+
+*Each row shows the number of cases which fall in the combination of lists indicated by the cells marked. Rows 
+
+corresponding to patterns which do not occur in the observed data are omitted. 
+
+ 
+
+The cells in the bottom row of Table 3 show the totals recorded by each of the six sets of 
+
+organizations. By far the largest numbers are recorded by the National Police and the Border 
+
+Police. The cells in the column ‘frequency (N=8,234)’ show the total number of cases falling 
+
+into each of the occurring combinations. The largest categories of victims are those 
+
+exclusively listed by the National Police (4,466), the Border Police (1,299), the regional 
+
+coordinators (650), and others (632). The most common pairwise combinations were National 
+
+Police and others (125), National Police and regional coordinators (82), National Police and 
+
+residential centres/shelters (59), residential centres/shelters and others (57) and National 
+
+Police and Border Police (44).  
+
+It is noticeable that of the 1,348 cases reported by the Border Police, only 49, or 3.6 per cent, 
+
+have been co-recorded by another organization, mainly the National Police (44). There is little 
+
+overlap between the cases recorded by the Border Police and those recorded elsewhere. This 
+
+validates the aforementioned observation that the Border Police identifies and reports a 
+
+different type of trafficking than the other five reporting organizations; that is, a particular 
+
+type of trafficking that is not informed by the Palermo Protocol and is no longer upheld as 
+
+
+
+21 
+
+ 
+
+human trafficking by the Supreme Court in the Netherlands. Between 2010 and 2015, the 
+
+cases exclusively reported by the Border Police showed a pronounced curved trend. These 
+
+cases amounted to only 39 and 22 in 2010 and 2011 respectively. Thereafter they went up to 
+
+427 in 2012, 325 in 2013 and 314 in 2014. Subsequently they decreased to 172 in 2015. The 
+
+sudden rise in reported cases by the Border Police is explained by the fact that in 2012 the 
+
+Border Police considerably stepped up its efforts to identify presumed victims of the 
+
+aforementioned particular type of trafficking. The recent drop in 2015 has probably to do with 
+
+increased attention required by other established priorities (for example human smuggling) at 
+
+the expense of available capacity to identify signals of human trafficking (Nationaal 
+
+Rapporteur, 2016).  
+
+The model selection procedure was basically the same as for the models presented in Table 2. 
+
+The model search started with a simple model and included interaction terms until the fit of 
+
+the model to the data became adequate. As explained, this time the additional variables age 
+
+(L), sex (S), exploitation (U), nationality (N), and year (Q) were included. The variable Q 
+
+comprises 5 polynomial variables from the 1st to 5th degree, which model potential trends in 
+
+the main effects of and interactions between the registers and covariates over the years. The 
+
+missing values on the covariates age (256), sex (3), exploitation (689) and nationality (103) 
+
+were imputed using the EM algorithm (Van der Heijden, et al., 2009).  
+
+In the STEP procedure, the BIC was again preferred over the AIC as the selection criterion, 
+
+because of its protection against overfitting when the sample is relatively large, and an 
+
+additional restriction on the parameters of the model was imposed. Given that many pairs of 
+
+registers show little or no overlap over the six-year period (see Table 3), the 3-factor 
+
+interaction parameters for such pairs of registers and the variable Q with the five polynomials 
+
+for modelling trends over time are numerically unstable in the sense that they lead to highly 
+
+inflated population size estimates and confidence intervals. To protect against this type of 
+
+inflation, the restriction that only 2-factor interactions are allowed to enter the model was 
+
+imposed. This restriction implies that no corrections are made for possible higher order 
+
+interactions between the lists.  
+
+Evaluation of the fit of the selected model by empirically generating the distribution of the 
+
+Pearson chi-square statistic using the parametric bootstrap with 20,000 samples, shows that 
+
+the STEP procedure selects a model that may be underfitting: the p-value is .038. However, it 
+
+should be noted that the observed n is rather large with 8,234 or 6,935 cases, and it is well 
+
+known that with such large n even minor misspecifications make a test for model fit 
+
+
+
+22 
+
+ 
+
+significant. Therefore, the 5-per cent criterion is not rigorously applied, but rather, the current 
+
+model is chosen as its fit is adequate in the light of the large n. 
+
+ 
+
+The model with six lists (concerning 8,234 presumed victims) that was selected as the most 
+
+parsimonious one is presented in Table 4a, and the model with five lists (concerning 6,935 
+
+presumed victims) in Table 4b. 
+
+ 
+
+Table 4a: Parameters in the selected model with six lists 
+
+KP, KR, KZ, KO, RZ 
+
+IQ, KQ, OQ, RQ, ZQ, UQ, NQ,  
+
+IU, IL, IN, IS, KN, KS, KU, KL, OL, ZL, UN, ZN, ON, OZ, OU, PN, PU, RU 
+
+SL, SN, SU, LN, LU, PL, RL, OS, ZS 
+
+ 
+
+Table 4b: Parameters in the selected model with five lists 
+
+RZ 
+
+IQ, OQ, RQ, ZQ, UQ, LQ, 
+
+IU, IL, IN, IS, OL, ZL, UN, ZN, ON, OZ, OU, PN, PU, RU 
+
+SL, SN, SU, LN, LU, PL, RL, OS, ZS  
+
+ 
+
+The first row in both tables show the interactions between registers for which corrections have 
+
+been made. As explained, interactions between lists can be both positive and negative. Notice 
+
+that in Table 4a this part of the model is considerably more complicated than the model for 
+
+2014.10 This may simply be due to the fact that a larger number of observed cases makes it 
+
+easier to detect such interactions (n = 1,561 in 2014 versus n = 8,234 in 2010-2015) and the 
+
+inclusion of covariates. The model in Table 4b is similar to the model in Table 4a – it includes 
+
+the same interactions except of course the (negative) interactions between list K (Border 
+
+Police) and others – but does lead to slightly lower estimates for some years (see for example 
+
+Figure 2a and 2b).  
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                        
+10 See Van Dijk, J.J.M. and P.G.M. van der Heijden (2016), Research Brief. Multiple Systems Estimation for 
+
+estimating the number of victims of human trafficking across the world. Vienna: UNODC. 
+
+
+
+23 
+
+ 
+
+Results overall 
+
+Figure 2 (a and b) shows in black the trend in the total presumed victims recorded by 
+
+CoMensha and in red the total estimated numbers of victims. The 95 per cent confidence 
+
+interval around the estimates is depicted in shaded red. 
+
+ 
+
+Figure 2: Trends in observed presumed victims and estimated totals of presumed 
+
+victims in the Netherlands, 2010-2015 (a: based on model with six lists, b: based on 
+
+model with five lists)  
+
+ 
+
+In Figure 2a the numbers of observed presumed victims depicted at the bottom show a peak at 
+
+about 1,700 in 2012. The trend line of estimated total victims does roughly mirror the one in 
+
+observed cases. The trend lines, however, seem to show some divergences. Unlike the 
+
+observed numbers, the estimated numbers seem to have jumped up between 2010 and 2011. 
+
+The downward trend from 2012 onwards is steeper in the estimated numbers than in the 
+
+observed cases.  
+
+In Figure 2b the clear peak in observed presumed victims is absent, which means that this 
+
+peak in Figure 2a is the result of observed presumed victims of the particular type of 
+
+trafficking reported by the Border Police. However, in Figure 2b the trend line of the 
+
+estimated total seems to peak in 2011 and – as in Figure 2a - in 2012 (although the 2012 peak 
+
+is a bit lower: Figure 2a: about 8,700 versus Figure 2b: about 8,400). As opposed to the peak 
+
+in the observed number in 2012 (in Figure 2a), the peak in the estimated number in 2012 (in 
+
+both Figure 2a and 2b) is therefore probably not exclusively related to the inclusion of the 
+
+aforementioned particular type of trafficking reported by the Border Police. 
+
+
+
+24 
+
+ 
+
+As discussed, the earlier one-year model for 2014 without covariates produced an estimate of 
+
+17,800 with confidence intervals between 14,000 and 23,900. The new – fuller and more 
+
+complex - model estimates the totals of victims in 2014 at around 7,000. The new estimate is 
+
+considerably lower than the older estimate and falls outside its 95 per cent confidence 
+
+interval.  
+
+The difference is partly explained by the inclusion of more years in the model, which may 
+
+have smoothed the findings. The second probable explanation is the use of covariates in the 
+
+new model. This explanation was put to the test by replicating the six year model without 
+
+covariates. This simpler model produced estimates per year that indeed differed considerably 
+
+from those of the full model (see appendix A1 for results for all years). For the year 2014 the 
+
+new estimated number was 10,500. For this year the multi-year model without covariates 
+
+apparently produced a higher estimate than the fuller model.  
+
+ 
+
+Observed and estimated numbers 
+
+As shown in Table 5, the estimated numbers of presumed victims are five to six times higher 
+
+than the numbers of observed victims (see appendix A2 for full data). 
+
+ 
+
+Table 5: Ratio between estimated and detected victims, 2010-2015 
+
+ 2010 2011 2012 2013 2014 2015 
+
+Six lists 5.5 6.5 5.1 5.0 4.5 4.5 
+
+Five lists 5.8 7.0 6.6 6.4 5.4 5.1 
+
+ 
+
+Over the period of 2010-2015, the hidden figure of trafficking victims seems to have declined 
+
+somewhat according to both analyses.  
+
+An MSE using covariates provides insight in the ratios between estimated and observed 
+
+presumed victims per group. The ratios for 2010 up to 2015 for the subgroups of victims of 
+
+sexual exploitation and of non-sexual exploitation are shown in Tables 6 and 7 (see Appendix 
+
+A2). 
+
+ 
+
+Table 6: Ratio between estimated and detected victims of sexual exploitation, 2010-2015 
+
+ 2010 2011 2012 2013 2014 2015 
+
+Six lists 5.2 5.4 4.6 4.6 3.9 4.1 
+
+Five lists 5.6 6.0 6.2 6.1 4.9 4.8 
+
+ 
+
+
+
+25 
+
+ 
+
+Table 7: Ratio between estimated and detected victims of non-sexual exploitation, 
+
+2010-2015 
+ 2010 2011 2012 2013 2014 2015 
+
+Six lists 7.4 10.4 7.8 7.8 6.8 5.6 
+
+Five lists 7.6 11.0 8.2 8.1 7.0 5.7 
+
+ 
+
+On average, the ratios between estimated and observed cases were 1.6 (six lists) / 1.4 (five 
+
+lists) times higher for presumed victims of non-sexual as for those of sexual exploitation. In 
+
+other words, the hidden part of non-sexual exploitation, in the Netherlands mainly consisting 
+
+of labour exploitation, is 1.6/1.4 times higher than that of exploitation in the sex industry. 
+
+Figure 3 conveys the results graphically (observed cases represented by dotted lines). 
+
+ 
+
+Figure 3: Trends in observed presumed victims and estimated totals of presumed 
+
+victims in the Netherlands, 2010-2015 by form of exploitation (sexual/other) (a: based on 
+
+model with six lists, b: based on model with five lists) 
+
+  a       b 
+
+ 
+
+ 
+
+Figure 3 (a and b) conveys, first, that the numbers of estimated cases of sexual and non-sexual 
+
+exploitation seem to follow different trends. Cases of sexual exploitation show a curved trend 
+
+with a peak in 2012. Cases of non-sexual exploitation seem to have peaked in 2011. The 
+
+ratios between estimated and observed cases are consistently smaller for sexual exploitation 
+
+than for non-sexual exploitation over the years. 
+
+The trend lines of observed and estimated numbers of non-sexual exploitation in Figure 3a 
+
+correspond to those in Figure 3b. The lines for sexual exploitation show some differences. As 
+
+
+
+26 
+
+ 
+
+opposed to Figure 3a, the number of observed cases does not clearly peak in 2012 in Figure 
+
+3b. Furthermore, the number of estimated cases of sexual exploitation in 2011 seems higher in 
+
+Figure 3b than in Figure 3a. These estimated cases of sexual exploitation seem to peak in 
+
+2012 in both Figure 3a and 3b, although the peak in Figure 3b is a bit lower. 
+
+ 
+
+Next, possible differences between the ratios between estimated and observed cases for the 
+
+covariates of sex, age and nationality have been examined. In the model based on six lists the 
+
+relative dark figures of male victims are comparable to those of female victims (on average 1 
+
+out of 4.8 male victims is observed, and 1 out of 5.2 female victims). In the model based on 
+
+five lists however, the relative dark figure of female victims (1 out of 6.3 female victims is 
+
+observed) is higher than that of male victims (1 out of 4.9 male victims is observed). The 
+
+results also show that the ratios between estimated and observed cases are 1.7 (six lists) / 1.5 
+
+(five lists) times as high for underage victims as for adult victims. The victimization of minors 
+
+of both sexual and non-sexual exploitation seems to be more hidden than that of adults.11 
+
+Finally, the dark figure ratios for Dutch and non-Dutch nationals is considered separately. 
+
+These results show that non-Dutch victims are 2.8 (six lists) / 2.5 (five lists) times as likely to 
+
+be detected, or at least reported, than Dutch victims (for full results see appendix A2, A3, A4 
+
+and A5). 
+
+ 
+
+Estimations disaggregated by sex, age, form of exploitation and nationality 
+
+ 
+
+Before portraying the other key results in graphs, first, the breakdowns of the estimated total 
+
+numbers of victims by sex, age, form of exploitation and nationality are presented below in a 
+
+summary table (Table 8). In every cell, two numbers are presented: the first number 
+
+represents the estimate based on the model with six lists, and the second number, the estimate 
+
+based on five lists. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                        
+11 Since the numbers of victims in these subcategories of underage victims are very small, the results have not 
+
+been included. 
+
+
+
+27 
+
+ 
+
+Table 8: MSE-based estimates based on respectively six and five lists of the population 
+
+of presumed victims of human trafficking in the Netherlands in 2010-2015 (x 1000), 
+
+totals and disaggregated by year, sex, age, form of exploitation and nationality (first 
+
+figure refers to six list and second figure to five lists) 
+
+ 
+
+ female male minor adult sexual other     Dutch non-
+
+Dutch 
+
+total 
+
+2010 4.9/5.0 0.6/0.6 1.6/1.3 3.9/4.2 4.5/4.6 1.0/1.0 3.1/3.3 2.4/2.2 5.5/5.6 
+
+2011 6.5/7.1 1.4/1.3 2.0/1.9 5.9/6.5 5.3/5.6 2.7/2.8 3.7/4.6 4.2/3.8 7.9/8.4 
+
+2012 7.5/7.3 1.1/1.1 2.4/2.2 6.3/6.2 6.6/6.3 2.1/2.2 4.7/4.9 3.9/3.5 8.7/8.4 
+
+2013 6.4/6.3 0.8/0.8 2.1/2.6 5.1/4.5 5.7/5.6 1.5/1.5 4.4/4.4 2.8/2.7 7.2/7.1 
+
+2014 6.0/5.7 1.1/1.0 1.9/1.9 5.1/4.8 4.9/4.6 2.1/2.1 3.8/3.8 3.2/2.9 7.0/6.7 
+
+2015 5.0/4.8 1.0/1.0 1.7/2.1 4.2/3.8 4.0/3.8 2.0/2.0 3.4/3.3 2.5/2.6 5.9/5.8 
+
+ 
+
+The results given in Table 8 indicate a strong overrepresentation of females among the 
+
+estimated total numbers of victims in all years. Since 2012, the numbers of female victims 
+
+have declined as opposed to the number of males.  
+
+The estimated numbers of underage victims fluctuate around 2,000 per year (in both models). 
+
+Their proportion of the total is on average 28/29 per cent (six/five lists). 
+
+The estimated numbers of victims of non-sexual exploitation also centered around 2,000 in 
+
+the period 2012 – 2015. In these years, the proportion of victims of non-sexual exploitation 
+
+has increased somewhat (from 24 per cent (six lists) / 26 per cent (five lists) in 2012 to 33 per 
+
+cent (six lists) / 34 per cent (five lists) in 2015). Finally, it can be observed that Dutch victims 
+
+are in the majority with the exception of 2011 in the model with six lists when the numbers of 
+
+non-Dutch victims surpassed those of Dutch victims.  
+
+In comparison to the estimated numbers based on the model with six lists (the first numbers 
+
+given in each cell), the estimated numbers based on the model with five lists (the second 
+
+numbers) include, as from 2012, less females, adults, victims of sexual exploitation and non-
+
+Dutch victims (the latter with the exception of 2015). This corresponds to the fact that the 
+
+particular type of trafficking reported by the Border Police by definition concerns cross-
+
+border trafficking for sexual exploitation which involves predominantly female victims 
+
+(because of the required element of sexual exploitation), adults, and non-Dutch (because of 
+
+the required cross-border element). 
+
+ 
+
+
+
+28 
+
+ 
+
+Graphs with estimated rates  
+
+The following figures will graphically present the trends in estimated numbers of the various 
+
+subgroups defined by age, sex, form of exploitation and nationality (for absolute numbers see 
+
+appendices A2 to A5).  
+
+Figure 3, above, showed the separate trends for sexual and non-sexual exploitation. These will 
+
+not be repeated. Figure 4 depicts the trends in female and male victims. The distribution 
+
+according to gender roughly resembles that of form of exploitation, with few male victims of 
+
+sexual exploitation. The 95 per cent confidence intervals are shown in shaded colours. 
+
+ 
+
+Figure 4: Trends in estimated totals of presumed victims in the Netherlands, 2010-2015 
+
+by sex (female/male) (a: based on model with six lists, b: based on model with five lists) 
+
+ 
+
+As expected, the trend lines in both Figure 4a and 4b of female victims closely resemble the 
+
+ones for sexual exploitation. The estimated numbers of female victims seem to have peaked in 
+
+2012 and thereafter gradually declined to the 2010-level in 2015. The estimated numbers of 
+
+male victims seem to have remained fairly stable over the years, although the trend lines in 
+
+both models show a peak in 2011 that relates to the estimated cases of non-sexual exploitation 
+
+(see Figure 3a and 3b). 
+
+The trend line of male victims in Figure 4a corresponds to that in Figure 4b.  The trend lines 
+
+of females, however, show some differences. In Figure 4b the number of estimated females 
+
+seems higher, and as expected, in comparison to Figure 4a, Figure 4b shows, as from 2012 
+
+somewhat fewer female victims.    
+
+Figure 5 shows the separate trends in estimated numbers of adult and underage victims. 
+
+
+
+29 
+
+ 
+
+Figure 5: Trends in estimated totals of presumed victims in the Netherlands, 2010-2015 
+
+by age (minor/adult) (a: based on model with six lists, b: based on model with five lists) 
+
+ 
+
+On average, underage victims make up at least a quarter of all victims in both models, varying 
+
+between 26 per cent in 2011 and 29 per cent in 2010, 2013 and 2015 based on the model with 
+
+six lists, and between 23 per cent in 2011 and 37 per cent in 2013 based on the model with 
+
+five lists. The trend lines of estimated numbers of adult victims roughly mirror the curved 
+
+trend in victims of sexual exploitation discussed above. The trends in underage victims seem 
+
+to show less variation. 
+
+The two trend lines in Figure 5a largely correspond to those in Figure 5b, with the exception 
+
+that adults peak in 2011 according to Figure 5b, instead of in 2012 (as in Figure 5a), and 
+
+minors peak in 2013 according to Figure 5b, instead of in 2012 (as in Figure 5a). As expected, 
+
+in comparison to Figure 5a, Figure 5b shows, as from 2012 somewhat fewer adult victims.    
+
+The next figures (Figure 6a and 6b) show the results for the four demographic subgroups 
+
+defined by the covariates of sex and age.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+30 
+
+ 
+
+Figure 6 Trends in estimated totals of presumed victims in the Netherlands, 2010-2015, 
+
+by sex (female/male) and age (minor/adult) (a: based on model with six lists, b: based on 
+
+model with five lists) 
+
+The disaggregation by age and sex reveals that both adult and underage victims of human 
+
+trafficking are predominantly female. The trend line of adult females confirms the now 
+
+familiar curve with peaks in 2011 (five lists) and, 2012 (six lists). As expected, in comparison 
+
+to Figure 6a, Figure 6b shows as from 2012 somewhat fewer adult females. The numbers of 
+
+girls also seem to have peaked in 2012 in the model with six lists, but based on the model 
+
+with five lists in 2013, as opposed to adult females. The subcategories of males seem to have 
+
+stayed fairly stable over the years, although the trend lines of adult males in both models seem 
+
+to show a peak in 2011 that relates to the peak of estimated cases of non-sexual exploitation 
+
+(see Figure 3a and 3b). 
+
+Figure 7 shows the results for the subgroups defined by sex and form of exploitation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+31 
+
+ 
+
+Figure 7 Trends in estimated totals of presumed victims in the Netherlands, 2010-2015 
+
+by sex (female/male) and form of exploitation (sexual/other) (a: based on model with six 
+
+lists, b: based on model with five lists) 
+
+ 
+
+Figure 7 confirms that female victims of sexual exploitation make up the bulk of all victims in 
+
+all years and seem to have peaked in 2012. The estimations indicate that the victims of 
+
+sexual exploitation are rarely males (only 5 per cent in both models). Numbers of such 
+
+victims, represented by the blue line, seem to have remained at a very low level in all years. 
+
+Male and female victims of non-sexual exploitation seem to show very similar trend lines, 
+
+with a peak in 2011 (which relates to Figure 3a and 3b). 
+
+As expected, in comparison to Figure 7a, Figure 7b shows, as from 2012, somewhat fewer 
+
+female victims of sexual exploitation. 
+
+Figure 8 depicts the separate trends in estimates of victims of sexual and non-sexual 
+
+exploitation disaggregated by age.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+32 
+
+ 
+
+Figure 8 Trends in estimated totals of presumed victims in the Netherlands, 2010-2015 
+
+by age (minor/adult) and form of exploitation (sexual/other) (a: based on model with six 
+
+lists, b: based on model with five lists) 
+
+ 
+
+Figure 8 shows that the estimated numbers of the four categories of victims defined by age 
+
+and form of exploitation each followed somewhat different trends. Estimated adult victims of 
+
+sexual exploitation, mostly comprising females, seem to have peaked in 2012 and adult 
+
+victims of non-sexual exploitation in 2011 (which relates to Figure 3a and 3b). The numbers 
+
+of estimated underage victims of both sexual and non-sexual exploitation, for example, 
+
+trafficking for criminal activities or forced begging, seem to show less pronounced changes 
+
+over time since 2010. However, both trend lines in Figure 8a seem to follow those of adult 
+
+victims in a somewhat flattened way: underage victims of sexual exploitation show a small 
+
+peak in 2012 (also relating to the peak of girls in Figure 6a), and underage victims of non-
+
+sexual exploitation in 2011.  
+
+As expected, in comparison to Figure 8a, Figure 8b shows, as from 2012, somewhat fewer 
+
+adult victims of sexual exploitation. 
+
+ 
+
+Estimations disaggregated by nationality 
+
+As explained, the estimation model included the covariates mentioned in the relevant 
+
+indicator of the SDG Target 16.2 (age, sex and form of exploitation). In the Netherlands a 
+
+large part of presumed victims of sexual exploitation recorded in recent years are Dutch 
+
+victims of internal trafficking for sexual exploitation (Nationaal Rapporteur, 2016). For the 
+
+reasons mentioned before, the Dutch National Rapporteur suggested to include as fourth 
+
+covariate the dichotomous variable Dutch nationals/non-Dutch nationals. Figure 9 shows the 
+
+
+
+33 
+
+ 
+
+observed and estimated numbers of presumed victims for the years 2010-2015 disaggregated 
+
+by nationality (for details see Appendix A4).  
+
+ 
+
+Figure 9 Trends in estimated totals of presumed victims in the Netherlands, 2010-2015 
+
+by nationality (Dutch/non-Dutch) (a: based on model with six lists, b: based on model 
+
+with five lists) 
+
+ 
+
+Figure 9 shows that the estimated numbers of presumed victims with Dutch nationality seem 
+
+to have peaked in 2012, which relates to sexual exploitation (see Figure 3a and 3b). This 
+
+confirms the assumption mentioned before (below Figure 2), about the peak in 2012 not being 
+
+(exclusively) related to the particular type of trafficking reported by the Border Police 
+
+(concerning female, adult, non-Dutch victims of trafficking for sexual exploitation). Instead, 
+
+it turns out to be mostly related to (female) Dutch victims (of sexual exploitation). The 
+
+numbers of estimated victims with non-Dutch nationality show the by now familiar peak in 
+
+2011 (and 2012), relating to non-sexual exploitation (see Figure 3a and 3b).  
+
+As expected, in comparison to Figure 9a, Figure 9b shows somewhat fewer non-Dutch 
+
+victims (except for 2015).  
+
+Figure 10 shows the trends in the four categories defined by the variables nationality and form 
+
+of exploitation. 
+
+ 
+
+ 
+
+
+
+34 
+
+ 
+
+Figure 10 Trends in estimated totals of presumed victims in the Netherlands, 2010-2015 
+
+by sex (female/male) and nationality (Dutch/non-Dutch) (a: based on model with six 
+
+lists, b: based on model with five lists) 
+
+ 
+
+The results indicate that the estimated numbers of Dutch victims peaked in 2012 whereas the 
+
+non-Dutch victims peaked in 2011 (and 2012) (see Figure 9). This finding highlights the 
+
+peaking of the numbers of Dutch female victims in 2012 and of non-Dutch female victims in 
+
+2011 and 2012. The numbers of non-Dutch male victims also seem to have peaked in 2011, 
+
+thereby contributing to the overall peak of non-Dutch victims in that year. 
+
+As expected, in comparison to Figure 10a, Figure 10b shows somewhat fewer non-Dutch 
+
+female victims.  
+
+Figure 11 shows the results for Dutch victims of sexual exploitation, non-Dutch victims of 
+
+sexual exploitation, Dutch victims of other forms of exploitation and non-Dutch victims of 
+
+other forms of exploitation.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+35 
+
+ 
+
+Figure 11 Trends in estimated totals of presumed victims in the Netherlands, 2010-2015 
+
+by form of exploitation (sexual/other) and nationality (Dutch/non-Dutch) (a: based on 
+
+model with six lists, b: based on model with five lists) 
+
+ 
+
+The results in Figure 11a show that Dutch victims of sexual exploitation seem to have peaked 
+
+in 2012, non-Dutch victims of sexual exploitation in 2012 and non-Dutch victims of non-
+
+sexual exploitation in 2011. Figure 11b shows similar trends, and as expected somewhat 
+
+fewer non-Dutch victims of sexual exploitation. 
+
+Finally, below are the breakdowns of the estimated numbers by age and nationality. 
+
+ 
+
+Figure 12 Trends in estimated totals of presumed victims in the Netherlands, 2010-2015 
+
+by age (minor/adult) and nationality (Dutch/non-Dutch) (a: based on model with six 
+
+lists, b: based on model with five lists) 
+
+ 
+
+
+
+36 
+
+ 
+
+The results show that adult non-Dutch victims seem to have peaked in 2011 (and 2012), and 
+
+according to the model based on six lists, Dutch victims (both adults and minors) in 2012. 
+
+According to the model based on five lists, however, adult Dutch victims seem to have 
+
+peaked in 2011 (and 2012) and minor Dutch victims in 2013 (just as minors in Figure 5b, 
+
+minor females in Figure 6b and minor victims of sexual exploitation in Figure 8b). As 
+
+expected, in comparison to Figure 12a, Figure 12b shows, as from 2012, somewhat fewer 
+
+non-Dutch adults. 
+
+ 
+
+6 Conclusions and discussion 
+
+The present study builds on the exploratory multiple systems estimation (MSE) by Silverman 
+
+and Bales of the total numbers of presumed victims in the United Kingdom in 2013 based on 
+
+data collected by various organizations, and the exploratory estimation of the numbers of 
+
+presumed victims in the Netherlands recorded in 2014 (Van Dijk and van der Heijden, 2016). 
+
+In the Netherlands, data on presumed victims are systematically reported by both involved 
+
+state agencies and relevant NGOs to the NGO CoMensha on behalf of the Dutch National 
+
+Rapporteur on Trafficking in Human Beings and Sexual Violence against Children. In the 
+
+Dutch context, the concept of a presumed victim is defined as a person showing any signs of 
+
+having possibly been trafficked/exploited, according to the broad definition of trafficking 
+
+applied in the Netherlands. Persons with such status are entitled to special services and, when 
+
+irregularly on the territory, protection from expulsion. 
+
+In order to make the estimates more robust, firstly, all presumed victims identified by 
+
+different organizations and reported to CoMensha over a period of six consecutive years have 
+
+been included (2010-2015). In total six different groups of organizations (lists) reported to 
+
+CoMensha, among which the Border Police. The presumed victims reported by the Border 
+
+Police concern presumed victims of a particular type of trafficking that is not informed by the 
+
+Palermo Protocol. Moreover, this type of trafficking is no longer upheld as human trafficking 
+
+by the Supreme Court in the Netherlands. For these reasons, two log-linear models have been 
+
+fitted: one including those reported by the Border Police (based on six lists, concerning 8,234 
+
+presumed victims), and one excluding those exclusively reported by the Border Police (based 
+
+on five lists, concerning 6,935 presumed victims).  
+
+Secondly, to enhance the robustness of the estimates they have been stratified for covariates 
+
+with possibly different inclusion chances, namely age (minor/adult), sex (female/male), form 
+
+of exploitation (sexual/other) and nationality (Dutch/non-Dutch). The incorporation of these 
+
+covariates allows the calculation of one of the official indicators for SDG Target 16.2, namely 
+
+
+
+37 
+
+ 
+
+(16.2.2) the number of victims per 100,000 inhabitants disaggregated by sex, age and form of 
+
+exploitation. In addition, the model allows the calculation of estimated numbers of Dutch and 
+
+non-Dutch victims. 
+
+The key finding of this analysis is that in 2014 and 2015, the most recent years for which 
+
+records are available, the total number of presumed victims of human trafficking in the 
+
+Netherlands was approximately 6,500 (six lists) / 6,250 (five lists) per year. Expressed as 
+
+rates per 100,000 population, the rate of presumed victims is about 38/37 (six/five lists) per 
+
+100,000 inhabitants per year.12  
+
+Disaggregated rates for sex, age and nationality should be calculated not per 100,000 
+
+inhabitants but per 100,000 inhabitants of the relevant population groups. The rates per year 
+
+(based on the estimates for 2014 and 2015) are 32/29 victims (six/five lists) per 100,000 adult 
+
+Dutch females and 1 per 100,000 adult Dutch males (in both models).13 Assuming that no or 
+
+very few victims of human trafficking in the Netherlands are younger than 12 years of age, 
+
+the victimization rates of minors are: 235/257 (six/five lists) per 100,000 Dutch girls (between 
+
+12-17 years old) and 14 (in both models) per 100,000 Dutch boys (between 12-17 years 
+
+old).14 The rate of non-Dutch (legal or illegal) residents is 326/311 (six/five lists) victims per 
+
+100,000, or about fifteen/fourteen (six/five lists) times higher than for Dutch nationals (22 in 
+
+both models) per 100,000).15 
+
+ 
+
+                                                        
+12 According to Statistics Netherlands (in Dutch: CBS), in 2015 there were 16,900,726 legal residents with a 
+
+Dutch or a non-Dutch nationality in the Netherlands and Van der Heijden, Cruyff and van Gils (2015) estimated 
+
+that there were about 35,530 illegal residents in the Netherlands in the twelve month period July 2012 up to and 
+
+including June 2013: which makes an estimated total of 16,936,256 residents (Dutch and non-Dutch, legal and 
+
+illegal).  
+13 According to Statistics Netherlands, in 2015 there were 16,053,457 legal residents with a Dutch nationality in 
+
+the Netherlands (victimization rate of 22/22 (six/five lists) per 100,000 of the total Dutch population), of which 
+
+12,750,976 adults (victimization rate of 17/15 (six/five lists) per 100,000 of the total adult Dutch population): 
+
+6,486,646 females and 6,264,330 males. 
+14 According to Statistics Netherlands, in 2015 there were 1,178,462 minors of twelve years or older with a 
+
+Dutch nationality in the Netherlands (victimization rate of 122/133 (six/five lists) per 100,000 Dutch minors of 
+
+twelve years or older, which is seven/nine (six/five lists) times higher than for Dutch adults): 576,043 girls and 
+
+602,419 boys.   
+15 According to Statistics Netherlands, in 2015 there were 847,269 legal residents with a non-Dutch nationality 
+
+in the Netherlands and Van der Heijden, Cruyff and van Gils (2015) estimated that there were about 35,530 
+
+illegal residents in the Netherlands in the twelve month period July 2012 up to and including June 2013: which 
+
+makes an estimated total of 882,799 legal and illegal non-Dutch residents. Furthermore, there are about 754,259 
+
+legal and illegal non-Dutch adult residents (victimization rate of 331/306 (six/five lists) per 100,000), of which 
+
+376,373 females and 377,886 males (victimization rates of 481/430 (six/five lists) per 100,000 legal and illegal 
+
+non-Dutch adult females, and 183/182 (six/five lists) per 100,000 legal and illegal non-Dutch adult males), and 
+
+about 39,343 legal and illegal non-Dutch minors of twelve years or older (victimization rate of 954/1129 
+
+(six/five lists) per 100,000), of which 18,835 girls and 20,508 boys (victimization rates of 1,205/1,436 (six/five 
+
+lists) per 100,000 legal and illegal non-Dutch girls of twelve years or older, and 724/846 (six/five lists) per 
+
+100,000 legal and illegal non-Dutch boys of twelve years or older). 
+
+
+
+38 
+
+ 
+
+In all years, female victims of sexual exploitation made up the largest part of the estimated 
+
+total numbers of victims of human trafficking. However, these numbers seem to have 
+
+somewhat declined since 2012. Almost all victims of sexual exploitation are females (on 
+
+average 95 per cent in both models), and even the majority of victims of non-sexual 
+
+exploitation are females (on average about 60 per cent is female in both models). The 
+
+estimates indicate that male victims in the Netherlands are mostly victims of non-sexual 
+
+exploitation. Only about a quarter of all males are victims of sexual exploitation, and they 
+
+seem to account for only 5 per cent of all victims of sexual exploitation. However, since there 
+
+is only a small number of observed male victims of sexual exploitation, the estimate for this 
+
+subgroup has relatively large margins of error. 
+
+Furthermore, it is concluded that underage victims make up more than a quarter of the total 
+
+number of victims. The estimated number of (Dutch and non-Dutch) minors victimized by 
+
+either sexual or non-sexual exploitation is in 2014 and 2015, at 149/165 (six/five lists) per 
+
+100,000 persons in the age group of 12-17 years, staggeringly high. Finally, the study showed 
+
+that in recent years among presumed victims of human trafficking Dutch nationals are in the 
+
+majority.  
+
+ 
+
+Interpreting trends 
+
+The estimates of the total numbers of presumed victims during 2010-2015 show a curved 
+
+trend. The numbers jumped from about 5,500 in 2010 (both models) to 7,900/8,400 (six/five 
+
+lists) in 2011 and reached a plateau at 8,700/8,400 (six/five lists) in 2012. Thereafter the 
+
+numbers dropped to 7,200/7,100 (six/five lists) in 2013, 7,000/6,700 (six/five lists) in 2014 
+
+and 5,900/5,800 (six/five lists) in 2015. This curved trend roughly mirrors the movement in 
+
+recorded victims including the victims reported by the Border Police (see Figure 2a). Note 
+
+that the numbers of recorded victims excluding the victims exclusively reported by the Border 
+
+Police, present a more or less steady line, without clear peaks. The apparent estimated peaks 
+
+in 2011 and 2012 based on these observed cases (model with five lists) therefore do not 
+
+mirror the number of recorded victims excluding the victims exclusively reported by the 
+
+Border Police (see Figure 2b).  
+
+The increase in the estimated number of victims in 2011 (in both models) seems for a large 
+
+part (48 per cent/40 per cent) related to an increase in the estimated number of adult, non-
+
+Dutch victims of non-sexual exploitation, both females and males.  
+
+The peak in the estimated number in 2012 based on the model with six lists seems only to a 
+
+limited extent accounted for by an increase in female, adult, non-Dutch victims of sexual 
+
+
+
+39 
+
+ 
+
+exploitation.  Female Dutch victims of sexual exploitation (both minors and adults) seem to 
+
+be mostly accountable for the estimated increase in 2012. Also, in the model with five lists, 
+
+female Dutch victims of sexual exploitation (both minors and adults) seemed to increase. 
+
+However, this did not result into a considerable increase in the total number of victims in this 
+
+year, for this increase did not (as opposed to the model with six lists) surpass the decrease in 
+
+the number of victims of non-sexual exploitation. 
+
+ 
+
+In conclusion 
+
+The most recent available estimates of the total number of presumed victims of human 
+
+trafficking in the Netherlands are the ones for 2014 and 2015, namely 7,000/6,700 (six/five 
+
+lists) and 5,900/5,800 (six/five lists) respectively, or approximately 6,500/6,250 (six/five lists) 
+
+victims on average per year, as discussed above.  
+
+Since respectively 1,561/1,247 (six/five lists) and 1,321/1,149 (six/five lists) presumed 
+
+victims were recorded in 2014 and 2015, this means that the estimated totals in the 
+
+Netherlands of approximately 7,000/6,700 (six/five lists) and 5,900/5,800 (six/five lists) are 
+
+four to five times higher than the recorded numbers (see Appendix A2 for details).  
+
+ 
+
+Dark figure ratios 
+
+MSE using models with covariates provides insight in the ratios between estimated and 
+
+observed victims of the different subgroups. The findings reveal that this ratio is, consistently 
+
+over the years, considerably higher for cases of non-sexual exploitation than for sexual 
+
+exploitation (Appendix A2). Cases of non-sexual exploitation, in the Netherlands mainly 
+
+consisting of labour exploitation in agriculture, the leisure industry, construction or the 
+
+domestic sphere, are apparently more hidden than exploitation in the sex industry. The results 
+
+also show that the exploitation of minors is in general less likely to be recorded than that of 
+
+adults (Appendix A3). The policy implication of these results on the differential hidden 
+
+figures is that the relevant organizations, notably the Inspectorate SZW and youth welfare 
+
+agencies in the country, should step up their efforts to detect and report cases of labour 
+
+exploitation and the exploitation of minors respectively. Finally, the results indicate lower 
+
+detection rates for Dutch nationals than for non-Dutch nationals. This finding calls for 
+
+sustained efforts of, inter alia, the Dutch police to detect cases of internal trafficking for 
+
+sexual exploitation of Dutch women and girls. 
+
+ 
+
+ 
+
+
+
+40 
+
+ 
+
+The way forward 
+
+The inclusion of covariates such as age, sex, form of exploitation and nationality is 
+
+recommended for policy reasons. Anti-trafficking policies should ideally be informed by data 
+
+on the separate trends in various sub categories of human trafficking and in trends in the 
+
+varying detection rates/dark figure ratios per category.  
+
+The breakdowns according to form of exploitation (sexual or non-sexual) and route of 
+
+trafficking (internal or cross-border) – in the case of the Netherlands determined by 
+
+nationality 16  – offer the possibility to improve international comparisons of estimated 
+
+numbers by equalizing the definition of trafficking victims in these respects. If, for example, a 
+
+country excludes victims of internal trafficking from its definition, both its recorded and 
+
+MSE-estimated numbers of victims will be relatively low compared to those of other 
+
+countries which cover exploitation of nationals. MSE cannot control for the use of widely 
+
+divergent definitions of presumed or identified victims. International comparisons could be 
+
+restricted to a common denominator such as the estimated numbers of victims of cross-border 
+
+trafficking for sexual exploitation. Although such post hoc corrections in comparative MSE 
+
+estimates seem feasible to some extent, further harmonization of definitions of human 
+
+trafficking should remain a priority in future efforts to produce comparable international 
+
+statistics regarding SDG Target 16.2 (Van Dijk & Van der Heijden, 2016). 
+
+The inclusion of covariates where available is also important to increase the robustness of the 
+
+overall estimates per country. The current estimate for 2014 of 7,000 (six lists) victims in the 
+
+Netherlands is considerably lower than the older estimate of 17,800 based on a one-year 
+
+model without covariates (also based on six lists). A replication of the new, multi-year model 
+
+without covariates also produced an estimate for 2014 considerably above 7,000.17 These 
+
+diverging findings suggest that inclusion of covariates such as age, sex, form of exploitation 
+
+and nationality does, as expected, lead to different and more accurate estimates. The multi-
+
+year results also show that estimates based on models incorporating covariates are more stable 
+
+over time. For technical reasons inclusion of these covariates is therefore to be recommended 
+
+in future MSE-based estimations of the numbers of trafficking victims to the extent that the 
+
+available numbers of recorded cases allow for it.  
+
+                                                        
+16 Note that nationality/country of origin can only determine the route of trafficking (internal or cross-border) in 
+
+countries where cross-border trafficking exclusively/predominantly involves cross-border trafficking from other 
+
+countries to the country in question (instead of (also) from the country in question to other countries). 
+17 The estimates of a model without covariates are consistently different from those of more complex models, 
+
+though not necessarily always higher (see appendix A1). 
+
+
+
+41 
+
+ 
+
+The results also suggest that the use of larger, multi-year samples, although complicating the 
+
+fitting of the models, ultimately produces more robust results. In countries were no historical 
+
+data are available, multi-year models can be developed incrementally by replicating MSE 
+
+studies in the future. 
+
+The overall recommendation for future studies is to use, where possible, multi-year datasets 
+
+with the covariates age, sex, and form of exploitation. In countries where both nationals and 
+
+non-nationals are subject of anti-trafficking policies, the covariate of nationality should also 
+
+be included. A requirement for the use of such complex models seems to be the availability of 
+
+relatively large datasets. When using large datasets, the use of BIC for model selection and 
+
+bootstrapping is recommended for assessing the goodness-of-fit of the models. In the 
+
+goodness-of-fit assessment the requirement that p-values are higher than 0.05 can be relaxed 
+
+in order to avoid overfitting.  
+
+ 
+
+  
+
+
+
+42 
+
+ 
+
+References 
+
+Abraham, M. & J.J.M.van Dijk (2017), Measuring Forced Labour Victimization among 
+
+Bulgarians in the Netherlands, a pilot study commissioned by the ILO, Amsterdam: DSP 
+
+Groep. 
+
+ 
+
+Addington, L.A. & C.M. Rennison (2014), ‘US National Crime Victimization Survey,’ in 
+
+Weisburd, D. & G. Bruinsma (eds), Encyclopedia of Criminology and Criminal Justice,  
+
+5392-5401, New York: Springer. 
+
+ 
+
+Aromaa, K. (2007), ‘Trafficking in Human Beings: Uniform Definitions for Better Measuring 
+
+and for Effective Counter-Measures.’ in: Savona E.U. and Stefanizzi S. (eds) Measuring 
+
+Human Trafficking: Complexities and Pitfalls, 13-26, New York: Springer. 
+
+ 
+
+Baillargeon S. and L-P. Rivest (2007), ‘Rcapture: Loglinear Models for Capture-Recapture in 
+
+R,’ Journal of Statistical Software, 19.5.  
+
+ 
+
+Bales, K., O. Hesketh & B. Silverman (2015), Modern slavery in the UK: How many victims? 
+
+Significance, 12(3), 16-21.  
+
+ 
+
+Dutch National Rapporteur on Trafficking in Human Beings and Sexual Violence against 
+
+Children (2012), Trafficking in Human Beings: Visible and Invisible: A Quantitative Report 
+
+2007-2011. The Hague: Dutch National Rapporteur. 
+
+ 
+
+Dutch National Rapporteur on Trafficking in Human Beings and Sexual Violence against 
+
+Children (2013), Trafficking in Human Beings: Ninth Report of the Dutch National 
+
+Rapporteur. The Hague: Dutch National Rapporteur. 
+
+ 
+
+Esser, L.B. & C.E. Dettmeijer-Vermeulen (2016), ‘The Prominent Role of National Judges in 
+
+Interpreting the International Definition of Human Trafficking.’ Anti-Trafficking Review 6, 
+
+91-105. 
+
+ 
+
+Eurostat (2015), Statistical working papers: trafficking in human beings, 2015 edition, 
+
+Luxembourg: Publications Office of the European Union. 
+
+ 
+
+
+
+43 
+
+ 
+
+Gallagher, A.T. (2010), The International Law of Human Trafficking. New York: Cambridge 
+
+University Press. 
+
+ 
+
+Gould, A.J., (2010), ‘From Pseudoscience to Protoscience: Estimating Human Trafficking 
+
+and Modern Forms of Slavery,’ Second Annual Interdisciplinary Conference on Human 
+
+Trafficking, 2010. 6. 
+
+ 
+
+ILO (2012), Global Estimate of Forced Labour, Results and methodology, Geneva: 
+
+International Labour Organization. 
+
+ 
+
+International Working Group for Disease Monitoring and Forecasting (1995), ‘Capture-
+
+recapture and multiple-record systems estimation I: History and theoretical development,’ 
+
+American J Epidemiol. 1995 Nov 15;142 (10):1047-58. 
+
+ 
+
+    Jansson, K. (2006), British Crime Survey: Measuring Crime for 25 Years: London: Home 
+
+Office. 
+
+ 
+
+Klaver, J., Leun, J. van der, & A. Schreijenberg, (2013), Preliminary study improper use of 
+
+the residence scheme for victims of human trafficking, Regioplan Beleidsonderzoek, 
+
+University Leiden - Section Criminology, WODC (full text in Dutch). 
+
+ 
+
+Kragten-Heerdink, S. L.J., C.E. Dettmeijer-Vermeulen & D.J. Korf (2017), More Than Just 
+
+“Pushing and Pulling”: Conceptualizing Identified Human Trafficking in the Netherlands. 
+
+Crime & Delinquency. Advance online publication. doi: 10.1177/0011128717728503. 
+
+ 
+
+Lum, K.  M. E. Price & D. Banks (2013), ‘Applications of Multiple Systems Estimation in 
+
+Human Rights Research,’ The American Statistician, 67:4, 191-200. 
+
+ 
+
+Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen (2014), 
+
+Mensenhandel in en uit beeld II: Cijfermatige rapportage 2008-2012. Den Haag: Nationaal 
+
+Rapporteur. (Dutch National Rapporteur on Trafficking in Human Beings and Sexual 
+
+Violence against Children, Trafficking in Human Beings: Visible and Invisible II: A 
+
+Quantitative Report 2008-2012). 
+
+ 
+
+
+
+44 
+
+ 
+
+Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen (2016), Monitor 
+
+Mensenhandel: Cijfers mogelijke slachtoffers 2011-2015. Den Haag: Nationaal Rapporteur. 
+
+(Dutch National Rapporteur on Trafficking in Human Beings and Sexual Violence against 
+
+Children, Monitor Trafficking in Human Beings: Figures on possible victims 2011-2015). 
+
+ 
+
+OSCE/ODIHR (2004), National Referral Mechanisms; Joining Efforts to Protect the Rights 
+
+of Trafficked Persons /A Practical Handbook, Warsaw. 
+
+ 
+
+Silverman, B. (2014), Modern slavery: an application of multiple systems estimation. Gov. 
+
+UK. 
+
+ 
+
+Smit, P.R. & J.J.M. Van Dijk (2014), ‘History of the Dutch Crime Victimization 
+
+Survey(s),’ in D. Weisburd & G. Bruinsma (eds), Encyclopedia of Criminology and 
+
+Criminal Justice, 2286-2296. 
+
+ 
+
+United Nations (1950), Report on the state of crime, 1937-1946 / prepared by the Secretariat 
+
+1950-02-23. 
+
+ 
+
+UNODC (2013), Issue Paper: Abuse of a position of vulnerability and other “means” within 
+
+the definition of trafficking in persons. Vienna: United Nations.  
+
+UNODC (2014). Global Report on Trafficking in Persons 2014, UNODC, New York:  United 
+
+Nations publication, Sales No. E.14.V.10  
+
+UNODC (2014), Issue Paper: The role of ‘consent’ in the trafficking in persons protocol. 
+
+Vienna: United Nations. 
+
+ 
+
+UNODC (2015), Issue Paper: The concept of ‘exploitation’ in the trafficking in persons 
+
+protocol. Vienna: United Nations. 
+
+ 
+
+Van der Heijden, P.G.M., J. Whittaker, M. Cruyff, B. Bakker & R. Van der Vliet (2012), 
+
+‘People born in the Middle East but residing in the Netherlands: invariant population size 
+
+estimates and the role of active and passive covariates,’ The Annals of Applied Statistics, Vol. 
+
+6, No. 3, 831–852. 
+
+ 
+
+
+
+45 
+
+ 
+
+Van der Heijden, P.G.M., M. Cruyff & G.H.C. van Gils (2015), Schattingen illegaal in 
+
+Nederland verblijvende vreemdelingen 2012-2013. WODC. (Estimations of illegal residents 
+
+in the Netherlands 2012-2013). 
+
+ 
+
+Van der Heijden, P.G.M., de Vries, I., Böhning, D., Cruyff, M. (2015), ‘Estimating the size of 
+
+hard-to-reach populations using capture-recapture methodology, with a discussion of the 
+
+International Labor Organization’s global estimate of forced labour,’ in Kangaspunta, K. (ed.) 
+
+Forum on Crime and Society, Special Issue: Researching Hidden Populations: Approaches to 
+
+and Methodologies for Generating Data on Trafficking in Persons, 8, 109-136. 
+
+ 
+
+Van der Heijden, P.G.M., Zwane, E.N. & Hessen, D.J. (2009). ‘Structurally missing data 
+
+problems in multiple list capture-recapture data.’ Advances of Statistical Analysis, 93, (pp. 5-
+
+21) (17p.). 
+
+ 
+
+Van Dijk, J.J.M. (2008), The World of Crime: Breaking the Silence on Problems of Security, 
+
+Justice and Development across the World. Thousand Oaks, CA: Sage. 
+
+ 
+
+Van Dijk, J.J.M., Van der Knaap, L.M., Aebi, M.F., Campistol C. (2014), Counting what 
+
+Counts: Tools for the Validation and Utilization of EU Statistics on Human Trafficking. 
+
+PrismaPrint, Tilburg. 
+
+ 
+
+Van Dijk, J.J.M. (2015), ‘The Case for Survey-based Comparative Measures of Crime.’ 
+
+European Journal of Criminology, 12(4), 437-456. 
+
+ 
+
+Van Dijk, J.J.M. and P.G.M. van der Heijden (2016), Research Brief. Multiple Systems 
+
+Estimation for estimating the number of victims of human trafficking across the world. 
+
+Vienna: UNODC. 
+
+ 
+
+Zhang, S. X. (2012), Trafficking of Migrant Laborers in San Diego County: Looking for a 
+
+Hidden Population. San Diego, CA: San Diego State University.   
+
+
+
+46 
+
+ 
+
+Appendices 
+ 
+
+Appendix A1: Population size estimates (x 1,000) based on model with four covariates 
+
+and on model with six registers only 
+
+ 
+
+ 
+
+Model with 
+
+covariates 
+
+Model 
+
+without 
+
+covariates 
+
+2010 5.5 4.0 
+
+2011 7.9 7.0 
+
+2012 8.7 18.0 
+
+2013 7.2 13.0 
+
+2014 7.0 10.5 
+
+2015 5.9 5.3 
+
+ 
+
+ 
+
+Appendix A2: Observed and estimated presumed victims, and ratio estimated/observed 
+
+for totals and by form of exploitation (sexual/non-sexual) 18 
+
+ 
+ Observed 
+
+totals, 6 
+
+lists 
+
+Observed 
+
+totals, 5 lists 
+
+Estimated 
+
+totals, 6 
+
+lists 
+
+Estimated 
+
+totals, 5 
+
+lists 
+
+Estimated 
+
+ratio, 6 lists 
+
+Estimated 
+
+ratio, 5 
+
+lists 
+
+2010 992 953 5,484 5,562 5.5 5.8 
+
+2011 1,222 1,200 7,905 8,424 6.5 7.0 
+
+2012 1,704 1,277 8,671 8,435 5.1 6.6 
+
+2013 1,428 1,103 7,196 7,078 5.0 6.4 
+
+2014 1,564 1,249 7,013 6,702 4.5 5.4 
+
+2015 1,325 1,152 5,942 5,846 4.5 5.1 
+ 
+
+ Observed 
+
+sexual, 6 
+
+lists  
+
+Observed 
+
+sexual, 5 
+
+lists 
+
+Estimated 
+
+sexual, 6 lists 
+
+Estimated 
+
+sexual, 5 
+
+lists 
+
+Estimated 
+
+ratio, 6 lists 
+
+Estimated 
+
+ratio, 5 
+
+lists 
+
+2010 861 824 4,513 4,586 5.2 5.6 
+
+2011 967 946 5,253 5,629 5.4 6.0 
+
+2012 1,437 1,013 6,582              6,260 4.6 6.2 
+
+2013 1,240 923 5,732 5,625 4.6 6.1 
+
+2014 1,255 952 4,901 4,625 3.9 4.9 
+
+2015 972 801 3,971              3,834 4.1 4.8 
+
+ 
+
+ 
+
+Observed 
+
+non-sexual, 6 
+
+lists 
+
+Observed 
+
+non-sexual, 
+
+5 lists 
+
+Estimated 
+
+non-sexual, 6 
+
+lists 
+
+Estimated 
+
+non-sexual, 
+
+5 lists 
+
+Estimated 
+ratio, 6 lists 
+
+Estimated 
+
+ratio, 5 
+
+lists 
+
+2010 131 129 971 975 7.4 7.6 
+
+2011 255 254 2,652 2,795 10.4 11.0 
+
+2012 267 264 2,090 2,175 7.8 8.2 
+
+2013 188 180 1,463 1,453 7.8 8.1 
+
+2014 309 297 2,112 2,077 6.8 7.0 
+
+2015 353 351 1,971 2,012 5.6 5.7 
+
+                                                        
+18 In some cases the reported observed frequencies slightly diverge from the observed frequencies in the data. 
+
+(e.g. the reported observations sum to 8,235 instead of 8,234 in the case of 6 lists, and to 6,934 instead of 6,935 
+
+in the case of 5 lists). This is due to rounding error when imputing missing values on the covariates. 
+
+
+
+47 
+
+ 
+
+Appendix A3 Observed, estimated, and ratio estimated/observed  presumed victims by 
+
+age (minor/adult) 
+
+ 
+ Observed 
+
+minor, 6 
+
+lists 
+
+Observed 
+
+minor, 5 
+
+lists 
+
+Estimated 
+
+minor, 6 lists 
+
+Estimated 
+
+minor, 5 
+
+lists 
+
+Estimated 
+
+ratio, 6 
+
+lists 
+
+Estimated 
+
+ratio, 5 
+
+lists 
+
+2010 153 138 1,564 1,315 10.2 9.5 
+
+2011 198 194               2,035 1,928 10.3 9.9 
+
+2012 222 217               2,371 2,239 10.7 10.3 
+
+2013 262 261               2,093 2,594 8.0      9.9 
+
+2014 295 290 1,926 1,946                 6.5 6.7 
+
+2015 349 343 1,698 2,082                 4.9 6.1 
+
+ 
+ Observed 
+
+adult, 6 lists 
+
+Observed 
+
+adult, 5 lists 
+
+Estimated 
+
+adult, 6 lists 
+
+Estimated 
+
+adult, 5 
+
+lists 
+
+Estimated 
+
+ratio, 6 lists 
+
+Estimated 
+
+ratio, 5 
+
+lists 
+
+2010             839   815 3,920 4,246 4.7 5.2 
+
+2011            1,024 1,006 5,869 6,496 5.7 6.5 
+
+2012            1,482 1,060 6,300 6,196 4.3 5.8 
+
+2013            1,166 842 5,103 4,484 4.4 5.3 
+
+2014 1,269 959 5,087 4,756 4.0 5.0 
+
+2015              976       809 4,244 3,764 4.3 4.7 
+
+ 
+
+ 
+
+Appendix A4 Observed, estimated and ratio estimated/observed  presumed victims by 
+
+nationality (Dutch/non-Dutch) 
+
+ 
+ Observed 
+
+Dutch 
+
+nationals, 
+
+6 lists 
+
+Observed 
+
+Dutch 
+
+nationals, 5 
+
+lists 
+
+Estimated 
+
+Dutch 
+
+nationals, 6 
+
+lists 
+
+Estimated 
+
+Dutch 
+
+nationals, 5 
+
+lists 
+
+Estimated 
+
+ratio, 6 lists 
+
+Estimated 
+
+ratio, 5 lists 
+
+2010 321 320 3,075 3,325 9.6 10.4 
+
+2011 341 340 3,743 4,613 11.0 13.6 
+
+2012 434 432 4,731 4,891 10.9 11.3 
+
+2013 458 458 4,384 4,417 9.6 9.6 
+
+2014 482 476 3,815 3,768 7.9 7.9 
+
+2015 446 445 3,392 3,281 7.6 7.4 
+
+ 
+
+ Observed 
+
+non-Dutch 
+
+nationals, 
+
+6 lists 
+
+Observed 
+
+non-Dutch 
+
+nationals, 5 
+
+lists 
+
+Estimated 
+
+non-Dutch 
+
+nationals, 6 
+
+lists 
+
+Estimated 
+
+non-Dutch 
+
+nationals, 5 
+
+lists 
+
+Estimated 
+
+ratio, 6 lists 
+
+Estimated 
+
+ratio, 5 lists 
+
+2010 671 633 2,409 2,236 3.6 3.5 
+
+2011 881 860 4,161 3,811 4.7 4.4 
+
+2012 1,270 845 3,940 3,544 3.1 4.2 
+
+2013 970 645 2,811 2,661 2.9 4.1 
+
+2014 1,082 773 3,198 2,934 3.0 3.8 
+
+2015 879 707 2,549 2,564 2.9 3.6 
+
+ 
+
+ 
+
+  
+
+
+
+48 
+
+ 
+
+Appendix A5 Observed, estimated and ratio estimated/observed presumed victims by 
+
+sex (female/male) 
+
+ 
+ Observed 
+
+female, 6 
+
+lists 
+
+Observed 
+
+female, 5 lists 
+
+Estimated 
+
+female, 6 
+
+lists 
+
+Estimated 
+
+female, 5 lists 
+
+Estimated 
+
+ratio, 6 lists 
+
+Estimated 
+
+ratio, 5 lists 
+
+2010 879 843 4,862 4,972 5.5 5.9
+
+2011 995 974 6,540 7,114 6.6 7.3
+
+2012 1,505 1,083 7,544 7,303 5.0 6.7
+
+2013 1,262 939 6,403 6,252 5.1 6.7
+
+2014 1,315 1,005 5,961 5,665 4.5 5.6
+
+2015 1,048 876 4,989 4,839 4.8 5.5
+
+ 
+ Observed 
+
+male, 6 lists 
+
+Observed 
+
+male, 5 lists 
+
+Estimated 
+
+male, 6 lists 
+
+Estimated 
+
+male, 5 lists 
+
+Estimated 
+
+ratio, 6 lists 
+
+Estimated 
+
+ratio, 5 lists 
+
+2010 113 110 622 589 5.5 5.4
+
+2011 227 226 1,364 1,311 6.0 5.8
+
+2012 199 194 1,127 1,131 5.7 5.8
+
+2013 166 164 793 826 4.8 5.0
+
+2014 249 244 1,052 1,037 4.2 4.3
+
+2015 277 276 953 1,006 3.4 3.6
+
+ 
+
+
+	UNODC-DNR research brief_cover.pdf2
+	UNODC-DNR research brief.pdf_2
+

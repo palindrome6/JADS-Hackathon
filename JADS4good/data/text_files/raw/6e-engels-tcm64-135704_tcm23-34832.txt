@@ -1,0 +1,3138 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Engels NRM 6e JvdS 24-08-08 definitief.doc
+
+
+TRAFFICKING IN 
+HUMAN BEINGS 
+
+Supplementary figures 
+
+Sixth report of the Dutch National Rapporteur 
+
+C.E. Dettmeijer-Vermeulen (Dutch National Rapporteur on Trafficking in Human Beings) 
+
+M. Boot-Matthijssen 
+
+E.M.H. van Dijk 
+
+H. de Jonge van Ellemeet 
+
+M. Smit 
+ 
+
+
+
+
+
+ iii 
+
+Contents 
+
+OVERVIEW OF TABLES V 
+ABBREVIATIONS USED VII 
+
+1  INTRODUCTION 1 
+
+1.1 Introduction 1 
+1.2 Exploitation in sectors other than the sex industry 1 
+1.3 Some developments around B9 and continued residence 2 
+1.4 Appointment of Human Trafficking Task Force 3 
+1.5 Municipalities (Amsterdam) 3 
+1.6 Trend report on the position of victims of human trafficking 4 
+1.7 The contents of the report 5 
+
+2  VICTIMS 7 
+
+2.1 Introduction 7 
+2.2 Register of victims maintained by Comensha 7 
+2.2.1 Country of origin 8 
+2.2.2 Age 10 
+2.2.3 Gender 10 
+2.2.4 Place of residence 11 
+2.2.5 Further background information about the victims 12 
+2.3 Victims in the B9 13 
+2.3.1 B9 applications and permit awards 13 
+2.3.2 Age of persons with (application for) B9 13 
+2.3.3 Gender of persons with (application for) B9 14 
+2.3.4 Origin of persons with (application for) B9 14 
+2.3.5 Continued residence 15 
+2.4 Compensation 15 
+
+3  SUSPECTS AND CONVICTED OFFENDERS 19 
+
+3.1 Introduction 19 
+3.2 Age 19 
+3.2.1 Age of suspects 19 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ iv 
+
+3.2.2 Age of convicted offenders 20 
+3.3 Country of origin 20 
+3.3.1 Country of origin of suspects 20 
+3.3.2 Country of origin of convicted offenders 22 
+3.4 Gender 24 
+3.4.1 Gender of suspects 24 
+3.4.2 Gender of convicted offenders 25 
+
+4  PROSECUTION 27 
+
+4.1 Introduction 27 
+4.2 THB cases registered with the Public Prosecution Service 27 
+4.2.1 Number of registered cases 27 
+4.2.2 ‘Nature’ of the cases 28 
+4.3 Cases dealt with by the Public Prosecution Service 30 
+4.4 Settlement by the court 32 
+4.4.1 Sentence imposed for most serious offence 32 
+4.4.2 Conviction for THB 34 
+4.5 Appeal? 36 
+
+BIBLIOGRAPHY 39 
+APPENDIX 1  THB PROVISION IN THE DUTCH CRIMINAL CODE 41 
+APPENDIX 2  EXPLANATION OF THE RESEARCH METHODS 43 
+
+1 The B9 research 43 
+2 The PPS data research 44 
+
+APPENDIX 3  NOTES TO TABLES AND STATISTICS 47 
+1 Notes to tables 47 
+2 Notes to the statistics used 47 
+
+APPENDIX 4  ADDITIONAL TABLES 49 
+ 
+ 
+
+
+
+ v 
+
+Overview of Tables 
+
+TABLE 2.1 RANKING OF THE MOST COMMON COUNTRIES OF ORIGIN OF (POSSIBLE) 
+VICTIMS REGISTERED BY COMENSHA, PER ANNUM 8 
+
+TABLE 2.2 NATIONALITY OF (POSSIBLE)VICTIMS REGISTERED BY COMENSHA,  
+PER ANNUM 9 
+
+TABLE 2.3 AGE DISTRIBUTION OF (POSSIBLE) VICTIMS REGISTERED WITH 
+COMENSHA, PER ANNUM 10 
+
+TABLE 2.4 PLACE OF RESIDENCE OF (POSSIBLE) VICTIMS AT THE TIME OF 
+REGISTRATION WITH COMENSHA (2006) 11 
+
+TABLE 2.5 AGE DISTRIBUTION OF PERSONS WITH (APPLICATION FOR) B9  
+(2005 AND 2006) 13 
+
+TABLE 2.6 NATIONALITY OF PERSONS WITH (APPLICATION FOR) B9  
+(2005 AND 2006) 14 
+
+TABLE 2.7 REGION OF ORIGIN OF PERSONS WITH (APPLICATION FOR)  
+B9 (2005 AND 2006) 15 
+
+TABLE 2.8 SENTENCES IMPOSED AFTER CONVICTION FOR HUMAN TRAFFICKING, 
+PER ANNUM 16 
+
+TABLE 2.9 DECISIONS ON COMPENSATION 16 
+TABLE 3.1 AGE OF SUSPECTS, BY YEAR OF REGISTRATION 19 
+TABLE 3.2 AGE OF PERSONS CONVICTED OF THB, BY YEAR OF CONVICTION 20 
+TABLE 3.3 RANKINGS OF THE MOST COMMON COUNTRIES OF BIRTH OF SUSPECTS, 
+
+BY YEAR OF REGISTRATION 21 
+TABLE 3.4 COUNTRIES OF BIRTH OF SUSPECTS, BY YEAR OF REGISTRATION 21 
+TABLE 3.5 RANKINGS OF COUNTRIES OF BIRTH OF PERSONS CONVICTED OF THB, 
+
+BY YEAR OF CONVICTION 22 
+TABLE 3.6 COUNTRIES OF BIRTH OF PERSONS CONVICTED OF THB, BY YEAR OF 
+
+CONVICTION 23 
+TABLE 4.1 NUMBER OF REGISTERED CASES, INCLUDING CASES (ALSO) INVOLVING 
+
+UNDER-AGE VICTIMS, PER ANNUM 28 
+TABLE 4.2 ‘TYPE’ OF THB, BY YEAR OF REGISTRATION 28 
+TABLE 4.3 MOST SERIOUS OFFENCE, BY YEAR OF REGISTRATION 29 
+TABLE 4.4 REMAND IN CUSTODY, BY YEAR OF REGISTRATION 30 
+TABLE 4.5 CASES DEALT WITH BY THE PPS, BY YEAR IN WHICH THEY WERE DEALT 
+
+WITH 31 
+TABLE 4.6 SETTLEMENT IN FIRST INSTANCE, BY YEAR OF SETTLEMENT 32 
+TABLE 4.7 SENTENCE IMPOSED IN FIRST INSTANCE FOR THE MOST SERIOUS 
+
+OFFENCE, BY YEAR OF SETTLEMENT 32 
+TABLE 4.8 SENTENCES IMPOSED, BY YEAR 34 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ vi 
+
+TABLE 4.9 TERMS OF CUSTODIAL SENTENCES IMPOSED, PER ANNUM 35 
+TABLE 4.10 APPEAL LODGED, BY YEAR OF SETTLEMENT (IN FIRST INSTANCE) 37 
+TABLE B2.2 NATIONALITY OF (POSSIBLE) VICTIMS REGISTERED WITH COMENSHA, 
+
+PER ANNUM 49 
+TABLE B2.6 NATIONALITY OF PERSONS WITH B9 APPLICATION OR PERMIT  
+
+(2005 AND 2006) 52 
+TABLE B3.4 COUNTRIES OF BIRTH OF SUSPECTS, BY YEAR OF REGISTRATION 54 
+TABLE B3.6 COUNTRIES OF BIRTH OF PERSONS CONVICTED OF THB, BY YEAR OF 
+
+CONVICTION 55 
+ 
+
+
+
+ vii 
+
+Abbreviations used 
+
+B9 regulation  Chapter B9 of the Aliens Act Implementation Guidelines 
+BNRM  Bureau Nationaal Rapporteur Mensenhandel 
+  Office of the Dutch National Rapporteur on Trafficking in 
+
+Human Beings 
+Comensha  Coordinatiecentrum Mensenhandel 
+  Coordination Centre for Human Trafficking  
+EU  Europese Unie 
+  European Union 
+IND  Immigratie- en Naturalisatiedienst 
+ Immigration and Naturalisation Service 
+KLPD  Korps Landelijke Politie Diensten 
+ National Police Services Agency 
+NGO  Niet-gouvernementele organisatie 
+ Non-governmental organisation 
+NRI  Nationale Recherche Informatie 
+ National Crime Intelligence Service 
+NRM  Nationaal Rapporteur Mensenhandel 
+ National Rapporteur on Trafficking in Human Beings 
+NRM3  Derde rapportage van de Nationaal Rapporteur Mensenhandel 
+ Third NRM Report 
+NRM5  Vijfde rapportage van de Nationaal Rapporteur Mensenhandel 
+ Fifth NRM Report 
+PPS  Public Prosecution Service 
+SD  Standard deviation  
+SiBa  Statistische informatievoorziening en Beleidsanalyse 
+ Statistical Data and Policy Analysis Unit 
+STV  Stichting Tegen Vrouwenhandel 
+ Foundation against Trafficking in Women 
+THB  Trafficking in Human Beings 
+WODC  Wetenschappelijk Onderzoek- en Documentatiecentrum 
+ Scientific Research and Documentation Centre 
+ 
+
+
+
+
+
+ 1 
+
+1 
+ Introduction 
+
+1.1 Introduction 
+
+Continuing the regular pattern of alternating between comprehensive reports with qualita-
+tive and quantitative information and shorter statistical updates, this sixth report of the 
+Dutch National Rapporteur on Trafficking in Human Beings (NRM) is devoted mainly to 
+statistics covering the period up to and including 2006. The Dutch government has not yet 
+given a detailed response to the fifth report, which appeared in the summer of 2007, nor has 
+it been debated in parliament. Consequently, some of the 66 recommendations made in that 
+report have not yet been implemented. Others have already been addressed or measures are 
+currently being prepared to address them. For example, national legislation is being drafted 
+with a framework for more stringent rules governing municipal bye-laws relating to estab-
+lishments where commercial sexual services are provided (recommendation 2NRM5); there 
+have been some positive developments with regard to the B9 regulation for victims of hu-
+man trafficking, for example with respect to temporary residence permits, and with regard 
+to continued residence (recommendations 4 to 10NRM5); a Human Trafficking Task Force 
+has been set up and talks are underway on category-oriented initial reception for victims of 
+human trafficking (recommendation 35NRM5). Moreover, in 2007 the police again published 
+a Police Monitor on prostitution and human trafficking (Korpsmonitor prostitutie & mensen-
+handel) detailing their efforts and success in monitoring licensed prostitution and combating 
+illegal prostitution and human trafficking. The first trend report on the position of victims of 
+human trafficking who have been exploited in the sex industry also appeared in 2007. Al-
+though these and other developments are not covered in detail in this statistical report, some 
+recent developments in the Netherlands are briefly described in this introductory chapter. 
+
+1.2 Exploitation in sectors other than the sex industry 
+
+The fifth report contained a lengthy section on trafficking in human beings (THB) with a 
+view to exploitation in sectors other than the sex industry. One of the conclusions was that 
+the absence of a precise definition of exploitation had hampered efforts to identify, investi-
+gate and prosecute human trafficking in sectors outside the sex industry in the period im-
+mediately following the entry into force of Article 273f of the Dutch Criminal Code. In the 
+meantime, several (new) chain partners have taken steps to combat exploitation in these 
+other sectors and to make provision for suitable care for victims of this type of THB. We 
+confine ourselves here to mentioning the first criminal prosecutions that were brought 
+against persons charged with this form of human trafficking. 
+Up to 1 February 2008, four investigations had led to prosecutions for the exploitation of 
+workers in sectors other than the sex industry. In November 2006, a number of defendants 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 2 
+
+who were charged with using Bulgarians living illegally in the Netherlands to pick hemp 
+were acquitted of human trafficking. In another case, the chef and sous-chef of a Chinese 
+restaurant were also acquitted of human trafficking in the district court and the court of ap-
+peal. The public prosecution service has appealed that decision to the Supreme Court. In the 
+autumn of 2007, the prosecution of three individuals for human trafficking with a view to 
+the exploitation of Polish cleaning ladies also failed. At the time of writing, the verdicts in 
+this case can still be appealed. The first convictions, which are not yet final and conclusive, 
+came in December 2007. In that case, the district court described the conditions under which 
+the defendants had housed and employed their illegal Indian domestic staff as tantamount to 
+human trafficking. An important factor in this case was that the defendants had created a 
+situation in which these people were entirely dependent on them, to the extent that it consti-
+tuted a serious violation of their physical and mental integrity and their personal freedom. 
+The case law up to now confirms that Article 273f of the Dutch Criminal Code only relates 
+to excessive abuses in employment situations. At the same time, there are numerous pitfalls 
+when it comes to weighing up the facts and circumstances in cases involving forms of ex-
+ploitation in sectors other than the sex industry. Examples include the question of whether 
+or not the worker had any realistic alternative, the relevance of who took the initiative for a 
+finding that there has been human trafficking and whether or not the employee agreed to 
+particular conditions. The scope of the prohibition on THB ‘not related to the sex industry’ 
+will probably become progressively clearer through case law. Developments should be 
+guided by the principles laid down in the treaties that the Netherlands has signed and ratified 
+and European legislation. 
+
+1.3 Some developments around B9 and continued residence 
+
+One of the positive developments with respect to Chapter B9 of the Aliens Act Implemen-
+tation Guidelines (the B9 regulation) is that since 14 November 2007 a temporary residence 
+permit can also be granted to victims who do not report a case of THB but do cooperate in 
+some other way with the investigation and prosecution.1 This latest version of the B9 regula-
+tion contains a passage on granting aliens who are in alien detention a period for reflection: 
+“If there is evidence that an alien in detention is a victim of human trafficking, the police 
+must inform the alien of the possibility of reporting the crime to the police or otherwise co-
+operating with the criminal investigation or prosecution. The suspected victim of human 
+trafficking is then also entitled to the reflection period. The consequence of the granting of 
+the reflection period shall be that the grounds for the detention shall lapse and the detention 
+must therefore be ended”. However, the passage also states that the reflection period shall 
+only be granted in these cases if the public prosecution department and the police agree to it. 
+It is not yet clear what the criteria will be and what the implications of these conditions will 
+be in practice.  
+
+                                                                      
+1 For example, by making a statement or testifying as a witness. 
+
+
+
+INTRODUCTON 
+
+ 3 
+
+Recommendation 8NRM5 was that the grounds for continued residence under section a of 
+chapter B16/7 in the Aliens Act Implementation Guidelines (the victim has reported a 
+criminal offence for a prosecution that has led to a conviction) should not be confined to 
+prosecutions that have led to a conviction for human trafficking. There should be a presump-
+tion in law that repatriation would involve risks for the victim if the indictment included 
+human trafficking even if the suspect is convicted of another criminal offence relating to 
+THB but not for THB itself. This recommendation was adopted in the most recent amend-
+ment of this section of the Aliens Act Implementation Guidelines. 
+Furthermore, in accordance with another recommendation of the NRM the grounds for 
+continued residence have been amended to more clearly reflect the fact that after three years 
+in the B9 regulation the length of time the victim has resided in the Netherlands constitutes 
+the humanitarian ground on which an application for continued residence can be approved.  
+It has also been made explicit that the stated grounds for approving continued residence, 
+such as fear of reprisals, fear of prosecution for prostitution and the absence of possibilities 
+for social reintegration, are not exhaustive.2 
+
+1.4 Appointment of Human Trafficking Task Force 
+
+The fifth report on human trafficking concluded with the observation that many of the 66 
+recommendations were concerned with putting into practice arrangements that were al-
+ready laid down in black and white and that a ‘high-level’ THB Task Force, with representa-
+tives from all the relevant chain partners, could play an important role in stimulating and fa-
+cilitating that. This recommendation was quickly addressed and a task force was indeed 
+established on 27 February 2008 under the chairmanship of the member of the Council of 
+Procurators General responsible for the THB portfolio. The decree establishing the task 
+force, which will meet three times a year, states that one of its duties is to identify and to 
+solve or address bottlenecks. The NRM, who is herself a member of the task force, assumed 
+from the outset that such a task force would also include representatives of NGOs. When it 
+became clear that this was possibly not the intention, she repeatedly urged that NGOs 
+should participate. The fact that the victim assistance is not represented in the task force is a 
+missed opportunity 
+
+1.5 Municipalities (Amsterdam) 
+
+Municipalities also have a responsibility in preventing and tackling human trafficking. One 
+of the municipalities that has been particularly active in this regard is Amsterdam. In re-
+sponse to findings of abuses in the Red Light District, the city put forward a package of 
+measures designed, among other things, to crack down on human trafficking. For example, 
+
+                                                                      
+2 Other examples might be that the alien is suffering from psychological problems and is being treated in the 
+
+Netherlands, is responsible for the care of children who were born in the Netherlands or are pursuing their 
+education here, and the position of single women in the country of origin.  
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 4 
+
+one of the proposals is to make enjoying financial benefits directly from a relationship with a 
+prostitute a criminal offence. Other suggestions are to bar pimps who cause a nuisance from 
+the area and to raise the minimum age for working as a prostitute to twenty-one. The pack-
+age also contained preventive measures, some of them targeted at offenders, such as training 
+for prostitutes to help them resist the overtures of people who might exploit them and se-
+curing the involvement of imams to help tackle the problem of loverboys. The desirability 
+and feasibility of these and other measures are still being studied. Meanwhile, the city has 
+already closed and/or bought up a number of brothels and premises where window prosti-
+tution was carried on. 
+The NRM endorses the need for creative and innovative approaches in dealing with the 
+problem of human trafficking. At the same time, it is vital to pursue an integrated approach 
+and in that context the illegal prostitution circuit must also be firmly dealt with, especially 
+since the envisaged plans are likely to lead to a shift of prostitution to the ‘illegal circuit’. Po-
+lice capacity must be released for this. 
+
+1.6 Trend report on the position of victims of human trafficking 
+
+The 2006 trend report on the position of victims of THB who have been exploited in the sex 
+industry (Van Vianen et al., 2007) presented the findings of a monitor that was developed to 
+periodically survey the position of these victims on the basis of a number of indicators. The 
+intention was to measure the trend every two years, but it is impossible to acquire reliable 
+information on quite a number of indicators and the researchers have concluded that before 
+monitoring the situation again investment will be needed to improve the quality of registra-
+tion and information gathering. Another question raised is whether the Bureau of the NRM 
+(BNRM) can include some of the indicators that are reliable in the annual THB reports. A 
+number of the indicators used in the monitor are already regularly included in the BNRM 
+reports; others can be added. It has to be noted here that, as Vianen et al. (2007) also men-
+tioned, in several of the databases that are used it is impossible to differentiate according to 
+the sector in which the exploitation occurred. Whereas in 2006, the year covered by the first 
+trend report, there were still only occasional cases of exploitation in sectors other than the 
+sex industry, which will have little or no effect on identified trends, this will change with the 
+growing attention devoted to this phenomenon. This is also a problem for BNRM. Al-
+though BNRM’s area of operations encompasses human trafficking in general, it is never-
+theless very important to be able to indicate in the reports which part of the quantitative data 
+about investigations, prosecutions and B9 applications and permit awards relates to exploi-
+tation in the sex industry and which part relates to exploitation in other economic sectors or 
+perhaps to human trafficking with a view to the removal of organs.  
+An important added value of the trend report was that various databases were linked to each 
+other, which provided more insight into which databases can be linked and what informa-
+tion those linkages yield. 
+
+
+
+INTRODUCTON 
+
+ 5 
+
+1.7 The contents of the report 
+
+Chapter 2 is concerned with the victims of THB. It contains data about their age, gender and 
+country of origin from the Coordination Centre for Human Trafficking (Coordinatiecen-
+trum Mensenhandel – Comensha) and information about B9 applications and permit awards 
+from the Immigration and Naturalisation Service (Immigratie en Naturalisatie Dienst; IND). 
+Chapter 3 presents data relating to suspects of THB and perpetrators convicted of THB, 
+with statistics about their age, country of origin and gender. The data come from the public 
+prosecution service. 
+Chapter 4 concerns the prosecution of suspects of human trafficking. It contains data on the 
+number and nature of the cases registered with the public prosecution department, how the 
+cases were handled by the public prosecutor and the disposition of the cases by the courts. 
+
+Finally, a word of thanks is owed to all the individuals and agencies that have contributed to 
+this report. 
+ 
+
+
+
+
+
+ 7 
+
+2 
+ Victims 
+
+2.1 Introduction 
+
+This chapter contains statistical data on victims of THB. The background details include the 
+age, gender and country of origin of the victims. There are also statistics about the number 
+of applications and permits awarded under the B9 regulation and (concise) information 
+about compensation awarded to victims. The information comes from the Coordination 
+Centre for Human Trafficking (Comensha), formerly the Foundation against Trafficking in 
+Women (Stichting tegen Vrouwenhandel; STV) and the Immigration and Naturalisation Ser-
+vice (Immigratie en Naturalisatie Dienst; IND). The information about compensation comes 
+from the records of the public prosecution service. 
+
+2.2 Register of victims maintained by Comensha 
+
+One of Comensha’s tasks is to register (possible) victims of THB. These are victims who 
+have been reported to Comensha in various ways and by various reporters rather than vic-
+tims who can be regarded as ‘official victims’ on the basis of a formal assessment against 
+specific criteria.1 
+
+However, not all victims are identified and victims who have been identified are not all re-
+ported. Because Comensha relies on third parties for information and says itself that it lacks 
+the capacity needed to retrieve this information to the extent that it is available elsewhere, 
+little is known2 about many of the victims that have been reported. Consequently, it is in 
+practice impossible to produce cross tabulations on more than basic features such as coun-
+try of origin, age and gender. There is possibly also some duplication, especially where the 
+information is limited. 
+
+The number of (possible) victims of THB registered by Comensha has grown annually: 
+from 403 in 2004 to 424 in 2005 and to 579 in 2006.3 The information in this section is based 
+largely on databases provided by Comensha. The figures presented differ in several respects 
+
+                                                                      
+1 This is an important point because these statistics on victims are often compared with data from other coun-
+
+tries, which usually relate exclusively to the ‘officially recognised victims’ and for that reason, as far as foreign 
+victims are concerned, can best be compared with the Dutch B9 figures. 
+
+2 One of the recommendations in the fifth report on human trafficking was that the registration of clients by the 
+STV (as it was then called) should be improved. 
+
+3 There were 716 notifications in 2007 (figures published from Comensha’s victim registration on 11 March 
+2008). 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 8 
+
+from the figures in the STV’s annual reports.4 For some statistics reference is made to the 
+annual reports. If so, it is explicitly stated. 
+
+2.2.1 Country of origin 
+
+Table 2.1 contains the rankings of the five most common countries of origin of victims of 
+THB for each year.5 
+
+Table 2.1 Ranking of the most common countries of origin of (possible) victims registered by Comensha, 
+per annum6 
+
+Country 2001 2002 2003 2004 2005 2006 
+
+Netherlands 5 4  1 1 1 
+
+Nigeria 4 2 3 4 3 2 
+
+Bulgaria 1 1 1 2 2 3 
+
+Romania  3 2 3 4 4 
+
+China      5 
+
+Czech Republic     5  
+
+Russian Federation 2 5  5   
+
+Ukraine 3  4    
+
+Brazil   5    
+
+As in the two preceding years, the Netherlands was the most common country of origin of 
+victims of THB. Nigeria, Bulgaria and Romania were ranked second, third and fourth, posi-
+tions they have occupied, in different orders, for the last three years. The previously identi-
+fied emergence of China as an important country of origin (STV Nieuws, 1, 2007) is re-
+flected in that country’s entry as a newcomer in the top five in the table in fifth place. 
+
+There are 55 different nationalities represented among the victims registered with Comen-
+sha in 2006. Table 2.2 lists the most common nationalities.7 Appendix 4 (Table B2.2) con-
+tains a complete list of all nationalities in alphabetical order. 
+
+                                                                      
+4 The BNRM received a STV database, which was naturally anonymous but could be broken down to individual 
+
+victims, for the first time for 2006. This provided more insight into the limitations of the registration. Accord-
+ing to Comensha, the data reported here are the correct ones (Comensha, e-mail communication). 
+
+5 The most recent year determined the order in which the countries are listed in the table. 
+6 Based on the nationality of the (possible) victims. 
+7 A nationality is included if at least five victims were of that nationality in one or more of the years in the period 
+
+from 2002 to 2006. 
+
+
+
+VICTIMS 
+
+ 9 
+
+Table 2.2 Nationality of (possible)victims registered by Comensha, per annum 
+
+Nationality 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+Albanian 8 2% 2 1% 8 2% 2 0% 1 0% 
+
+Angolan 3 1% 2 1% 2 0% 8 2% 2 0% 
+
+Belarussian 8 2% - - 12 3% 3 1% - - 
+
+Brazilian - - 12 5% 5 1% 8 2% 17 3% 
+
+Bulgarian 59 17% 48 19% 55 14% 52 12% 39 7% 
+
+Cameroonian 10 3% 5 2% 11 3% 4 1% 4 1% 
+
+Chinese 8 2% 8 3% 9 2% 5 1% 29 5% 
+
+Congolese 3 1% 1 0% - - 3 1% 5 1% 
+
+Czech 6 2% 3 1% 2 0% 18 4% 3 1% 
+
+Dutch 18 5% 11 4% 59 15% 98 23% 146 25% 
+
+Hungarian 1 0% - - 3 1% 9 2% 13 2% 
+
+Indian - - - - - - - - 7 1% 
+
+Lithuanian 13 4% 9 4% 3 1% 3 1% 6 1% 
+
+Moldavian 14 4% 1 0% 6 1% 2 0% 2 0% 
+
+Moroccan 4 1% 2 1% 11 3% 11 3% 9 2% 
+
+Nigerian 45 13% 21 8% 39 10% 28 7% 86 15% 
+
+Polish 9 3% 3 1% 8 2% 13 3% 27 5% 
+
+Romanian 22 6% 31 12% 45 11% 23 5% 34 6% 
+
+Russian 16 5% 11 4% 14 3% 13 3% 12 2% 
+
+Sierra Leonean 12 3% 11 4% 6 1% 14 3% 20 4% 
+
+Slovakian 2 1% 2 1% 3 1% 10 2% 2 0% 
+
+Thai 3 1% 5 2% 2 0% 2 0% 3 1% 
+
+Togolese 6 2% 2 1% 2 0% 2 0% 2 0% 
+
+Turkish 5 1% 1 0% 2 0% 2 0% 5 1% 
+
+Ukrainian 5 1% 14 5% 8 2% 10 2% 10 2% 
+
+Yugoslav - - 1 0% 2 0% 5 1% 1 0% 
+
+Other 42 12% 32 12% 70 17% 49 12% 56 10% 
+
+Unknown 21 6% 19 7% 16 4% 27 6% 38 7% 
+
+Total 343 100% 257 100% 403 100% 424 100% 579 100% 
+
+In 2006, 146 (25%) of the victims registered with Comensha were from the Netherlands. In 
+that year there was an increase (in absolute and percentage terms) in the number of victims 
+with Brazilian, Chinese, Nigerian and Polish nationality. There are still many victims from 
+Bulgaria but their share of the total declined. India appeared in the list for the first time in 
+2006 (7 victims). The growth in the number (and share) of victims with Moroccan and 
+Czech nationality reported in 2004 and 2005 did not continue. 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 10 
+
+2.2.2 Age 
+
+Table 2.3 contains the age distribution of the victims registered with Comensha from 2001 to 
+2006. 
+
+Table 2.3 Age distribution of (possible) victims registered with Comensha, per annum 
+
+Age 2001 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % N % 
+
+10 to 14 years 2 1% - - 2 1% 3 1% 1 0% 10 2% 
+
+15 to 17 years 25 9% 41 12% 18 7% 23 6% 23 5% 93 16% 
+
+18 to 23 years 86 30% 130 38% 112 44% 165 41% 167 39% 222 38% 
+
+24 to 30 years 39 14% 56 16% 54 21% 141 35% 150 35% 151 26% 
+
+31 to 40 years 12 4% 19 6% 25 10% 61 15% 50 12% 66 11% 
+
+41 years and older 1 0% 5 1% 5 2% - - 15 4% 9 2% 
+
+Unknown 119 42% 92 27% 41 16% 12 3% 18 4% 28 5% 
+
+Total 284 100% 343 100% 257 100% 405 100% 424 100% 579 100% 
+
+Source: STV (annual reports). 
+
+As in the preceding years, the majority of registered victims in 2006 were in the age group 
+from 18 to 30 years. There was a striking increase in the number of registered under-age vic-
+tims, particularly in the age group from 15 to 17 years. 
+
+Of the 101 under-age victims whose age and nationality are known, 35 were Dutch, 32 were 
+Nigerian, six were Chinese, six Sierra Leonean, five Bulgarian and four Romanian.8 The 
+other under-age victims had 13 different nationalities.9 
+
+2.2.3 Gender 
+
+There were 30 men or boys among the 579 newly registered victims in 2006. Five of them 
+were minors, two of whom were younger than 15. The countries of origin were – with the 
+number of men or boys from that country between brackets - India (7), China (4), Bangla-
+desh, Nigeria and Turkey (each 3), Congo (2), Armenia, Azerbaijan, Bulgaria, Chile, Camer-
+oon, Mauritania and Sierra Leone (one each). The country of origin of one man is not 
+known. Five of the 30 men were employed in prostitution, the four Chinese men worked in 
+the hospitality industry, but the largest number of cases (nine men) related to employment 
+in agriculture and horticulture (STV Annual Report 2006, p.8). 
+
+                                                                      
+8 The proportion of under-age victims varies from 12 % (for Bulgarian and Romanian victims) to 37% (for Nige-
+
+rian victims). 
+9 Six under-age victims were of Congolese, Moroccan or Surinamese nationality (two each) and seven victims 
+
+were Armenian, Italian, Lithuanian, Mongolian, Russian or Turkish respectively. 
+
+
+
+VICTIMS 
+
+ 11 
+
+The number of reports of male victims was far greater in 2006 than in previous years and is 
+still increasing.10 This is probably due to the increased attention being given to exploitation 
+outside the sex industry and the launch of investigations into THB in other sectors. In 2005, 
+the 424 newly registered victims included just two men, both of whom were exploited in 
+prostitution. One man or boy was reported in 200411 and none in 2003. 
+
+2.2.4 Place of residence 
+
+Table 2.4 presents an overview of the place of residence of the victims registered in 2006 at 
+the time they were reported. 
+
+Table 2.4 Place of residence of (possible) victims at the time of registration with Comensha (2006) 
+
+Place of residence Women Men Total 
+
+ N % N % N % 
+
+independent 110 20% - - 110 19% 
+
+reception facility 83 15% 1 3% 84 15% 
+
+(aliens)detention12 60 11% 16 53% 76 13% 
+
+lodging 42 8% 1 3% 43 7% 
+
+on the street 11 2% - - 11 2% 
+
+abroad 9 2% - - 9 2% 
+
+departed for unknown  
+destination 
+
+7 1% - - 7 1% 
+
+country of origin 5 1% - - 5 1% 
+
+hospital /municipal mental 
+health care institution 
+
+3 1% 1 3% 4 1% 
+
+closed facility13 1 0% - - 1 0% 
+
+other/unknown14 218 40% 11 37% 229 40% 
+
+Total 549 100% 30 100% 579 100% 
+
+Many of the victims reported to Comensha are – as far as is known – living independently at 
+the time of registration, 15% are staying in some form of reception facility and a substantial 
+proportion (13%) are in (aliens) detention. The latter category includes a relatively large pro-
+portion of men: it covers 53% of the men compared with 11% of the women. The victims in 
+
+                                                                      
+10 49 men were registered in 2007 (figures published from Comensha’s victim registration on 11 March 2008). 
+11 Oral communication from STV. 
+12 ‘Aliens’ is placed between brackets, but this group consists mainly of people in aliens detention.  
+13 This would include closed accommodation for a victim of a loverboy. 
+14 In most cases the place of residence is not known, in some cases they are staying with parents. This latter option 
+
+is in fact included as a separate category in the Comensha registration data for 2007 (information from Co-
+mensha, by e-mail and verbally). 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 12 
+
+detention also seem to include a relatively large proportion of Nigerians (at least 26). And 20 
+of the victims in detention (18 girls and 2 boys) are minors. 
+
+2.2.5 Further background information about the victims 
+
+In 2003 Comensha started using a computer system with various relevant (background) 
+variables. After initial problems, from 2005 it should have had more information than pre-
+viously about registered (possible) victims, but it is still proving difficult to retrieve this in-
+formation, so that much of the information is still lacking for many clients in 2006. Never-
+theless, it has again been decided to present some (background) characteristics that may be 
+interesting. However, since the following figures and percentages have to be regarded as 
+minima due to the absence of many statistics they are not compared with the data for 2005. 
+
+Of the victims registered with Comensha in 2006 it is known that at least: 
+– 73 of the 549 registered female victims (13%) have children. The children of 25 of them live 
+
+with their mother in the Netherlands, the children of twelve victims live elsewhere in the 
+Netherlands and those of 23 victims live in the country of origin. It is not known where the 
+children of the other victims are living (Source: STV Annual Report 2006, p.8); 
+
+– 14 of the (female) victims (3%) were pregnant at the time of registration, of whom two 
+were under-age and 119 (22%) were not (this information is not known for the other 75%). 
+A relatively large number of the Chinese women and girls were pregnant (3 out of 10); 
+
+– 15 (4%) of the total of 579 victims used drugs, 156 (27%) did not (this is not known for the 
+other 408 - 70%); 
+
+– 35 victims (6%) were (also) exploited outside prostitution,15 387 (67%) were not (this not 
+known for 157 - 27%); 
+
+– 101 victims were offered a period for reflection. This represents 26% of the victims that are 
+known not to have Dutch nationality. 144 victims (36%) were not offered a reflection pe-
+riod and the information is not known for the other non-Dutch victims. 
+
+– 49 victims availed of the reflection period. This represents 12% of the victims that are 
+known not to have Dutch nationality. 
+
+– 208 victims (36%) reported the crime and 101 (17%) did not. The reflection period had not 
+expired for 52 victims and for the others it is not known whether they reported the crime.  
+
+(Source: STV records) 
+
+                                                                      
+15 This was in agriculture and horticulture (16 victims), the hospitality sectors (11 victims), household work (5 vic-
+
+tims), ‘within the marriage’ (2 victims) and in abattoirs (1 victim). 
+
+
+
+VICTIMS 
+
+ 13 
+
+2.3 Victims in the B9 
+
+2.3.1 B9 applications and permit awards 
+
+In 2006 the IND received 180 B9 applications and granted 150 permits. This is more than 
+twice as many as in the previous year, representing an enormous increase. It concerns a spe-
+cific category of victims/witness-reporters of THB, namely persons who are living illegally 
+in the Netherlands and (are willing to) cooperate with the police and public prosecution ser-
+vice. It is not possible to calculate a percentage of permit awards from these figures since B9 
+applications are not all dealt with in the same year as the application. We refer to Appendix 2 
+for an explanation of the research and some additional explanatory notes to the data.  
+
+2.3.2 Age of persons with (application for) B9 
+
+Table 2.5 presents the age distribution of victims/witnesses who applied for or received a B9 
+in 2005 or 2006. 
+
+Table 2.5 Age distribution of persons with (application for) B9 (2005 and 2006) 
+
+Age B9 applications 2005 B9 applications 2006 B9 awards 2005 B9 awards 2006 
+
+ N % N % N % N % 
+
+0 to 10 years 2 3% 1 1% - - - - 
+
+11 to 17 years 5 7% 33 18% 5 8% 27 18% 
+
+18 to 25 years 36 47% 82 46% 29 48% 70 47% 
+
+26 to 30 years 22 29% 29 16% 18 30% 23 15% 
+
+31 to 40 years 10 13% 25 14% 8 13% 24 16% 
+
+41 years and older 2 3% 10 6% 1 2% 6 4% 
+
+Total 77 100% 180 100% 61 100% 150 100% 
+
+As in the preceding year, almost half of the persons for whom a B9 was requested or issued 
+in 2006 were aged between 18 and 26. Given the sharp rise in the number of applications 
+and awards in 2006, not surprisingly the absolute number of applications/awards increased 
+in almost every age category. In percentage terms, the only substantial increase occurred in 
+the 11-to-17 age group, while the proportion of applications/awards declined sharply among 
+26-to-30 year-olds. In 2006, the applicants included 34 under-age persons and 27 under-age 
+persons were awarded a B9 permit in the same year. Among the under-age persons, some 
+children of victims and children of witnesses were also registered – incidentally and mistak-
+enly – as B9 applicants. The youngest child, a boy, is probably the child of a victim. One of 
+the 11-to 17 year-olds (also a boy) was probably also the child of a victim. 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 14 
+
+2.3.3 Gender of persons with (application for) B9 
+
+The expected shift in the gender of the victims (more male victims) as a result of the expan-
+sion of the article in the law on human trafficking does indeed seem to be transpiring. 
+Whereas in 2005, the first year after the law was amended, almost all B9 applicants were 
+women (96%), in 2006 11% of the applicants were men. The B9 awards show a similar trend: 
+2% for men in 2005 and 11% in 2006 
+
+2.3.4 Origin of persons with (application for) B9 
+
+Table 2.6 contains an overview of the most common nationalities of victims and witnesses 
+that were awarded or applied for a B9 permit.16 There is a table with a complete list of all na-
+tionalities in Appendix 4 (Table B2.6). 
+
+Table 2.6 Nationality of persons with (application for) B9 (2005 and 2006) 
+
+Nationality Applications 2005 Applications 2006 Awards 2005 Awards 2006 
+
+ N % N % N % N % 
+
+Bulgarian 12 16% 19 11% 11 18% 18 12% 
+
+Chinese 2 3% 9 5% 1 2% 9 6% 
+
+Nigerian 6 8% 43 24% 4 7% 33 22% 
+
+Polish 3 4% 9 5% 3 5% 2 1% 
+
+Romanian 6 8% 26 14% 6 10% 24 16% 
+
+Russian 5 7% 3 2% 5 8% 3 2% 
+
+Sierra Leonean 7 9% 11 6% 8 13% 10 7% 
+
+Other 34 44% 59 33% 22 36% 50 33% 
+
+Unknown 2 3% 1 1% 1 2% 1 1% 
+
+Total 77 100% 180 100% 61 100% 150 100% 
+
+In 2006 almost a quarter of the victims /witnesses of THB for whom a B9 residence permit 
+was requested or issued had Nigerian nationality, which represents an enormous increase 
+compared with the previous year. This places Nigeria at the top of the list of countries of 
+origin of victims and witnesses ‘in the B9’. Romania ranks second in terms of applications 
+and awards in 2006, followed by Bulgaria, which headed the list in 2005.17 
+
+In Table 2.7 the victims/witnesses that were awarded or applied for B9 are classified accord-
+ing to region of origin. In the table a distinction is made within Europe – where many of the 
+victims come from – between countries that were member states of the EU in 1995, coun-
+tries that were members of the EU in 2004 or were candidates for membership of the EU at 
+
+                                                                      
+16 A nationality is included in the table if five or more victims/witnesses who applied for/were awarded a B9 pos-
+
+sessed that nationality in at least one of the years 2005 and 2006. 
+17 As in 2000 and 2001. NRM5 
+
+
+
+VICTIMS 
+
+ 15 
+
+that time and joined in 2007, non-EU countries in Eastern Europe and non-EU countries in 
+Western Europe. The other categories in the table are the different continents.18  
+
+Table 2.7 Region of origin of persons with (application for) B9 (2005 and 2006) 
+
+Region of origin Applications 2005 Applications 2006 Awards 2005 Awards 2006 
+
+ N % N % N % N % 
+
+EU: 1995 2 3% - - 2 3% - - 
+
+EU: new (candidate) 
+member states 2004 
+
+26 34% 62 34% 26 43% 51 34% 
+
+Non-EU countries in 
+Eastern Europe 
+
+15 20% 13 7% 10 16% 12 8% 
+
+Non-EU countries in 
+Western Europe 
+
+1 1% - - 1 2% - - 
+
+Africa 19 25% 76 42% 17 28% 60 40% 
+
+Latin America and 
+Caribbean 
+
+4 5% 2 1% 1 2% 2 1% 
+
+Asia 8 10% 25 14% 3 5% 23 15% 
+
+Unknown/stateless 2 3% 2 1% 1 2% 2 1% 
+
+Total 77 100% 180 100% 61 100% 150 100% 
+
+In both 2005 and 2006, the majority of the victims and witnesses for whom a B9 residence 
+permit was requested or granted came from the countries that joined the EU in 2004 and 
+2007, Africa and non-EU countries in Eastern Europe. Africa’s share increased substantially 
+in both absolute and percentage terms, while that of the non-EU countries in Eastern 
+Europe declined, particularly in relative terms.  
+
+2.3.5 Continued residence 
+
+Many victims and witnesses wish to remain in the Netherlands on expiry of the B9.NRM3 As 
+reported in the fifth report on trafficking in human beings, the IND’s contact persons for 
+human trafficking received 34 applications for continued residence in 2006, of which – in 
+first instance – equal numbers were accepted and rejected (17 and 17). 
+
+2.4 Compensation 
+
+The fifth report on trafficking in human beings described the various methods by which vic-
+tims of human trafficking can secure compensation for material or immaterial damage. One 
+way for the victim is to join the criminal prosecution as an injured party. The victim’s civil 
+claim is then handled concurrently with the criminal case. The court can, in addition to 
+awarding the civil claim, also impose a compensation order. The victim can ask for this, but 
+the court can also impose this sanction ex officio. In imposing a sentence the court can also 
+
+                                                                      
+18 Only included in the table if persons who were awarded or applied for B9 came from there. 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 16 
+
+attach a special condition that a sum of money has to be paid to the Criminal Injuries Com-
+pensation Fund (Schadefonds Geweldsmisdrijven) or to another institution that represents the 
+interests of victims of crimes. Victims can also make a claim on the Criminal Injuries Com-
+pensation Fund,19 avail of mediation on the issue of compensation – although this is not an 
+obvious option given the nature of the crime – or institute proceedings for compensation in 
+civil court. 
+
+Data from the public prosecution service provide (some) information about the decisions 
+on compensation in criminal and civil law cases. Before presenting them, Table 2.8 first pro-
+vides an overview of the number of perpetrators that were convicted of human trafficking 
+(alone or in combination with other offences)20 in the period 2003 to 2006 and the sentences 
+they received (for more detailed information about this, see chapter 4, table 4.8). 
+
+Table 2.8 Sentences imposed after conviction for human trafficking, per annum 
+
+Principal sentence21 2003 2004 2005 2006 
+
+No principal sentence  1 - - - 
+
+Only conditional principal  
+sentence 
+
+3 3 2 1 
+
+Custodial sentence 65 (72%) 103 (70%) 75 (88%) 63 (90%) 
+
+Community service  7 8 4 6 
+
+Fine 4 2 - - 
+
+Total  80 116 81 70 
+
+Table 2.9 contains information about the decisions, if any, that were made with respect to 
+compensation in the above criminal cases.  
+
+Table 2.9 Decisions on compensation 
+
+Decision on compensation 2003 2004 2005 2006 
+
+None 63 79% 91 78% 54 67% 41 59% 
+
+Rejected/declared inadmissible 8 10% 3 3% 4 5% 6 9% 
+
+Order to pay compensation  3 4% 7 6% 7 9% 12 17% 
+
+(Partial) award of civil claim  - - - - 2 2% 2 3% 
+
+Order to pay compensation and 
+(partial) award of civil claim 
+
+6 7% 15 13% 14 17% 9 13% 
+
+Total  80 100% 116 100% 81 100% 70 100% 
+
+                                                                      
+19 In 2007, 25 applications were made to the fund by victims of human trafficking and 18 applications were 
+
+awarded. 
+20 In other words, cases in which charges of human trafficking were brought but there was no conviction are ig-
+
+nored. 
+21 These are unconditional sentences. 
+
+
+
+VICTIMS 
+
+ 17 
+
+Although no compensation was awarded in more than half of the cases in 2006 in which de-
+fendants were convicted of human trafficking, there is clearly an upward trend in the sense 
+that it is an issue that the criminal courts are being asked to decide on increasingly fre-
+quently. This most frequently results in an order to pay compensation or in an order to pay 
+compensation measure combined with the (partial) award of a civil claim. It has to be real-
+ised however that this refers to the number of cases in which such judgments are rendered. 
+The judgments can relate to more than one victim and vary with respect to different vic-
+tims.22 
+
+It is not known how many victims actually received compensation on the basis of the above 
+judgments nor what may have been (solely or additionally) claimed (and received) through 
+the other channels of compensation. 
+ 
+
+                                                                      
+22 When there is a rejection/declaration of non-admissibility (with respect to a particular victim) and an order to 
+
+pay compensation, a (partial) award of a civil claim or a combination of both (with respect to one or more other 
+victims), the judgment is classified one of these last three categories. 
+
+
+
+
+
+ 19 
+
+3 
+ Suspects and convicted offenders 
+
+3.1 Introduction 
+
+This chapter contains statistics about persons suspected of THB whose prosecution for 
+THB was registered with the public prosecution services (PPS). The number fluctuates from 
+year to year and there were 201 in 2006. This chapter also contains data about offenders 
+convicted of THB in first instance. This number also fluctuates from year to year and there 
+were 70 in 2006. The information relates to their age, gender and country of origin. The in-
+formation about the suspects covers the period from 2002 to 2006 and the data about con-
+victed offenders cover the period from 2003 (the first year for which these data were avail-
+able) to 2006. The information comes from the PPS database. 
+
+3.2 Age 
+
+3.2.1 Age of suspects 
+
+Table 3.1 provides an overview of the ages of suspects registered with the PPS, broken down 
+by age group. 
+
+Table 3.1 Age of suspects, by year of registration 
+
+Age 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+Younger than 18 years 3 1% 7 4% 4 2% 4 3% 11 5% 
+
+18 to 25 years 70 35% 29 19% 79 36% 58 42% 62 31% 
+
+26 to 30 years 44 22% 29 19% 35 16% 23 17% 27 13% 
+
+31 to 40 years 48 24% 60 38% 59 27% 21 15% 49 24% 
+
+41 to 50 years 24 12% 19 12% 24 11% 20 14% 35 17% 
+
+51 to 60 years 7 3% 8 5% 15 7% 10 7% 11 5% 
+
+61 to 70 years 3 1% 3 2% 2 1% - - 3 1% 
+
+n.a. (legal entity) - - 1 1% 1 0% - - 1 0% 
+
+Unknown 1 0% - - 1 0% 2 1% 2 1% 
+
+Total 200 100% 156 100% 220 100% 138 100% 201 100% 
+
+In almost 70% of the cases registered in 2006 the suspects were aged between 18 and 41 at 
+the time of the first offence of THB.1 The average age of the suspects was 32 (SD 11.4) and 
+
+                                                                      
+1 The same person may be suspected of more than one THB offence. 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 20 
+
+eleven suspects were minors (5%), which is more than in previous years in both absolute and 
+relative terms.  
+Over the entire period from 2002 to 2006 the average age of the suspects was also 32 
+(SD 10.9). The female suspects were on average slightly younger: 29 (SD 10.8). 
+
+3.2.2 Age of convicted offenders 
+
+Table 3.2 contains similar information about the age (at the time of the crime) of the persons 
+convicted in first instance of THB in the period 2003 to 2006. It is important to note here that 
+the year in which an offence is registered by the PPS is not always the same year as the court 
+renders its verdict. For that reason, the figures in the tables for registered and convicted per-
+sons do not relate to precisely the same persons. In theory, for example, there may be more 
+convictions of under-age offenders than registered suspects who were under-age at the time 
+of the offence in a particular year. 
+
+Table 3.2 Age of persons convicted of THB, by year of conviction 
+
+Age 2003 2004 2005 2006 
+
+ N % N % N % N % 
+
+Younger than 18 years - - 2 2% 1 1% 4  6% 
+
+18 to 25 years 15 19% 35 30% 31 38% 29 41% 
+
+26 to 30 years 23 29% 19 16% 14 17% 11 16% 
+
+31 to 40 years 24 30% 40 34% 23 28% 17 24% 
+
+41 to 50 years 11 14% 12 10% 8  10% 5 7% 
+
+51 to 60 years 5 6% 6  5% 3  4% 2 3% 
+
+61 to 70 years 2 2% 2 1% - - 1 1% 
+
+Unknown - - - - 1 1% 1 1% 
+
+Total 80 100% 116 100% 81 100% 70 100% 
+
+Of the persons convicted of THB in 2006, 81% were aged between 18 and 41 years at the 
+time of the first offence and four of the convicted offenders (6%) in that year were minors at 
+the time of the offence. 
+
+3.3 Country of origin 
+
+3.3.1 Country of origin of suspects 
+
+Over the entire period from 2002 to 2006, the suspects came from 55 different countries. In 
+each of the years between 2002 and 2005 the suspects came from 20 or more different coun-
+tries. In this respect, 2006 surpasses every other year with suspects from 32 different coun-
+tries of birth. 
+
+
+
+SUSPECTS AND CONVICTED OFFENDERS 
+
+ 21 
+
+Table 3.3 contains the rankings of the five most common countries of birth of suspects.2 An 
+accent indicates that the countries concerned share the position in the rankings. 
+
+Table 3.3 Rankings of the most common countries of birth of suspects, by year of registration 
+
+Counry 2002 2003 2004 2005 2006 
+
+ Ranking Ranking Ranking Ranking  Ranking 
+
+Netherlands 1 1 1 1 1 
+
+Turkey 3’ 4 2 3 2 
+
+Romania 4 2 3 4’ 3 
+
+Morocco   5’ 2 4’ 
+
+Bulgaria 2 3 4  4’ 
+
+Hungary    4’  
+
+Surinam   5’ 4’  
+
+(former) Soviet Union  5    
+
+Albania 3’     
+
+The table shows that, as in preceding years, the Netherlands ranks first as the country of 
+birth of suspects and that Turkey and Romania maintain a ‘stable position’ in the top five. 
+
+Table 3.4 contains a list (in alphabetical order) of the principal countries of origin of the sus-
+pects.3 See Table B3.4 in Appendix 4 for a complete list. 
+
+Table 3.4 Countries of birth of suspects, by year of registration 
+
+Country of birth 2002 2003 2004 2005 2006 
+
+ N N N N N 
+
+Albania 26 5 - - - 
+
+Bulgaria 27 19 14 4 13 
+
+(former) Czechoslovakia 2 - 2 5 3 
+
+(Federal Republic of) Germany - 1 5 1 - 
+
+Hungary 1 - - 6 1 
+
+India - - - - 7 
+
+Iraq 6 - 2 - 2 
+
+Morocco 3 3 9 17 13 
+
+Netherlands 51 46 91 54 76 
+
+Netherlands Antilles 1 2 7 3 4 
+
+Nigeria 7 5 4 - 2 
+
+                                                                      
+2 The most recent year (2006) is taken as the point of departure for determining the order in which the countries 
+
+are listed in the table. 
+3 The criterion used for inclusion in this table is that at least five suspects came from the country concerned in 
+
+one of the years between 2002 to 2006 or at least ten came from that country in the entire period. The figures 
+for the years 2002 to 2005 differ slightly from those in earlier reports due to corrections in PPS data. Since the 
+discrepancies are minor, they are not illuminated any further. 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 22 
+
+Continued Table 3.4      
+
+Country of birth 2002 2003 2004 2005  
+
+ N N N N N 
+
+Poland 4 - 3 3 3 
+
+Romania 8 22 23 6 14 
+
+(former) Soviet Union 7 11 8 2 7 
+
+Surinam 5 10 9 6 11 
+
+Turkey 26 16 24 15 18 
+
+(former) Yugoslavia 6 3 3 4 6 
+
+Other4 16 11 14 12 20 
+
+Unknown 4 2 2 - 1 
+
+Total 200 156 220 138 201 
+
+As in preceding years, the Netherlands was the most common country of origin of suspects 
+registered by the PPS.5 Turkey, Morocco, Bulgaria and Romania also stand out as being rela-
+tively frequently the country of birth of suspects (more than 5% of the cases). India is a strik-
+ing newcomer in the list. Reviewing the entire period from 2002 to 2006, besides the large 
+proportion of Dutch suspects, there are also large percentages of suspects born in Turkey, 
+Bulgaria and Romania. Albania no longer seems important in this regard and the signifi-
+cance of Nigeria seems to be declining, although the reports of (arrests in) THB cases at the 
+end of 2007 and the beginning of 2008 raise the suspicion that this impression of Nigeria’s 
+position as a country of origin of suspects may change again. 
+
+3.3.2 Country of origin of convicted offenders 
+
+The previous section concerned the countries of birth of suspects of THB registered with the 
+PPS. Table 3.5 contains a list of the five most common countries of birth of persons convicted 
+of THB in the period from 2003 to 2006.6 
+
+Table 3.5 Rankings of countries of birth of persons convicted of THB, by year of conviction 
+
+Country 2003 2004 2005 2006 
+
+ Ranking Ranking Ranking Ranking 
+
+Netherlands 1 1 1 1 
+
+Morocco  5’  2 
+
+Turkey 4’ 3 2 3’ 
+
+(former) Czechoslovakia    3’ 
+
+                                                                      
+4 Some cases (1 in 2003, 1 in 2004 and 1 in 2006) involved legal entities. 
+5 Suspects are not registered on the basis of ethnic background. 
+6 Once again, the most recent year (2006) is taken as the point of departure for determining the order in which 
+
+the countries are listed in the table. An accent indicates that the countries concerned share that ranking in the 
+table. 
+
+
+
+SUSPECTS AND CONVICTED OFFENDERS 
+
+ 23 
+
+Continued Table 3.5      
+
+Country 2003 2004 2005 2006 
+
+ Ranking Ranking Ranking Ranking 
+
+Bulgaria 2 4 5’ 4’ 
+
+Hungary    4’ 
+
+Romania 4’ 2   
+
+Surinam  5’ 3’  
+
+(former) Soviet Union  5’ 4  
+
+Albania 3    
+
+The table shows that the Netherlands consistently occupies first place as country of birth of 
+convicted THB offenders and that Turkey and Bulgaria occupy a ‘stable position’ in the top five.  
+
+Table 3.6 presents the most common countries of birth of persons convicted of THB.7 Table 
+B3.6 in Appendix 4 contains a complete list. 
+
+Table 3.6 Countries of birth of persons convicted of THB, by year of conviction 
+
+Country of birth 2003 2004 2005 2006 
+
+ N N N N 
+
+Albania 9 2 - - 
+
+Belgium 2 1 2 - 
+
+Bulgaria 16 11 4 4 
+
+Colombia - - 1 - 
+
+(former) Czechoslovakia - - - 6 
+
+(Federal Republic of) Germany - 1 1 - 
+
+Greece 1 - - 1 
+
+Hungary - - 2 4 
+
+Indonesia 1 - 1 - 
+
+Marocco 2 7 3 13 
+
+Netherlands 26 37 36 21 
+
+Netherlands Antilles - 2 3 - 
+
+Nigeria - 5 - - 
+
+Poland 1 - - 1 
+
+Romania 7 18 3 3 
+
+(former) Soviet Union 5 7 5 - 
+
+Surinam 1 7 8 1 
+
+Thailand 1 1 - 1 
+
+Turkey 7 14 9 6 
+
+                                                                      
+7 Only the 12 countries of birth for which there was only a single instance in these years are omitted from the ta-
+
+ble. They are Lithuania and Sudan (2004), Iran, Korea and the US (in 2005) and Angola, Ghana, Great Britain, 
+Iraq, Cape Verde, Kuwait and Sierra Leone (2006). 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 24 
+
+Continued Table 3.6     
+
+Country of birth 2003 2004 2005 2006 
+
+ N N N N 
+
+(former) Yugoslavia - 1 - 1 
+
+Country unknown 1 - - 1 
+
+Other - 2 3 7 
+
+Total  80 116 81 70 
+
+As in preceding years, the Netherlands was the most common country of birth of persons 
+convicted of THB in 2006.8 As in the case of registered suspects, the former Czechoslovakia 
+and Hungary are relatively common countries of birth of convicted offenders, together with 
+Morocco, Turkey and Bulgaria. Over the entire period from 2003 to 2006, in addition to the 
+fact that the overwhelming majority of convicted offenders are Dutch, a striking feature is 
+the proportion of convicted offenders who were born in Turkey, Bulgaria, Romania and 
+Morocco, although the number of convictions of Bulgarians, Romanians and – to a lesser 
+extent – Turks does seem to be declining.  
+
+3.4 Gender 
+
+3.4.1 Gender of suspects 
+
+Most suspects are male; in 2006 they accounted for 83% of the total. The 32 female suspects 
+registered by the PPS came from Bulgaria, Romania, the (former) Soviet Union (each 5), the 
+Netherlands (4), Morocco (3) and Brazil, Hungary, Hong Kong, India, Iran, (former) Yugo-
+slavia, Lithuania, Nigeria, Poland and (former) Czechoslovakia (each 1).  
+There are clear differences between the countries of origin. Confining ourselves to the main 
+countries of origin of suspects listed in Table 3.4, what stands out is that the Turkish suspects 
+do not include any women and that there are few women among the Dutch suspects (5%), 
+while 38% and 36% respectively of the Bulgarian and Romanian suspects are women. 
+Whereas it was observed in the previous report that scarcely any of the Moroccan suspects 
+were women (not more than 2 to 3% measured over the previous five years), the figure in 
+2006 was 23% (3 of the 13 suspects were women). 
+
+Although Nigeria is no longer significant as a country of origin of suspects registered with 
+the PPS, the number of women among Nigerian suspects is worthy of mention: of the 18 
+suspects registered in the period 2002 to 2006, 78% were women. 
+
+                                                                      
+8 Convicted persons are not registered on the basis of ethnic background. 
+
+
+
+SUSPECTS AND CONVICTED OFFENDERS 
+
+ 25 
+
+3.4.2 Gender of convicted offenders 
+
+A review of the convictions for THB in 2006 shows that 13 of the 70 persons convicted – in 
+first instance – were women. That is 19%, which is slightly more than the year before, but 
+similar to the situation in 2003 and 2004.9 These 13 women came from the Netherlands, Mo-
+rocco, Romania and (former) Czechoslovakia (each 2) and Bulgaria, Great Britain, Hungary, 
+Poland and Thailand (each 1). There are stark differences between countries in terms of the 
+proportion of women among the convicted offenders. For the eight countries which ac-
+counted for more than ten convicted offenders in the period from 2003 to 2006, the per-
+centage ranges from 0% (Albania) to 35% (former Soviet Union).10 
+ 
+ 
+
+                                                                      
+9 Convictions of women for THB: 13 in 2003 (16%), 21 in 2004 (18%) and 10 in 2005 (12%). 
+10 The proportion of women among the persons convicted of THB from the other six countries is 3% (Turkey), 
+
+8% (Netherlands and Morocco), 17% (Surinam), 23% (Bulgaria) and 29% (Romania). 
+
+
+
+
+
+ 27 
+
+4 
+ Prosecution 
+
+4.1 Introduction 
+
+This chapter presents the results of (secondary) analyses of the trafficking in human beings 
+(THB) cases in the public prosecution service (PPS) database for the period 2002 to 2006.1 
+For each year, the number of cases registered with the PPS, handled by the PPS and dis-
+posed of by the courts is given. In other words, no cohort was followed. The research 
+method is explained in Appendix 2.  
+
+With the entry into force of Article 273a of the Netherlands Criminal Code on 1 January 
+2005 – renumbered without amendment of the text as Article 273f of the Code in mid-2005 
+– exploitation in sectors other than the sex industry and certain activities relating to the re-
+moval of organs were also brought within the definition of ‘human trafficking’. Unfortu-
+nately, the text of the article makes it impossible to give an indication – within the PPS data – of 
+the nature of the exploitation on the basis of the sections and subsections of the article (in the 
+sex industry, in other economic sectors or in relation to the disposal of organs). What we do 
+know is that all cases up to the end of 2005 relate to exploitation in the sex industry, and that 
+several cases in 2006 involve exploitation in other sectors. None of the cases relate to the 
+removal of organs. 
+
+4.2 THB cases registered with the Public Prosecution Service 
+
+4.2.1 Number of registered cases 
+
+In 2006, 201 cases were registered with the PPS in which human trafficking was (solely or 
+also) suspected (Article 250ter (old), Article 250a (old), Article 273a (old) or Article 273f).2 In 
+the context of prosecution, a (criminal) case is understood to mean a case against a single 
+suspect. 
+
+Table 4.1 shows how many cases there were in each year and (as far as is known) how many 
+of these cases (also) involved under-age victims.3 
+
+                                                                      
+1 These were again performed for this report by the Statistical Data and Policy Analysis Division (SIBA) of the 
+
+Ministry of Justice’s Scientific Research and Documentation Centre (WODC). 
+2 Including cases that were later dropped by the PPS or in which the charges did not ultimately include THB. 
+3 Criterion: registration under sections and subsections of the article which imply that the victims were under-age. 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 28 
+
+Table 4.1 Number of registered cases, including cases (also) involving under-age victims, per annum 
+
+Year Registered cases Cases that (also) involve under-age victims 
+
+ N N % 
+
+2002 200 27 13% 
+
+2003 156 41 26% 
+
+2004 220 32 15% 
+
+2005 138 36 26% 
+
+2006 201 24 12% 
+
+The number of registered cases fluctuates: the small numbers of registered cases in 2003 and 
+2005 were followed by substantial numbers of cases in 2004 and 2006. 
+The number of cases that (also) involve under-age victims also fluctuates: in both absolute 
+and relative terms, the number declined in 2004, increased in 2005 and fell again in 2006. 
+Over the entire period from 2002 to 2006, at least4 17% of all cases solely or also involved 
+under-age victims. This says nothing about the total number of under-age victims, since there 
+may be more than one involved in each case. 
+
+4.2.2 ‘Nature’ of the cases 
+
+Breaking down the THB cases registered with the PPS according to the different sections 
+within the articles on human trafficking in the Criminal Code5 produces the results shown in 
+Table 4.2. 
+
+Table 4.2 ‘Type’ of THB, by year of registration6 
+
+‘Type’ of THB 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+250ter/a section 1 52 26% 31 20% 60 27% 22 16% 4 2% 
+
+250ter/a section 2 148 74% 125 80% 160 73% 41 30% 27 13% 
+
+273a/f section 1 n.a. n.a. n.a. n.a. n.a. n.a. 25 18% 64 32% 
+
+273a/f section 3 n.a. n.a. n.a. n.a. n.a. n.a. 46 33% 103 51% 
+
+273a/f section 4 n.a. n.a. n.a. n.a. n.a. n.a. 4  3% 1 0% 
+
+273f section 5 n.a. n.a. n.a. n.a. n.a. n.a. - - 2 1% 
+
+Total 200 100% 156 100% 220 100% 138 100% 201 100% 
+
+                                                                      
+4 Under-age victims may also be involved in cases registered under sections and subsections of the article other 
+
+than those referred to in an earlier footnote. 
+5 Perhaps superfluously: registration, summons or conviction under Article 273f section 3, 4, 5 or 6 concerns the 
+
+aggravating circumstances under which THB is committed (Article 273f section 1). 
+6 Article 250ter/a section 3, Article 273a, section 5 and Article 273a/f section 6 are not mentioned in the table be-
+
+cause there were no cases under those provisions in the period concerned. 
+
+
+
+PROSECUTION 
+
+ 29 
+
+The vast majority of the THB cases in the period 2002 to 2006 concerned aggravated human 
+trafficking: these are cases in which two or more persons act in concert or there is a victim 
+who is younger than 16 years of age or serious physical injury is inflicted. Non-aggravated 
+human trafficking also occurred fairly frequently in that period. In 2005 and 2006, five cases 
+were registered under Article 273a/f, section 4 (THB committed by two or more persons act-
+ing in concert, in which there was also a victim younger than 16 involved) and two cases were 
+registered in 2006 under Article 273f, section 5 (human trafficking resulting in serious physi-
+cal injury). 
+
+The offence of THB is often committed in combination with other offences.7 A case may 
+therefore involve more than one offence. 
+
+Table 4.3 provides an overview of the most serious registered offences in each THB case.8 
+
+Table 4.3 Most serious offence, by year of registration 
+
+Most serious offence 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+Sexual violence 14 7% 14 9% 26 12% 16 12% 36 18% 
+
+Other violence 7 3% 2 1% 13 6% 7 5% 2 1% 
+
+Crimes against property - - 1 1% - - - - 1 0% 
+
+Vandalism/public order  - - - - 2 1% - - - - 
+
+THB: 250ter/a section 1 43 21% 23 15% 43 20% 16 12% 4 2% 
+
+THB: 250ter/a section 2 131 65% 109 70% 131 60% 37 27% 26 13% 
+
+THB: 273a section 1 n.a. n.a. n.a. n.a. n.a. n.a. 21 15% 44 22% 
+
+THB: 273a/f section 3 n.a. n.a. n.a. n.a. n.a. n.a. 35 25% 80 40% 
+
+THB:273a section 4 n.a. n.a. n.a. n.a. n.a. n.a. 4 3% 1 0% 
+
+THB:273a section 5 n.a. n.a. n.a. n.a. n.a. n.a. - - 2 1% 
+
+Other offences under the Criminal 
+Code9 
+
+5 2% 7 4% 5 2% 2 1% 5 2% 
+
+Total 200 100% 156 100% 220 100% 135 100% 201 100% 
+
+In the last few years, THB was the only, or the most serious offence, in around 80% of the 
+cases. In most of the cases in which there was another, more serious offence in addition to 
+
+                                                                      
+7 Such as arranging entry to the country for an illegal alien, (attempted) rape or complicity therein, possession or 
+
+use of weapons, (attempted) intentional deprivation of liberty or complicity therein and offences relating to 
+drugs, the production and use of false or forged travel documents and assault and duress.NRM3, NRM5 
+
+8 The classification adopted by Statistics Netherlands (Centraal Bureau voor de Statistiek), in which the offence 
+with the most severe potential punishment ‘prevails’, has been modified by creating a separate category for 
+THB. Where there are combinations of offences with equal punishments, THB is included in the list as the 
+most serious offence. If there are then still several offences with the same potential punishment, whichever of-
+fence was committed earlier prevails. 
+
+9 They involve, for example, (THB in combination with) fraud, bribery of a public official, making a false charge, 
+bigamy, inducing a minor to drunkenness or abducting a minor.NRM3 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 30 
+
+THB, that offence usually involved a form of sexual violence. In 2006, sexual violence was 
+the most serious offence in 18% of cases involving THB. 
+Whereas the previous report identified a – gradual – decline in the (registration of) THB in 
+combination with ‘participation in a criminal organisation’ (Article 140 of the Criminal 
+Code), to the point where it did not occur at all in 2005, that combination did occur again in 
+2006 on 29 occasions (in 14% of the cases). It would therefore appear that resources are not - 
+or no longer - being devoted mainly to cases designed to deliver a ‘short, sharp blow’ to per-
+petrators and relating to suspects operating on their own, a possible explanation that was 
+put forward as a point of concern in the last report. 
+
+4.3 Cases dealt with by the Public Prosecution Service 
+
+Table 4.4 contains an overview of the number of cases, by year of registration, in which the 
+suspect was remanded in custody. 
+
+Table 4.4 Remand in custody, by year of registration10 
+
+Remanded in 2002 2003 2004 2005 2006 
+
+custody N % N % N % N % N % 
+Yes 155 78% 130 83% 161 73% 102 74% 152 76% 
+
+No 45 22% 26 17% 59 27% 36 26% 49 24% 
+
+Total 200 100% 156 100% 220 100% 138 100% 201 100% 
+
+In 2006, more than three-quarters of the suspects were on remand at the time their case was 
+brought before the court. This percentage has remained reasonably stable over the years. 
+
+The previous sections involved cases registered with the PPS. Table 4.5 covers the cases 
+dealt with by the PPS in those same years.11 
+
+                                                                      
+10 Here too there are minor discrepancies compared with the figures presented in the previous report. 
+11 The reason why more cases were dealt with by the PPS than were registered with the PPS in 2006 is that no 
+
+cohort was followed and the PPS does not always make a decision on whether to prosecute in the same year as 
+a case is registered. Once again, there are (minor) discrepancies in this table compared with figures presented in 
+previous reports. 
+
+
+
+PROSECUTION 
+
+ 31 
+
+Table 4.5 Cases dealt with by the PPS, by year in which they were dealt with 
+
+Disposition of the case 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+THB summons12 111 68% 116 66% 175 71% 99 72% 163 75% 
+
+Unconditional decision not to 
+prosecute 
+
+40 25% 42 24% 61 25% 28 20% 41 19% 
+
+Summons for other offences13 10 6% 11 6% 4 2% 2 1% 10 5% 
+
+Transfer of jurisdiction14 - - 2 1% 2 1% 1 1% 1 0% 
+
+Joinder15 1 1% 4 2% 1 0% 2 1% 1 0% 
+
+Conditional decision not to 
+prosecute16 
+
+- - - - 2 1% 4 3% - - 
+
+Out-of-court settlement17 1 1% - - 1 0% 2 1% - - 
+
+Total 163 100% 175 100% 246 100% 138 100% 216 100% 
+
+The number of cases dealt with by the PPS displays a similar pattern to the number of cases 
+registered with the PPS: 2004 was a peak year with 246 cases dealt with. That was followed 
+by a relative trough in 2005 with only 138 cases dealt with, whereupon the PPS handled a 
+substantially larger number of cases in 2006. 
+As in previous years, the issuing of a summons was by far the most common manner in 
+which cases were handled in 2006 (in 80% of the cases in 2006). Most summonses were is-
+sued solely or jointly for THB, some exclusively for other offences. The number of cases in 
+which an unconditional decision was taken not to prosecute declined slightly to 19% of the 
+cases in 2006. The decisions were based mainly on technical grounds, the most common 
+reason being ‘a lack of evidence’. 
+Prosecutions were unconditionally dropped more often in cases where non-aggravated 
+THB was suspected than in cases where there were aggravating circumstances.18 
+
+                                                                      
+12 This refers to a summons solely or jointly for THB. 
+13 These are cases in which, despite an earlier suspicion of (and registration under) THB, the summons ultimately 
+
+did not include a charge of THB but did include charges of one or more other criminal offences. 
+14 To another district or another country. 
+15 Joinder is the merging of different criminal offences into a single case. 
+16 A conditional decision not to prosecute is a provisional postponement by the PPS of the decision on whether to 
+
+prosecute. 
+17 An out-of-court settlement involves the (voluntary) payment of a sum of money to the PPS, whereupon the 
+
+PPS abstains from prosecuting. 
+18 In 2006, non-aggravated: 64% summonses for THB and 26% unconditional decisions not to prosecute; aggra-
+
+vated: 81% summonses for THB and 15% unconditional decisions not to prosecute. 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 32 
+
+4.4 Settlement by the court 
+
+To recapitulate: in 2006 there were 201 cases registered with the PPS in which there was a 
+suspicion of THB. In that same year, the PPS dealt with 216 cases and the courts dealt (in first 
+instance) with 100 cases in which the charges included THB.19 
+
+Table 4.6 give an overview of the judicial decisions, by year in which the case was settled. 
+
+Table 4.6 Settlement in first instance, by year of settlement 
+
+Settlement 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+Conviction 84 88% 105 91% 135 89% 98 86% 90 90% 
+
+Acquittal 10 11% 5 4% 11 7% 13  11% 10 10% 
+
+Discharge from further 
+prosecution 
+
+- - - - 1 1% - - - - 
+
+PPS inadmissible  1 1% 1 1% - - - - - - 
+
+Cases joined at hearing  - - 5 4% 4 3%  3  3% - - 
+
+Total 95 100% 116 100% 151 100% 114 100% 100 100% 
+
+Once again, a large majority of the cases brought to court in 2006 led to a conviction (90%). 
+In 10% of the cases there was an acquittal. The other forms of settlement did not occur at all 
+in 2006 and only occasionally in the preceding years. 
+
+4.4.1 Sentence imposed for most serious offence 
+
+Table 4.7 gives an overview of the sentences imposed in first instance for the most serious 
+offence in the charges.20 
+
+Table 4.7 Sentence imposed in first instance for the most serious offence, by year of settlement 
+Most serious offence Judgment 2002 2003 2004 2005 2006 
+
+THB: 250ter/a section 1 Conviction 12 (92%) 10 (91%) 21 (87%) 19 (86%) 2 
+
+Criminal Code Acquittal 1 1 2 1 2 
+
+ Discharge from further 
+prosecution 
+
+- - 1 - - 
+
+ Cases joined at hearing - - - 2 - 
+
+ Total  13 11 24 22 4 
+
+THB:250ter/a section 2 Conviction 61 (87%) 81 (89%) 95 (91%) 48 (81%) 24 (86%) 
+
+Criminal Code Acquittal 9 4 6 10 4 
+
+ 
+
+                                                                      
+19 Cases that were registered with the PPS as (including) THB but in which the summons was exclusively for 
+
+other offences are therefore no longer included below. 
+20 Percentages are only given for cells with ten or more. 
+
+
+
+PROSECUTION 
+
+ 33 
+
+Continued Table 4.7 
+Most serious offence Judgment 2002 2003 2004 2005 2006 
+
+ PPS inadmissible - 1 - - - 
+
+ Cases joined at hearing - 5 3 1 - 
+
+ Total 70 91 104 59 28 
+
+THB: 273a section 1 Conviction g n.a. n.a. n.a. 3 10 (92%) 
+
+Criminal Code Acquittal n.a. n.a. n.a. 1 1 
+
+ Total  n.a. n.a. n.a 4 11 
+
+THB: 273a section 3 Conviction n.a. n.a. n.a. 5 30 (97%) 
+
+Criminal Code Acquittal n.a. n.a. n.a. 1 1 
+
+ Total  n.a. n.a. n.a. 6 31 
+
+THB: 273a section 4 Conviction n.a n.a n.a - 4 
+
+Criminal Code Total  n.a. n.a. n.a. - 4 
+
+Sexual violence Conviction 8 9 8 16 (100%) 12 (92%) 
+
+ Acquittal - - 2 - 1 
+
+ PPS inadmissible 1 - - - - 
+
+ Cases joined at hearing - - 1 - - 
+
+ Total 9 9 11 16 13 
+
+Other violence Conviction 1 2 3 6 6 
+
+ Acquittal - - 1 - 1 
+
+ Total  1 2 4 6 7 
+
+Crimes against  Conviction - 1 - - - 
+
+property Total - 1 - - - 
+
+Vandalism/  Conviction - - 2 - - 
+
+public order Total - - 2 - - 
+
+Other  Conviction 2 2 6 1 2 
+
+ Total 2 2 6 1 2 
+
+Total Conviction 84 (88%) 105 (91%) 135 (89%) 98 (86%) 90 (90%) 
+
+ Acquittal 10 5 11 13 10 
+
+ 
+Discharge from further 
+prosecution 
+
+- - 1 - - 
+
+ PPS inadmissible 1 1 - - - 
+
+ Summons annulled - - - - - 
+
+ Cases joined at hearing - 5 4 3 - 
+
+ Total  95 116 151 114 100 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 34 
+
+4.4.2 Conviction for THB 
+
+Sentences imposed 
+Table 4.8 contains an overview of the sentences imposed in the cases in which the suspects 
+were (also) convicted of THB. In other words, cases in which a summons was served but 
+there was no conviction for THB are ignored.21 
+
+Table 4.8 Sentences imposed, by year22 
+
+Convicted for Principal sentence23 2002 2003 2004 2005 2006 
+
+THB: 250ter/a section 1 No principal sentence24 1 - - - - 
+
+Criminal Code Only conditional principal 
+sentence 
+
+1 1 - 2 1 
+
+ Custodial sentence25 12 12 20 22 4 
+
+ Community service 1 3 3 2 - 
+
+ Fine - 2 - - - 
+
+ Total  15 18 23 26 5 
+
+THB: 250ter/a section 2 No principal sentence - 1 - - - 
+
+Criminal Code Only conditional principal 
+sentence 
+
+2 2 3 - - 
+
+ Custodial sentence26 44 (83%) 53 (85%) 83 (89%) 45 (96%) 21 (87%) 
+
+ Community service27 7 4 5 2 3 
+
+ Fine - 2 2 - - 
+
+ Total 53 62 93 47 24 
+
+THB: 273a/f section 1 Custodial sentence n.a. n.a. n.a. 3 14 
+
+ Total  n.a. n.a. n.a. 3 14 
+
+THB: 273a/f section 3  Custodial sentence28 n.a. n.a. n.a. 5 20 (87%) 
+
+      
+
+                                                                      
+21 That happened in 20 (22%) of the 90 cases in 2006 in which the summons did include THB and which resulted 
+
+in a conviction. 
+22 In this table there are also discrepancies compared with the figures presented in previous reports. Some of 
+
+them are substantial. 
+23 These are unconditional sentences, unless otherwise stated. 
+24 An additional sentence may be imposed (for example, confiscation) or a measure (for example, detention under 
+
+a hospital order). Contrary to what the term suggests, the court can impose only an ‘additional’ sentence (Arti-
+cle 9 section 5 of the Code of Criminal Procedure). 
+
+25 The combination of a custodial sentence and a community service order is included in the category ‘custodial 
+sentence’. This combination was imposed three times in the period 2002 to 2006.  
+
+26 Combinations of a custodial sentence and a fine or a community service order are included in the category ‘cus-
+todial sentence’. These combinations were imposed eight and twelve times respectively in the period 2002 to 
+2006. 
+
+27 The combination of a community service order and a fine is included in the category ‘community service’. This 
+combination was imposed four times in the period 2002 to 2004. 
+
+28 The combination of a custodial sentence and a community service order is included in the category ‘custodial 
+sentence’ and was imposed once (in 2006). 
+
+
+
+PROSECUTION 
+
+ 35 
+
+Continued Table 4.8      
+
+Convicted for Principal sentence 2002 2003 2004 2005 2006 
+
+Criminal Code Community service29 n.a. n.a. n.a. - 3 
+
+ Total  n.a. n.a. n.a. 5 23 
+
+THB: 273a section 4  Custodial sentence n.a. n.a. n.a. - 4 
+
+Criminal Code Total  n.a. n.a. n.a. - 4 
+
+Total convictions No principal sentence 1 1 - - - 
+
+ 
+Only conditional principal 
+sentence 
+
+3 3 3 2 1 
+
+ Custodial sentence 56 (82%) 65 (81%) 103 (89%) 75 (93%) 63 (90%) 
+
+ Community service  8 7 8 4 6 
+
+ Fine - 4 2 - - 
+
+ Total 68 80 116 81 70 
+
+Custodial sentences 
+In 2006, unconditional custodial sentences were imposed in 63 (90%) of the aforemen-
+tioned 70 THB cases, 23 times in combination with an (unconditional) community service 
+order or fine.  
+The average term of the custodial sentence in 2006 ranged from just over 9 months (285 
+days, SD 114) for a conviction under Article 273a/f section 4 (an offence committed in con-
+cert) to roughly 22 months (669 days, SD 486) for a conviction under Article 250ter/a sec-
+tion 2 (under-age victims). 
+
+Perhaps more revealing is Table 4.9, which shows the terms of custodial sentences broken 
+down into different categories. Percentages are only given where the subtotals are 20 or 
+more. 
+
+Table 4.9 Terms of custodial sentences imposed, per annum 
+
+Conviction for  Term of custodial sentence 2002 2003 2004 2005 2006 
+
+THB: 250ter/a section 1 Up to 1 year 4 6 9 (45%) 9 (41%) 2 
+
+Criminal Code 1 to 4 years 7 6 10 (50%) 12 (55%) 1 
+
+ More than 4 year 1 - 1 (5%) 1 (5%30 1 
+
+ Total  12 12 20 22 4 
+
+THB: 250ter/a secion 2 Up to 1 year 13 (30%) 19 (36%) 34 (41%) 19 (42%) 8 (38%) 
+
+Criminal Code 1 to 4 years 26 (59%) 26 (49%) 41 (49%) 18 (40%) 11 (52%) 
+
+ More than 4 years 5 (11%) 8 (15%) 8 (10%) 8 (18%) 2 (10%) 
+
+ Total 44 53 83 45 21 
+
+THB: 273a/f section 1 Up to 1 year n.a. n.a. n.a. 1 10 
+
+                                                                      
+29 The combination of a community service order and a fine is included in the category ‘community service’ and 
+
+was imposed once (in 2006). 
+30 This is a sentence of life imprisonment (for murder, rape and other sexual offences in combination with THB). 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 36 
+
+Continued Table 4.9 
+Conviction for  Term of custodial sentence 2002 2003 2004 2005 2006 
+
+Criminal Code 1 to 4 years n.a. n.a. n.a. 2 3 
+
+ More than 4 years n.a. n.a. n.a. - 1 
+
+ Total n.a. n.a. n.a. 3 14 
+
+THB: 273a/f section 3 Up to 1 year n.a. n.a. n.a. 1 7 (35%) 
+
+Criminal Code 1 to 4 years n.a. n.a. n.a. 2 12 (60%) 
+
+ More than 4 years n.a. n.a. n.a. 2 1 (5%) 
+
+ Total  n.a. n.a. n.a. 5 20 
+
+THB: 273a section 4 Up to 1 year n.a. n.a. n.a. - 4 
+
+Criminal Code 1 to 4 years n.a. n.a. n.a. - - 
+
+ More than 4 years n.a. n.a. n.a. - - 
+
+ Total  n.a. n.a. n.a. - 4 
+
+Total Up to 1 year 17 (30%) 25 (38%) 43 (42%) 30 (40%) 31 (49%) 
+
+ 1 to 4 years 33 (59%) 32(49%) 51 (50%) 34 (45%) 37 (43%) 
+
+ More than 4 years 6 (11%) 8 (12%) 9 (9%) 11 (15%) 5 (8%) 
+
+ Total 56 (100%) 65 (100%) 103 (100%) 75 (100%) 63 (100%) 
+
+In 2006 almost half of the custodial sentences imposed in first instance were for less than 
+one year.  
+
+The table above relates to convictions for THB. Reviewing the most serious offence for 
+which an offender was convicted, as in previous years the highest average custodial sentence 
+in 2006 was imposed where violence was the most serious offence: 832 days (SD 678), or 
+just over 27 months.31 
+
+4.5 Appeal? 
+
+The PPS data only contain information about the settlement of cases in first instance. It is 
+also known whether an appeal was lodged in a case, and by whom. Table 4.10 provides an 
+overview.32 
+
+                                                                      
+31 This involves five cases in all. 
+32 Here too there are (minor) discrepancies compared with figures in the previous reports. 
+
+
+
+PROSECUTION 
+
+ 37 
+
+Table 4.10 Appeal lodged, by year of settlement (in first instance) 
+
+Appeal lodged 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+None 47 49% 69 59% 91 60% 57 50% 57 57% 
+
+Only by public prosecutor 11 12% 6 5% 6 4% 13 11% 5 5% 
+
+Only by suspect 23 24% 28 24% 46 30% 25 22% 26 26% 
+
+By both parties 14 15% 13 11% 8 5% 19 17% 12 12% 
+
+Total 95 100% 116 100% 151 100% 114 100% 100 100% 
+
+The table shows that an appeal was lodged in 43% of the cases in 2006, most often by 
+the suspect, either exclusively or as well as the public prosecutor.33 The percentage fluc-
+tuates slightly over the years. 
+
+                                                                      
+33 The suspect – naturally – does so in the event of a conviction, the public prosecutor does so most frequently in 
+
+the event of an acquittal. 
+
+
+
+
+
+ 39 
+
+Bibliography∗ 
+
+*This bibliography is an annex to the original Dutch report; not all references thus appear in the 
+current English translation 
+
+De Nederlandse Politie (2007). Korpsmonitor prostitutie & mensenhandel. z.pl., z.uitg. 
+
+Gemeente Amsterdam (z.jr.). Oud beroep, nieuw beleid. Nota prostitutie 2007 - 2010. 
+Amsterdam: gemeente Amsterdam. 
+
+Jonge van Ellemeet, H. (2007). Slecht werkgeverschap of ‘moderne slavernij’; handhaving 
+van een nader af te bakenen verbod. Justitiële Verkenningen, 7, 107-199. 
+
+Mantgem, J. van e.a. (2007). Landelijke criminaliteitskaart 2006. Een analyse van misdrijven en 
+verdachten op basis van gegevens uit HKS. Zoetermeer, KLPD-DNRI. 
+
+Nationaal Rapporteur Mensenhandel (2004). Mensenhandel - Derde rapportage van de 
+Nationaal Rapporteur. Den Haag: BNRM. 
+
+Nationaal Rapporteur Mensenhandel (2007). Mensenhandel - Vijfde rapportage van de 
+Nationaal Rapporteur. Den Haag: BNRM. 
+
+Stichting Tegen Vrouwenhandel (2007). Jaarverslag 2006. Amersfoort: STV.  
+
+STV (2007). Wat doet STV in de strijd tegen mensenhandel? STV Nieuws, 1, 4.  
+
+Vianen, R. van e.a. (2007). Positie van slachtoffers van mensenhandel. 1e trendrapportage 2006. 
+Utrecht: Verwey-Jonker Institituut, Adviesbureau Van Montfoort. 
+ 
+
+
+
+
+
+ 41 
+
+Appendix 1 
+ THB provision in the Dutch Criminal Code 
+
+Article 273f Criminal Code (in force since 1 January 2005) 
+(non-official, English translation) 
+
+(1) Any person who: 
+1. by force, violence or other act, by the threat of violence or other act, by extortion, fraud, 
+
+deception or the misuse of authority arising from the actual state of affairs, by the misuse 
+of a vulnerable position or by giving or receiving remuneration or benefits in order to 
+obtain the consent of a person who has control over this other person recruits, trans-
+ports, moves, accommodates or shelters another person, with the intention of exploiting 
+this other person or removing his or her organs; 
+
+2. recruits, transports, moves, accommodates or shelters a person with the intention of ex-
+ploiting that other person or removing his or her organs, when that person has not yet 
+reached the age of eighteen years; 
+
+3. recruits, takes with him or abducts a person with the intention of inducing that person to 
+make himself/herself available for performing sexual acts with or for a third party for 
+remuneration in another country; 
+
+4. forces or induces another person by the means referred to under (a) to make him-
+self/herself available for performing work or services or making his/her organs available 
+or takes any action in the circumstances referred to under (1) which he knows or may 
+reasonably be expected to know will result in that other person making himself/herself 
+available for performing labour or services or making his/her organs available; 
+
+5. induces another person to make himself/herself available for performing sexual acts with 
+or for a third party for remuneration or to make his/her organs available for remunera-
+tion or takes any action towards another person which he knows or may reasonably be 
+expected to know that this will result in that other person making himself/herself avail-
+able for performing these acts or making his/her organs available for remuneration, 
+when that other person has not yet reached the age of eighteen years; 
+
+6. wilfully profits from the exploitation of another person; 
+7. wilfully profits from the removal of organs from another person, while he knows or may 
+
+reasonably be expected to know that the organs of that person have been removed under 
+the circumstances referred to under (1); 
+
+8. wilfully profits from the sexual acts of another person with or for a third party for remu-
+neration or the removal of that person’s organs for remuneration, when this other per-
+son has not yet reached the age of eighteen years; 
+
+9. forces or induces another person by the means referred to under (a) to provide him with 
+the proceeds of that person’s sexual acts with or for a third party or of the removal of that 
+person’s organs; 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 42 
+
+shall be guilty of trafficking in human beings and as such liable to a term of imprisonment 
+not exceeding six years and a fifth category fine*, or either of these penalties: 
+
+(2) Exploitation comprises at least the exploitation of another person in prostitution, other 
+forms of sexual exploitation, forced or compulsory labour or services, slavery, slavery like 
+practices or servitude. 
+
+(3) The following offences shall be punishable with a term of imprisonment not exceeding 
+eight years and a fifth category fine*, or either of these penalties: 
+1. offences as described in the first paragraph if they are committed by two or more per-
+
+sons acting in concert; 
+2. offences as described in the first paragraph if such offences are committed in respect of a 
+
+person who is under the age of sixteen. 
+
+(4) The offences as described in the first paragraph, committed by two or more persons act-
+ing in concert under the circumstance referred to in paragraph 3 under (b), shall be punish-
+able with a term of imprisonment not exceeding ten years and a fifth category fine*, or either 
+of these penalties. 
+
+(5) If one of the offences described in the first paragraph results in serious physical injury or 
+threatens the life of another person, it shall be punishable with a term of imprisonment not 
+exceeding twelve years and a fifth category fine*, or either of these penalties. 
+
+(6) If one of the offences referred to in the first paragraph results in death, it shall be punish-
+able with a term of imprisonment not exceeding fifteen years and a fifth category fine*, or 
+either of these penalties. 
+
+(7) Article 251 is applicable mutatis mutandis. 
+
+*A fifth category fine is a fine of maximum € 67,000,- “(€ 74,000,- as of 1 Januari 2008)” 
+
+
+
+ 43 
+
+Appendix 2 
+ Explanation of the research methods 
+
+BNRM collects information in a variety of ways. This appendix briefly explains the research 
+methods used. 
+
+1 The B9 research 
+
+Objective and research questions 
+In principle, every year BNRM analyses the files provided by the Immigration and Naturali-
+sation Service containing records of all the applications for and awards of residence permits 
+under the B9 regulation (B9 residence permits). 
+
+The research questions are: 
+– For how many victims /witnesses was a B9 residence permit applied for? 
+– To how many victims /witnesses was a B9 residence permit granted? 
+– What are the (background) characteristics of persons who were granted a B9 residence 
+
+permit? 
+
+Research method 
+At BNRM’s request, the IND – the agency to which applications for residence permits un-
+der the B9 regulation are submitted – supplies files with records of all contacts with persons 
+between 2001 and 2006 in which the B9 regulation played a role. In other words, these files 
+contain records of all applications for B9 residence permits (initial applications and applica-
+tions for an extension), as well as all decisions to approve applications (even if they were 
+made later, for example after an objection or appeal procedure and/or the extension of a 
+residence permit on other grounds). BNRM aggregated and consolidated all the files at a 
+personal level. For various reasons that are explained in the fifth report on human traffick-
+ingNRM5, this report (in Chapter 2) only covers the years 2005 and 2006.  
+Where they are relevant, reference is made to the results for the period up to 2002, as pub-
+lished in the 3rd report of the NRM. For the classification by year, as before the automati-
+cally assigned and therefore reliable ‘entry date’ is used. 
+
+Reservations concerning the research 
+The B9 data only relate to victims and witnesses of THB living illegally in the Netherlands. 
+After all, it is only for them that it is necessary to suspend deportation pending the investiga-
+tion and prosecution. The regulation provides for a temporary residence permit for both 
+foreign victims and foreign witnesses who report human trafficking or have otherwise co-
+operated in an investigation and prosecution. The IND does not register whether a person 
+received a B9 residence permit as a victim or as a witness.  
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 44 
+
+2 The PPS data research 
+
+Introducion 
+At BNRM’s request, analyses are carried out each year on part of the PPS national database 
+devoted to ‘human trafficking’, which contains information provided by 19 district offices of 
+the PPS about the prosecution of suspects.1 The analyses give an impression of the course of 
+the proceedings in first instance. PPS data contain information about cases and offences. By 
+contrast with police investigations, for the purpose of prosecution a (criminal) case is under-
+stood to mean the case against a single suspect. Criminal cases against individual suspects 
+may involve multiple offences. The results of the research are presented in Chapter 3 (Sus-
+pects and convicted offenders) and Chapter 4 (Prosecution). 
+
+Objective and research questions 
+The objective of the study was to provide insight into the prosecution of suspects of THB in 
+the Netherlands. The research questions were: 
+– How many cases relating to THB were registered with the PPS in 2006? 
+– How often are under-age victims involved? 
+– What is the breakdown of the suspects in terms of gender, age and country of origin? 
+– What is the breakdown of persons convicted of THB in terms of gender, age and country 
+
+of origin? 
+– What offences other than THB are those persons suspected of? 
+– How did the PPS deal with cases in 2006? 
+– How did the courts settle cases in 2006? 
+– How often do the various parties lodge an appeal against judgments of the court? 
+– What trends have occurred over time with respect to THB? 
+
+Research method 
+The cases in which THB is registered (as one of the offences) were selected from the overall 
+PPS database. The analyses do not follow a particular cohort. Instead, the analysis reviewed 
+how many cases were registered and how many were dealt with by the PPS or settled by the 
+courts.2 
+
+Additional remarks 
+The PPS data only include the principal charges in the indictment. Furthermore, if there are 
+several principal offences in the charges only the first offence is registered in the PPS data. 
+This means not only that the PPS data provide only a limited impression of the total number 
+of THB offences (namely that portion that comes to the attention of the police and is re-
+ferred to the PPS) but also that the portion of the information that does reach the PPS and 
+
+                                                                      
+1 The analyses are carried out by the Statistical Data and Policy Analysis Division (SIBA) of the Ministry of Jus-
+
+tice’s Scientific Research and Documentation Centre (WODC). 
+2 This means that they are not necessarily always the same cases. 
+
+
+
+APPENDIX 2 
+
+ 45 
+
+that may play a role in the course of the prosecution is not to be found in the PPS data. It is 
+not known how much information may be lost in this way. 
+ 
+
+
+
+
+
+ 47 
+
+Appendix 3 
+ Notes to tables and statistics 
+
+1 Notes to tables 
+
+This report contains a number of tables. These notes contain some remarks that are impor-
+tant for the interpretation of the tables. 
+
+Due to rounding off, the tables do not always come to precisely 100%. To make the tables 
+easier to read, however, the totals are always given as 100%. 
+If numbers are given in a column, the letter N is used at the top of that column to denote 
+the word ‘number’. 
+In the tables a dash (-) is used to indicate that the number is zero and that the associated per-
+centage is 0%. When the number is higher than zero, but the percentage after rounding off is 
+0%, 0% is used instead of a dash. 
+
+2 Notes to the statistics used 
+
+Averages are sometimes given in this report, for example the average age of suspects in THB 
+cases registered with the PPS. In that case, the number (N, see above) and the standard de-
+viation (SD) are also often given. The standard deviation expresses the extent to which the 
+numbers over which the average is calculated differ. The higher the standard deviation, the 
+more they vary. 
+ 
+
+
+
+
+
+ 49 
+
+Appendix 4 
+ Additional tables 
+
+Table B2.2 Nationality of (possible) victims registered with Comensha, per annum 
+
+Nationality 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+Afghan - - - - 1 0% - - - - 
+
+Albanian 8 2% 2 1% 8 2% 2 0% 1 0% 
+
+Algerian 1 0% - - - - - - - - 
+
+Angolan 3 1% 2 1% 2 0% 8 2% 2 0% 
+
+Antiguan/Barbudan - - - - - - 1 0% - - 
+
+Armenian - - 3 1% 3 1% - - 4 1% 
+
+Azerbaijani - - - - - - - - 1 0% 
+
+Belarussian 8 2% - - 12 3% 3 1% - - 
+
+Belgian 1 0% - - - - 2 0% 1 0% 
+
+Bengal - - - - 1 0% - - 3 1% 
+
+Beninese - - 1 0% 1 0% 2 0% - - 
+
+Bosnian 1 0% 1 0% - - 1 0% - - 
+
+Brazilian - - 12 5% 5 1% 8 2% 17 3% 
+
+British - - - - 2 0% - - - - 
+
+Bulgarian 59 17% 48 19% 55 14% 52 12% 39 7% 
+
+Burundian 1 0% - - - - 2 0% 1 0% 
+
+Cameroonian 10 3% 5 2% 11 3% 4 1% 4 1% 
+
+Canadian - - - - 1 0% - - - - 
+
+Chilean - - - - - - - - 2 0% 
+
+Chinese 8 2% 8 3% 9 2% 5 1% 29 5% 
+
+Colombian 2 1% 1 0% 4 1% 1 0% - - 
+
+Comorean - - - - - - - - 1 0% 
+
+Congolese 3 1% 1 0% - - 3 1% 5 1% 
+
+Croatian 1 0% - - - - - - 1 0% 
+
+Cuban 3 1% - - 2 0% - - - - 
+
+Czech 6 2% 3 1% 2 0% 18 4% 3 1% 
+
+Dominican 3 1% - - 2 0% 1 0% - - 
+
+Dutch 18 5% 11 4% 59 15% 98 23% 146 25% 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 50 
+
+Nationality 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+Ecuadorian 1 0% - - 1 0% - - - - 
+
+Egyptian - - - - - - - - - - 
+
+Eritrean - - - - 1 0% - - - - 
+
+Estonian - - 2 1% 1 0% - - 1 0% 
+
+Ethiopian 1 0% 2 1% 2 0% 1 0% 1 0% 
+
+Finnish - - - - - - - - 1 0% 
+
+French 1 0% - - - - - - - - 
+
+Georgian 1 0% 1 0% - - - - 2 0% 
+
+German 1 0% 1 0% 1 0% 2 0% - - 
+
+Ghanaian 2 1% 1 0% 6 1% 2 0% 1 0% 
+
+Greek - - - - - - 1 0% - - 
+
+Guinea-Bissauan - - - - 5 1% 4 1% - - 
+
+Guinean 6 2% 5 2% 3 1% 4 1% 8 1% 
+
+Guyanese 1 0% - - - - - - - - 
+
+Hungarian 1 0% - - 3 1% 9 2% 13 2% 
+
+Indian - - - - - - - - 7 1% 
+
+Indonesian 1 0% 1 0% - - - - 2 0% 
+
+Iranian 1 0% - - 5 1% - - 3 1% 
+
+Iraqi - - - - 2 0% - - - - 
+
+Irish - - 1 0% - - 1 0% - - 
+
+Italian - - - - - - 2 0% 1 0% 
+
+Ivorian 4 1% 2 1% 2 0% - - - - 
+
+Jamaican - - - - - - - - 1 0% 
+
+Kenyan - - - - 2 0% 1 0% 3 1% 
+
+Kyrgyz - - 1 0% - - - - - - 
+
+Latvian 1 0% - - 1 0% 3 1% 3 1% 
+
+Lebanese - - - - - - - - 1 0% 
+
+Liberian - - 2 1% 1 0% 1 0% - - 
+
+Lithuanian 13 4% 9 4% 3 1% 3 1% 6 1% 
+
+Luxembourger - - - - 1 0% - - - - 
+
+Macedonian - - - - 1 0% - - - - 
+
+Malaysian - - - - 1 0% - - - - 
+
+
+
+APPENDIX 4 
+
+ 51 
+
+Nationality 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+Mauritanian - - - - - - - - 1 0% 
+
+Mexican - - - - 1 0% - - - - 
+
+Moldavian 14 4% 1 0% 6 1% 2 0% 3 1% 
+
+Mongolian 2 1% - - - - 2 0% 1 0% 
+
+Moroccan 4 1% 2 1% 11 4% 11 3% 9 2% 
+
+Namibian - - - - - - 1 0% - - 
+
+Nigerian 45 13% 21 8% 39 10% 28 7% 86 15% 
+
+North-Korean - - - - - - 1 0% 1 0% 
+
+Norwegian - - - - - - 1 0% - - 
+
+Pakistani - - - - 1 0% - - - - 
+
+Philippine - - 1 0% 2 0% - - - - 
+
+Polish 9 3% 3 1% 8 2% 13 3% 27 5% 
+
+Portuguese - - - - - - 1 0% - - 
+
+Romanian 22 6% 31 12% 45 11% 23 5% 34 6% 
+
+Russian 16 5% 11 4% 14 3% 13 3% 12 2% 
+
+Rwandan 1 0% - - 1 0% - - - - 
+
+Senegalese - - - - 2 0% 1 0% - - 
+
+Sierra Leonean 12 3% 11 4% 6 1% 14 3% 20 3% 
+
+Slovakian 2 1% 2 1% 3 1% 10 2% 2 0% 
+
+Somali 1 0% 1 0% - - - - 2 0% 
+
+South-African - - - - - - - - 2 0% 
+
+Sudanese 1 0% - - 2 0% 1 0% 2 0% 
+
+Surinamese 1 0% 1 0% 3 1% 1 0% 2 0% 
+
+Taiwanese 1 0% 1 0% - - - - - - 
+
+Tanzanian - - - - - - - - 1 0% 
+
+Thai 3 1% 5 2% 2 0% 2 0% 3 1% 
+
+Togolese 6 2% 2 1% 2 0% 2 0% 2 0% 
+
+Tunisian - - - - - - - - 1 0% 
+
+Turkish 5 1% 1 0% 2 0% 2 0% 5 1% 
+
+Ugandan 1 0 3 1 - - 4 1% - - 
+
+Ukrainian 5 1% 14 5% 8 2% 10 2% 10 2% 
+
+Uzbekistani - - - - 2 0% 1 0% - - 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 52 
+
+Nationality 2002 2003 2004 2005 2006 
+
+ N % N % N % N % N % 
+
+Vietnamese - - - - 3 1% 1 0% - - 
+
+(former) Yugoslavian - - 1 0% 2 0% 5 1% 1 0% 
+
+Zimbabwean - - - - - - 2 0% - - 
+
+Unknouwn 21  6% 19  7% 16 4% 27 6% 38 7% 
+
+Total 343 100% 257 100% 403 100% 424 100% 579 100% 
+
+Table B2.6 Nationality of persons with B9 application or permit (2005 and 2006) 
+
+Nationality Applications 2005 Applications 2006 Awards 2005 Awards 2006 
+
+ N % N % N % N % 
+
+Albanian 1 1% 1 1% 1 2% 1 1% 
+
+Angolan - - 2 1% - - 2 1% 
+
+Armenian 1 1% 2 1% 1 2% 2 1% 
+
+Belarussian 2 3% - - 1 2% - - 
+
+Bengalese - - 2 1% - - 2 1% 
+
+Brazilian 1 1% 1 1% - - 1 1% 
+
+British 1 1% - - 1 2% - - 
+
+Bulgarian 12 16% 19 11% 11 18% 18 12% 
+
+Burundian 1 1% 1 1% 1 2% 1 1% 
+
+Cameroonian 1 1% 1 1% - - 2 1% 
+
+Cape Verdean - - 1 1% - - 1 1% 
+
+Chinese 2 3% 9 5% 1 2% 9 6% 
+
+Congolese - - 3 2% - - 2 1% 
+
+Croatian - - 1 1% - - 1 1% 
+
+Czech 2 3% 3 2% 2 3% 3 2% 
+
+Dominican 1 1% 1 1% 1 2% 1 1% 
+
+Estonian - - 1 1% - - 1 1% 
+
+Ethiopian - - 1 1% - - - - 
+
+Guinean 2 3% 4 2% - - 3 2% 
+
+Hungarian 1 1% 2 1% 1 2% 2 1% 
+
+Indian - - 3 2% - - 3 2% 
+
+Iranian 1 1% - - - - - - 
+
+Iraqi - - 1 1% - - - - 
+
+Italian 1 1% - - 1 2% - - 
+
+
+
+APPENDIX 4 
+
+ 53 
+
+Nationality Applications 2005 Applications 2006 Awards 2005 Awards 2006 
+
+Latvian - - 1 1% 1 2% 1 1% 
+
+Libanese - - 1 1% - - 1 1% 
+
+Lithuanian - - 1 1% - - - - 
+
+Mauritanian - - 2 1% - - 1 1% 
+
+Moldavian - - 4 2% - - 3 2% 
+
+Maroccan 2 3% 4 2% 1 2% 1 1% 
+
+Nigerian 6 8% 43 24% 4 7% 33 22% 
+
+Nigerien 1 1% - - 1 2% - - 
+
+North Korean - - 1 1% - - 1 1% 
+
+Norwegian 1 1% - - 1 2% - - 
+
+Polish 3 4% 9 5% 3 5% 2 1% 
+
+Romanian 6 8% 26 14% 6 10% 24 16% 
+
+Russian 5 7% 3 2% 5 8% 3 2% 
+
+Senegalese - - - - 1 2% - - 
+
+Sierra Leonean 7 9% 11 6% 8 13% 10 7% 
+
+Slovak 2 3% - - 2 3% - - 
+
+South African - - 1 1% - - 1 1% 
+
+Sudanese - - 3 2% - - 3 2% 
+
+Surinamese 2 3% - - - - - - 
+
+Taiwanese - - 1 1% - - 1 1% 
+
+Tanzanian - - 1 1% - - 1 1% 
+
+Thai 1 1% 1 1% 1 2% 1 1% 
+
+Togolese - - 1 1% - - 1 1% 
+
+Turkish 1 1% - - - - - - 
+
+Ugandan 1 1% 1 1% 1 2% 1 1% 
+
+Ukrainian 4 5% 4 2% 1 2% 4 3% 
+
+Uzbek 2 3% - - 2 3% - - 
+
+Vietnamese 1 1% - - - - - - 
+
+Unknown/stateless 2 3% 2 1% 1 2% 2 2% 
+
+Total 77 100% 180 100% 61 100% 150 100% 
+
+ 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 54 
+
+Table B3.4 Countries of birth of suspects, by year of registration 
+
+Country of birth 2002 2003 2004 2005 2006 
+
+ N N N N N 
+
+(Federal Republic of) Germany - 1 5 1 - 
+
+Afghanistan 1 - - 1 - 
+
+Albania 26 5 - - - 
+
+Angola - - - 1 1 
+
+Australia - - - - 1 
+
+Belgium 2 1 2 - - 
+
+Brazil - 1 - - 1 
+
+British Borneo - - - - 1 
+
+Bulgaria 27 19 14 4 13 
+
+Cameroon - 1 - - - 
+
+Cape Verdë - - - 2 - 
+
+China 1 - - 2 1 
+
+Colombia 1 - 1 1 - 
+
+(former) Czechoslovakia 2 - 2 5 3 
+
+Egypt 1 - - - 1 
+
+Estonia 1 - - - - 
+
+France - - 1 - - 
+
+Ghana 1 - - 2 - 
+
+Great-Britain - - 1 - - 
+
+Greece 2 - - - 1 
+
+Hong Kong - - - - 1 
+
+Hungary 1 - - 6 1 
+
+India - - - - 7 
+
+Indonesia 1 - 2 - 1 
+
+Iran - - 2 - 2 
+
+Iraq 6 - 2 - 2 
+
+Korea - - 1 - - 
+
+Kuwait - - - 1 - 
+
+Liberia - 2 - - - 
+
+Libya - 1 - - - 
+
+Lithuania - - - - 1 
+
+
+
+APPENDIX 4 
+
+ 55 
+
+Country of birth 2002 2003 2004 2005 2006 
+
+ N N N N N 
+
+Malaysia - 1 - - - 
+
+Morocco 3 3 9 17 13 
+
+Netherlands 51 46 91 54 76 
+
+Netherlands Antilles 1 2 7 3 4 
+
+Niger - - - - 1 
+
+Nigeria 7 5 4 - 2 
+
+Pakistan - - - - 2 
+
+Poland 4 - 3 3 3 
+
+Portugal - - 1 - 1 
+
+(former) Portuguese Indies - - - - 1 
+
+Romania 8 22 23 6 14 
+
+Sierra Leone 1 1 - - 1 
+
+Somalia 1 - - - - 
+
+(former) Soviet Union 7 11 8 2 7 
+
+Sudan 2 - - - - 
+
+Surinam 5 10 9 6 11 
+
+Thailand 1 2 - 1 - 
+
+Turkey 26 16 24 15 18 
+
+Uganda - - - 1 - 
+
+United States of America - - 1 - - 
+
+Venezuela - - - - 1 
+
+(former) Yugoslavia 6 3 3 4 6 
+
+(former) Zaire  - - 1 - - 
+
+Country unknown 4 2 2 - 1 
+
+n.a. (legal entity) - 1 1 - 1 
+
+Total 200 156 220 138 201 
+
+Table B3.6 Countries of birth of persons convicted of THB, by year of conviction 
+
+Country of birth 2003 2004 2005 2006 
+
+ N N N N 
+
+Albanië 9 2 - - 
+
+Angola - - - 1 
+
+Belgium 2 1 2 - 
+
+
+
+TRAFFICKING IN HUMAN BEINGS – SIXTH REPORT OF THE NATIONAL RAPPORTEUR 
+
+ 56 
+
+Country of birth 2003 2004 2005 2006 
+
+ N N N N 
+
+Bulgaria 16 11 4 4 
+
+Cape Verde - - - 1 
+
+Colombia 1 1 1 - 
+
+(former) Czechoslovakia - - - 6 
+
+(Federal Republic of) Germany - 1 1 - 
+
+Ghana - - - 1 
+
+Great-Britain - - - 1 
+
+Greece 1 - - 1 
+
+Hungary - - 2 4 
+
+Indonesia 1 - 1 - 
+
+Iran - - 1 - 
+
+Iraq - - - 1 
+
+Korea - - 1 - 
+
+Kuwait - - - 1 
+
+Lithuania - 1 - - 
+
+Morocco 2 7 3 13 
+
+Netherlands 26 37 36 21 
+
+Netherlands Antilles - 2 3 - 
+
+Nigeria - 5 - - 
+
+Poland 1 - - 1 
+
+Romania 7 18 3 3 
+
+Sierra Leone - - - 1 
+
+(former) Soviet Union 5 7 5 - 
+
+Sudan - 1 - - 
+
+Surinam 1 7 8 1 
+
+Thailand 1 1 - 1 
+
+Turkey 7 14 9 6 
+
+United States of America - - 1 - 
+
+(former) Yugoslavia - 1 - 1 
+
+Country unknown 1 - - 1 
+
+Total  80 116 81 70 
+
+ 
+ 
+
+
+
+ 
+
+Colofon 
+ 
+Reference: 
+ 
+Trafficking in Human Beings. Supplementary figures. 
+Sixth report of the Dutch National Rapporteur. The Hague: Bureau NRM 
+ 
+July 2008 
+ 
+ 
+ 
+
+Bureau of the Dutch National Rapporteur on THB 
+P.O. Box 20301  
+
+2500 EH  The Hague 
+The Netherlands  
+
+ 
+www.bnrm.nl  
+
+ 
+Tel: +31 (0)70 3704514 
+Fax: +31 (0)70 3704537 
+
+ 
+ 
+ 
+ 
+ 
+Production: aolf Legal Publishers, Nijmegen/Tilburg 
+Layout: Jook van der Snel 
+© BNRM 2008 
+
+
+
+
+
+
+
+

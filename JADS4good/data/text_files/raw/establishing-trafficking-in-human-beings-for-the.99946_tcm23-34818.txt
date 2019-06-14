@@ -1,0 +1,402 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+txd50049 1..3
+
+
+OrganDonationandProcurement
+Establishing Trafficking in Human Beings
+for the Purpose of Organ Removal and
+Improving Cross-Border Collaboration
+in Criminal Cases: Recommendations
+Paul Holmes,1 Conny Rijken, PhD,2 Sergio D'Orsi, MA,3 Luuk Esser, LLM,4 Floor Hol, LLM,4 Anne Gallagher, PhD,5
+
+Galit Greenberg,6 Louis Helberg,7 Lisa Horvatits,8 Sean McCarthy, BS,9 Jonathan Ratel, LLM,10
+
+Nancy Scheper-Hughes, PhD,11 John Forsythe, MD12
+
+Abstract: In this short summary report on the legal definition of trafficking in human beings for the purpose of organ removal
+and improving cross-border collaboration in criminal cases, challenges, and recommendations in the areas of defining the
+crime, criminal investigation and prosecution, and cross-border cooperation are made. These are the outcomes of a working
+group discussion during the writers' conference of the HOTT project, a European Union-funded project against trafficking in hu-
+man beings for the purpose of organ removal.
+(Transplantation Direct 2016;2: e58; doi: 10.1097/TXD.0000000000000571. Published online 4 January 2016.)
+The conclusions and recommendations set out below rep-resent a composite summary of the findings of the mem-
+bers of group 3 and reflect their collective views, developed
+from detailed professional experience, in-depth considera-
+tion of the various project reports, and the outcomes of the
+group discussions.
+
+The summary is also posited within the context that
+trafficking in human beings (THB) for the purpose of organ
+removal (THBOR) should not be viewed as a predominantly
+global challenge taking place outside Europe; on the con-
+trary, as a number of the case studies and group discus-
+sions demonstrate, the crime of THBOR can not only
+involve European citizens because both donors and recipients
+within the global context of the crime, but that the principal
+Received 13 October 2015.
+
+Accepted 22 October 2015.
+1 Independent Consultant, Italy.
+2 INTERVICT, Tilburg Law School, Tilburg University, The Netherlands.
+3 European Police Office, The Netherlands.
+4 Bureau of the National Rapporteur on Trafficking in Human Beings, The Netherlands.
+5 Independent Consultant, Australia.
+6 Department of International Affairs, Office of State Attorney, Israel.
+7 Directorate for priority crime investigations, South African Police, South Africa.
+8 Eurojust, The Hague.
+9 Federal Bureau of Investigation, United States of America.
+10 Special Prosecution Office, Republic of Kosovo.
+11 University of California, Davis, CA.
+12 Transplant Unit, Royal Infirmary of Edinburgh, United Kingdom, United Kingdom.
+
+The author declares no funding or conflicts of interest.
+
+P.H. led the group's discussion and participated in the writing of the article. C.R.
+led the group’s discussion and participated in the writing of the paper. S.D.'O.
+participated in the group's discussions and/or provided comments to the
+draft. L.E discussed the paper with C.R. and provided comments to the draft.
+
+Transplantation DIRECT ■ 2016
+
+Copyright © 2016 The Authors. Transplantation Di
+elements of the criminal enterprise also occur on the conti-
+nent of Europe.
+
+ESTABLISHING THE CRIME
+
+Legislation
+
+Challenges
+Treaty ratifications on THBOR are inconsistent, and the
+
+international legal benchmark definitions of THBOR are
+not consistently transposed into domestic legislation.
+
+In general terms, there is a degree of confusion among
+criminal justice practitioners on the interpretation of THBOR
+as defined under Article 3 of the Trafficking Protocol (2000),
+Article 2 of EC Directive 2011/36/EU and Article 4 of the
+Council of Europe Convention against Trafficking in Persons
+F.H. participated in the group's discussions and/or provided comments to the
+draft. A.G. participated in the group's discussions and/or provided comments to
+the draft. G.G. participated in the group's discussions and/or provided comments
+to the draft. L.H. participated in the group's discussions and/or provided
+comments to the draft. L.H. participated in the group's discussions and/or provided
+comments to the draft. S.M.C. participated in the group's discussions and/or
+provided comments to the draft. J.R. participated in the group's discussions
+and/or provided comments to the draft. N.S.H. participated in the group's
+discussions and/or provided comments to the draft. J.F. participated in the group's
+discussions and/or provided comments to the draft.
+
+Correspondence: Paul Holmes, Villa Tre Vulcani, Contrada Lo Spaccio, Brattiro,
+Drapia, VV 89862, Italy. (pholmesit@aol.com).
+
+This report is published with the financial support of the Prevention of and Fight
+against Crime Programme European Commission—Directorate General Home Affairs.
+
+Copyright © 2016The Authors. Transplantation Direct. Published byWolters Kluwer
+Health, Inc. This is an open-access article distributed under the terms of the Creative
+Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CCBY-NC-ND),
+where it is permissible to download and share the work provided it is properly cited.
+The work cannot be changed in any way or used commercially.
+
+ISSN: 2373-8731
+
+DOI: 10.1097/TXD.0000000000000571
+
+www.transplantationdirect.com 1
+
+rect. Published by Wolters Kluwer Health, Inc.
+
+mailto:pholmesit@aol.com
+http://
+http://
+
+
+2 Transplantation DIRECT ■ 2016 www.transplantationdirect.com
+(2005). Moreover, confusion between trafficking for the re-
+moval of organs and trade in organs further complicates
+the understanding of practices. The Council of Europe
+Convention on Trafficking in Human Organs adopted in
+July 2014 is an example thereof.
+
+More specifically, there is a lack of clarity in respect of
+the legal interpretation of the definition of “organ,” the clas-
+sification of a “perpetrator” and “victim” and of the applica-
+tion of their rights and protections and, in particular,
+establishing the requisite “means” underArticle 3,most espe-
+cially with regard to the abuse of a position of vulnerability.
+
+A number of other criminal offences that are characteristi-
+cally related to THBOR are either not covered by domestic
+legislation or are not sufficiently identified and investigated
+by practitioners, or both.
+
+Among both criminal justice and medical practitioners,
+legal and ethical confusion exists in respect of the interface
+between the oath of medical secrecy in relation of doctor-
+patient confidentiality and the (existence of a) duty on medi-
+cal practitioners to disclose cases of THBOR.
+
+Recommendations
+
+(1) Article 3 of the Trafficking Protocol remains the bench-
+mark definition and criminal justice practitioners should
+adhere to its primacy, especially in respect of the “preven-
+tion, protection, prosecution and partnership” ethos con-
+tained within its terms.
+
+(2) Both legislative and nonlegislative responses are required
+to improve cross-border collaboration in criminal cases. In
+many instances, legislative measures are a precondition
+for improving the nonlegislative response.
+
+(3) Further clarification on the circumstances under which
+a person is considered a “perpetrator” or “victim” of
+THBOR is needed.
+
+(4) Legislators should ensure that a victim-centred, rights-
+based approach to THBOR is consistently applied to the
+transposition and application of THBOR in domestic leg-
+islation in compliance with the international benchmarks
+and that victims have full access to compensation and res-
+titution remedies.
+
+(5) Legislators should ensure THBOR offences are extra-
+ditable, states can claim extraterritorial jurisdiction and
+predicate for the purposes of assets confiscation.
+
+(6) Legislators should ensure that the full range of subsidiary
+criminal offences related to THBOR (eg, buying and sell-
+ing of organs, receiving an organ that has been obtained
+through THBOR) are fully available to prosecutors, pro-
+vided that the sanctions for such related offences are
+commensurate with the gravity of the crime and that they
+include access to the same standard of rights and protec-
+tions to the victims as conveyed by the full offence of
+THBOR.
+
+(7) Based on the empirical evidence of the crucial importance
+of “whistleblowers” to the disclosure of THBOR, legisla-
+tors should ensure that full legal protection is available
+to those persons that act in such a role.
+
+(8) The relevant legal-medical actors (national, European, and
+international transplant organizations,medical ethical com-
+mittees, World Health Organization) should clearly estab-
+lish a binding rule that the ultimate responsibility for
+ensuring full legal and ethical compliance of transplant
+procedures remains with the transplanting surgeon and
+cannot be delegated.
+
+(9) Given the prevailing goodwill and preparedness that exists
+on both sides, the appropriate global-regional structures
+Copyright © 2016 The Authors. Transplantation D
+within the criminal justice and medical professions should
+establish a joint technical working group to draft a co-
+operation agreement between both sides that precisely sets
+out the nature and extent of the duty of doctor-patient
+confidentiality and the conditions under which medical
+professionals would be obliged to disclose information
+indicating THBOR and the extent and nature of the infor-
+mation that should be disclosed by them to the appropri-
+ate criminal justice authorities.
+
+Investigation and Prosecution
+
+Challenges
+It is recognized that THBOR is an extremely complex
+
+crime to combat but this factor is currently compounded by
+either a general lack of awareness of the crime among crimi-
+nal justice practitioners, or a reluctance to acknowledge the
+existence of the crime or a lack of political will to combat
+it—and often a combination of all 3.
+
+There is a reluctance to prosecute senior medical pro-
+fessionals and other complicit officials for a crime that is
+not well understood at any of the investigator-prosecutor-
+judiciary levels.
+
+The particular modus operandi of THBOR results in con-
+siderable confusion among practitioners in terms of the inter-
+pretation of the requisite means used to commit the crime
+and role of consent.
+
+The current response of law enforcement agencies to
+THBOR is almost entirely reactive, with little sign of a proac-
+tive, multiagency,multidisciplinary approach to achieve early
+disclosure of the crime.
+
+Where these complex investigations do take place, they
+tend to lack proper multiagency coordination and are under-
+resourced. Investigators and prosecutors lack comprehen-
+sive, specialized, and case-based guidance on how to build
+and prosecute these cases, and there is no specialist training
+provided to assist them in the task.
+
+Recommendations
+
+(1) Proactive approach: law enforcement agencies should take
+the lead in developing a coordinated, multiagency pro-
+active approach to detecting THBOR, and this should
+include the development and application of THBOR-
+specific indicators as an integral part of programmatic
+proactive monitoring of relevant sectors.
+
+(2) Existing multiagency THB networks should be strength-
+ened and develop an increased focus onTHBOR.Relevant
+actors, especially criminal justice and medical networks,
+should appoint specific THBOR focal points within their
+structures to facilitate and build more effective informa-
+tion sharing partnerships.
+
+(3) In common with current requirements for customs decla-
+rations and such like, legislators and immigration/border
+police agencies should create a legal requirement for all
+persons entering or departing the territory of the State or
+the European Union to declare the fact if they are travel-
+ling for transplant purposes. Thismeasure intends to work
+on 2 levels: it provides the authorities with increased
+capacity to monitor such movement and can act as a dis-
+incentive for travelling recipients and make the modus
+operandi more problematical for the traffickers.
+
+(4) Investigation and prosecution: legislators and other rele-
+vant authorities should provide clear guidance to inves-
+tigators and prosecutors on the interpretation of the
+irect. Published by Wolters Kluwer Health, Inc.
+
+
+
+© 2016 Wolters Kluwer Holmes et al 3
+means of “a position of vulnerability” and the role of
+“consent” in THBOR cases, in line with the recent guid-
+ance papers issued by United Nations Office on Drugs
+and Crime on these topics, together with clear policy guid-
+ance on the approach to be taken by prosecutors in respect
+of any implied criminal liability in respect of the role
+played by donors and recipients in THBOR cases.
+
+(5) To effectively investigate THBOR, criminal justice profes-
+sionals require specialist knowledge of the procedures and
+medical protocols attached to legal transplantation, as
+proving deviations from those practices is a critical ele-
+ment of successful prosecution. To this end, appropriate
+criminal justice and medical professionals should collabo-
+rate to produce a detailed, step-by-step breakdown of the
+entire legal transplant process, encompassing initial assess-
+ment practice, transplant procedures, the medical actors,
+and the documentation trail for the whole process.
+
+(6) Based on the above, investigators and prosecutors should
+develop detailed and case-based guidance for THBORcases
+that should include parallel financial investigation guid-
+ance and checklist-style templates for use in the interviews
+of donors, recipients, and suspects and which focus espe-
+cially on the use of means of deception and vulnerability
+and the issue of consent.
+
+(7) Building on existing specialized THB training programs,
+capacity should be strengthened by the addition of
+THBOR-specific, tailored trainingmodules for law enforce-
+ment and prosecutorial agencies, together with awareness-
+raising initiatives for members of the judiciary.
+
+IMPROVED CROSS-BORDER COOPERATION
+
+Challenges
+
+The challenges associated with cross-border cooperation
+in THBOR cases replicate those that already characterize
+cross-border cooperation generally, and the general lack of
+awareness, complexity, and multidimensional nature of
+THBOR cases complicates the overall picture.
+
+In legislative terms, the challenges are exacerbated by in-
+consistent treaty approaches, differences in interpretation
+of THB law generally and THBOR in particular, and sig-
+Copyright © 2016 The Authors. Transplantation Di
+nificance variations in procedural rules appertaining to
+the admissibility of evidence and duty of disclosure in crimi-
+nal cases.
+
+In practical terms, variations in national priorities, a tendency
+by practitioners to focus only on the domestic dimension of
+THBOR, combined with a general lack of coordination and
+an inexplicable reluctance to use existing support structures
+for cross-border cooperation all serve to impede significant
+improvements in cross-border cooperation.
+
+Recommendations
+
+(1) Investigators and prosecutors should make greater use
+of existing transnational cooperation structures, such as
+European Police Office, International Police Office and
+Eurojust, and the expertise located within national central
+authorities.
+
+(2) These organizations should either establish or strengthen
+existing focal point capacity to ensure a proper level of fo-
+cus on and response to THBOR cases.
+
+(3) More use should be made of joint investigation team tech-
+niques to address transnational THBOR cases.
+
+(4) Greater use should be made of video testimony provisions
+for taking the testimony of donors, recipients ,and other
+witnesses.
+
+(5) Transnational law enforcement structures, such as Euro-
+pean Police Office and International Police Office, should
+cultivate higher levels of cross-border information sharing
+between practitioners and use their existing criminal anal-
+ysis capacity to develop a more accurate assessment of the
+scale, location, and modus operandi of THBOR and to
+identify high-risk locations.
+
+ACKNOWLEDGMENTS
+This article was produced by the authors during awriters' con-
+ference held at Europol Headquarters, November 20, 2014,
+under the auspices of the HOTT project. The article received
+comments from the following project partners: Martin
+Gunnarson, Susanne Lundin, Ingela Byström, Jessica de
+Jong, Willem Weimar, and Frederike Ambagtsheer.
+rect. Published by Wolters Kluwer Health, Inc.
+
+

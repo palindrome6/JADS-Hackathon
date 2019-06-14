@@ -1,0 +1,1904 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mensenhandel in en uit beeld - Update cijfers schadevergoedingen 2010-2014
+
+
+Nationaal Rapporteur Mensenhandel
+en Seksueel Geweld tegen Kinderen
+
+Monitor mensenhandel
+Cijfers vervolging en berechting 2011-2015
+
+
+
+Monitor mensenhandel
+Cijfers vervolging en berechting 2011-2015
+
+C.E. Dettmeijer-Vermeulen 
+Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen
+
+S.L.J. Kragten-Heerdink 
+T.G.G. Lodewyckx
+
+Nationaal Rapporteur Mensenhandel
+en Seksueel Geweld tegen Kinderen
+
+
+
+3monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Colofon
+
+Referentie: Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen (2016). Monitor 
+mensenhandel. Cijfers vervolging en berechting 2011-2015. Den Haag: Nationaal Rapporteur.
+
+Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen
+Postbus 20301
+2500 EH Den Haag
+070 – 370 4514
+www.nationaalrapporteur.nl
+
+Grafische en digitale realisatie: Studio Kers
+
+©Nationaal Rapporteur 2016
+
+
+
+4monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Inhoudsopgave
+
+Overzicht figuren en tabellen 5
+
+Woord vooraf 6
+
+1 Inleiding 7
+1.1 Inhoud van dit rapport 7
+
+1.1.1 Achtergrond van de cijfers 7
+1.2 Algemeen beeld 8
+
+1.2.1 Kerncijfers vervolging 8
+1.2.2 Kerncijfers berechting in eerste aanleg 9
+1.2.3 Kerncijfers persoonskenmerken verdachten 9
+
+1.3 Structuur van deze monitor 9
+
+2 Vervolging 11
+2.1 Ingeschreven zaken bij het OM 11
+2.2 Afgehandelde zaken door het OM 12
+
+2.2.1 Door het OM afgehandelde zaken naar afhandeling 13
+
+3 Berechting in eerste aanleg 17
+3.1 In eerste aanleg afgedane zaken 17
+
+3.1.1 In eerste aanleg afgedane zaken naar afdoening 18
+3.2 Opgelegde hoofdstraffen  20
+
+3.2.1 Duur van opgelegde vrijheidsstraffen 21
+
+4 Persoonskenmerken verdachten 23
+4.1 Geslacht verdachten 23
+4.2 Leeftijd verdachten  24
+4.3 Geboorteland verdachten  26
+4.4 Profielen van mannelijke en vrouwelijke verdachten 27
+
+5 Conclusies en aanbevelingen 29
+
+Literatuur 31
+
+
+
+5monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Overzicht figuren en tabellen
+
+Hoofdstuk 1  Inleiding
+Tabel 1 Kerncijfers vervolging en berechting mensenhandelzaken (2011-2015) 8
+
+Hoofdstuk 2  Vervolging
+Figuur 1  Aantal bij het OM ingeschreven zaken (2006-2015) 11
+Figuur 2 Aantal door het OM afgehandelde zaken (2011-2015) 13
+Figuur 3 Door het OM afgehandelde zaken naar afhandeling (2011-2015) 15
+
+Hoofdstuk 3  Berechting in eerste aanleg
+Figuur 4 Aantal in eerste aanleg afgedane zaken (2011-2015)  17
+Figuur 5 In eerste aanleg afgedane zaken naar afdoening (2011-2015)  19
+Figuur 6 Veroordelingen in eerste aanleg naar opgelegde hoofdstraf (2011-2015)  20
+Figuur 7 Gemiddelde duur in dagen van opgelegde vrijheidsstraffen in eerste aanleg (2011-2015)  21
+
+Hoofdstuk 4  Persoonskenmerken verdachten
+Figuur 8 Geslacht verdachten (2011-2015)  24
+Figuur 9 Leeftijd verdachten (2011-2015)  25
+Figuur 10 Geboorteland verdachten (2011-2015)  26
+Tabel 2 Top-8 profielen van mannelijke verdachten (totaal 2011-2015)  27
+Tabel 3 Top-8 profielen van vrouwelijke verdachten (totaal 2011-2015)  28
+
+
+
+6monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Woord vooraf
+
+Het aantal vervolgingen en veroordelingen voor mensenhandel binnen de 
+Europese Unie is zorgwekkend laag. Dat concludeert de Europese Commis-
+sie in haar eerste voortgangsrapportage sinds de inwerkingtreding van de 
+EU-Richtlijn mensenhandel. Nederland neemt een relatief groot deel van de 
+vervolgingen en veroordelingen binnen de EU voor zijn rekening. Maar toch 
+is dit geen reden tot genoegzaamheid. In 2015 zien we namelijk een forse 
+daling van het aantal bij het Openbaar Ministerie ingeschreven mensenhan-
+delzaken. 
+
+Op Prinsjesdag kondigde de minister van Veiligheid en Justitie aan dat de 
+komende jaren de aanpak van mensenhandel geïntensiveerd zal worden en 
+dat hier structureel geld voor vrijgemaakt wordt. Mijn hoop is dat dit een 
+uitwerking heeft op de toekomstige cijfers, die in feite een weerspiegeling 
+zijn van de aanpak van mensenhandel . 
+
+Opmerkelijk is dat in 2015 in verhouding veel meer vrijspraken zijn. Maar 
+hetgeen mij het meest zorgen baart is de daling van de opgelegde strafduur 
+in recente jaren. Dit terwijl de wetgever de strafbedreiging juist tweemaal 
+verhoogde. Dit roept vragen op die alleen met verder onderzoek beant-
+woord kunnen worden. 
+
+Mijn dank gaat uit naar het Wetenschappelijk Onderzoek- en Documentatie-
+centrum voor het aanleveren van de gegevens waarop dit deel van de Moni-
+tor mensenhandel is gebaseerd.
+
+C.E. Dettmeijer-Vermeulen,
+Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen
+
+© Ivar Theunissen
+
+
+
+7monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+1 Inleiding
+
+1.1 Inhoud van dit rapport
+
+Een belangrijk onderdeel van de aanpak van mensenhandel is de opsporing en de vervolging van verdachten. 
+De fase waarin verdachten worden berecht, waarbij de strafrechter uitspraak doet en een eindoordeel geeft 
+over hetgeen een verdachte ten laste is gelegd, vormt daarvan het sluitstuk. Deze monitor bevat cijfers over 
+de vervolging en berechting, en de persoonkenmerken van verdachten in mensenhandelzaken in de periode 
+2011-2015. Deze cijfers bieden aanknopingspunten voor beleid doordat ze bijvoorbeeld laten zien hoe de 
+aanpak van mensenhandel zich in cijfers vertaalt. Dit kan een ander beeld opleveren dan met het beleid is 
+beoogd en kan leiden tot een nieuwe of bijgestelde aanpak in de toekomst. 
+
+De aantallen vervolgingen en berechtingen duiden niet de volledige omvang van mensenhandel in Neder-
+land. Lang niet alle mensenhandelaren worden immers opgespoord, vervolgd en berecht.1 Het aantal vervol-
+gingen is voor een groot deel afhankelijk van onder meer prioriteitstelling en vrijgemaakte capaciteit binnen 
+opsporingsdiensten en het Openbaar Ministerie (OM) en de manier van registratie door betrokken instanties. 
+Ontwikkelingen in de omvang van mensenhandelvervolgingen zijn dus veelal het gevolg van veranderingen 
+in voorgenoemde aspecten. De cijfermatige trends die uit deze monitor blijken zijn dan ook telkens tegen 
+deze achtergrond geanalyseerd.  
+
+Deze monitor is het tweede deel van de Monitor mensenhandel van de Nationaal Rapporteur Mensenhandel 
+en Seksueel Geweld tegen Kinderen van dit jaar (2016). Het eerste deel dat ziet op de cijfers van bij CoMensha 
+gemelde mogelijke slachtoffers van mensenhandel is onlangs gepubliceerd.2 
+
+1.1.1 Achtergrond van de cijfers
+De cijfers in onderhavige monitor zijn afkomstig uit OM-data, het landelijke databestand dat informatie 
+bevat van de arrondissementsparketten en rechtbanken over de vervolging en berechting in eerste aanleg van 
+verdachten en veroordeelden. OM-data is gebaseerd op de registratie van het OM. Het OM registreert zaken 
+op basis van het wetsartikel dat van toepassing wordt geacht. Uit het totale OM-databestand kunnen daarom 
+de zaken geselecteerd worden waarin (onder meer) het feit mensenhandel staat geregistreerd (artt. 250a 
+(oud), 250ter (oud), 273a (oud)3 of 273f Sr).4 De secundaire analyses op het subbestand ‘mensenhandel’ zijn 
+op verzoek van de Nationaal Rapporteur verricht door de afdeling Statistische Informatie en Beleidsanalyse 
+(SIBa) van het Wetenschappelijk Onderzoek- en Documentatiecentrum (WODC) van het ministerie van Veilig-
+heid en Justitie.5 
+
+1 Bij het aantal vervolgingen is dus sprake van een groot dark figure. Anderzijds is het mogelijk dat vervolgingen soms 
+betrekking hebben op verdachten van mensenhandel, die in werkelijkheid geen mensenhandelaar zijn (zogeheten 
+false positives). 
+
+2 Zie Nationaal Rapporteur 2016 (Monitor mensenhandel, Cijfers mogelijke slachtoffers 2011-2015). 
+3 Art. 273a Sr betreft sinds september 2006 (toen mensenhandel strafbaar werd gesteld onder art. 273f Sr) een an-
+
+dere strafbaarstelling. Deze zaken (op basis van art. 273a Sr met een pleegdatum na september 2006) worden uiter-
+aard niet meegenomen in de selectie.
+
+4 Reeds vanaf het jaar 2009 is het OM bezig met een overgang van het oude bedrijfsprocessensysteem ‘COMPAS’ naar 
+het nieuwe Geïntegreerd Processysteem Strafrecht (GPS). OM-data is zowel door COMPAS als door het GPS-systeem 
+gevoed. Mensenhandelzaken (veelal ‘maatwerkzaken’) worden tot op heden echter nog vrijwel uitsluitend in het 
+COMPAS-systeem geregistreerd.
+
+5 OM-data is niet up to date. OM-data geeft over een bepaald jaar pas na een paar maanden een eerste betrouwbaar 
+beeld. Ongeveer een jaar na dato zijn de cijfers redelijk stabiel – al vinden ook dan soms nog minimale wijzigingen 
+plaats bij volgende peildata. Om deze reden verzoekt de Nationaal Rapporteur ieder jaar de data van de eerder 
+gerapporteerde jaren opnieuw te analyseren. Hierdoor kunnen de cijfers over de jaren 2011-2014 in onderhavige 
+monitor soms kleine verschillen laten zien met de cijfers zoals eerder door de rapporteur gepubliceerd.
+
+https://www.nationaalrapporteur.nl/Publicaties/monitormensenhandel/index.aspx
+
+
+8monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Omdat de lid- en subonderdelen van het mensenhandelartikel (art. 273f Sr) geen onderscheid maken 
+tussen verschillende uitbuitingsvormen (zoals seksuele uitbuiting, arbeidsuitbuiting, gedwongen dienst-
+verlening, criminele uitbuiting en orgaanhandel), is dit onderscheid op basis van de cijfers evenmin te 
+maken. De Nationaal Rapporteur heeft het OM daarom eerder aanbevolen om naast het wetsartikel ex-
+pliciet te registreren om wat voor soort mensenhandel het gaat.6 Hier is inmiddels gehoor aan gegeven. 
+Sinds 27 maart 2015 registreert het OM de volgende drie maatschappelijke classificaties bij mensenhan-
+delzaken: ‘seksuele uitbuiting’, ‘arbeidsuitbuiting’ en ‘overige uitbuiting’. Uit de resultaten over 2015 
+blijkt echter dat de classificaties niet altijd goed zijn ingevuld, waardoor de cijfers over 2015 in dit kader 
+geen betrouwbaar beeld laten zien. Naar verwachting kunnen de toekomstige cijfers over 2016 dit wel.7 
+De rapporteur merkt op dat betrouwbare informatie over de verschillende uitbuitingsvormen alleen ver-
+kregen kan worden indien dit consequent en eenduidig geregistreerd wordt. Het maken en opvolgen van 
+landelijke afspraken is hierbij onmisbaar. Zeker omdat in één mensenhandelzaak niet zelden sprake is 
+van meerdere uitbuitingsvormen en er slechts één maatschappelijke classificatie per zaak geregistreerd 
+kan worden.
+
+1.2 Algemeen beeld
+
+In Tabel 1 staan de kerncijfers over de vervolging (Hoofdstuk 2) en de berechting in eerste aanleg (Hoofdstuk 3) 
+van mensenhandel in de periode 2011-2015, zoals die blijken uit deze monitor. Onder de tabel (in §1.2.1 en 
+§1.2.2) worden deze cijfers kort besproken, waarbij met name aandacht is voor de meest opvallende cijfers. 
+Voorts is in §1.2.3 een samenvatting gegeven van de persoonskenmerken (geslacht, leeftijd en geboorteland) 
+van de verdachten van mensenhandel (Hoofdstuk 4). 
+
+Tabel 1 Kerncijfers vervolging en berechting mensenhandelzaken (2011-2015)
+
+2011 2012 2013 2014 2015 2011-2015
+
+Aantal bij het OM ingeschreven mensenhandelzaken 261 315 257 282 217 1.332
+
+Aantal door het OM inhoudelijk afgehandelde 
+mensenhandelzaken
+
+232 281 271 253 285 1.322
+
+% dagvaardingen (mede) voor mensenhandel 72% 70% 72% 76% 65% 71%
+
+Aantal in eerste aanleg afgedane mensenhandelzaken 126 147 200 162 184 819
+
+% veroordelingen voor minstens één mensenhandelfeit 64% 76% 77% 80% 67% 73%
+
+Gemiddelde duur in dagen van het onvoorwaardelijke 
+deel van opgelegde vrijheidsstraffen
+
+753 772 803 665 558 709
+
+Bron: OM-data (peildatum april 2016)
+
+1.2.1 Kerncijfers vervolging
+Het OM registreert gemiddeld 266 ingestuurde mensenhandelzaken per jaar (totaal 1.332 in vijf jaar tijd). In 
+het meest recente jaar, 2015, zijn opvallend weinig zaken ingeschreven in vergelijking tot de jaren ervoor, 
+namelijk 217. Deze daling van het aantal bij het OM ingeschreven mensenhandelzaken is zorgelijk omdat het 
+waarschijnlijk een gevolg is van verminderde capaciteit, andere prioritering, en expertiseverlies bij de politie 
+(zie hierover meer uitgebreid §2.1). Niettemin is ook het OM verantwoordelijk voor de verwerving van men-
+senhandelzaken, het OM vervult hierbij een sturende rol.
+
+In de periode 2011-2015 heeft het OM in totaal 1.322 mensenhandelzaken inhoudelijk afgehandeld, wat 
+neerkomt op gemiddeld 264 zaken per jaar. In 2015 en 2012 gaat het om de meeste afgehandelde zaken 
+
+6 Nationaal Rapporteur 2014 (Mensenhandel in en uit beeld, Cijfermatige rapportage 2008-2012), pp. 255-256, aan-
+beveling 4; Nationaal Rapporteur 2012 (Mensenhandel in en uit beeld, Cijfermatige rapportage 2007-2011), p. 226, 
+aanbeveling 4; Nationaal Rapporteur 2009 (Mensenhandel, Zevende rapportage van de Nationaal Rapporteur), p. 
+606, aanbeveling 43; Nationaal Rapporteur 2007 (Mensenhandel, Vijfde rapportage van de Nationaal Rapporteur), 
+p. 284, aanbeveling 64.
+
+7 Schriftelijke informatie van het Landelijk Parket d.d. 8 juli 2016.
+
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldII/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/Mensenhandelinenuitbeeld/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/ZevendeRapportage/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/Vijfderapportage/index.aspx
+
+
+9monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+ooit (in ieder geval sinds het jaar 2000, zie §2.2). In gemiddeld 71% van alle zaken besluit het OM te dag-
+vaarden voor in ieder geval mensenhandel. Wanneer het OM dit niet doet, is meestal, te weten in 26% van 
+de gevallen (zie §2.2.1), sprake van een onvoorwaardelijk sepot. Hierbij gaat het met name om technische 
+sepots en in mindere mate om onvoorwaardelijke beleidssepots. In 2015 valt op dat het aandeel dagvaar-
+dingen voor mensenhandel kleiner is dan in de vier jaren ervoor (65% in 2015 versus gemiddeld 72% in 
+2011-2014), en het aandeel technische sepots een stuk groter (30% in 2015 versus gemiddeld 20% in 2011-
+2014). Ook deze ontwikkeling zou te maken hebben met capaciteits- en expertiseproblemen bij de politie 
+(zie §2.2.1).  
+
+1.2.2 Kerncijfers berechting in eerste aanleg
+De rechter in eerste aanleg doet gemiddeld 164 voor mensenhandel gedagvaarde zaken per jaar af (totaal 819 
+in vijf jaar tijd). In de drie meest recente jaren (2013, 2014 en 2015) zijn de meeste zaken ooit afgedaan (in 
+ieder geval sinds het jaar 2000, zie §3.1). Toch is het totaal aantal door de rechter afgedane zaken in de afge-
+lopen vijf jaar (n=819) aanzienlijk kleiner dan het aantal door het OM gedagvaarde zaken in dezelfde periode 
+(n=935), hetgeen – ondanks dat het geen cohort betreft – opmerkelijk is. Een verklaring hiervoor, zoals bij-
+voorbeeld een oplopende achterstand van zaken, blijkt niet uit de cijfers en zou nader cohort-onderzoek 
+vereisen (zie §3.1).    
+
+In gemiddeld 73% van de zaken komt de rechter tot een veroordeling voor mensenhandel. Wanneer zaken 
+die zijn afgedaan met een niet-ontvankelijkheidsverklaring van het OM of een nietigverklaring van de dag-
+vaarding (samen gemiddeld 3%, zie §3.1.1) buiten beschouwing worden gelaten, is de verhouding veroorde-
+ling tot vrijspraak 3:1 (zie tevens §3.1.1). Dit betekent dat vier einduitspraken waarbij de rechter een inhou-
+delijke beslissing heeft genomen over de mensenhandelfeiten, drie veroordelingen voor mensenhandel en 
+één vrijspraak betreffen. Het veroordelingspercentage nam in de jaren 2011-2014 alsmaar toe (zoals ook te 
+zien in Tabel 1). In 2014 was zelfs sprake van een verhouding van zes à zeven veroordelingen op één vrij-
+spraak (zie wederom §3.1.1). Het jaar 2015 laat echter een opvallende daling van het veroordelingspercen-
+tage zien, hetgeen ook te zien is in Tabel 1. Het gaat in dit jaar nog maar om ruim twee veroordelingen op 
+één vrijspraak. 
+
+Als tot een veroordeling voor mensenhandel is gekomen, legt de rechter in de meeste gevallen (89%) een 
+onvoorwaardelijke of deels voorwaardelijke vrijheidsstraf op (zie §3.2). De gemiddelde duur van deze straffen 
+in de periode 2011-2015 is 709 dagen, oftewel bijna twee jaar. In de twee meest recente jaren is de gemiddelde 
+duur gedaald van ruim twee jaar in de jaren 2011-2013, naar nog maar net anderhalf jaar in 2015 (558 dagen). 
+Met name tegen de achtergrond van de verhogingen van de wettelijke strafbedreiging voor mensenhandel 
+(in zowel 2009 als in 2013), is deze recente ontwikkeling opmerkelijk. Aan deze cijfers kunnen op dit moment 
+echter geen inhoudelijke conclusies worden verbonden. Dit vereist nader onderzoek waarbij de factoren die 
+de straf beïnvloeden worden geanalyseerd.  
+
+1.2.3 Kerncijfers persoonskenmerken verdachten
+Slechts ongeveer één op de zes verdachten van mensenhandel die in de jaren 2011-2015 bij het OM is inge-
+schreven is vrouw, meestal (83%) gaat het dus om mannen (zie §4.1). De gemiddelde leeftijd van de verdach-
+ten ten tijde begin plegen mensenhandel is 32,6 jaar (zie §4.2). Het valt op dat een grote groep verdachten 
+erg jong is. Ruim een vijfde (21%) is adolescent (18 tot en met 22 jaar) of incidenteel zelfs nog minderjarig. 
+Bijna de helft van de verdachten (45%) is geboren in Nederland, en bijna een kwart (24%) in Bulgarije, Hon-
+garije of Roemenië (zie §4.3). Verder is 14% geboren in één van de vier herkomstlanden van traditionele Ne-
+derlandse immigranten (Suriname, Marokko, de voormalige Nederlandse Antillen en Turkije) en de overige 
+18% elders. Zowel bij de mannen als bij de vrouwen is het meest voorkomende ‘daderprofiel’(op basis van 
+geboorteland en leeftijd) de in Nederland geboren adolescent (dit betreft 13% van de mannelijke verdachten 
+en 16% van de vrouwelijke verdachten, zie §4.4). 
+
+1.3 Structuur van deze monitor
+
+Hoofdstuk 2 (Vervolging) geeft weer hoeveel mensenhandelzaken jaarlijks bij het OM binnenkomen en op 
+welke manier het OM deze zaken afhandelt, bijvoorbeeld met een dagvaarding voor mensenhandel of een 
+sepot. Vervolgens biedt Hoofdstuk 3 (Berechting in eerste aanleg) inzicht in de mensenhandelzaken die door 
+
+
+
+10monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+de rechter in eerste aanleg worden afgedaan. Hoeveel zijn dit er en hoe groot is het percentage zaken waarin 
+de rechter mensenhandel uiteindelijk bewezen acht? Ook is er aandacht voor de straffen die de rechter ver-
+volgens oplegt. In Hoofdstuk 4 (Persoonskenmerken verdachten) is gekeken naar het geslacht, de leeftijd en 
+het geboorteland van de verdachten van mensenhandel. Tot slot bevat Hoofdstuk 5 (Conclusies en aanbeve-
+lingen) de zes belangrijkste conclusies van deze monitor. Eén van deze conclusies heeft de rapporteur aan-
+leiding gegeven een aanbeveling aan de minister van Veiligheid en Justitie te doen.     
+
+
+
+11monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+2 Vervolging
+
+2.1 Ingeschreven zaken bij het OM
+
+Figuur 1 toont de ontwikkeling van het jaarlijks aantal bij het OM ingeschreven mensenhandelzaken tegen 
+individuele verdachten. Per jaar is ook de procentuele groei ten opzichte van het voorgaande jaar weergege-
+ven. Om de ontwikkeling van de afgelopen vijf jaren (2011-2015) in een breder kader te plaatsen laat de figuur 
+de ontwikkeling vanaf het jaar 2006 zien.
+
+Figuur 1 Aantal bij het OM ingeschreven zaken (2006-2015)
+Bron: OM-data (peildatum april 2016)
+
+In totaal gaat het in de afgelopen vijf jaren (2011-2015) om 1.332 bij het OM ingeschreven zaken en dus gemid-
+deld om 266 zaken per jaar. Vanaf het jaar 2012 is een dalende trend waarneembaar,1 waarbij in het meest 
+recente jaar het kleinste aantal zaken is ingeschreven, namelijk 217. Dit betekent een daling van 23% ten 
+opzichte van 2014, hetgeen de sterkste daling sinds 2009 is. Hiermee is 2015 vergelijkbaar met de jaren 2006, 
+2008 en 2010; de jaren met de minste ingeschreven zaken – namelijk rond de 200 – in het weergegeven 
+tijdsbestek van tien jaar (op 2009 met slechts 141 zaken na). In alle andere jaren ligt dit aantal rond de 
+250/300. 
+
+De recente afname van bij het OM ingeschreven verdachten van mensenhandel is waarschijnlijk te verklaren 
+doordat de politie minder en/of kortere opsporingsonderzoeken naar mensenhandel draait. Niet alleen het 
+aantal bij het OM ingeschreven verdachten is namelijk gedaald, ook het aantal mogelijke slachtoffers van 
+mensenhandel dat de politie aan CoMensha meldt is in 2015 met 14% afgenomen ten opzichte van 2014.2 Er 
+
+1 Wald X²=9,592; df=1; p=0,002.
+2 Ook de meldingen van mogelijke slachtoffers aan CoMensha vanuit de Koninklijke Marechaussee (KMar) is in 2015 
+
+gedaald ten opzichte van 2014 – met maar liefst 46% (Nationaal Rapporteur 2016 (Monitor mensenhandel, Cijfers 
+mogelijke slachtoffers 2011-2015), pp. 8, 32-33). 
+
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+Aantal ingeschreven 
+mensenhandelzaken OM
+
+203 281 214 141 216 261 315 257 282 217
+
+38%
+
+-24%
+
+-34%
+53%
+
+21%
+
+21%
+
+-18% 10%
+
+-23%
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+https://www.nationaalrapporteur.nl/Publicaties/monitormensenhandel/index.aspx
+
+
+12monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+bestaan geen redenen om aan te nemen dat deze dalende trend, die zich naar verwachting in 2016 doorzet,3 
+een gevolg zou zijn van een daadwerkelijke afname van het aantal slachtoffers en daders van mensenhandel 
+in Nederland. Een meer plausibele verklaring lijkt te vinden in verminderde capaciteit en een andere priori-
+tering bij de politie.4 Door de toegenomen migratie- en vluchtelingenstroom en de daaruit volgende ver-
+hoogde aandacht voor mensensmokkel, lijkt de aandacht van de politie te zijn verschoven in het nadeel van 
+mensenhandel. Dit werd eerder aan de orde gesteld in de de motie van de Kamerleden Voordewind c.s.5 In 
+een reactie daarop heeft de minister van Veiligheid en Justitie aangegeven een uitdaging te zien in het be-
+schikbaar hebben van voldoende capaciteit en gaf hij aan hierover in overleg te zijn met de politie.6 Al eerder 
+heeft de Nationaal Rapporteur haar zorgen geuit over de beschikbare capaciteit voor mensenhandel. En te-
+vens – in het kader van de reorganisatie van de Nationale Politie die in 2013 is ingezet – over het behoud van 
+de in de laatste jaren zorgvuldig opgebouwde expertise op het terrein van mensenhandel.7 Voorgaande heeft 
+overigens ook betrekking op het OM. De portefeuillehouders mensenhandel en mensensmokkel binnen het 
+OM vervullen een sturende rol bij de verwerving van mensenhandel- en mensensmokkelzaken door de poli-
+tie.8
+
+2.2 Afgehandelde zaken door het OM
+
+Figuur 2 laat de ontwikkeling van het jaarlijks (2011-2015) aantal door het OM afgehandelde mensenhandel-
+zaken zien. Bij ieder jaar is ook de procentuele groei ten opzichte van het voorgaande jaar gezet. Het aantal 
+afgehandelde zaken in een jaar kan niet worden afgezet tegen het aantal ingeschreven zaken in datzelfde jaar 
+(het gaat niet om hetzelfde cohort). Immers, niet alle zaken worden in het jaar van inschrijving ook afgehan-
+deld.
+
+3 Zo zet de daling van het aantal meldingen van mogelijke slachtoffers aan CoMensha in 2016 naar alle waarschijn-
+lijkheid door. CoMensha heeft namelijk reeds aangegeven dat in de eerste helft van 2016 een halvering van het 
+aantal meldingen heeft plaatsgevonden ten opzichte van het aantal meldingen in dezelfde periode in 2015 (Hut, 
+2016). Dit is een sterke indicatie dat het aantal opsporingsonderzoeken naar mensenhandel door de politie in 
+recente jaren aan het afnemen is, wat logischerwijs een doorwerkend effect heeft op het aantal verdachten van 
+mensenhandel dat ter vervolging bij het OM wordt ingeschreven.
+
+4 Zie ook Nationaal Rapporteur 2016 (Monitor mensenhandel, Cijfers mogelijke slachtoffers 2011-2015), pp. 8, 10-11.
+5 Motie van het lid Voordewind c.s. waarin wordt overwogen dat de aanpak van mensensmokkel niet ten koste mag 
+
+gaan van de strijd tegen mensenhandel en waarin de regering wordt verzocht erop toe te zien dat de beschikbare 
+capaciteit van politie, KMar en OM voor de aanpak van mensenhandel op niveau blijft (Kamerstukken II 2015/16, 34 
+300, 49).
+
+6 Verslag van een Algemeen Overleg over mensenhandel en prostitutie van 26 april 2016 (Kamerstukken II 2015/16, 28 
+638, 144, p. 20).
+
+7 Brief Nationaal Rapporteur aan de Voorzitter van de Tweede Kamer d.d. 17 maart 2016. De Nationaal Rapporteur 
+heeft hierover meermalen contact gehad met de politieleiding, en heeft de minister verzocht, nu de aanpak 
+van mensenhandel primair een taak van de vreemdelingenpolitie is geworden, bij de inrichting van de Natio-
+nale Politie stevig in te zetten op het behoud van de kennis zoals die bij de mensenhandelteams aanwezig was 
+(Brief Nationaal Rapporteur aan de minister van Veiligheid en Justitie d.d. 7 november 2012).
+
+8 Zie Nationaal Rapporteur 2009 (Mensenhandel, Zevende rapportage van de Nationaal Rapporteur), pp. 401-403.
+
+https://www.nationaalrapporteur.nl/Publicaties/ZevendeRapportage/index.aspx
+https://www.nationaalrapporteur.nl/binaries/brief-aan-min.venj-nationale-politie-en-bestrijding-mensenhandel_tcm23-18245.pdf
+https://www.nationaalrapporteur.nl/binaries/9790%20170316%20Brief%20Minister%20wetsvoorstel%20mensensmokkel_tcm23-91447.pdf
+https://www.nationaalrapporteur.nl/Publicaties/monitormensenhandel/index.aspx
+
+
+13monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Figuur 2 Aantal door het OM afgehandelde zaken (2011-2015)9
+
+Bron: OM-data (peildatum april 2016)
+
+Het OM heeft in de weergegeven vijf jaren in totaal 1.372 mensenhandelzaken afgehandeld. Het gemiddelde 
+ligt dus rond de 274 zaken per jaar. In het meest recente jaar, 2015, gaat het net als in 2012 om bijna 300 afge-
+handelde zaken, hetgeen het grootste aantal ooit is (in ieder geval vanaf 2000).10 
+
+2.2.1 Door het OM afgehandelde zaken naar afhandeling
+Het OM heeft in de jaren 2011-2015 in totaal 1.372 mensenhandelzaken (zie Figuur 2) afgehandeld. Hierbij gaat 
+het soms om een ‘administratieve’ afhandeling die feitelijk als doel heeft de zaak in de registratie van het OM 
+af te sluiten. Zo komt het incidenteel voor dat een mensenhandelzaak per abuis meer dan eens wordt gere-
+gistreerd. De dubbele zaken worden vervolgens in de OM-registratie afgehandeld met een zogeheten ‘admi-
+nistratief sepot’,11 waarvan in totaal dertig keer sprake is.12 Verder heeft het OM twintig zaken ‘overgedra-
+gen’.13,14 In totaal is dus ten aanzien van vijftig (4%) van de 1.372 in de periode 2011-2015 afgehandelde 
+mensenhandelzaken sprake van een ‘administratieve’ in plaats van een ‘inhoudelijke’ afhandeling. De stip-
+
+9 Dit zijn het aantal door het OM afgehandelde mensenhandelzaken exclusief de zaken die op een ‘administratieve’ 
+manier zijn afgehandeld, zie voor een gedetailleerde uitleg hiervan §2.2.1.
+
+10 2000: 93, 2001: 159, 2002: 163, 2003: 175, 2004: 246, 2005: 132 (Nationaal Rapporteur 2010 (10 jaar NRM), p. 211), 
+2006: 194 (Nationaal Rapporteur 2012 (Kwantitatieve gegevens over (de vervolging en berechting van) verdachten 
+en veroordeelden in mensenhandelzaken in de periode 2006-2010), p. 31, Tabel B3.6), 2007: 176 (Nationaal Rap-
+porteur 2012 (Mensenhandel in en uit beeld, Cijfermatige rapportage 2007-2011), p. 309, Tabel B3.3.4), 2008: 270 
+(Nationaal Rapporteur 2014 (Mensenhandel in en uit beeld, Cijfermatige rapportage 2008-2012), p. 397, Tabel 
+B4.6.4), 2009: 179 (Nationaal Rapporteur 2014 (Mensenhandel in en uit beeld, Update cijfers vervolging en berech-
+ting 2009-2013), p. 5), 2010: 197 (Nationaal Rapporteur 2015 (Mensenhandel in en uit beeld, Update cijfers vervol-
+ging en berechting 2010-2014), p. 5).
+
+11 Sepotgrond ‘feit dubbel ingeboekt in COMPAS/GPS’ (code 99) (zie Aanwijzing gebruik sepotgronden (2014A007), 
+Stcrt. 2014, 23 614). 
+
+12 2011: 3, 2012: 7, 2013: 7, 2014: 8, 2015: 5.
+13 2011: 4, 2012: 6, 2013: 3, 2014: 5, 2015: 2.
+14 Als een zaak wordt overgedragen aan een ander parket  dan wordt de zaak ingeschreven onder een nieuw parket-
+
+nummer bij het parket waaraan is overgedragen, waardoor de zaak in de landelijke OM-registratie twee verschil-
+lende parketnummers heeft en dus in feite dubbel voorkomt (in ieder geval in het systeem COMPAS waarin nog 
+steeds vrijwel alle mensenhandelzaken worden geregistreerd). Deze zaak wordt onder het initiële parketnummer 
+vervolgens dus ‘administratief ’ afgehandeld met een overdracht en ‘inhoudelijk’ onder het nieuwe parketnum-
+mer. Overigens kan een zaak ook worden overgedragen aan een andere (bijvoorbeeld bestuurlijke) instantie of aan 
+buitenlandse justitie (zie Aanwijzing gebruik sepotgronden (2014A007), Stcrt. 2014, 23 614). Gezien het, niet zelden 
+grensoverschrijdende karakter van het delict mensenhandel, is het goed mogelijk dat de twintig overdrachten 
+soms ook overdracht aan buitenlandse justitie betreffen, hetgeen geen dubbele zaken in de landelijke OM-regis-
+tratie tot gevolg heeft.
+
+2011 2012 2013 2014 2015
+Aantal afgehandelde 
+mensenhandelzaken OM 239 294 281 266 292
+
+Aantal inhoudelijk8 afgehandelde 
+mensenhandelzaken OM
+
+232 281 271 253 285
+
+23%
+-4%
+
+-5% 10%
+
+21%
+-4%
+
+-7%
+13%
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+https://www.nationaalrapporteur.nl/Publicaties/Achtste-Rapportage/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/OMDataonderzoekmensenhandel/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/OMDataonderzoekmensenhandel/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/Mensenhandelinenuitbeeld/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/Mensenhandelinenuitbeeld/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldII/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldIICijfersvervolgingenberechting20092013/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldIICijfersvervolgingenberechting20092013/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldCijfers20102014/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldCijfers20102014/index.aspx
+
+
+14monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+pellijn in Figuur 2 geeft de ontwikkeling (2011-2015) van de resterende 1.322 inhoudelijk afgehandelde zaken 
+weer. 
+
+Figuur 3 laat per jaar (2011-2015) zien welke inhoudelijke vervolgingsbeslissingen het OM heeft genomen in 
+voornoemde 1.322 mensenhandelzaken. Er is een onderverdeling gemaakt tussen: 
+
+• Afhandelingen waarbij het OM besluit de mensenhandelfeiten met een tenlastelegging voor te leggen 
+aan de rechter (zie de twee rood gekleurde afhandelingen in Figuur 3). Dat wil zeggen, dagvaardingen 
+voor in ieder geval één mensenhandelfeit (al dan niet naast ten laste gelegde andere strafbare feiten) 
+en voegingen ter berechting15.
+
+• Afhandelingen waarbij het OM in beginsel besluit de mensenhandelfeiten niet met een tenlastelegging 
+voor te leggen aan de rechter, maar aan dit besluit wel voorwaarden verbindt. Hieronder vallen transac-
+ties16 en voorwaardelijke beleidssepots17 (zie de twee blauw gekleurde afhandelingen in Figuur 3).18 In-
+dien de verdachte zich niet houdt aan de voorwaarden die het OM ter voorkoming van strafvervolging 
+stelt, kan het OM besluiten alsnog over te gaan tot dagvaarding.
+
+• Afhandelingen waarbij het OM definitief besluit de mensenhandelfeiten niet met een tenlastelegging 
+voor te leggen aan de rechter. Hieronder vallen technische sepots, onvoorwaardelijke beleidssepots 
+en dagvaardingen voor uitsluitend andere strafbare feiten dan mensenhandel19 (zie de drie grijs ge-
+kleurde afhandelingen in Figuur 3). Als niet voldoende uitzicht bestaat op een veroordeling, is sprake 
+van een technisch sepot en als van strafvervolging wordt afgezien op gronden aan het algemeen be-
+lang ontleend, is sprake van een beleidssepot.20
+
+15 Art. 259 Sv. In het geval van een voeging ter berechting wordt de mensenhandelzaak gevoegd bij de tenlastelegging 
+in een andere strafzaak (al dan niet een mensenhandelzaak) tegen dezelfde verdachte.
+
+16 Art. 74 Sr. Overigens liggen transacties niet in de lijn der verwachting omdat dit alleen mogelijk is voor misdrijven 
+waarop niet meer dan zes jaren gevangenisstraf staat, en de wettelijke strafbedreiging voor ongekwalificeerde 
+mensenhandel momenteel twaalf jaren is. Echter, voor mensenhandelfeiten gepleegd vóór juli 2009 is de wette-
+lijke strafbedreiging van zes jaren van toepassing, waardoor deze feiten dus met een transactie zouden kunnen 
+worden afgehandeld (in de periode 2011-2015). 
+
+17 Opportuniteitsbeginsel, art. 167 lid 2 Sv en Aanwijzing gebruik sepotgronden (2014A007), Stcrt. 2014, 23 614.
+18 Voor de volledigheid moet worden opgemerkt dat de OM afhandeling ‘strafbeschikking’ (art. 257a Sv) ook bij deze 
+
+categorie afhandelingen hoort. Dit kwam echter niet voor bij de 1.322 mensenhandelzaken. Daarbij liggen straf-
+beschikkingen in mensenhandelzaken ook niet in de lijn der verwachting, omdat dit alleen mogelijk is voor mis-
+drijven waarop niet meer dan zes jaren gevangenisstraf staat, en de wettelijke strafbedreiging voor ongekwalifi-
+ceerde mensenhandel momenteel twaalf jaren is.
+
+19 Hier gaat het om bij het OM ingeschreven mensenhandelzaken waarbij sprake is van ook minimaal één ander 
+strafbaar feit dan mensenhandel, en waarbij het OM besluit alleen de andere strafbare feiten op te nemen in de 
+tenlastelegginggen. Er wordt hier vanuit gegaan dat het OM de mensenhandelfeiten in deze zaken met een tech-
+nisch sepot of een onvoorwaardelijk beleidssepot heeft afgehandeld. Het is echter ook mogelijk dat het OM aan 
+het voorkomen van strafvervolging van deze mensenhandelfeiten voorwaarden heeft gesteld. Informatie op basis 
+waarvan dit bepaald kan worden is echter niet voorhanden. 
+
+20 Hierbij kan worden gedacht aan gronden die samenhangen met het gepleegde feit of met de persoon van de ver-
+dachte. Opportuniteitsbeginsel, art. 167 lid 2 Sv en Aanwijzing gebruik sepotgronden (2014A007), Stcrt. 2014, 23 
+614. 
+
+
+
+15monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Figuur 3 Door het OM afgehandelde zaken naar afhandeling (2011-2015)
+Bron: OM-data (peildatum april 2016)
+
+In gemiddeld 71% (n=937)21 van alle 1.322 inhoudelijk afgehandelde zaken heeft het OM besloten te dagvaarden 
+voor in ieder geval mensenhandel. Afhandelingen waarbij het OM in beginsel niet besluit tot strafvervolging, maar 
+aan dit besluit wel voorwaarden verbindt, komen in de periode 2011-2015 bijna niet voor (het bestreft slechts 1% 
+van de zaken, n=15).22 Ook komt het slechts incidenteel voor dat het OM wel overgaat tot dagvaarding, maar hierbij 
+de mensenhandelfeiten achterwege laat (2%, n=32). Indien het OM niet dagvaardt voor in ieder geval mensenhan-
+del gaat het aldus voornamelijk om onvoorwaardelijke sepots, namelijk in ruim een kwart van de zaken (26%, 
+n=338). Dit betreffen met name technische sepots (n=297) en in mindere mate beleidssepots (n=41). 
+
+Om meer inzicht te hebben in de achtergrond van de onvoorwaardelijke sepots, is onderzocht op welke 
+gronden de 51 zaken in 201423 en de 92 zaken in 201524 onvoorwaardelijk zijn geseponeerd. Hieruit volgt dat 
+het bij de 128 technische sepots25 in verreweg de meeste gevallen gaat om de grond ‘onvoldoende bewijs’ 
+(92%, n=118). In de overige tien zaken is negen keer technisch geseponeerd op de grond ‘ten onrechte als 
+verdachte aangemerkt’ en één keer op de grond ‘dader niet strafbaar’. Bij de vijftien onvoorwaardelijke be-
+leidssepots26 gaat het vier keer om de grond ‘gering aandeel in het feit’, tevens vier keer om de grond ‘oud 
+feit’, twee keer om de grond ‘door feit of gevolgen getroffen’, en om de gronden: ‘onvoldoende nationaal 
+belang’, ‘geringe strafwaardigheid van het feit’, ‘gezondheidstoestand’, ‘leidinggever wordt vervolgd’ en ‘ver-
+volging in strijd met belang van benadeelde’ (alle één keer).
+
+21 935 dagvaardingen voor mensenhandel + 2 voegingen ter berechting (zie Figuur 3).
+22 3 transacties + 12 voorwaardelijke beleidssepots. In 2014 en 2015 gaat het in totaal om vijf voorwaardelijke beleids-
+
+sepots op grond van eenmaal ‘anders dan strafrechtelijk ingrijpen prevaleert’, eenmaal ‘door feit of gevolgen ge-
+troffen’, eenmaal ‘oud feit’, eenmaal ‘reclasseringsbelang’ en eenmaal ‘vervolging in strijd met belang van bena-
+deelde’.
+
+23 42 technische sepots + 9 onvoorwaardelijke beleidssepots (zie Figuur 3).
+24 86 technische sepots + 6 onvoorwaardelijke beleidssepots (zie Figuur 3).
+25 42 in 2014 + 86 in 2015 (zie Figuur 3).
+26 9 in 2014 en 6 in 2015 (zie Figuur 3).
+
+2011 2012 2013 2014 2015 2011-2015
+
+Onvoorwaardelijk beleidssepot 8 12 6 9 6 41
+
+Technisch sepot (onvoorwaardelijk) 47 63 59 42 86 297
+
+Dagvaarding uitsluitend 
+voor andere feiten 7 8 7 3 7 32
+
+Voorwaardelijk beleidssepot 3 1 3 3 2 12
+
+Transactie 0 0 0 3 0 3
+
+Voeging 1 1 0 0 0 2
+
+Dagvaarding (mede) voor
+mensenhandel
+
+166 196 196 193 184 935
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+
+
+16monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+In Figuur 3 valt verder op dat in 2015 het aandeel dagvaardingen voor mensenhandel kleiner is dan in de vier 
+jaren ervoor (65% in 2015 versus gemiddeld 72% in 2011-201427), en dat het aandeel technische sepots juist een 
+stuk groter is (30% in 2015 versus gemiddeld 20% in 2011-201428).29 Ook in absolute zin is in 2015 sprake van 
+verreweg de meeste technische sepots: namelijk 86 ten opzichte van tussen de 42 en 63 in de jaren 2011-2014. 
+Navraag bij het OM leert dat het aanzienlijk grotere aantal technische sepots in 2015 (zowel absoluut als re-
+latief ) mogelijk samenhangt met capaciteitsproblemen bij de politie, met de reorganisatie bij de politie 
+waardoor de expertise voor een deel opnieuw opgebouwd moet worden, en wellicht ook met een verande-
+ring in de aard van de door de politie aangebrachte zaken.30 De eerste twee genoemde mogelijke verklaringen 
+bevestigen wederom de zorgen van de Nationaal Rapporteur over de huidige beschikbare capaciteit voor 
+mensenhandel en het behoud van expertise op het terrein van mensenhandel bij de politie (zie de toelichting 
+onder Figuur 1 in §2.1). Over de derde genoemde mogelijke verklaring die ziet op een veranderde aard van de 
+aangebrachte mensenhandelzaken is nu niet genoeg informatie voorhanden. De Nationaal Rapporteur on-
+derzoekt momenteel de aard van de mensenhandelzaken die door de rechter in eerste aanleg in recente jaren 
+zijn afgedaan.    
+
+Tot slot moet worden opgemerkt dat het aantal sepots ten aanzien van mensenhandel in werkelijkheid nog 
+groter is dan wat de cijfers in deze paragraaf (Figuur 3) weergeven. Dit komt omdat het OM een deel van de 
+ingezonden mensenhandelzaken – buiten de registratie om – seponeert (zogeheten ‘cosmetische sepots’). 
+Het gaat in dit geval om zaken waaraan geen parketnummer wordt toegekend omdat geen verdachte in beeld 
+is of omdat opsporingsindicaties ontbreken. Aldus worden bij cosmetische sepots slachtoffers bericht dat is 
+geseponeerd, zonder dat dit terug is te zien in de cijfers.31 Door het gebrek aan structurele en eenduidige 
+registratie van dit soort zaken ontbreekt het aan een totaaloverzicht van alle sepots. Een probleem waar de 
+Nationaal Rapporteur al eerder op heeft gewezen.32 
+
+27 Variërend tussen de 70% in 2012 en de 76% in 2014.
+28 Variërend tussen de 17% in 2014 en de 22% in 2012 en 2013.
+29 X²=12,838; df=2; p=0,002; V=0,099; p=0,002.
+30 Schriftelijke informatie van het Landelijk Parket d.d. 12 september 2016.
+31 Zie hierover meer uitgebreid Nationaal Rapporteur 2014 (Mensenhandel in en uit beeld, Cijfermatige rapportage 
+
+2008-2012), pp. 195-197 en Nationaal Rapporteur 2012 (Opsporing van mensenhandel en de B9-regeling, Vreemde-
+lingrechtelijke en strafrechtelijke aspecten van geseponeerde mensenhandelzaken), p. 8.
+
+32 Nationaal Rapporteur 2014 (Mensenhandel in en uit beeld, Cijfermatige rapportage 2008-2012), pp. 256-257, aan-
+beveling 5 en Nationaal Rapporteur 2012 (Opsporing van mensenhandel en de B9-regeling, Vreemdelingrechte-
+lijke en strafrechtelijke aspecten van geseponeerde mensenhandelzaken), p. 33.
+
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldII/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldII/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/OpsporingvanmensenhandelendeB9regeling/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/OpsporingvanmensenhandelendeB9regeling/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldII/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/OpsporingvanmensenhandelendeB9regeling/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/OpsporingvanmensenhandelendeB9regeling/index.aspx
+
+
+17monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+3 Berechting in eerste aanleg
+
+3.1 In eerste aanleg afgedane zaken
+
+Figuur 4 geeft de ontwikkeling van het jaarlijks aantal mensenhandelzaken weer dat de rechter in eerste 
+aanleg heeft afgedaan (bijvoorbeeld met een veroordeling, een vrijspraak etc., zie §3.1.1), met daarbij telkens 
+de procentuele groei ten opzichte van het voorgaande jaar. Het aantal in eerste aanleg afgedane zaken in een 
+jaar kan niet worden afgezet tegen het aantal door het OM met een dagvaarding voor mensenhandel afge-
+handelde zaken in datzelfde jaar (het gaat niet om hetzelfde cohort). Immers, niet alle zaken worden in het 
+jaar van dagvaarding door het OM ook afgedaan door de rechter. Ondanks dat de door de rechter afgedane 
+zaken in een jaar, en de door het OM gedagvaarde zaken in datzelfde jaar dus níet precies dezelfde zaken betref-
+fen, zou – gemiddeld genomen – het aantal zaken dat door de rechter in een jaar wordt afgedaan wél ongeveer 
+overeen moeten komen met het aantal zaken dat het OM in datzelfde jaar heeft gedagvaard. Tenminste, indien 
+geen sprake is van een oplopende achterstand van zaken. Het aantal door de rechter afgedane zaken in een 
+jaar dat reeds in een eerder jaar door het OM is gedagvaard zou dan namelijk – gemiddeld – even groot moe-
+ten zijn als het aantal zaken dat in dat jaar door het OM is gedagvaard, maar nog niet door de rechter is afge-
+daan. Zeker wanneer dit bezien wordt over een langere periode van vijf jaren. Het aanzienlijke verschil tussen 
+de totaal 935 voor mensenhandel gedagvaarde zaken in 2011-2015 volgens Figuur 3 en het totaal van 819 door 
+de rechter afgedane zaken in dezelfde periode (zie Figuur 4) impliceert daarom een oplopende achterstand 
+van mensenhandelzaken bij de rechter.1 Het is echter ook denkbaar dat dit verschil te wijten is aan correcties 
+in vervolgingsbeslissingen die door het OM niet worden doorgevoerd in de registratie.2 Zonder nader cohort-
+onderzoek waarin de gedagvaarde zaken in de registratie worden gevolgd, blijft een verklaring voor het ver-
+schil echter onduidelijk.
+
+Figuur 4  Aantal in eerste aanleg afgedane zaken (2011-2015)
+Bron: OM-data (peildatum april 2016)
+
+In de weergegeven periode heeft de rechter in eerste aanleg 819 mensenhandelzaken afgedaan. Dit komt neer 
+op een gemiddelde van ongeveer 164 zaken per jaar. Het jaarlijks aantal afgedane zaken fluctueert – net als 
+het aantal bij het OM ingeschreven zaken (zie Figuur 1 in §2.1) en het aantal door het OM afgehandelde zaken 
+
+1 In 2011 zijn er door de rechter 40 zaken minder afgedaan dan gedagvaard door het OM (OM: 166, rechter: 126), in 
+2012 49 minder (OM: 196, rechter: 147), in 2013 4 meer (OM: 196, rechter: 200), in 2014 31 minder (OM: 193, rechter: 
+162) en in 2015 even veel (OM en rechter beide: 184). In de totale periode 2011-2015 gaat het aldus om een verschil 
+van 116 zaken.
+
+2 Dit impliceert op zijn beurt dat sprake zou zijn van minder dagvaardingen dan weergegeven in Figuur 3 (§2.2.1) en 
+van bijvoorbeeld meer voegingen of sepots, en dat in de OM-registratie sprake is van mensenhandelzaken die na 
+de registratie ‘dagvaarding’ open blijven staan. 
+
+2011 2012 2013 2014 2015
+Aantal in eerste aanleg afgedane 
+mensenhandelzaken
+
+126 147 200 162 184
+
+17%
+
+36%
+-19%
+
+14%
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+
+
+18monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+(zie Figuur 3 in §2.2.1) – en varieert tussen de 126 zaken in 2011 en de 200 zaken in 2013. In de drie meest re-
+cente jaren zijn de meeste zaken ooit afgedaan (in ieder geval vanaf het jaar 2000).3
+
+3.1.1 In eerste aanleg afgedane zaken naar afdoening
+Figuur 5 laat per jaar (2011-2015) zien met welke einduitspraken de rechter in eerste aanleg de totaal 819 
+mensenhandelzaken (zie Figuur 4) heeft afgedaan. Er is een onderverdeling gemaakt tussen: 
+
+• Afdoeningen waarbij de rechter mensenhandel bewezen heeft verklaard (zie de rood gekleurde afdoe-
+ning in Figuur 5). Dat wil zeggen, veroordelingen voor in ieder geval één mensenhandelfeit (al dan 
+niet naast bewezenverklaarde andere strafbare feiten, en al dan niet in combinatie met één of meer-
+dere andere mensenhandelfeiten die niet bewezen zijn verklaard4) en voegingen ter terechtzitting die 
+tot een veroordeling voor in ieder geval mensenhandel hebben geleid.5,6
+
+• Afdoeningen waarbij de rechter mensenhandel niet bewezen heeft verklaard (zie de blauw gekleurde 
+afdoening in Figuur 5). Hieronder vallen volledige vrijspraken,7 veroordelingen voor uitsluitend an-
+dere strafbare feiten dan mensenhandel8 en voegingen ter terechtzitting die niet tot een veroordeling 
+voor mensenhandel hebben geleid.9,10 
+
+• Afdoeningen waarbij de rechter niet is toegekomen aan het inhoudelijk beoordelen (het beantwoor-
+den van de materiële vragen) van de ten laste gelegde mensenhandelfeiten. Hieronder vallen de nie-
+tigverklaring van de dagvaarding en de niet-ontvankelijkheidsverklaring van het OM (zie de twee grijs 
+gekleurde afdoeningen in Figuur 5).11,12
+
+3 2000: 84, 2001: 85, 2002: 95, 2003: 115, 2004: 151, 2005: 115 (Nationaal Rapporteur 2010 (10 jaar NRM), p. 213, Tabel 
+B3.30), 2006: 98 (Nationaal Rapporteur 2012 (Kwantitatieve gegevens over (de vervolging en berechting van) ver-
+dachten en veroordeelden in mensenhandelzaken in de periode 2006-2010), p. 32, Tabel B3.8), 2007: 115 (Nationaal 
+Rapporteur 2012 (Mensenhandel in en uit beeld, Cijfermatige rapportage 2007-2011), p. 314), 2008: 143 (Nationaal 
+Rapporteur 2014 (Mensenhandel in en uit beeld, Cijfermatige rapportage 2008-2012), p. 401, Tabel B4.6.8), 2009: 
+132 (Nationaal Rapporteur 2014 (Mensenhandel in en uit beeld, Update cijfers vervolging en berechting 2009-
+2013), p. 6, Figuur 4), 2010: 135 (Nationaal Rapporteur 2015 (Mensenhandel in en uit beeld, Update cijfers vervol-
+ging en berechting 2010-2014), p. 7, Figuur 4).
+
+4 Waarvan is vrijgesproken of waarbij niet is toegekomen aan het inhoudelijk beoordelen.
+5 Art. 285 Sv. Het gaat om 18 zaken in totaal (2011: 4, 2012: 4, 2013: 2, 2014: 5, 2015: 3).
+6 Voor de volledigheid moet worden opgemerkt dat de einduitspraak ‘ontslag van alle rechtsvervolging’ ook een 
+
+bewezenverklaring inhoudt. Dit kwam echter niet voor bij de 819 mensenhandelzaken.
+7 Het gaat om 122 zaken in totaal (2011: 20, 2012: 24, 2013: 31, 2014: 13, 2015: 34).
+8 Het gaat om 64 zaken in totaal (2011: 15, 2012: 12, 2013: 11, 2014: 7, 2015: 19). 
+9 Art. 285 Sv. Het gaat om 8 zaken in totaal (2011: 2, 2012: 0, 2013: 3, 2014: 0, 2015: 3). 
+10 Indien op zaaksniveau geen sprake is van een vrijspraak, maar van een veroordeling voor uitsluitend andere feiten 
+
+dan mensenhandel, dan wordt er hier vanuit gegaan dat de rechter van de mensenhandelfeiten in de zaak heeft 
+vrijgesproken. Het is echter ook mogelijk dat de rechter niet is toegekomen aan het inhoudelijk beoordelen van 
+de mensenhandelfeiten. Informatie op basis waarvan dit bepaald kan worden is echter niet voorhanden. 
+
+11 Art. 348 Sv. Voor de volledigheid moet worden opgemerkt dat er vier formele vragen bestaan. Ook beslissingen die 
+bepalen dat de rechter onbevoegd is of die de schorsing van vervolging bevestigen (hetgeen in de praktijk echter 
+bijna nooit voorkomt, zie Cleiren, T&C Strafvordering, 2015, art. 348 Sv, p. 1497, aant. 9) leiden tot einduitspraken 
+die vallen onder deze categorie afdoeningen. Hiervan was echter geen sprake bij de 819 mensenhandelzaken.
+
+12 Hoewel volgens art. 138 Sv deze uitspraken moeten worden aangemerkt als einduitspraken, zijn het nog geen 
+uitspraken ‘over het feit’ in de zin van art. 68 Sr. Aldus mag in deze gevallen een nieuwe vervolging worden inge-
+steld, hetgeen overigens in de regel bij in ieder geval niet-ontvankelijkheid van het OM niet gebeurt (zie Cleiren, 
+T&C Strafvordering, 2015, art. 348 Sv, p. 1498, aant. 8).
+
+https://www.nationaalrapporteur.nl/Publicaties/Achtste-Rapportage/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/OMDataonderzoekmensenhandel/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/OMDataonderzoekmensenhandel/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/Mensenhandelinenuitbeeld/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/Mensenhandelinenuitbeeld/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldII/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldII/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldIICijfersvervolgingenberechting20092013/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldIICijfersvervolgingenberechting20092013/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldIICijfersvervolgingenberechting20092013/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldIICijfersvervolgingenberechting20092013/index.aspx
+
+
+19monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Figuur 5 In eerste aanleg afgedane zaken naar afdoening (2011-2015)
+Bron: OM-data (peildatum april 2016)
+
+In 73% (n=599) van de totaal 819 zaken heeft de rechter mensenhandel bewezen verklaard. Het aandeel zaken 
+waarin is vrijgesproken voor alle ten laste gelegde mensenhandelfeiten is gemiddeld 24% (n=194). In de 
+overige 3% (n=26) van de zaken is de rechter niet toegekomen aan het inhoudelijk beoordelen van de ten 
+laste gelegde mensenhandelfeiten, met name omdat het OM niet ontvankelijk werd verklaard (n=20) en 
+slechts zeer incidenteel (n=6) omdat de dagvaarding nietig werd verklaard. 
+
+Wanneer alleen naar de inhoudelijke einduitspraken wordt gekeken, dat wil zeggen: de veroordelingen en de 
+vrijspraken, dan blijkt dat de verhouding gemiddeld ongeveer 3:1 is (vier inhoudelijke einduitspraken betreffen 
+drie veroordelingen voor mensenhandel en één vrijspraak).13 In de figuur is te zien dat deze verhouding per jaar 
+verschilt.14 Ieder jaar is sprake van meer veroordelingen dan vrijspraken, maar in de jaren 2011 tot en met 2014 
+neemt het aantal veroordelingen ten opzichte van een vrijspraak telkens toe (2011: ruim twee veroordelingen 
+op één vrijspraak,15 2012: ongeveer drie veroordelingen op één vrijspraak,16 2013: zo’n drie à vier veroordelingen 
+op één vrijspraak,17 2014: zo’n zes à zeven veroordelingen op één vrijspraak18). Het jaar 2015 breekt met deze 
+stijgende lijn van het veroordelingspercentage, en is met een verhouding van ruim twee veroordelingen op één 
+vrijspraak weer vergelijkbaar met het jaar 2011.19,20 Deze trendbreuk is opvallend, maar zonder nader onderzoek 
+naar de bewezenverklaringen en vrijspraakoverwegingen is hierover inhoudelijk niets te zeggen. 
+
+13 76% (n=599) veroordelingen en 24% (n=194) vrijspraken.
+14 X²=17,535; df=4; p=0,002; V=0,149; p=0,002.
+15 69% (n=81) veroordelingen en 31% (n=37) vrijspraken.
+16 76% (n=111) veroordelingen en 24% (n=36) vrijspraken.
+17 77% (n=154) veroordelingen en 23% (n=45) vrijspraken.
+18 87% (n=129) veroordelingen en 13% (n=20) vrijspraken. 
+19 69% (n=124) veroordelingen en 31% (n=56) vrijspraken.
+20 In het jaarlijkse Trafficking In Persons Report (U.S. Department of State, 2016, p. 283) wordt voor Nederland een 
+
+stijging van het veroordelingspercentage van 70% in 2014 naar 74% in 2015 beschreven op basis van de verhouding 
+tussen het aantal dagvaardingen en het aantal veroordelingen in deze jaren. Naast het feit dat met name de aantal-
+len veroordelingen niet overeenkomen met de aantallen zoals weergegeven in Figuur 5 (waarschijnlijk doordat in 
+het TIP Report ook veroordelingen voor uitsluitend andere feiten dan mensenhandel als veroordeling zijn be-
+schouwd), vormen het aantal dagvaardingen en het aantal veroordelingen in een jaar geen cohort, waardoor het 
+veroordelingspercentage hier niet van kan worden afgeleid.
+
+2011 2012 2013 2014 2015 2011-2015
+
+OM niet ontvankelijk 8 0 1 9 2 20
+
+Dagvaarding nietig 0 0 0 4 2 6
+
+Vrijspraak van álle
+mensenhandelfeiten
+
+37 36 45 20 56 194
+
+Veroordeling voor minstens
+één mensenhandelfeit
+
+81 111 154 129 124 599
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+
+
+20monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+3.2 Opgelegde hoofdstraffen 
+
+Binnen de 599 zaken waarin mensenhandel bewezen is verklaard (zie Figuur 5) vallen ook 18 ter terechtzitting 
+gevoegde zaken die tot een veroordeling voor in ieder geval mensenhandel hebben geleid.21 Deze zaken zijn 
+in deze paragraaf buiten beschouwing gelaten omdat uit de OM-registratie niet blijkt wat de strafoplegging 
+in deze zaken is.22
+
+Figuur 6 laat zien of een, en zo ja welke, hoofdstraf is opgelegd in de 581 resterende zaken waarin in de jaren 
+2011-2015 in eerste aanleg (mede) is veroordeeld voor mensenhandel.23 De opgelegde straffen zijn niet altijd 
+uitsluitend opgelegd ten aanzien van bewezen mensenhandelfeiten; het komt regelmatig voor dat ook an-
+dere feiten (bijvoorbeeld geweldsdelicten) naast mensenhandel bewezen zijn verklaard.
+
+Figuur 6 Veroordelingen in eerste aanleg naar opgelegde hoofdstraf (2011-2015)
+Bron: OM-data (peildatum april 2016)
+
+In totaal is gemiddeld in 89% van de mensenhandelveroordelingen een onvoorwaardelijke of deels voor-
+waardelijke vrijheidsstraf opgelegd. Dit percentage is in alle jaren min of meer gelijk (geen significante ver-
+schillen). Wanneer geen onvoorwaardelijke vrijheidsstraf wordt opgelegd gaat het meestal (in gemiddeld 8% 
+van de gevallen) om een geheel voorwaardelijke vrijheidsstraf als zwaarste hoofdstraf. Verder blijkt uit 
+
+21 2011: 4, 2012: 4, 2013: 2, 2014: 5, 2015: 3.
+22 In het geval van een voeging ter terechtzitting wordt de mensenhandelzaak gevoegd bij de behandeling ter terecht-
+
+zitting van een andere strafzaak (al dan niet een mensenhandelzaak) tegen dezelfde verdachte. Indien de rechter 
+tot een veroordeling voor in ieder geval mensenhandel komt, legt de rechter vervolgens één straf op die dus zowel 
+ziet op de bewezenverklaarde feiten van de ter terechtzitting gevoegde mensenhandelzaak, als op de bewezenver-
+klaarde feiten van de zaak waarbij ter terechtzitting is gevoegd (al dan niet een mensenhandelzaak), en wordt in 
+de OM-registratie vervolgens alleen bij laatstgenoemde zaak geregistreerd.
+
+23 2011: 77, 2012: 107, 2013: 152, 2014: 124, 2015: 121.
+
+2011 2012 2013 2014 2015 2011-2015
+Geen hoofdstraf 1 0 0 2 3 6
+Geldboete als zwaarste hoofdstraf 0 3 1 0 0 4
+Taakstraf als zwaarste hoofdstraf 0 3 0 3 1 7
+
+Geheel voorwaardelijke vrijheidsstraf
+als zwaarste hoofdstraf
+
+8 7 16 9 6 46
+
+Onvoorwaardelijke of deels 
+voorwaardelijke vrijheidsstraf
+
+68 94 135 110 111 518
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+
+
+21monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Figuur 6 dat in totaal zeven keer (1%) een taakstraf als zwaarste hoofdstraf,24 vier keer (1%) een geldboete als 
+zwaarste hoofdstraf en zes keer (1%) geen hoofdstraf25 is opgelegd.
+
+3.2.1 Duur van opgelegde vrijheidsstraffen
+Figuur 7 geeft een overzicht van de gemiddelde duur in dagen van het onvoorwaardelijke deel van de 518 
+opgelegde onvoorwaardelijke of deels voorwaardelijke vrijheidsstraffen (zie Figuur 6) in de jaren 2011-2015. 
+De duur kan betrekking hebben op een mensenhandelzaak waarin meerdere (mensenhandel)feiten bewezen 
+zijn verklaard.
+
+Figuur 7 Gemiddelde duur in dagen van opgelegde vrijheidsstraffen in eerste aanleg (2011-2015)
+Bron: OM-data (peildatum april 2016)
+
+De gemiddelde duur van het onvoorwaardelijke deel van de opgelegde vrijheidsstraffen in de periode 2011-
+2015 is 709 dagen,26 oftewel bijna twee jaar. In de figuur is te zien dat de gemiddelde duur in de twee meest 
+recente jaren is gedaald: van ruim twee jaar in de jaren 2011-2013,27 naar nog maar nét anderhalf jaar in 
+2015.28,29 Deze recente ontwikkeling is opmerkelijk, zeker in het licht van de wettelijke strafbedreiging die 
+door de wetgever juist een aantal keer is verhoogd om de ernst van het misdrijf mensenhandel te benadruk-
+
+24 In het kader van het ‘taakstrafverbod’ (art. 22b Sr) komt dit vreemd voor. Immers, op grond van art. 22b Sr is het 
+niet langer mogelijk om als zwaarste hoofdstraf een taakstraf op te leggen voor een misdrijf waarop een wettelijke 
+strafbedreiging van zes jaar of meer staat en dat een ernstige inbreuk op de lichamelijke integriteit van het slacht-
+offer heeft gehad. Dit geldt echter alleen voor feiten gepleegd na 3 januari 2012, en het is mogelijk dat de zeven 
+opgelegde taakstraffen als zwaarste hoofdstraf voor mensenhandel (3 in 2012, 3 in 2014 en 1 in 2015) betrekking 
+hebben op mensenhandelfeiten gepleegd vóór 2012.
+
+25 Het gaat eenmaal (in 2015) om een ‘schuldigverklaring zonder oplegging van straf of maatregel’ (het zogeheten 
+‘rechterlijk pardon’, zie art. 9a Sr en Schuyt, T&C Strafrecht, 2014, art. 9a, p. 115, aant. 1). In de andere vijf gevallen 
+gaat het om de beslissing geen hoofdstraf, maar bijvoorbeeld wel een maatregel op te leggen. De op verzoek ge-
+leverde OM-data bevatten echter geen informatie over de maatregelen die zijn opgelegd. Het kan opmerkelijk 
+worden gevonden dat de rechter na veroordeling voor een ernstig delict als mensenhandel niet besluit tot het 
+opleggen van een hoofdstraf (of maatregel). Zonder inzicht in de zaken die dit betreffen zijn hierover echter geen 
+uitspraken te doen.
+
+26 n=518, sd=652 dagen.
+27 2011: 24,8 maanden, 2012: 25,4 maanden, 2013: 26,4 maanden.
+28 2014: 21,9 maanden, 2015: 18,3 maanden.
+29 t2015-2013=-2,873; df=244; p<0,01, t2015-2012=-2,586; df=203; p<0,01, t2015-2011=-2,249; df=177; p<0,05.
+
+2011 2012 2013 2014 2015
+Gemiddelde duur in dagen van het onvoorwaardelijke
+deel van opgelegde vrijheidsstra�en voor mensenhandel
+
+753
+n=68
+
+sd=652
+
+772
+n=94
+
+sd=681
+
+803
+n=135
+
+sd=775
+
+665
+n=110
+
+sd=573
+
+558
+n=111
+
+sd=501
+
+Gemiddelde duur in dagen van het onvoorwaardelijke
+deel van opgelegde vrijheidsstra�en voor mensenhandel 
+(exclusief vrijheidsstra�en voor uitsluitend sub 3)
+
+813
+n=62
+
+sd=652
+
+797
+n=86
+
+sd=692
+
+811
+n=133
+
+sd=778
+
+688
+n=104
+sd=581
+
+576
+n=105
+
+sd=507
+
+3%
+4%
+
+-17%
+
+-16%
+
+-2% 2%
+
+-15%
+
+-16%
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+
+
+22monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+ken. Eerst, per juli 2009,30 van zes naar acht jaar voor ongekwalificeerde mensenhandel.31 En vervolgens, per 
+april 2013, van acht naar twaalf jaar.32 Omdat een verhoging van strafbedreiging niet geldt voor alle feiten die 
+na de inwerkingtreding van de verhoging zijn bestraft, maar alleen voor die feiten die ook na de inwerkingtre-
+ding zijn gepleegd, kan een eerste uitwerking van een strafverhoging niet eerder dan een jaar na de verhoging 
+worden verwacht. De opgelegde straffen voor mensenhandel waarop de meest recente strafverhoging (2013) 
+een uitwerking kan hebben (voor het eerst aldus op straffen opgelegd in 2014, maar zeker op een deel van de 
+straffen opgelegd in 2015), blijken echter – tegen de verwachting in – niet zwaarder te zijn. Sterker nog, het 
+tegenovergestelde, namelijk een daling van de gemiddelde opgelegde strafduur, is waar.33 
+
+Er is gezocht naar een verklaring voor de daling in de voorhanden zijnde data. Zo is gekeken of de daling in 
+opgelegde strafduur te maken heeft met mensenhandelzaken in de zin van uitsluitend artikel 273f lid 1 sub 3 
+Sr, maar dit blijkt niet het geval. Op grond van de sub 3-bepaling is iemand die een ander aanwerft, mee-
+neemt of ontvoert met het oogmerk die ander in een ander land ertoe te brengen zich beschikbaar te stellen 
+tot prostitutie strafbaar. Dwang en uitbuiting zijn van oorsprong geen delictsbestanddelen.34 Om deze reden 
+is in de Richtlijn voor strafvordering mensenhandel,35 die uitgangspunten geeft voor de te eisen straffen in 
+mensenhandelzaken door het OM, de te eisen strafbandbreedte voor mensenhandel in de zin van uitsluitend 
+sub 3 lager36 dan voor andere vormen van seksuele uitbuiting. De stippellijn in Figuur 7 geeft het gemiddeld 
+aantal dagen opgelegde vrijheidsstraf weer van alle mensenhandelzaken exclusief de zaken waarin sprake is 
+van mensenhandel in de zin van uitsluitend sub 3. Hieruit blijkt dat ook dan nog steeds sprake is van een forse 
+daling in de opgelegde strafduur.37 
+
+Voorgaande neemt uiteraard niet weg dat recent toch sprake zou kunnen zijn van mensenhandelzaken van 
+een andere aard dan voorheen, waardoor de straffen ook zijn veranderd. Er bestaan ten slotte veel meer 
+factoren dan alleen sub 3 die de aard en de straf van de zaken bepalen (denk bijvoorbeeld aan strafverzwa-
+rende omstandigheden, of aan het aantal slachtoffers per zaak, de duur van de uitbuiting et cetera). Alleen 
+op basis van de cijfers zoals weergegeven in Figuur 7 is aldus niets te zeggen over de achtergrond van de on-
+verwachte daling. Dit vereist een analyse van de factoren die de straf beïnvloeden. Onderzoek hiernaar acht 
+de rapporteur dan ook van groot belang.
+
+30 Merk op dat de rechter (met name in de eerdere jaren) in de periode 2011-2015 ook mensenhandelfeiten kan heb-
+ben bestraft die gepleegd zijn voor juli 2009 en ten aanzien waarvan aldus de maximale strafbedreiging van zes jaar 
+nog gold.
+
+31 Stb. 2009, 245.
+32 Stb. 2013, 84 en Stb. 2013, 108.
+33 Overigens is de gemiddelde duur van de opgelegde onvoorwaardelijke vrijheidsstraffen slechts één manier om de 
+
+opgelegde strafhoogte in beeld te brengen. Voor een meer volledig beeld moet ook gekeken worden naar hoe de 
+verschillende opgelegde strafhoogtes zijn verdeeld. Informatie hierover, zoals bijvoorbeeld de mediaan, is niet 
+voorhanden in de geleverde OM-data.    
+
+34 Zie ook Nationaal Rapporteur 2016 (Monitor mensenhandel, Cijfers mogelijke slachtoffers 2011-2015), p. 16 en 
+Nationaal Rapporteur 2012 (Jurisprudentie mensenhandelzaken 2009-2012, Een analyse), p. 29 en 67 e.v. Echter, in 
+een recente uitspraak oordeelde de Hoge Raad (HR 17 mei 2016, ECLI:NL:HR:2016:857) dat de gedragingen uit sub 
+3 alleen strafbaar zijn als zij zijn begaan onder omstandigheden waarbij uitbuiting kan worden verondersteld en 
+dat uitbuiting moet worden aangemerkt als een impliciet bestanddeel van sub 3.
+
+35 Richtlijn voor strafvordering mensenhandel (2016R003), Stcrt. 2016, 14 665.
+36 In geval van één meerderjarig slachtoffer en zonder dat sprake is van strafverzwarende omstandigheden.
+37 t2015-2013=-2,678; df=236; p<0,01, t2015-2012=-2,544; df=189; p<0,05, t2015-2011=-2,619; df=165; p<0,01.
+
+https://www.nationaalrapporteur.nl/Publicaties/monitormensenhandel/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/Jurisprudentie-Mensenhandel-2009-2012/index.aspx
+
+
+23monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+4 Persoonskenmerken verdachten
+
+Zoals uit Hoofdstuk 2 (Vervolging) blijkt zijn er in de jaren 2011-2015 in totaal 1.332 mensenhandelzaken 
+bij het OM ingeschreven. Eén zaak bij het OM heeft altijd betrekking op één verdachte. Maar hierbij moet 
+wel worden opgemerkt dat het mogelijk is dat eenzelfde persoon in de totale periode 2011-2015 verdachte 
+is in meer dan één mensenhandelzaak. Hierdoor is het aantal unieke verdachten van mensenhandel iets 
+kleiner dan het aantal van 1.332 mensenhandelzaken. Precieze informatie over het aantal unieke verdach-
+ten is echter niet voorhanden,1 waardoor één zaak in dit hoofdstuk wordt beschouwd als één unieke 
+verdachte. 
+
+Omdat 12 van de 1.332 verdachten rechtspersonen2 betreffen, gaat het in dit hoofdstuk om totaal 1.320 na-
+tuurlijke personen3 verdacht van mensenhandel. Achtereenvolgens wordt ingegaan op het geslacht (§4.1), 
+de leeftijd (§4.2) en het geboorteland (§4.3) van deze 1.320 verdachten. In §4.4 zijn, op basis van het geboor-
+teland en de leeftijd, de meest voorkomende profielen van zowel de mannelijke als de vrouwelijke verdach-
+ten beschreven.
+
+4.1 Geslacht verdachten
+
+Het geslacht is van vrijwel alle verdachten bekend, slechts bij 6 van de totaal 1.320 verdachten (minder dan 
+1%) is dit door het OM niet geregistreerd.4 In Figuur 8 is, per jaar (2011-2015), de geslachtsverdeling van de 
+1.314 verdachten van wie het geslacht bekend is5 weergegeven.
+
+1 In de OM-registratie zijn verschillende zaken tegen eenzelfde verdachte namelijk niet gekoppeld. Uiteraard geldt 
+wel, wanneer een zaak door het OM wordt afgehandeld middels een voeging, of wanneer een zaak door de rechter 
+in eerste aanleg ter terechtzitting wordt gevoegd, dat de gevoegde zaak en de zaak waarbij gevoegd is betrekking 
+hebben op dezelfde verdachte. Echter, deze voegingen geven niet het volledige inzicht in het aantal ‘dubbele 
+verdachten’; verschillende zaken tegen één verdachte kunnen immers ook afzonderlijk – dus zonder voeging – 
+behandeld worden. En daarbij geldt dat voegingen ook niet per definitie ‘dubbele verdachten’ binnen het totaal 
+van mensenhandelzaken impliceren; een mensenhandelzaak wordt niet per definitie bij een andere mensenhan-
+delzaak gevoegd. Dit is immers ook mogelijk bij een strafzaak met andere strafbare feiten dan mensenhandel, in 
+welk geval de gevoegde mensenhandelzaak de enige mensenhandelzaak van een unieke verdachte betreft. Omdat 
+het daarnaast gaat om slechts een zeer beperkt aantal gevoegde zaken; 2 zaken die door het OM zijn gevoegd in vijf 
+jaar tijd (zie Figuur 3 in §2.2.1) en 26 zaken die door de rechter in eerste aanleg ter terechtzitting zijn gevoegd in 
+vijf jaar tijd (waarvan er 18 wel en 8 niet tot een veroordeling voor mensenhandel hebben geleid, zie §3.1.1), wordt 
+hiervoor in dit hoofdstuk niet gecorrigeerd. Ditzelfde geldt voor de dertig administratieve sepots in vijf jaar tijd die 
+zien op dubbel geregistreerde mensenhandelfeiten (zie §2.2.1).
+
+2 2011: 3, 2012: 4, 2013: 1, 2014: 3, 2015: 1.
+3 2011: 258, 2012: 311, 2013: 256, 2014: 279, 2015: 216.
+4 2011: 0, 2012: 1, 2013: 2, 2014: 0, 2015: 3.
+5 2011: 258, 2012: 310, 2013: 254, 2014: 279, 2015: 213.
+
+
+
+24monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Figuur 8 Geslacht verdachten (2011-2015)
+Bron: OM-data (peildatum april 2016)
+
+De verdachten zijn voornamelijk mannen (83%). Gemiddeld is slechts 17% (n=227) – dat wil zeggen ongeveer 
+één op de zes verdachten – vrouw. Deze man/vrouw-verdeling van grofweg 5:1 is ieder jaar min of meer het-
+zelfde (geen significante verschillen). 
+
+4.2 Leeftijd verdachten 
+
+Van 8 van de totaal 1.320 verdachten is de leeftijd ten tijde begin plegen mensenhandel onbekend.6 De ge-
+middelde leeftijd van de 1.312 verdachten van wie de leeftijd wel bekend is,7 is 32,6 jaar.8 Deze gemiddelde 
+leeftijd is ieder jaar ongeveer gelijk (geen significante verschillen). De mediane leeftijd is 30 jaar, wat wil 
+zeggen dat de helft van de verdachten 30 jaar of jonger is en de andere helft ouder dan 30. De jongste ver-
+dachten zijn nog minderjarig en de oudste verdachten zijn in de 70. 
+
+In Figuur 9 zijn de 1.312 verdachten, per jaar (2011-2015), ingedeeld in leeftijdscategorieën. De jongste leef-
+tijdscategorie bestaat uit zowel minderjarige verdachten (12 tot en met 17 jaar) op wie9 de rechter in beginsel 
+het jeugdstrafrecht toepast,10 als adolescente verdachten (18 tot en met 22 jaar) op wie11 sinds 1 april 2014 het 
+adolescentenstrafrecht van toepassing is.12 Dit betekent dat de rechter ervoor kan kiezen adolescente daders 
+te bestraffen volgens het jeugdstrafrecht.13 Dit is niet mogelijk bij verdachten die ten tijde het plegen van 
+mensenhandel 23 jaar of ouder waren. 
+
+6 2011: 5, 2012: 1, 2013: 0, 2014: 0, 2015: 2.
+7 2011: 253, 2012: 310, 2013: 256, 2014: 279, 2015: 214.
+8 sd=11,5 jaar.
+9 Na dagvaarding door het OM en veroordeling door de rechter.
+10 Op daders die 16 of 17 jaar oud waren ten tijde van het plegen van het delict kan de rechter het jeugdstrafrecht 
+
+buiten toepassing laten en hen volgens het volwassenstrafrecht bestraffen. Dit kan wanneer hij daartoe grond 
+vindt in de ernst van het feit, de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan 
+(art. 77b Sr).
+
+11 Na dagvaarding door het OM en veroordeling door de rechter.
+12 In eerdere rapporten van de Nationaal Rapporteur is een andere leeftijdsverdeling weergegeven dan in Figuur 9 
+
+(namelijk: minderjarig, 18-25 jaar, 26-30 jaar, 31-40 jaar, 41-50 jaar en ouder dan 50), waardoor de cijfers niet ver-
+gelijkbaar zijn. De rapporteur heeft er in dit rapport bewust voor gekozen deze verdeling aan te passen, om zo de 
+relatief grote groep zeer jonge verdachten (de adolescenten) beter in beeld te hebben.    
+
+13 Bij adolescente daders kan de rechter besluiten dat het jeugdstrafrecht wordt toegepast indien hij daartoe grond 
+vindt in de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan (art. 77c Sr, Stb. 2013, 
+485). 
+
+2011 2012 2013 2014 2015 2011-2015
+
+Vrouw 45 55 36 52 39 227
+
+Man 213 255 218 227 174 1.087
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+
+
+25monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Figuur 9 Leeftijd verdachten (2011-2015)
+Bron: OM-data (peildatum april 2016)
+
+Ruim één op de vijf verdachten (21%, n=270) is adolescent of incidenteel zelfs nog minderjarig14. De leeftijds-
+categorieën 23 tot en met 29 jaar (n=360) en 30 tot en met 39 jaar (n=349) zijn – in beide gevallen met ruim 
+een kwart van de verdachten (namelijk 27%) – het best vertegenwoordigd. Het resterende kwart van de ver-
+dachten is 40 jaar of ouder (25%, n=208+125). Verder valt in de figuur op dat bijna de helft van alle verdachten 
+(48%, n=270+360) jonger is dan 30 (zie de twee rood gekleurde leeftijdscategorieën) – wat logischerwijs over-
+eenkomt met de eerdergenoemde mediane leeftijd van 30 jaar. Verdachte mensenhandelaren zijn dus gere-
+geld nog redelijk jong (tieners en twintigers). De verdeling van de verdachten naar de weergegeven leeftijds-
+categorieën is ieder jaar ongeveer gelijk (geen significante verschillen). 
+
+De leeftijdsverdeling van verdachten van mensenhandel komt in grote lijnen overeen met de leeftijdsverdeling van 
+verdachten van geweldsmisdrijven in het algemeen. Zo blijkt bijvoorbeeld dat 32% van alle in de periode 2011-2014 bij 
+de politie geregistreerde verdachten van een geweldsmisdrijf15 (van wie de leeftijd bekend is) jonger is dan 25,16 en dat 
+dit percentage voor de verdachten van mensenhandel die in 2011-2015 bij het OM zijn ingeschreven niet heel anders 
+is (namelijk 29%).17 Dit is opmerkelijk omdat verdachten van georganiseerde criminaliteit – waarvan bij mensenhan-
+del naar verwachting relatief vaak sprake is18 – over het algemeen namelijk ouder zijn dan verdachten van andere 
+criminaliteitsvormen.19 Wel lijken de bij de politie geregistreerde verdachten van geweldsmisdrijven vaker minderja-
+rig, namelijk 10%,20 ten opzichte van 3% van de bij het OM ingeschreven verdachten van mensenhandel. 
+
+14 33 verdachten in totaal (3%); 2011: 3, 2012: 13, 2013: 6, 2014: 7, 2015: 4.
+15 De delictscategorieën ‘seksuele misdrijven’, ‘levensdelicten’, ‘dood en lichamelijk letsel door schuld’, ‘mishande-
+
+ling’, ‘bedreiging’, ‘diefstal met geweld en afpersing’.
+16 Centraal Bureau voor de Statistiek, 2016. 
+17 Dit verschil (32% van de verdachten van geweldsmisdrijven versus 29% van de verdachten van mensenhandel) blijkt dan 
+
+ook niet significant. Het 95% betrouwbaarheidsinterval van het verschil [-4, 92%, 0,01%] bevat namelijk de waarde nul.
+18 Alleen al gezien het feit dat relatief vaak sprake is van een grensoverschrijdend karakter. 
+19 Zie bijvoorbeeld Kleemans & de Poot, 2008.
+20 Ook de bij het OM ingeschreven verdachten van misdrijven (niet specifiek geweldsmisdrijven) laten eenzelfde 
+
+verdeling van minder- en meerderjarige verdachten zien. Namelijk: 9% van alle verdachte natuurlijke personen 
+(van wie de leeftijd bekend is) die in de jaren 2013-2015 bij het OM zijn ingeschreven is minderjarig, ten opzichte 
+van 91% meerderjarigen (Openbaar Ministerie, 2016, p. 68).
+
+2011 2012 2013 2014 2015 2011-2015
+
+50 en ouder 30 26 24 29 16 125
+
+40-49 36 43 38 45 46 208
+
+30-39 70 81 66 78 54 349
+
+23-29 76 84 66 76 58 360
+
+12-22 (minderjarig of adolescent) 41 76 62 51 40 270
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+
+
+26monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+4.3 Geboorteland verdachten 
+
+Het geboorteland is van 29 van de totaal 1.320 verdachten (2%) onbekend.21 De 1.291 verdachten van wie het ge-
+boorteland wel bekend is22 zijn geboren in ruim zestig verschillende landen. De top-8 geboortelanden (2011-2015) 
+bestaat uit: Nederland (45%, n=580), Bulgarije (9%, n=119), Hongarije (8%, n=97), Roemenië (7%, n=89), Suriname 
+(4%, n=57), Marokko (3%, n=43), de voormalige Nederlandse Antillen23 (3%, n=40) en Turkije (3%, n=37). Deze top-
+8 (n=1.062) betreft 82% van alle 1.291 verdachten. Voor specifiek het jaar 2015 gelden dezelfde acht meest voorko-
+mende geboortelanden, zij het in een net iets andere volgorde.24 De vier meest voorkomende nationaliteiten 
+(Nederlandse (30%), Bulgaarse (11%), Roemeense (10%) en Hongaarse (9%)) van de in 2011-2015 bij CoMensha ge-
+melde mogelijke slachtoffers van mensenhandel25 komen overeen met de vier meest voorkomende geboortelan-
+den van verdachten van mensenhandel die in deze zelfde periode bij het OM zijn ingeschreven. Dit bevestigt het 
+beeld dat daders en slachtoffers van mensenhandel niet zelden afkomstig zijn uit dezelfde landen.26
+
+In Figuur 10 zijn, per jaar (2011-2015), de geboortelanden van de 1.291 verdachten van wie het geboorteland bekend is 
+te zien. De geboortelanden zijn verdeeld over vier categorieën: (1) Nederland, (2) Bulgarije, Hongarije en Roemenië,27 
+(3) Suriname, Marokko, de voormalige Nederlandse Antillen en Turkije28 en (4) overige geboortelanden.
+
+Figuur 10 Geboorteland verdachten (2011-2015)
+Bron: OM-data (peildatum april 2016)
+
+21 2011: 2, 2012: 4, 2013: 7, 2014: 8, 2015: 8.
+22 2011: 256, 2012: 307, 2013: 249, 2014: 271, 2015: 208.
+23 Het huidige Aruba, Caraçao, Sint Maarten en de speciale gemeenten van Nederland (Saba, Sint Eustatius en Bonaire).
+24 Nederland (49%, n=101), Roemenië (13%, n=26), Bulgarije (6%, n=12), Hongarije (5%, n=11), de voormalige Neder-
+
+landse Antillen (4%, n=8), Suriname (4%, n=8), Marokko (3%, n=7) en Turkije (2%, n=5). Deze 178 verdachten betreffen 
+86% van alle 208 verdachten van wie het geboorteland bekend is in 2015. Overigens vormen voornoemde 8 geboor-
+telanden ook de top-8 in 2012, 2013 (in dit jaar staat China ook in de top-8, namelijk op een gedeelde achtste plek met 
+Turkije waardoor de top-8 uit 9 landen bestaat) en 2014. Alleen in 2011 ziet de top-8 er iets anders uit: China staat op 
+een gedeelde vijfde plek met de voormalige Nederlandse Antillen, de Sovjetunie staat op een gedeelde achtste plek 
+met Roemenië (waardoor de top-8 uit 9 landen bestaat) en Marokko komt dit jaar niet voor in de top-8. 
+
+25 Zie Nationaal Rapporteur 2016 (Monitor mensenhandel, Cijfers mogelijke slachtoffers 2011-2015), §4.3.
+26 Zie bijvoorbeeld Europol, 2016, pp. 3, 10, 14, 21-22, 25, 28-29.  
+27 De drie Midden- en Oost-Europese landen die in de top-8 voorkomen.
+28 De vier resterende landen die in de top-8 voorkomen. Geografisch hebben deze landen niet veel met elkaar te 
+
+maken, maar wel op het gebied van migratie. Het betreffen namelijk de vier herkomstlanden van traditionele 
+Nederlandse immigranten. 
+
+2011 2012 2013 2014 2015 2011-2015
+Overige geboortelanden 57 50 40 52 30 229
+Suriname, Marokko, Nederlandse
+Antillen (vml.), Turkije 29 47 37 36 28 177
+
+Bulgarije, Hongarije, Roemenië 69 71 54 62 49 305
+
+Nederland 101 139 118 121 101 580
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+https://www.nationaalrapporteur.nl/Publicaties/monitormensenhandel/index.aspx
+
+
+27monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Bijna de helft van alle verdachten is geboren in Nederland (45%, n=580) en bijna een kwart in Bulgarije, 
+Hongarije of Roemenië (24%, n=305). Het geboorteland van 14% van de verdachten is één van de vier her-
+komstlanden van traditionele Nederlandse immigranten (Suriname, Marokko, de voormalige Nederlandse 
+Antillen en Turkije) en de overige 18% van de verdachten is elders geboren. Deze verdeling van verdachten 
+naar geboorteland is ieder jaar ongeveer gelijk (geen significante verschillen). 
+
+4.4 Profielen van mannelijke en vrouwelijke verdachten
+
+Van de 1.320 verdachte natuurlijke personen in de periode 2011-2015, is van 1.278 zowel het geslacht, de leeftijd als 
+het geboorteland bekend. Deze 1.278 verdachten betreffen 1.054 mannen en 224 vrouwen. In deze paragraaf zijn 
+zowel de mannelijke als de vrouwelijke verdachten ingedeeld in 16 verschillende profielen op basis van vier cate-
+gorieën geboortelanden29 én vier leeftijdscategorieën30. In Tabel 2 is de top-8 mannenprofielen weergegeven die 
+ongeveer driekwart (74%) van alle 1.054 mannelijke verdachten vertegenwoordigt. Tabel 3 laat de top-8 vrouwen-
+profielen zien waartoe eveneens ongeveer driekwart (76%) van alle 224 vrouwelijke verdachten behoort.31 
+
+Tabel 2 Top-8 profielen van mannelijke verdachten (totaal 2011-2015)
+
+Bron: OM-data (peildatum april 2016)
+
+29 (1) Nederland, (2) Bulgarije, Hongarije en Roemenië, (3) Suriname, Marokko, de voormalige Nederlandse Antillen 
+en Turkije en (4) overige geboortelanden.
+
+30 12 t/m 22: de adolescenten, 23 t/m 29: de twintigers, 30 t/m 39: de dertigers en 40 en ouder: de veertigplussers.
+31 Dit betekent dus dat de resterende acht mannen- respectievelijk vrouwenprofielen (profielen 9 t/m 16) ongeveer 
+
+een kwart van alle mannelijke en vrouwelijke verdachten vertegenwoordigt. 
+
+Profiel Geboorteland Leeftijd Aantal 
+verdachten
+
+% mannelijke 
+verdachten 
+
+(n=1.054)
+
+% totaal 
+verdachten 
+
+(n=1.278)
+
+1 Nederland adolescent 138 13% 11%
+
+2 Nederland veertigplusser 130 12% 10%
+
+3 Nederland twintiger 129 12% 10%
+
+4’ Nederland dertiger 90 9% 7%
+
+4’ Bulgarije, Hongarije, Roemenië dertiger 90 9% 7%
+
+6 Bulgarije, Hongarije, Roemenië twintiger 88 8% 7%
+
+7 Overige geboortelanden veertigplusser 58 6% 5%
+
+8 Suriname, Marokko, Nederlandse 
+Antillen (vml.), Turkije
+
+dertiger 56 5% 4%
+
+Profielen 1 t/m 8 779 74% 61%
+
+
+
+28monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Tabel 3 Top-8 profielen van vrouwelijke verdachten (totaal 2011-2015)32
+
+Bron: OM-data (peildatum april 2016)
+
+Het meest voorkomende mannelijke profiel bestaat uit de in Nederland geboren adolescenten (13% van alle 
+mannen, n=138, zie Tabel 2). Het valt op dat dit profiel ook op de eerste plek staat bij de vrouwelijke verdach-
+ten (16% van alle vrouwen, n=35, zie Tabel 3). Tevens alle oudere – de twintigers, de dertigers en de veertig-
+plussers – in Nederland geboren verdachten komen zowel in de top-8 mannenprofielen33 als de top-8 vrou-
+wenprofielen34 voor. Ditzelfde geldt voor de in Midden- en Oost-Europa geboren twintigers35 en dertigers36 
+en voor de veertigplussers die geboren zijn in ‘overige geboortelanden’37. Dus ondanks dat het bij verdachte 
+mensenhandelaren veel vaker om mannen dan om vrouwen gaat (verhouding 5:1, zie Figuur 8), gaat het bij 
+de mannen en vrouwen in grote lijnen wél om vooral dezelfde profielen (voor wat betreft geboorteland en 
+leeftijd). Het grootste verschil tussen de mannelijke en vrouwelijke verdachten is dat er bijna geen vrouwe-
+lijke verdachten zijn geboren in Suriname, Marokko, de voormalige Nederlandse Antillen en Turkije (slechts 
+6% van alle vrouwen, n=14), terwijl deze landen bij de mannelijke verdachten regelmatig voorkomen als 
+geboorteland (bij 15% van alle mannen, n=161).38 Om deze reden komt het profiel van de dertiger die in één 
+van voornoemde vier herkomstlanden van traditionele Nederlandse immigranten is geboren bij de mannen 
+wél voor in de top-8, en bij de vrouwen niet. 
+
+32 Het gaat bij de top-8 vrouwenprofielen om een gedeelde achtste plek, wat betekent dat de top-8 uit 9 profielen 
+bestaat. Om de omvang van de top-8 vrouwenprofielen te bepalen is echter de omvang van 8 in plaats van 9 pro-
+fielen bij elkaar opgeteld. 
+
+33 Twintigers: profiel 3 (12% van alle mannen, n=129), dertigers: profiel 4’ (9% van alle mannen, n=90), veertigplus-
+sers: profiel 2 (12% van alle mannen, n=130).
+
+34 Twintigers: profiel 4’ (9% van alle vrouwen, n=20), dertigers: profiel 8’ (7% van alle vrouwen, n=15), veertigplussers: 
+profiel 6’ (8% van alle vrouwen, n=18).
+
+35 Mannen: profiel 6 (8% van alle mannen, n=88, zie Tabel 2), vrouwen: profiel 2’ (10% van alle vrouwen, n=22, zie Tabel 3).
+36 Mannen: profiel 4’ (9% van alle mannen, n=90, zie Tabel 2), vrouwen: profiel 6’ (8% van alle vrouwen, n=18, zie Tabel 3).
+37 Mannen: profiel 7 (6% van alle mannen, n=58, zie Tabel 2), vrouwen: profiel 4’ (9% van alle vrouwen, n=20, zie Tabel 3).
+38 X²=24,670; df=3; p=0,000; V=0,139; p=0,000.
+
+Profiel Geboorteland Leeftijd Aantal 
+verdachten
+
+% vrouwelijke 
+verdachten 
+
+(n=224)
+
+% totaal 
+verdachten 
+
+(n=1.278)
+
+1 Nederland adolescent 35 16% 3%
+
+2’ Bulgarije, Hongarije, Roemenië twintiger 22 10% 2%
+
+2’ Overige geboortelanden dertiger 22 10% 2%
+
+4’ Nederland twintiger 20 9% 2%
+
+4’ Overige geboortelanden veertigplusser 20 9% 2%
+
+6’ Nederland veertigplusser 18 8% 1%
+
+6’ Bulgarije, Hongarije, Roemenië dertiger 18 8% 1%
+
+8’ Nederland dertiger 15 7% 1%
+
+8’ Bulgarije, Hongarije, Roemenië veertigplusser 15 7% 1%
+
+Profielen 1 t/m 8 17031 76% 13%
+
+
+
+29monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+5 Conclusies en aanbevelingen
+
+Cijfers vormen de basis voor de aanpak van mensenhandel. De cijfers in deze monitor schetsen de mensen-
+handel die bij het OM in beeld is en zijn een weergave van een deel van de aanpak van mensenhandel (name-
+lijk de vervolging en berechting). Cijfers kunnen ook tot vragen leiden waarop de antwoorden verder richting 
+kunnen geven aan de aanpak van mensenhandel. Sommige cijfers in deze monitor roepen vragen op die 
+alleen met nader onderzoek beantwoord kunnen worden. 
+
+Uit de cijfers van deze monitor volgen zes conclusies. Allereerst de forse daling van het aantal ingeschreven 
+mensenhandelzaken bij het OM in 2015 (zie §2.1) en voorts de toename van het aandeel technische sepots en 
+daardoor de afname van het aandeel dagvaardingen voor mensenhandel in 2015 (zie §2.2.1). Deze beide ontwik-
+kelingen lijken samen te hangen met een verminderde capaciteit en een andere prioritering bij de politie – als 
+gevolg van de toegenomen (noodzakelijke) aandacht voor mensensmokkel – en tevens met expertiseverlies als 
+gevolg van de reorganisatie bij de politie (zie §2.1 en §2.2.1). Niettemin is ook het OM verantwoordelijk voor de 
+verwerving van mensenhandelzaken, het OM vervult hierbij een sturende rol. De Nationaal Rapporteur heeft 
+de minister van Veiligheid en Justitie recent twee aanbevelingen gedaan om maatregelen te treffen waardoor 
+de aanpak van mensenhandel geborgd is, zowel binnen als naast de aanpak van mensensmokkel.1 De voor-
+noemde twee ontwikkelingen: de daling van het aantal ingeschreven zaken bij het OM en de stijging van het 
+aandeel technische sepots/daling van het aandeel dagvaardingen voor mensenhandel, benadrukken des te 
+meer het belang van deze aanbevelingen.
+
+Een volgende conclusie ziet op het blijvende aandachtspunt dat de bij het OM ingeschreven mensenhandel-
+zaken volgens de OM-registratie, niet alle mensenhandelzaken betreffen die bij het OM binnenkomen (zie 
+§2.2.1). Het OM neemt sommige zaken namelijk niet op in de officiële registratie (omdat geen verdachte in 
+beeld is of omdat meteen duidelijk is dat opsporingsindicaties ontbreken), en handelt deze zaken – buiten 
+de registratie om – af met een zogeheten ‘cosmetisch sepot’. Hierdoor bestaat geen volledig beeld van ener-
+zijds het totaal aantal mensenhandelzaken dat aan het OM wordt gezonden, en anderzijds van het totaal 
+aantal mensenhandelzaken dat het OM seponeert. De Nationaal Rapporteur heeft het OM daarom eerder al 
+aanbevolen hier verandering in te brengen.2
+
+Twee andere conclusies volgen uit de afdoeningen van mensenhandelzaken door de rechter in eerste aanleg. 
+Zo blijkt dat het veroordelingspercentage in 2015 fors is gedaald (zie §3.1.1), net als de gemiddelde duur van 
+de opgelegde onvoorwaardelijke vrijheidsstraffen in 2014 en 2015 (zie §3.2.1). Met name deze laatstgenoem-
+de ontwikkeling is opmerkelijk, zeker in het licht van de wettelijke strafbedreiging die door de wetgever juist 
+een aantal keer is verhoogd om de ernst van het misdrijf mensenhandel te benadrukken. Alleen op basis van 
+de cijfers zoals weergegeven in deze monitor, is echter niets te zeggen over de achtergrond van de onver-
+wachte daling. Dit vereist een analyse van de factoren die de straf beïnvloeden. De Nationaal Rapporteur doet 
+daarom de volgende aanbeveling: 
+
+ De minister van Veiligheid en Justitie wordt aanbevolen wetenschappelijk onderzoek te doen 
+naar de opgelegde straffen in mensenhandelzaken.
+
+De laatste conclusie uit deze monitor is dat ruim één op de vijf verdachten van mensenhandel adolescent (18 
+tot en met 22 jaar) of zelfs nog minderjarig is ten tijde van het plegen van mensenhandel. In deze monitor is 
+voor het eerst aandacht voor specifiek deze groep verdachten. De rapporteur is van mening dat de groep 
+boven verwachting groot is en dat het opmerkelijk is dat zoveel zeer jonge verdachten zich inlaten met een 
+ernstig delict als mensenhandel. Voor de aanpak van mensenhandel, ook in preventieve zin, acht zij het 
+
+1 Zie Nationaal Rapporteur 2016 (Monitor mensenhandel, Cijfers mogelijke slachtoffers 2011-2015), pp. 45-46, aan-
+bevelingen 2 en 3.
+
+2 Zie Nationaal Rapporteur 2014 (Mensenhandel in en uit beeld, Cijfermatige rapportage 2008-2012), pp. 256-257, 
+aanbeveling 5, zie ook pp. 195-197.
+
+https://www.nationaalrapporteur.nl/Publicaties/monitormensenhandel/index.aspx
+https://www.nationaalrapporteur.nl/Publicaties/MensenhandelinenuitbeeldII/index.aspx
+
+
+30monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+daarom van groot belang dat meer zicht komt op manieren waarop jong daderschap te stoppen, of zelfs te 
+voorkomen is.3 Hiermee onderstreept zij het belang van het opstellen van daderprofielen van zogenoemde 
+‘loverboys’, hetgeen de minister van Veiligheid en Justitie en de staatssecretaris van Volksgezondheid, Welzijn 
+en Sport in hun brief aan de Tweede Kamer in het kader van de ‘Aanpak loverboyproblematiek’ noemen.4 De 
+Nationaal Rapporteur zal deze conclusie met de minister van Veiligheid en Justitie en met de voorzitter van 
+de Taskforce mensenhandel bespreken.
+
+3 S.L.J. Kragten-Heerdink is momenteel bezig met een veelomvattend onderzoek naar (jonge) daders van mensen-
+handel. De resultaten uit dit onderzoek kunnen hiertoe handvatten bieden.
+
+4 Kamerstukken II 2015/16, 28 638, 500, p. 7. 
+
+
+
+31monitor mensenhandel Cijfers vervolging en berechting 2011-2015
+
+Literatuur
+
+Centraal Bureau voor de Statistiek (2016). CBS StatLine – Verdachten; delictgroep, geslacht, leeftijd en herkomstgroepe-
+ring. Geraadpleegd op 8 september 2016, van http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=
+81947ned&D1=18&D2=0-2&D3=a&D4=0&D5=12-16&HDR=G4%2cG3%2cG1%2cG2&STB=T&VW=T.
+
+Cleiren, C.P.M. (2015). Wetboek van Strafvordering, Boek II, Titel VI, Afd. 4. In C.P.M. Cleiren, J.H. Crijns & 
+M.J.M. Verpalen (Eds.),  Strafvordering. Tekst en commentaar (p. 1487-1514). Deventer: Wolters Kluwer.
+
+Europol (2016). Situation Report. Trafficking in human beings in the EU (Document Ref No: 765175). The Hague: Europol.
+
+Hut, I. (2016). Column: Meer aandacht voor slachtoffers mensenhandel nodig! Geraadpleegd op 26 september 2016, van 
+http://mensenhandel.nl/artikel/detail/column-ina-hut-meer-aandacht-voor-slachtoffers-mensenhan-
+del-nodig.
+
+Kleemans, E.R., & De Poot, C.J. (2008). Criminal careers in organized crime and social opportunity structure. 
+European Journal of Criminology 5(1), 69–98.
+
+Nationaal Rapporteur (2007). Vijfde rapportage van de Nationaal Rapporteur. Den Haag: Nationaal Rapporteur. 
+
+Nationaal Rapporteur (2009). Zevende rapportage van de Nationaal Rapporteur. Den Haag: Nationaal Rapporteur.
+
+Nationaal Rapporteur (2010). 10 jaar NRM. Den Haag: Nationaal Rapporteur.
+
+Nationaal Rapporteur (2012). Jurisprudentie mensenhandelzaken 2009-2012. Een analyse. Den Haag: Nationaal Rapporteur.
+
+Nationaal Rapporteur (2012). Kwantitatieve gegevens over (de vervolging en berechting van) verdachten en veroordeelden 
+in mensenhandelzaken in de periode 2006-2010. Den Haag: Nationaal Rapporteur.
+
+Nationaal Rapporteur (2012). Mensenhandel in en uit beeld. Cijfermatige rapportage 2007-2011. Den Haag: Nationaal 
+Rapporteur.
+
+Nationaal Rapporteur (2012). Opsporing van mensenhandel en de B9-regeling. Vreemdelingrechtelijke en strafrechtelijke 
+aspecten van geseponeerde mensenhandelzaken. Den Haag: Nationaal Rapporteur.
+
+Nationaal Rapporteur (2014). Mensenhandel in en uit beeld. Cijfermatige rapportage 2008-2012. Den Haag: Nationaal 
+Rapporteur.
+
+Nationaal Rapporteur (2014). Mensenhandel in en uit beeld. Update cijfers vervolging en berechting 2009-2013. Den 
+Haag: Nationaal Rapporteur.
+
+Nationaal Rapporteur (2015). Mensenhandel in en uit beeld. Update cijfers vervolging en berechting 2010-2014. Den Haag: 
+Nationaal Rapporteur. 
+
+Nationaal Rapporteur (2016). Monitor mensenhandel. Cijfers mogelijke slachtoffers 2011-2015. Den Haag: Nationaal 
+Rapporteur. 
+
+Openbaar Ministerie (2016). Jaarbericht 2015. Den Haag: Openbaar Ministerie. 
+
+Schuyt, P.M. (2014). Wetboek van Strafrecht, Boek I, Titel II. In C.P.M. Cleiren, J.H. Crijns, & M.J.M. Verpalen 
+(Eds.), Strafrecht. Tekst en commentaar (p. 111-230). Deventer: Wolters Kluwer.
+
+U.S. Department of State (2016). Trafficking in Persons Report. Washington, D.C.: U.S. Department of State.
+
+
+
+De Nationaal Rapporteur rapporteert over de aard en omvang 
+van mensenhandel en seksueel geweld tegen kinderen in 
+Nederland
+
+Wat doet de Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen?
+De Nationaal Rapporteur rapporteert over de aard en omvang van mensenhandel en seksueel geweld tegen kinderen in Neder-
+land en heeft een onafhankelijke positie. De rapporteur monitort de effecten van het beleid dat op deze terreinen wordt gevoerd, 
+signaleert knelpunten en doet aanbevelingen om de aanpak te verbeteren. De rapporteur heeft geen opsporingsbevoegdheden 
+en is geen klachteninstantie.
+
+Wie is de Nationaal Rapporteur?
+De Nationaal Rapporteur is Corinne Dettmeijer-Vermeulen. Zij wordt in haar werkzaamheden ondersteund door een team van 
+onderzoekers afkomstig uit diverse disciplines, waaronder de rechtsgeleerdheid, criminologie, antropologie, politicologie, filo-
+sofie en sociale psychologie.
+
+Welke activiteiten verricht de Nationaal Rapporteur?
+De Nationaal Rapporteur verzamelt kwantitatieve en kwalitatieve gegevens door het doen van eigen onderzoek, intensief contact 
+te onderhouden met het veld, het organiseren en bijwonen van conferenties en deel te nemen aan taskforces en expertgroepen. 
+De onderzoeksresultaten en de hieruit voortvloeiende aanbevelingen publiceert de rapporteur in openbare (deel)rapportages. 
+Deze bevatten ook beschrijvende informatie over het fenomeen, relevante wet- en regelgeving, preventie, opsporing en vervol-
+ging van daders en hulpverlening aan slachtoffers. De rapporteur monitort of en hoe de aanbevelingen in de praktijk vorm 
+krijgen. Omdat mensenhandel en seksueel geweld tegen kinderen dikwijls grensoverschrijdende aspecten kennen, is de rap-
+porteur ook op internationaal niveau actief. Zo adviseert de rapporteur binnen een netwerk van rapporteurs over het te voeren 
+Europese beleid inzake de bestrijding van mensenhandel.
+
+Postadres
+Postbus 20301
+2500 EH Den Haag
+Telefoon: 070 370 45 14
+www.nationaalrapporteur.nl
+
+
+	Inhoudsopgave
+	Overzicht figuren en tabellen
+	Woord vooraf
+	1 Inleiding
+	1.1 Inhoud van dit rapport
+	1.1.1 Achtergrond van de cijfers
+
+	1.2 Algemeen beeld
+	1.2.1 Kerncijfers vervolging
+	1.2.2 Kerncijfers berechting in eerste aanleg
+	1.2.3 Kerncijfers persoonskenmerken verdachten
+
+	1.3 Structuur van deze monitor
+
+	2 Vervolging
+	2.1 Ingeschreven zaken bij het OM
+	2.2 Afgehandelde zaken door het OM
+	2.2.1 Door het OM afgehandelde zaken naar afhandeling
+
+
+	3 Berechting in eerste aanleg
+	3.1 In eerste aanleg afgedane zaken
+	3.1.1 In eerste aanleg afgedane zaken naar afdoening
+
+	3.2 Opgelegde hoofdstraffen
+	3.2.1 Duur van opgelegde vrijheidsstraffen
+
+
+	4 Persoonskenmerken verdachten
+	4.1 Geslacht verdachten
+	4.2 Leeftijd verdachten
+	4.3 Geboorteland verdachten
+	4.4 Profielen van mannelijke en vrouwelijke verdachten
+
+	5 Conclusies en aanbevelingen
+	Literatuur
+
+
+

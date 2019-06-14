@@ -1,0 +1,4039 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opsporing van 
+mensenhandel en de 
+B9-regeling
+
+Vreemdelingrechtelijke en strafrechtelijke aspecten van 
+geseponeerde mensenhandelzaken
+
+
+
+2 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+
+
+3Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+Opsporing van 
+mensenhandel en de 
+B9-regeling
+
+Vreemdelingrechtelijke en strafrechtelijke aspecten van 
+geseponeerde mensenhandelzaken
+
+
+
+4 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Colofon
+
+Referentie: Nationaal Rapporteur Mensenhandel (2012). Opsporing van mensenhandel en de 
+B9-regeling. Vreemdelingrechtelijke en strafrechtelijke aspecten van geseponeerde mensenhandel-
+zaken. Den Haag: BNRM.
+
+Bureau Nationaal Rapporteur Mensenhandel
+Postbus 20301
+2500 EH Den Haag
+070-3704514
+www.bnrm.nl 
+
+© BNRM 2012
+
+
+
+5Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+Inhoud
+
+1. Inleiding  7
+2. Omvang  8
+3. Kenmerken van de slachtoffers 10
+ 3.1   Nationaliteit en land van herkomst 10
+ 3.2   Geslacht en leeftijd 11
+ 3.3   Vreemdelingrechtelijke voorgeschiedenis 11
+4. Het opsporingsonderzoek 12
+ 4.1   De totstandkoming van het eerste contact 12
+ 4.2   Het intakegesprek 14
+ 4.3   De aangifte 15
+ 4.4   De uitbuitingssituatie volgens de aangifte 16
+ 4.4.1 Delictsbestanddelen 17
+ 4.5   Opsporingsindicaties 18
+ 4.5.1  Opsporingshandelingen 19
+5. Verlening van de B9-verblijfsvergunning 22
+ 5.1   Verblijfspas 22
+ 5.2   Hulpverlening 23
+6. Het sepot  24
+ 6.1   Sepotgronden 25
+7. Beklag   26
+8. Intrekking van de B9-verblijfsvergunning 28
+9. Voortgezet verblijf 29
+ 9.1   Andere vreemdelingrechtelijke procedures na intrekking 
+   van de B9 29
+10. Tijdlijn   30
+11. Verificatie aannames, knelpunten en aanbevelingen 33
+ 11.1  Aannames 34
+ 11.2  Knelpunten en aanbevelingen  35
+
+
+
+6 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+
+
+7Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+1. Inleiding
+Mensenhandel is een ernstig misdrijf en vormt een grove schending van de rechten van de mens. Voor 
+vreemdelingen die stellen slachtoffer te zijn van mensenhandel is er de B9-regeling. Bij de geringste 
+aanwijzing dat sprake is van mensenhandel, moet de politie de vreemdeling wijzen op het recht op drie 
+maanden bedenktijd, waarin hij of zij tot rust kan komen en kan nadenken over het doen van aangifte.1 
+Als het slachtoffer besluit aangifte te doen of op andere manier medewerking te verlenen aan het straf-
+rechtelijk onderzoek krijgt hij of zij van de Immigratie en Naturalisatiedienst (IND) een tijdelijke ver-
+blijfsvergunning in overeenstemming met de beleidsregels zoals neergelegd in hoofdstuk B9 van de 
+Vreemdelingencirculaire 2000. 
+
+Lang niet alle aangiftes van mensenhandel2 leiden tot vervolging. Wanneer het Openbaar Ministerie 
+(OM) besluit een zaak te seponeren, bijvoorbeeld omdat er te weinig opsporingsindicaties zijn, dan 
+staat voor het slachtoffer de weg van beklag3 open. Buitenlandse slachtoffers hebben vanaf het moment 
+van aangifte tot de uitspraak in de beklagprocedure recht op tijdelijk verblijfsrecht op grond van de 
+B9-regeling. Het is deze groep buitenlandse slachtoffers die regelmatig terugkerend onderwerp van 
+aandacht is.4 Zo zou veelvuldig misbruik worden gemaakt van de B9-regeling door het doen van valse 
+aangifte.5 Daarnaast zouden buitenlandse slachtoffers steeds vaker beklag indienen tegen een sepot en 
+zou de beklagprocedure bij het gerechtshof erg lang duren. Ook zouden vooral Nigeriaanse slachtoffers 
+oververtegenwoordigd zijn als het gaat om misbruik van de B9-regeling.  
+
+Knelpunten die door diverse partners naar voren worden gebracht neemt de Nationaal Rapporteur 
+Mensenhandel (NRM) serieus.6 De B9-regeling wordt thans heroverwogen met ondermeer de bedoe-
+ling misbruik tegen te gaan en procedures te versnellen.7 Over de groep buitenlandse slachtoffers die 
+aangifte doet, en wiens zaak vervolgens wordt geseponeerd is zeer weinig bekend. Allereerst is de 
+omvang van de groep onduidelijk en bestaat er geen kennis over de achtergrond en kenmerken van 
+deze groep slachtoffers. Betreft het een homogene groep of zijn de slachtoffers en hun verhalen juist 
+heel divers? Ook bestaan er geen gegevens over wat het sepot voor gevolgen heeft voor hun vreemde-
+lingrechtelijke procedure. Hoe lang maken zij bijvoorbeeld gebruik van de B9-regeling en hadden zij al 
+andere vreemdelingrechtelijke procedures doorlopen voordat zij aangifte deden van mensenhandel? 
+Hoeveel slachtoffers gaan in beklag tegen het sepot? Vragen zij voortgezet verblijf aan nadat de 
+B9-regeling is beëindigd?  
+
+BNRM heeft onderzoek gedaan naar 49 geseponeerde mensenhandelzaken uit 2010 waarbij een 
+B9-verblijfsvergunning is verleend. Doel van het onderzoek is om inzicht te krijgen in de groep slachtof-
+fers8 van mensenhandel die een B9-vergunning krijgen en waarvan de zaak vervolgens wordt gesepo-
+neerd. Wat zijn kenmerken van deze slachtoffers? Wat is bekend over het mensenhandelverhaal? Welke 
+actie heeft de politie ondernomen nadat aangifte was gedaan? Hoe lang hebben alle stappen in het 
+proces van aangifte tot intrekking van de B9-verblijfsvergunning geduurd? Deze en vele andere vragen 
+komen aan de orde in onderhavige dossierstudie. 
+
+1  Over de bedenktijd stuurde demissionair minister voor Immigratie, Integratie en Asiel recentelijk een brief aan de Tweede Kamer; 
+brief van 11 mei 2012, kenmerk 2012-0000286136. De NRM reageerde op deze brief bij brief van 29 mei 2012, kenmerk 8060.
+
+2  Waar verder in deze rapportage wordt gesproken over aangiftes, worden steeds aangiftes van mensenhandel bedoeld.
+3  Op grond van art. 12 Sv. Zie ook NRM7, pp. 193-202.
+4  Zie ook NRM7, pp. 187-193.
+5  Zie bijvoorbeeld: ‘Twijfels bij aangiften mensenhandel’, 21 april 2012, Dagblad van het Noorden, en ‘Misbruik regeling slachtoffers 
+
+mensenhandel aan banden’, 15 november 2011, www.rijksoverheid.nl. Onderhavig onderzoek is niet gericht op het fenomeen 
+‘misbruik van de B9-regeling’. 
+
+6  NRM7, pp. 187-193. Zie ook de schriftelijke reactie van de NRM op de notitie ‘Mogelijke maatregelen stroomlijnen en tegengaan 
+misbruik B9’ van 14 september 2011.
+
+7  Kamerstukken II 2011/12, 28 638, nr. 57, p. 4.
+8  In dit onderzoek worden alle personen die aangifte van mensenhandel hebben gedaan aangeduid als slachtoffer. 
+
+
+
+8 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Het betreft een verkennend onderzoek. Het aantal van 49 onderzochte dossiers uit 2010 is niet repre-
+sentatief, maar geeft wel – voor het eerst – inzicht in aard en omvang van verschillende processuele en 
+inhoudelijke aspecten van het vreemdelingrechtelijke en strafrechtelijke proces dat buitenlandse 
+slachtoffers doorlopen. De dossierstudie is tweeledig: van 49 slachtoffers is zowel het OM-dossier als 
+het dossier bij de IND onderzocht om op die manier een zo compleet mogelijk beeld te krijgen van de 
+strafrechtelijke en vreemdelingrechtelijke stappen. 
+
+Uit de resultaten van het onderzoek blijkt dat veel aannames over buitenlandse slachtoffers en de 
+B9-regeling niet overeenkomen met feiten en cijfers. Zo blijkt de beklagprocedure niet gemiddeld 
+twaalf, maar ruim vijf maanden te duren, zijn Nigeriaanse zelfmelders9 niet oververtegenwoordigd in 
+de mate waarin verondersteld, en is het niet zo dat de meeste slachtoffers al zijn uitgeprocedeerd als zij 
+aangifte doen van mensenhandel.  
+
+In onderstaande paragrafen zullen alle strafrechtelijke en vreemdelingrechtelijke processtappen vanaf 
+de uitbuitingssituatie tot aan de beslissing over voortgezet verblijf in chronologische volgorde bespro-
+ken worden. Kwantitatieve informatie is waar relevant steeds aangevuld met kwalitatieve gegevens over 
+de slachtoffers of de betreffende situatie. In paragraaf 10 zijn alle processtappen in twee tijdlijnen 
+inzichtelijk gemaakt. Dit hoofdstuk wordt afgesloten met de bespreking van knelpunten en  
+aanbevelingen.
+
+2.  Omvang 
+Aangiftes mensenhandel moeten altijd worden opgenomen10 en ingezonden naar de officier van justi-
+tie ter afhandeling, ongeacht of er een verdachte in beeld is dan wel sprake is van opsporingsindicaties. 
+Alleen zaken waarbij een verdachte bekend is, dan wel waarin voldoende opsporingsindicaties zijn wor-
+den ingeschreven in het OM-systeem Compas, en worden dus in de landelijke registratie meegenomen. 
+Uit deze officiële registratie kwam naar voren dat in 2010 in totaal 38 mensenhandelzaken geseponeerd 
+waren. Veel van de mensenhandelzaken die geseponeerd waren bleken niet geregistreerd te zijn in 
+Compas. In veel gevallen is naar aanleiding van de aangifte mensenhandel immers niet bekend wie de 
+verdachte is, dan wel zijn er onvoldoende opsporingsindicaties. Bij deze sepots die niet geregistreerd 
+worden in Compas wordt ook wel gesproken van ‘cosmetische sepots’.11 Bij de vier onderzochte parket-
+ten werden deze niet in Compas geregistreerde sepots door de parketsecretaris in ordners bewaard. 
+Desgevraagd konden deze zaken worden geteld om een beeld te krijgen van het aantal cosmetische 
+sepots uit 2010. Nu de zogenoemde cosmetische sepots handmatig en ontoegankelijk worden geregi-
+streerd is van de omvang geen goed beeld te krijgen. Als gevolg daarvan bestaat evenmin een duidelijk 
+beeld van het totaal aantal sepots.  
+
+Het onderzoek richtte zich op mensenhandelzaken die in 2010 geseponeerd zijn. Ten behoeve van het 
+onderzoek zijn sepotdossiers van vier parketten onderzocht. Gekozen is voor twee parketten uit de 
+Randstad (Den Haag en Rotterdam) en twee daarbuiten (Arnhem en Den Bosch). Onder één parket kun-
+nen meerdere politieregio’s vallen. In totaal werden 49 sepotdossiers onderzocht. Bij de parketten waar 
+meer dan veertien sepotdossiers in de ordners zaten, zijn at random veertien dossiers gehaald voor 
+onderzoek. 
+
+9  Onder zelfmelders wordt verstaan: slachtoffers die uit eigen beweging contact op hebben genomen met de politie.
+10  Zie het rapport 2006/0279 d.d. 10 augustus 2006 van de Nationale ombudsman, naar aanleiding van een klacht van een vrouw die 
+
+niet in de gelegenheid was gesteld om aangifte te doen van mensenhandel.
+11  Omdat de B9-verblijfsvergunning alleen kan worden ingetrokken door de IND nadat de zaak door het OM is geseponeerd, moeten 
+
+deze sepots door de officier van justitie ondertekend worden. Feitelijk komen de sepots echter meer overeen met zogenoemde 
+‘politiesepots’. Deze politiesepots onder de vlag van het OM worden derhalve aangeduid met de term ‘cosmetische sepots’. 
+
+
+
+9Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+Perceptie over de omvang van het aantal sepotdossiers 
+Overigens bestond bij twee parketten de perceptie dat het om veel meer dossiers ging dan het er uiteindelijk 
+– na telling – bleken te zijn. Zo dacht het parket Rotterdam dat het in totaal om circa 30 sepotdossiers zou 
+gaan, maar na telling bleken dit er slechts 15 te zijn.12 Bij het parket Den Haag betroffen het volgens de eigen 
+registratie van het parket in totaal circa 63 zaken. Toen de dossiers werden bestudeerd bleek het in vier van 
+de zestien geselecteerde dossiers (25%) echter om sepots uit 2011 te gaan.13 Aan het aantal van 63 sepots in 
+Den Haag moet derhalve getwijfeld worden. 
+
+De verdeling van het aantal onderzochte zaken in verhouding tot het totale aantal niet geregistreerde 
+sepots en in Compas ingeschreven sepots bij deze parketten is weergegeven in onderstaande tabel: 
+
+Tabel 1  Verdeling sepotdossiers per parket
+
+Parket Aantal onderzochte 
+dossiers
+
+Totaal aantal cosmetische 
+sepots 2010
+
+Totaal aantal in Compas 
+ingeschreven sepots 2010
+
+Arnhem 7 7 0
+
+Den Bosch 14 24 1
+
+Den Haag 14 63 9
+
+Rotterdam 14 15 5
+
+Totaal 49 109 15
+
+Van de parketten Arnhem, Den Bosch en Rotterdam zijn alleen cosmetische sepots onderzocht. Van het 
+parket Den Haag zijn twaalf cosmetische sepots, en twee in Compas ingeschreven sepots onderzocht.  
+
+Geconstateerd is dat er alleen een officiële registratie bestaat van in Compas geregistreerde sepots. In 
+de meeste gevallen blijkt het echter om cosmetische sepots te gaan, en deze worden niet officieel gere-
+gistreerd. Hoewel de vier onderzochte parketten ieder een eigen administratie bijhouden van deze cos-
+metische sepots, blijkt deze niet in alle gevallen te kloppen. Het totaal aantal sepots op landelijk niveau 
+in 2010 is derhalve onbekend. In de Korpsmonitor 2010 staat dat de politiekorpsen in 2010 in totaal 342 
+‘B9-aangiften’ hebben geregistreerd.14 Daarvan zijn volgens de Korpsmonitor in datzelfde jaar ongeveer 
+186 zaken geseponeerd. Hoewel dit geen inzicht geeft in het totaal aantal geseponeerde aangiftes waar-
+bij een B9 was verleend,15 geeft het wel een indicatie van het aantal sepots in 2010. Evenals het OM 
+bestaat ook bij de politie geen landelijke registratie van het aantal sepots in mensenhandelzaken. Het 
+aantal van 186 in de Korpsmonitor is gebaseerd op een telling van alle regiokorpsen afzonderlijk.16 
+
+12  Eén dossier kon niet worden teruggevonden waardoor de resterende veertien dossiers zijn onderzocht.
+13  Van twee zaken was dit direct zichtbaar, waardoor deze zaken buiten dit onderzoek zijn gehouden. In twee andere dossiers die 
+
+volgens de registratie in 2010 waren geseponeerd onbrak de sepotbrief. Omdat pas na de data-analyse duidelijk werd dat deze twee 
+zaken begin 2011 waren geseponeerd is ervoor gekozen deze twee zaken toch mee te nemen in onderhavig onderzoek. Wanneer in 
+dit onderzoek wordt gesproken over in 2010 geseponeerde zaken, wordt derhalve gedoeld op de 47 in 2010 geseponeerde zaken, 
+plus de twee in 2011 geseponeerde zaken van het parket Den Haag.
+
+14  Korpsmonitor 2010, p. 95.
+15  Immers zegt het cijfers niets over sepots in 2010 waarbij in een eerder jaar al aangifte is gedaan.
+16  Mondelinge informatie EMM, dd. 23 mei 2012.
+
+
+
+10 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+3.  Kenmerken van de slachtoffers
+3.1  Nationaliteit en land van herkomst
+Van de 49 slachtoffers die aangifte deden, hadden vijftien de Nigeriaanse nationaliteit. Tien slachtoffers 
+hadden de Sierra Leonese nationalitieit, gevolgd door zes Guinese en vier Chinese slachtoffers. In totaal 
+kwamen onder de 49 slachtoffers vijftien verschillende nationaliteiten voor. De landen van herkomst 
+komen grotendeels overeen met de nationaliteit van de slachtoffers. Opvallend is dat 83,7% van de 
+slachtoffers afkomstig is uit Afrikaanse landen.17 
+
+Tabel 2 Verdeling land van herkomst van de slachtoffers 
+
+Land N %
+
+Angola 1 2,0%
+
+Burundi 1 2,0%
+
+China 4 8,2%
+
+Congo 1 2,0%
+
+Gambia 1 2,0%
+
+Ghana 1 2,0%
+
+Guinee 5 10,2%
+
+Iran 1 2,0%
+
+Kenia 1 2,0%
+
+Liberia 1 2,0%
+
+Mongolië 2 4,1%
+
+Nigeria 15 30,6%
+
+Rwanda 2 4,1%
+
+Sierra Leone 10 20,4%
+
+Taiwan 1 2,0%
+
+Uganda 2 4,1%
+
+Totaal 49 100%
+
+Voorts kon uit de IND-dossiers worden opgemaakt dat achttien slachtoffers één of meer kinderen heb-
+ben. Sommige slachtoffers hadden een of meer kinderen die in hun thuisland waren achtergebleven; 
+acht slachtoffers kregen een kind in Nederland tijdens de B9-procedure. Vaak werd voor deze kinderen 
+een aanvraag tot gezinshereniging ingediend.  
+
+3.2  Geslacht en leeftijd 
+De slachtoffers in de onderzochte dossiers betroffen hoofdzakelijk vrouwen; slechts drie van de 49 
+slachtoffers waren man. 
+
+De datum van de aanvang van uitbuiting uit de onderzochte processen-verbaal is vergeleken met de 
+geboortedatum van de slachtoffers, om te achterhalen op welke leeftijd de uitbuiting waarvan aangifte 
+was gedaan was aangevangen. In negen gevallen was er nog geen sprake geweest van uitbuiting, in 
+zeven gevallen was de datum waarop de uitbuiting was begonnen niet uit het proces verbaal te halen. 
+Uit de resterende 33 dossiers komt een gemiddelde leeftijd van 23,1 jaar naar voren als leeftijd waarop 
+
+17  Dit is opvallend omdat in de top 10 van meest voorkomende nationaliteiten van slachtoffers mensenhandel maar twee Afrikaanse 
+nationaliteiten voorkomen, te weten de Nigeriaanse (2) en Sierra Leoonse nationaliteit (7). Zie NRM8, p. 100. Overigens is het logisch 
+dat in onderhavig onderzoek geen Nederlandse slachtoffers voorkomen, aangezien zij niet in aanmerking komen voor de 
+B9-verblijfsvergunning.
+
+
+
+11Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+de uitbuiting volgens het slachtoffer begon.18 Zes slachtoffers waren op dat moment minderjarig.
+
+Tabel 3 Leeftijd ten tijde van aanvang uitbuiting
+
+Leeftijd N %
+
+10 - 14 1 3,0%
+
+15 - 17 5 15,2%
+
+18 - 23 12 36,4%
+
+24 - 30 10 30,3%
+
+31 - 40 4 12,1%
+
+> 41 1 3,0%
+
+Totaal 33 100%
+
+3.3  Vreemdelingrechtelijke voorgeschiedenis 
+In de onderzochte dossiers bij de IND is gekeken of de slachtoffers voor hun B9-verblijfsvergunning ook 
+andere vreemdelingrechtelijke procedures hadden doorlopen. Voor 51% (N=25) van de slachtoffers was 
+de B9-procedure de eerste vreemdelingrechtelijke procedure in Nederland. Bij de 24 slachtoffers die 
+voor de B9-procedure al wel één of meer vreemdelingrechtelijke procedures hadden doorlopen, betrof 
+het in 22 gevallen een asielprocedure. Zeven slachtoffers (10,2%) hadden voorafgaand aan de aanvraag 
+B9 twee of meer vreemdelingrechtelijke procedures doorlopen. Van de slachtoffers die voorafgaand 
+aan de B9 al andere vreemdelingrechtelijke procedures hadden doorlopen, varieerde de duur van deze 
+procedures van drie dagen tot ruim vijf jaar. Gemiddeld bedroeg de duur van de vreemdelingrechtelijke 
+procedures voorafgaand aan de B9 per slachtoffer 676 dagen.19 Ruim 40% zat minder dan een jaar in 
+procedure.
+
+Uit het dossieronderzoek bij de IND komt naar voren dat tien van de 49 slachtoffers op enig moment 
+voorafgaand aan de B9-procedure in vreemdelingenbewaring hebben gezeten.  
+
+4.  Het opsporingsonderzoek
+In deze paragraaf worden alle stappen door de politie en het slachtoffer van het intakegesprek tot aan 
+het uiteindelijke sepot beschreven.  
+
+4.1  De totstandkoming van het eerste contact
+In de OM-dossiers20 is bekeken hoe het eerste contact tussen het slachtoffer en de politie tot stand was 
+gekomen. In ruim een derde van de gevallen is het slachtoffer op eigen initiatief naar de politie gegaan 
+om aangifte van mensenhandel te doen. Hoewel vaak wordt aangegeven dat het vooral Nigerianen zijn 
+die tot deze groep zelfmelders behoren, waren slechts vier van de vijftien Nigeriaanse slachtoffers 
+(26,7%) uit eigen beweging bij de politie terecht gekomen. Dat is procentueel minder dan het gemid-
+delde van alle nationaliteiten bij elkaar.  
+
+18  Sd: 6,8.
+19  N=22, Sd: 617,9. Voor de berekening is per procedure de einddatum van de procedure (inclusief eventueel bezwaar en beroep) 
+
+afgetrokken van de begindatum (datum van indienen van de aanvraag). Bij slachtoffers die meerdere vreemdelingrechtelijke 
+procedures hadden doorlopen voorafgaand aan de B9, zijn de tijdsduren van de verschillende procedures bij elkaar opgeteld.
+
+20  De OM-dossiers bestonden meestal uit een verslag van het intakegesprek, een of meer processen verbaal van de gehoren van het 
+slachtoffer, en een proces verbaal van bevindingen. In de meeste dossiers zat ook de sepotbrief en soms was het arrest van het hof in 
+de beklagzaak toegevoegd. In sommige dossiers zaten daarnaast uittreksels van bijv. vluchtgegevens en een kopie van gehoren bij de 
+IND.
+
+
+
+12 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Bij ruim een kwart van de slachtoffers kwam het eerste contact met de politie tot stand via een hulpver-
+lener of via een non gouvernementele organisatie. Vijf slachtoffers gaven tijdens het asielgehoor bij de 
+IND aan slachtoffer van mensenhandel te zijn. In onderstaande tabel staat een volledig overzicht van de 
+wijze waarop het eerste contact met de politie tot stand kwam.  
+
+Bij geen van de slachtoffers kwam het eerste contact met de politie tot stand naar aanleiding van een 
+mensenhandelcontrole van de politie.  
+
+Tabel 4  Totstandkoming van het eerste contact met politie
+
+Wijze van totstandkoming eerste contact N %
+
+Uit eigen beweging 17 34,7%
+
+Via een hulpverlener/ngo doorverwezen naar politie 14 28,5%
+
+Bij de behandeling van de asielaanvraag zijn indicaties van mensenhandel gebleken 5 10,2%
+
+Door (vreemdelingen)politie aangehouden/staande gehouden 4 8,1%
+
+Via een voorbijganger doorverwezen naar politie 2 4,1%
+
+Via een advocaat doorverwezen naar politie 2 4,1%
+
+Door politie op straat aangetroffen 2 4,1%
+
+Slachtoffer zat in vreemdelingenbewaring 1 2,0%
+
+Via een klant 1 2,0%
+
+Slachtoffer heeft vanuit het AZC aangifte gedaan 1 2,0%
+
+ Totaal 49 100%
+
+Zoals is te zien in bovenstaande tabel kwamen enkele slachtoffers in aanraking met de politie doordat 
+zij waren staande gehouden of aangehouden. Zo werd een slachtoffer door de KMar op Schiphol aange-
+houden omdat ze valse documenten bij zich had. Dit slachtoffer werd in eerste instantie in verzekering 
+gesteld. Na een intakegesprek werd zij geïnformeerd over de mogelijkheid van bedenktijd. Vervolgens 
+duurde het ruim drie weken voordat zij in vrijheid werd gesteld. De zaak werd overgedragen aan de 
+politie Haaglanden omdat de verdachte in die regio zou wonen.  
+
+BNRM krijgt signalen uit het werkveld dat het soms erg lang duurt voordat een slachtoffer naar de poli-
+tie gaat. In de OM-dossiers is gekeken naar de tijdsduur tussen het einde van de uitbuitingssituatie en 
+het eerste contact met de politie.21 Ruim de helft van de slachtoffers (56,3%)22 ging binnen een maand 
+nadat de uitbuitingssituatie was geëindigd naar de politie. Zes slachtoffers stapten pas na meer dan een 
+jaar naar de politie. De hoogste uitschieter betrof een slachtoffer dat pas na 3,6 jaar aangifte deed. Dit 
+slachtoffer had een eerdere aangifte uit 2006 niet doorgezet omdat ze dit psychisch niet aankon en 
+bang was dat de aangifte een probleem zou opleveren voor de uitslag van haar asielprocedure. Nadat dit 
+slachtoffer was uitgeprocedeerd deed zij in 2009 alsnog aangifte waardoor ze een B9-verblijfsvergunning 
+kreeg. 
+
+21  N=32. Van 17 slachtoffers was de datum waarop de uitbuiting eindigde onbekend.
+22  N=18.
+
+
+
+13Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+Voorgestelde maatregel tot inperking bedenktijd voor bepaalde slachtoffers
+Bij brief van 11 mei 2012 stelt de minister voor Immigratie, Integratie en Asiel voor om aan slachtoffers die zich 
+langer dan drie maanden niet meer in de uitbuitingssituatie bevinden geen bedenktijd meer aan te bieden.23 In 
+de onderzochte dossiers van onderhavig onderzoek was in 31,3% van de gevallen meer dan drie maanden 
+verstreken tussen het einde van de uitbuitingssituatie en het eerste contact met de politie. Wanneer de door de 
+minister aangekondigde maatregel zou zijn toegepast op deze dossiers, zou derhalve bijna een derde van de 
+slachtoffers niet in aanmerking zijn gekomen voor bedenktijd. De NRM is geen voorstander van het voorstel 
+om deze groep slachtoffers uit te sluiten van het recht op bedenktijd. Allereerst omdat niet blijkt wat de 
+noodzaak is om een beperking van de bedenktijd aan te brengen. Daarnaast is de bedenktijd niet alleen 
+bedoeld om tot rust te komen en van de invloed van de mensenhandelaar los te komen. De bedenktijd is ook 
+bedoeld om weloverwogen een beslissing te kunnen nemen over wel of niet meewerken aan de opsporing en 
+vervolging van de mensenhandelaar. Een slachtoffer dat al enige tijd uit de uitbuitingssituatie is onttrokken, en 
+dat vervolgens naar de politie stapt, heeft nog niet eerder informatie van de politie gekregen op basis waarvan 
+hij of zij een geïnformeerde beslissing kan nemen over wel of niet meewerken aan de opsporing en vervolging. 
+Ook voor slachtoffers die al enige tijd weg zijn van de uitbuitingssituatie is een informatief gesprek met 
+aansluitende bedenktijd van belang om deze beslissing weloverwogen te kunnen nemen. Bovendien staat de 
+voorgestelde aanpassing op gespannen voet met artikel 13 van het Verdrag van Warschau. Bij brief van 29 mei 
+2012 heeft de NRM haar standpunt in deze aan de Tweede Kamer toegelicht.24 
+
+Uit enkele OM-dossiers ontstond een beeld dat er al eerder signalen van mensenhandel naar voren 
+waren gekomen, maar dat geen intakegesprek was gevolgd.  
+
+In onderstaande kadertekst een voorbeeld: 
+
+Geen actie op eerdere signalen mensenhandel
+Nadat het slachtoffer had weten te ontsnappen van haar mensenhandelaar is zij naar de politie gegaan. Daar 
+heeft zij niet verteld dat ze slachtoffer van mensenhandel was. De politie heeft haar een treinkaartje naar Ter 
+Apel gegeven. Negen maanden later doet het slachtoffer vanuit het AZC alsnog aangifte van mensenhandel.
+
+Het slachtoffer meldt zich naar eigen zeggen na haar ontsnapping van haar mensenhandelaar bij de politie in 
+Den Haag. De politie brengt haar naar het station en geeft haar een treinkaartje naar Ter Apel. Wanneer het 
+slachtoffer vervolgens tijdens haar asielgehoor aangeeft slachtoffer van mensenhandel te zijn ontdekt de 
+politie Drachten, die de aangifte opneemt, dat zij zich eerder al bij de politie Den Haag heeft gemeld. In de 
+veronderstelling dat de politie Den Haag de zaak verder zal afhandelen, onderneemt de politie Drachten geen 
+actie. Pas na een telefoontje van de IND komt de politie Drachten erachter dat de zaak niet tot opsporingsactie 
+heeft geleid in Den Haag. Uiteindelijk wordt de zaak door het parket Arnhem geseponeerd.
+
+Slachtoffer is na haar vlucht naar de politie gegaan waar ze haar verhaal heeft gedaan met behulp van de 
+tolkentelefoon. Het slachtoffer heeft de nacht doorgebracht op het politiebureau en is de volgende dag op de 
+trein naar Ter Apel gezet. Pas na een gesprek met de IND vanuit het AZC volgt twee maanden later een 
+intakegesprek met het slachtoffer. 
+
+Het slachtoffer heeft zich na haar ontsnapping gemeld bij de politie Rotterdam. Daar heeft zij haar verhaal 
+gedaan. De politie heeft haar een treinticket naar Ter Apel gegeven. Pas in Ter Apel is het intakegesprek 
+gehouden en is later de aangifte opgenomen.
+
+23  Brief van demissionair minister voor Immigratie, Integratie en Asiel, 11 mei 2012, kenmerk 2012-0000286136.
+24  Brief van de NRM aan de voorzitter van de Tweede Kamer, 29 mei 2012, kenmerk 8060.
+
+
+
+14 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Het slachtoffer zat in vreemdelingenbewaring en had op een eerder moment al aangegeven aan de KMar dat 
+hij slachtoffer van mensenhandel was. Na het intakegesprek vanuit vreemdelingenbewaring is het slachtoffer 
+direct in vrijheid gesteld. 
+
+4.2  Het intakegesprek
+Bij de geringste aanwijzing dat sprake is van mensenhandel heeft het slachtoffer recht op maximaal drie 
+maanden bedenktijd om na te denken over het doen van aangifte. Bedenktijd wordt verleend nadat een 
+intakegesprek is gehouden met het slachtoffer. Een slachtoffer kan er ook voor kiezen om direct aan-
+gifte van mensenhandel te doen of op andere wijze mee te werken aan de opsporing. Na aangifte krijgt 
+het slachtoffer direct een B9-verblijfsvergunning van de IND25 en wordt de fase van bedenktijd overge-
+slagen. Van de 49 onderzochte dossiers maakten 41 slachtoffers gebruik van de bedenktijd.26 Tussen de 
+vier onderzochte parketten zijn verschillen zichtbaar in het aantal dossiers waarin bedenktijd is ver-
+leend. Bij het parket Arnhem maakte 100% van de slachtoffers gebruik van de bedenktijd, gevolgd door 
+Den Bosch met 92,9%. 85,7% van de slachtoffers in het arrondissement Den Haag maakte gebruik van 
+de bedenktijd; in Rotterdam was dit 64,3%. Gemiddeld zaten de slachtoffers 56,1 dagen in de bedenk-
+tijd.27 In onderstaande tabel is een tijdsverdeling weergegeven.  
+
+Tabel 5  Duur bedenktijd 
+
+Duur N %
+
+< 1 maand 12 29,3%
+
+1 – 2 maanden 8 19,5%
+
+2 – 3 maanden 21 51,2%
+
+Totaal 41 100
+
+4.3  De aangifte
+Alle slachtoffers uit het onderzoek hebben aangifte van mensenhandel gedaan. Driekwart van de 
+slachtoffers deed aangifte tijdens de bedenktijd. Bij tien slachtoffers was de bedenktijd van drie maan-
+den al verstreken toen zij aangifte deden. Onder deze tien slachtoffers zat een hoge uitschieter waarbij 
+het slachtoffer pas ruim twee jaar na het intakegesprek aangifte deed. Gemiddeld werd 82,9 dagen na 
+het intakegesprek aangifte gedaan.28 Als het slachtoffer dat pas na ruim twee jaar aangifte deed niet 
+wordt meegeteld, bedraagt het gemiddelde 63,6 dagen.29 
+
+Van drie slachtoffers kwam uit het dossier naar voren dat zij eerder ook al aangifte van mensenhandel 
+hadden gedaan bij een ander politiekorps. Eén slachtoffer had eerder in België aangifte gedaan van 
+dezelfde feiten, alwaar de zaak was geseponeerd. In de twee andere gevallen hadden de slachtoffers in 
+2006 aangifte van mensenhandel gedaan, maar zij hadden desondanks om onbekende redenen geen 
+B9-verblijfsvergunning gekregen. Ook bleef onbekend wat met hun aangifte was gedaan. 
+In de helft van de gevallen werd de aangifte blijkens de informatie in het OM-dossier tijdens één gehoor 
+opgenomen. Bij 38,8% werden twee gehoren afgenomen, de overige vijf slachtoffers werden drie keer 
+gehoord. Wanneer wordt gekeken naar de verschillen tussen de vier arrondissementen, dan valt op dat 
+in Den Bosch en Rotterdam de slachtoffers meestal meerdere keren werden gehoord, terwijl in Arnhem 
+
+25  De aangifte geldt als een ambtshalve aanvraag voor de B9-verblijfsvergunning.
+26  Van de overige acht dossiers is in vijf gevallen bekend dat er geen gebruik werd gemaakt van de bedenktijd, en in drie gevallen was 
+
+niet uit het dossier op te maken of het slachtoffer gebruik had gemaakt van de bedenktijd.
+27  N=41, Sd: 33,6. De duur van de bedenktijd is berekend door de datum van aangifte (einde bedenktijd) af te trekken van de datum 
+
+van intake (begin bedenktijd). Aangezien de bedenktijd maximaal drie maanden (92 dagen) kan duren, is bij dossiers waarbij er meer 
+dan 92 dagen tussen de datum van aangifte en datum van intake zat, de duur van de bedenktijd gezet op 92 dagen. 
+
+28  N=40, Sd: 131,2.
+29  N=39, Sd: 50,1
+
+
+
+15Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+en Den Haag vaak werd volstaan met het eenmalig horen van het slachtoffer. 
+
+Tabel 6  Verdeling van het aantal gehoren uitgesplitst naar parket
+
+Parket 1 gehoor (%) 2 gehoren (%) 3 gehoren (%)
+
+Den Haag 64,3% 35,7% 0,0%
+
+Den Bosch 35,7% 50,0% 14,3%
+
+Arnhem 85,7% 14,3% 0,0%
+
+Rotterdam 35,7% 42,9% 21,4%
+
+Totaal 51,0% 38,8% 10,2%
+
+Bij 71,4% van de slachtoffers was een tolk aanwezig bij het gehoor.30 In Arnhem (100%) en Rotterdam 
+(92,9%) was (bijna) altijd een tolk aanwezig tijdens de gehoren, in Den Haag was in de helft van de 
+gevallen geen tolk aanwezig. 
+
+4.4  De uitbuitingssituatie volgens de aangifte
+Uit de aangiftes is kwalitatieve informatie gehaald over de uitbuitingssituatie zoals deze door de slacht-
+offers is beschreven. Deze informatie is derhalve uitsluitend gebaseerd op de verklaringen van de 
+slachtoffers zoals weergegeven in de aangiftes. 
+
+Plaats van uitbuiting  
+Van 43 slachtoffers was uit het proces verbaal op te maken in welk gebied de mensenhandel had plaats-
+gevonden. In 37 gevallen betrof dit een of meer plaatsen in Nederland; in veertien van deze dossiers kon 
+echter geen concrete plaatsnaam worden genoemd. Twee slachtoffers gaven aan in het buitenland te 
+zijn uitgebuit, en vier slachtoffers waren in zowel Nederland als in het buitenland uitgebuit.  
+
+Aard en duur van de uitbuiting  
+Bij negen van de 49 slachtoffers was blijkens de aangifte nog geen sprake geweest van daadwerkelijke 
+uitbuiting.31 Van de overige 40 slachtoffers was bij de meerderheid (N=35) sprake van uitsluitend seksu-
+ele uitbuiting. Bij één slachtoffer was sprake van alleen uitbuiting buiten de seksindustrie (‘overige 
+uitbuiting’), en bij vier slachtoffers betrof het een combinatie van seksuele en overige uitbuiting. Een 
+aantal slachtoffers was in meerdere sectoren uitgebuit. De percentages tellen dan ook niet op tot 100%. 
+In onderstaande tabel is de verdeling van uitbuitingssectoren weergegeven. De sector thuisprostitutie 
+springt er duidelijk uit met bijna 60%. Dit is niet verwonderlijk aangezien slachtoffers die illegaal in 
+Nederland verblijven moeilijk aan het werk kunnen in de vergunde seksindustrie.  
+
+Tabel 7  Sectoren van uitbuiting
+
+Sector van uitbuiting N % 
+
+Thuisprostitutie 29 59,2%
+
+Straatprostitutie 6 12,2%
+
+Seksclub/bordeel 5 10,2%
+
+Escort 4 8,2%
+
+Raamprostitutie 3 6,1%
+
+Massagesalon (overige uitbuiting) 2 4,1%
+
+30  Bij acht slachtoffers was geen tolk aanwezig, van zes slachtoffers is onbekend of er een tolk aanwezig was bij het gehoor.
+31  Zeven slachtoffers verklaarden dat verdachte had geprobeerd hen seksueel uit te buiten. Van twee slachtoffers was niet bekend in 
+
+welke sector verdachte hen wilde gaan uitbuiten.
+
+
+
+16 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Massagesalon (seksuele uitbuiting) 1  2,0%
+
+Gedwongen diefstallen 1 2,0%
+
+Drugskoerier 1 2,0%
+
+Restaurant 1 2,0%
+
+Huishoudelijk werk 1 2,0%
+
+Totaal 54
+
+Gemiddeld werden de slachtoffers gedurende 19,5 maanden uitgebuit.32 Elf slachtoffers waren meer 
+dan twee jaar lang uitgebuit, bij een van hen duurde de uitbuiting zelfs tien jaar. Hiertegenover staat dat 
+22,5% van de slachtoffers korter dan een maand was uitgebuit. 
+
+4.4.1  Delictsbestanddelen
+Om inzicht te krijgen in de inhoud van de aangiftes, is gekeken in hoeverre de drie delictsbestanddelen 
+van het delict mensenhandel (artikel 273f lid 1 sub 1 Sr) terug kwamen in de aangiftes. In onderhavige 
+paragraaf zal elk delictsbestanddeel afzonderlijk worden besproken.33 
+ 
+Gedragingen34
+
+Uit de aangiftes komt naar voren dan 93,9% van de slachtoffers door de mensenhandelaar is gehuisvest. 
+Bij 89,7% is sprake geweest van het vervoeren van het slachtoffer. Ook de handeling werven kwam in 
+73,5% van de aangiftes naar voren.  
+
+Dwangmiddelen
+Bij bijna de helft van de slachtoffers bleek uit de aangifte dat twee dwangmiddelen waren toegepast. 
+Het meest toegepaste middel betrof ‘dwang’, namelijk in 77,6% van de gevallen. Andere dwangmidde-
+len die uit de aangiftes naar voren kwamen betroffen misleiding (59,2%), dreiging met geweld (28,6%) 
+en geweld (26,5%). Misbruik van een kwetsbare positie en misbruik van uit feitelijke verhoudingen 
+voortvloeiend overwicht kwamen maar in vier, respectievelijk één geval voor volgens de eigen verkla-
+ring van de slachtoffers.35  
+
+(Oogmerk van) uitbuiting
+De indicatorenlijst mensenhandel van de Aanwijzing mensenhandel36 is gebruikt bij het identificeren 
+van indicatoren van uitbuiting uit de aangiftes. Bij veel slachtoffers kwamen meerdere indicatoren 
+expliciet naar voren uit de aangifte, gemiddeld betroffen het 6,9 indicatoren van uitbuiting per slacht-
+offer.37 Bij negen slachtoffers was nog geen sprake geweest van uitbuiting, van hen zijn derhalve geen 
+indicatoren van uitbuiting genoteerd. De top tien van meest voorkomende indicatoren van uitbuiting 
+is in onderstaande tabel opgenomen:  
+
+32  N=40, Sd: 30,7.
+33  Hierbij moet worden aangetekend dat uitsluitend is gekeken naar door het slachtoffer naar voren gebrachte informatie in de 
+
+aangiftes en indien van toepassing de intakegesprekken. 
+34  Omdat de gedragingen ‘opnemen’ en ‘huisvesten’ erg op elkaar lijken, zijn deze gedragingen samen in één categorie opgenomen. Dit 
+
+geldt ook voor de gedragingen ‘overbrengen’ en ‘vervoeren’.
+35  Dit is ook niet verwonderlijk, aangezien deze dwangmiddelen niet snel door het slachtoffer zelf naar voren zullen worden gebracht. 
+
+Omdat veel slachtoffers illegaal waren, en daarmee in een kwetsbare positie verkeerden, zal in veel gevallen sprake zijn geweest van 
+misbruik van deze kwetsbare positie. Ten behoeve van dit onderzoek zijn echter alleen de dwangmiddelen meegeteld die letterlijk 
+werden genoemd in de gehoren.
+
+36  Stb. 2008, 253.
+37  N=40, Sd: 2,4.
+
+
+
+17Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+Tabel 8  Top tien uitbuitingsindicatoren38
+
+Indicator N %
+
+Niet zelf reis, visa etc. hebben geregeld 37 92,5%
+
+Onvrijwillig tewerkgesteld in de prostitutie 36 90,0%
+
+Afkomstig uit bronland38 34 85,0%
+
+Geen beschikking over eigen verdiensten 30 75,0%
+
+Illegaal verblijvend/werkend in Nederland 26 65,0%
+
+Angst voor uitzetting, mishandeling, etc. 22 55,0%
+
+Geen zelfstandige bewegingsvrijheid 20 50,0%
+
+Geen beschikking over eigen identiteitspapieren 19 47,5%
+
+Beschikken over een vals of vervalst paspoort 13 32,5%
+Onder dwang (bepaalde) seksuele handelingen moeten 
+verrichten 
+
+12 30,0%
+
+De uitbuitingsindicatoren die het vaakst naar voren kwamen uit de aangiftes vallen onder de noemer 
+‘meervoudige afhankelijkheid’ (N=110) als genoemd in de Aanwijzing.  
+
+4.5  Opsporingsindicaties
+In de gehoren werd vaak op een aantal zaken doorgevraagd. Dit betroffen de locatie waar het slachtof-
+fer had verbleven en/of was uitgebuit, vragen over de identiteit van verdachte en vragen over de wijze 
+waarop het slachtoffer naar Nederland was gereisd. Van deze zaken, waaruit opsporingsindicaties 
+voortvloeien, is per dossier gekeken of de informatie door het slachtoffer was verstrekt. Soms werden 
+ook andere relevante opsporingsindicaties gegeven; deze zijn ook meegenomen. In de helft van de 
+aangiftes was geen enkele opsporingsindicatie terug te vinden. Dat wil zeggen dat concrete informatie 
+over de locatie waar het slachtoffer had verbleven, informatie over de identiteit van verdachte, noch 
+informatie over de reis van het slachtoffer naar Nederland bekend was. 
+ 
+In veel gevallen gaf het slachtoffer aan in een woning te hebben verbleven, waar het slachtoffer opge-
+sloten zat en seksueel werd uitgebuit. In enkele gevallen kon het slachtoffer een adres geven of een 
+concrete beschrijving van de locatie. Over de identiteit van de verdachte bestond in de meeste dossiers 
+ook veel onduidelijkheid. Vaak wist het slachtoffer alleen een voornaam of bijnaam van de verdachte. 
+Hoewel in zeven gevallen wel informatie over de identiteit van de verdachte kon worden verstrekt 
+(voor- en achternaam) door de slachtoffers, werd de identiteit van verdachte in slechts drie gevallen 
+achterhaald. 
+
+Op vragen over de datum van inreis in Nederland en de vluchtgegevens moesten veel slachtoffers het 
+antwoord schuldig blijven. In veel processen verbaal stond wel een beschrijving van het vliegtuig, maar 
+wisten de slachtoffers niet meer op welke datum en met welke vliegtuigmaatschappij ze hadden gevlo-
+gen. 
+
+In onderstaande kadertekst zijn enkele aangiftes samengevat om een beeld te geven van de aangiftes. 
+
+Enkele casusbeschrijvingen 
+A is in haar thuisland Liberia tegen haar wil besneden en op 14-jarige leeftijd uitgehuwelijkt aan haar oom. Hij 
+verkracht haar. A ontvlucht deze situatie en wil op zoek gaan naar haar ouders. Ze ontmoet een man genaamd 
+Jan die zegt dat hij haar zal helpen. Op haar 15e reist A met Jan naar Nederland. Gedurende een week verblijft 
+
+38 Voor de definitie van ‘bronland’ is uitgegaan van de landen uit de top 10 van bronlanden voor slachtoffers mensenhandel uit 2009 
+(NRM8). Dit zijn: Nigeria, Bulgarije, China, Siërra Leone, Roemenie, Rusland, Guinee, Oekraïne, Hongarije en Kameroen. 
+
+
+
+18 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+ze in het huis van Jan, waar ze tegen haar wil seks met hem moet hebben. Als het geld op raakt zegt Jan dat A 
+seks met andere mannen moet gaan hebben in ruil voor geld. A weet uit de woning te vluchten. 
+ 
+B woont in Nigeria bij haar oom sinds haar ouders en oma zijn overleden. Ze wordt door haar oom meerdere 
+malen verkracht. Ze zoekt tevergeefs bescherming bij de politie, maar deze brengen haar terug naar haar oom. 
+Ze vlucht samen met een vriendin en een vrouwelijke reisagent naar Nederland. Bij aankomst in Nederland 
+moeten B en haar vriendin een voodooritueel ondergaan. Daarna wordt hen verteld dat ze geld moeten 
+verdienen door zich te prostitueren. Dit gaat gepaard met bedreigingen. B. weet de volgende dag te vluchten. 
+Met hulp van een voorbijganger komt ze bij de politie terecht waar ze haar verhaal vertelt. De politie zet haar 
+op de trein naar Ter Apel. 
+
+C wordt in Sierra Leone door haar stiefmoeder verkocht aan een man die haar vervolgens naar Nederland 
+brengt. Daar sluit hij haar op en prostitueert haar vanuit een woning. Uiteindelijk weet C uit de woning te 
+vluchten. Ze vraagt hulp aan een man op straat die haar naar de politie brengt. C is op dat moment zes 
+maanden zwanger. 
+
+Als de vader van D overlijdt wordt zij door haar moeder bij een tante ondergebracht. Haar tante wil haar 
+uithuwelijken, maar dat wil D niet. D wordt door haar verloofde verkracht. Hierna vlucht D naar een vriendin. 
+Bij de vriendin ontmoet ze oom Anton die haar wil helpen. D wordt door oom Anton naar Nederland gebracht. 
+Oom Anton heeft beloofd dat ze in Nederland naar school mag. In Nederland verblijft D in een woning met 
+Anton. Vervolgens regelt oom Anton een man die tegen betaling seks met D wil hebben. D weigert en de man 
+gaat weg. D vlucht de woning uit en komt op straat een vrouw tegen die haar naar de politie verwijst. 
+
+In onderstaande tabel is een verdeling weergegeven van de in de processen-verbaal teruggevonden 
+opsporingsindicaties. In een aantal gevallen waren meerdere opsporingsindicaties aanwezig, waardoor 
+de percentages optellen tot boven de 100%. 
+
+Tabel 9   Verdeling aanwezige opsporingsindicaties
+
+Opsporingsindicatie N %
+
+Locatie Adres van verblijf/uitbuiting   7 14,3%
+
+Naam bedrijf van uitbuiting   2   4,1%
+
+Adres verdachte   1   2,0%
+
+Identiteit verdachte Personalia verdachte   7 14,3%
+
+Telefoonnummer verdachte   2   4,1%
+
+Inreis Vluchtgegevens   6 12,2%
+
+Overig Valse naam van slachtoffer in het buitenland   1   2,0%
+
+Identiteit klant   1   2,0%
+
+Valse naam in paspoort slachtoffer   1   2,0%
+
+Contactgegevens getuige   1   2,0%
+
+De enige opsporingsindicaties bevinden zich in het buitenland   1   2,0%
+
+Geen enkele opsporingsindicatie 25 51,0%
+
+Totaal 55
+
+4.5.1   Opsporingshandelingen
+In de dossiers van het OM was in het proces-verbaal van bevindingen vaak opgenomen welke opspo-
+ringshandelingen door de politie waren verricht. In 45 van de 49 dossiers was informatie terug te vin-
+den over door de politie verrichte (opsporings)handelingen.39  
+In maar liefst 86,7% van de gevallen stond in het dossier dat de politie contact had opgenomen met het 
+
+39  Van het arrondissement Den Bosch ontbrak deze informatie in vier van de veertien dossiers. 
+
+
+
+19Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+Expertisecentrum Mensenhandel en Mensensmokkel (EMM). In de Zevende rapportage werd over dit 
+punt het volgende aanbevolen: “Aan het OM wordt aanbevolen in een mensenhandelzaak niet tot sepot 
+over te gaan dan nadat deze zaak is gemeld aan het EMM ter vergelijking met andere lopende mensen-
+handelonderzoeken, en nadat terugkoppeling daarover heeft plaatsgevonden.”40 Deze aanbeveling 
+blijkt in veel gevallen inderdaad te worden opgevolgd, hoewel er wel verschillen bestaan tussen de 
+parketten. In Arnhem was in alle gevallen contact opgenomen met EMM, in de andere regio’s varieerde 
+dit percentage tussen de 70% (Den Bosch) en 92,9% (Den Haag).  
+
+Een andere door de politie ondernomen activiteit in het kader van het politieonderzoek die vaker voor-
+kwam betrof onderzoek in politiesystemen (44,4%). In deze politiesystemen werd bijvoorbeeld gezocht 
+op (bij)namen van verdachte(n), locaties en op de naam van het slachtoffer. Een onderzoek naar een 
+woonadres (bijvoorbeeld van verdachte) kwam ook meerdere keren voor (22,2%). 17,8% van de slachtof-
+fers werd door de politie rondgereden op zoek naar de plaats van uitbuiting. In Rotterdam gebeurde dat 
+in vier van de veertien gevallen, in Arnhem en Den Bosch één keer en in Den Haag werd twee keer met 
+slachtoffer gezocht naar de locatie van uitbuiting. Drie slachtoffers ondergingen forensisch medisch 
+onderzoek (zeden). Opvallend is dat blijkens de onderzochte dossiers dergelijk forensisch medisch 
+onderzoek alleen binnen het arrondissement Den Bosch werd verricht. In tegenstelling tot de andere 
+arrondissementen werd alleen in Rotterdam vingersporenonderzoek verricht (N=3). 
+
+40  NRM7, aanbeveling 34.
+
+
+
+20 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Tabel 10 Percentage opsporingshandelingen per arrondissement
+
+Opsporingshandeling Den 
+Bosch
+
+Den 
+Haag
+
+Arnhem Rotter-
+dam
+
+Totaal
+
+Check bij EMM 70,0% 92,9% 100,0% 85,7% 86,7%
+
+Onderzoek in (diverse) politiesystemen 10,0% 50,0% 85,7% 42,9% 44,4%
+
+Onderzoek naar adres/check GBA 0,0% 28,6% 28,6% 28,6% 22,2%
+
+Rondrijden met het slachtoffer op zoek naar plaats van uitbuiting/
+verblijf
+
+10,0% 14,3% 14,3% 28,6% 17,8%
+
+Navraag Regionale Informatie Ondersteuning 0,0% 0,0% 0,0% 57,1% 17,8%
+
+Opvragen van vluchtgegevens 10,0% 14,3% 14,3% 21,4% 15,6%
+
+Navraag bij andere (regio)korpsen van de (vreemdelingen)politie 40,0% 7,1% 0,0% 7,1% 13,3%
+
+Horen getuige(n) 0,0% 7,1% 28,6% 7,1% 8,9%
+
+Opvragen informatie bij de IND 10,0% 7,1% 0,0% 14,3% 8,9%
+
+Fotoconfrontatie mogelijke verdachte 10,0% 0,0% 0,0% 21,4% 8,9%
+
+Medisch forensisch onderzoek (zeden) 30,0% 0,0% 0,0% 0,0% 6,7%
+
+Vingersporenonderzoek slachtoffer 0,0% 0,0% 0,0% 21,4% 6,7%
+
+Bevraging telefoonnummer/onderzoek telefoongegevens 0,0% 7,1% 14,3% 7,1% 6,7%
+
+Rechtshulpverzoek buitenland 0,0% 7,1% 0,0% 7,1% 4,4%
+
+Contact met huisarts van het slachtoffer 10,0% 0,0% 0,0% 7,1% 4,4%
+
+Navraag bij AZC 0,0% 0,0% 0,0% 7,1% 2,2%
+
+Check IRC/Interpol 10,0% 0,0% 0,0% 0,0% 2,2%
+
+Check seksclub 10,0% 0,0% 0,0% 0,0% 2,2%
+
+Zoektocht naar klant 10,0% 0,0% 0,0% 0,0% 2,2%
+
+Onderzoek naar identiteit verdachte 10,0% 0,0% 0,0% 0,0% 2,2%
+
+Omschrijving pand uitgezet bij alle mensenhandelteams in 
+Nederland
+
+10,0% 0,0% 0,0% 0,0% 2,2%
+
+Navraag KLPD 0,0% 0,0% 14,3% 0,0% 2,2%
+
+Check bij de KvK 0,0% 0,0% 14,3% 0,0% 2,2%
+
+Verhoor verdachte 0,0% 7,1% 0,0% 0,0% 2,2%
+
+Verdachte gesignaleerd 0,0% 0,0% 0,0% 7,1% 2,2%
+
+Locatie opgezocht waar getuige het slachtoffer aantrof 0,0% 0,0% 0,0% 7,1% 2,2%
+
+In Rotterdam werden in de veertien onderzochte dossiers in totaal 53 opsporingshandelingen gevon-
+den. Gemiddeld komt dit neer op 3,8 opsporingshandelingen per dossier. In Arnhem lag met een zelfde 
+berekening het gemiddelde op 3,1 handelingen per dossier,41 gevolgd door Den Bosch met 2,5 opspo-
+ringshandelingen42 en Den Haag met 2,4 opsporingshandelingen43 per dossier. In de dossiers werden 
+geen opvallende uitschieters aangetroffen. 
+
+41  N=7. 
+42  N=10. In Den Bosch was van vier van de veertien dossiers niet bekend of er opsporingshandelingen waren verricht. Deze vier 
+
+dossiers zijn in de berekeningen van dit onderdeel buiten beschouwing gelaten.
+43  N=14.
+
+
+
+21Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+5.  Verlening van de B9-verblijfsvergunning 
+Wanneer een buitenlands slachtoffer aangifte doet van mensenhandel geldt de aangifte als een ambts-
+halve aanvraag voor een B9-verblijfsvergunning.44 De B9-verblijfsvergunning gaat in beginsel in op de 
+datum van aangifte. In ruim 85% werd de verblijfsvergunning op de datum van aangifte (N=37), of de 
+dag erna (N=3) verleend. In vier gevallen werd de B9 later verleend. De reden hiervoor kon niet altijd 
+worden gevonden in de IND-dossiers. In één geval lag de oorzaak in het feit dat het slachtoffer eerst 
+haar lopende asielprocedure wilde voortzetten, waardoor pas na afwijzing van de asielaanvraag de 
+B9-verblijfsvergunning werd verleend.45  
+
+Opvallend is voorts dat drie slachtoffers juist al een B9-verblijfsvergunning kregen voordat zij aangifte 
+hadden gedaan. In één geval werd het slachtoffer na het intakegesprek opgenomen in een psychiatrisch 
+ziekenhuis, waardoor zij pas ruim vijf maanden later in staat was om aangifte te doen. De IND heeft in 
+dat geval de B9-verblijfsvergunning laten ingaan op de datum waarop het intakegesprek was gehou-
+den.  
+
+5.1  Verblijfspas
+Een knelpunt in de praktische uitvoering van de B9-regeling betreft de soms lange periode die zit tussen 
+het verlenen van de B9-verblijfsvergunning en de feitelijke verstrekking van de daaraan gekoppelde 
+verblijfspas. Uit het dossieronderzoek blijkt dat er gemiddeld 48,2 dagen verstrijken tussen het ingaan 
+van de B9-verblijfsvergunning en de oproep van de IND aan het slachtoffer om de bijbehorende ver-
+blijfspas op te halen.46 Er lijkt in de praktijk geen vaste termijn te zijn verbonden aan het beschikbaar 
+stellen van de verblijfspas; de duur in de onderzochte dossiers liep uiteen van zes tot 127 dagen. Waarom 
+het soms zo lang duurde voordat de verblijfspas klaar was werd in de meeste gevallen niet duidelijk uit 
+de onderzochte IND-dossiers. In één geval bleek er een praktisch probleem te bestaan met betrekking 
+tot de pasfoto van het slachtoffer, waardoor de fabricage van de pas vertraging had opgelopen; in een 
+ander geval kon het slachtoffer de verblijfspas niet ophalen door een fout in de productieketen van de 
+pas. 
+
+Tabel 11 Tijdsduur tussen aanvang B9 en oproep tot ophalen verblijfspas47  
+
+Duur N %
+
+< 4 weken 14 37,8%
+
+4 – 8 weken 12 32,4%
+
+> 8 weken 11 29,7%
+
+Totaal 37 100%
+
+44  Hoewel de B9-regeling in beginsel bedoeld is voor vreemdelingen die niet rechtmatig in Nederland verblijven, kunnen ook EU-/
+EER-onderdanen en Zwitserse onderdanen rechten ontlenen aan B9-regeling voor zover zij geen rechten ontlenen aan het 
+gemeenschapsrecht. Hetzelfde geldt voor vreemdelingen die rechtmatig in Nederland verblijven in afwachting van een beslissing op 
+een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd. 
+
+45  Vreemdelingen die rechtmatig in Nederland verblijven in afwachting van een beslissing op een aanvraag voor een verblijfsvergun-
+ning asiel voor bepaalde tijd kunnen aangifte doen van mensenhandel of op andere wijze medewerking verlenen aan het 
+opsporings- of vervolgingsonderzoek hangende de asielprocedure. Indien zij gebruik willen maken van de B9-procedure, dienen zij 
+hiertoe in de gelegenheid te worden gesteld en zal, na afgifte van de verblijfsvergunning, de asielaanvraag worden afgewezen op 
+grond van artikel 30, onder b, Vw. Zij kunnen er ook voor kiezen geen gebruik te maken van de B9-regeling en in plaats daarvan de 
+inhoudelijke beoordeling van de asielaanvraag af te wachten. In het geval de asielaanvraag wordt afgewezen kunnen zij dan alsnog 
+ambtshalve in het bezit worden gesteld van een B9-verblijfsvergunning. 
+
+46  N=37, Sd: 32,4.
+47  Van 12 cases was de datum waarop de verblijfspas kon worden opgehaald onbekend.
+
+
+
+22 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Pas als de verblijfspas in het bezit is van het slachtoffer kan het slachtoffer zich inschrijven in het GBA48, 
+een ziektekostenverzekering aanvragen, zich inschrijven voor inburgering49, een uitkering krijgen, zich 
+inschrijven als woningzoekende, en kan het slachtoffer eventueel voorrang krijgen bij de gemeente 
+voor een eigen woning.50 Doordat het slachtoffer pas na ontvangst van de verblijfspas de procedure van 
+doorstroming uit de opvang naar zelfstandige huisvesting in gang kan zetten, is de duur dat het slacht-
+offer in de opvang zit vaak langer dan voor het slachtoffer noodzakelijk is. Dit is voor zowel het slachtof-
+fer als voor de opvanginstelling niet goed, en brengt bovendien extra kosten met zich, aldus CoMensha. 
+Voor het slachtoffer is het derhalve van belang om zo snel mogelijk een verblijfspas te krijgen nadat de 
+B9-verblijfsvergunning is verleend. CoMensha heeft dit knelpunt gesignaleerd en eind 2011 geagen-
+deerd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.51 
+
+5.2  Hulpverlening
+Uit de politiedossiers werd getracht informatie te halen over het hulpaanbod waar de slachtoffers 
+gebruik van maakten. In veel dossiers stond hierover echter niets vermeld, waardoor data over dit 
+onderwerp verre van compleet zijn. Zo was in bijna geen enkel dossier terug te vinden of door de politie 
+contact op was genomen met CoMensha.52 In vijftien van de 49 dossiers stond vermeld dat het slachtof-
+fer gedurende het verloop van het opsporingsonderzoek in een opvanginstelling verbleef. Van ruim de 
+helft van de slachtoffers stond niet in het politiedossier vermeld waar zij verbleven.  
+
+Tabel 12 Plaats verblijf slachtoffer tijdens opsporingsonderzoek
+
+Locatie verblijf N %
+
+Opvanginstelling 15 30,6%
+
+Asielzoekerscentrum 4 8,2%
+
+Eigen woonruimte 1 2,0%
+
+Bij een kennis 1 2,0%
+
+AMV-voorziening 1 2,0%
+
+Opvang bij religieuze gemeenschap 1 2,0%
+
+Onbekend 26 53,1%
+
+Totaal 49 100%
+
+Over vijf slachtoffers stond in het proces-verbaal of in het dossier van de IND vermeld dat het slachtoffer 
+psychiatrische problemen had. Twee slachtoffers werden tijdens het opsporingsonderzoek opgeno-
+men in een psychiatrisch ziekenhuis, één slachtoffer werd nadat de B9 al was geëindigd opgenomen in 
+een psychiatrisch ziekenhuis. 
+
+48  Hoewel slachtoffers zich formeel moeten kunnen laten inschrijven in de GBA op grond van een verklaring onder ede, gaat de 
+gemeente hier nooit mee akkoord als bekend is dat er een verblijfspas komt, aldus CoMensha. (schriftelijke informatie CoMensha, 26 
+april 2012). 
+
+49  Slachtoffers van mensenhandel zijn niet verplicht in te burgeren maar vaak wordt door de hulpverlening wel verzocht om een 
+aanbod van de gemeente. Het niet spreken van de Nederlandse taal vormt namelijk een obstakel bij de weg naar zelfstandigheid van 
+het slachtoffer, waar men in de opvang naar streeft. Het niet hebben van een verblijfspas belemmert de toegang tot een inburge-
+ringscursus. Dit heeft weer gevolgen voor de doorstroom vanuit de opvang naar een eigen huis, hetgeen zonder basiskennis van het 
+Nederlands en de maatschappij zo goed als onmogelijk is aldus CoMensha (schriftelijke informatie CoMensha, 26 april 2012). 
+
+50  Schriftelijke informatie van CoMensha, 25 november 2011 en 26 april 2012.
+51  Mail van CoMensha aan het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, 25 november 2011.
+52  Slechts in zes OM-dossiers stond vermeld dat contact was opgenomen met CoMensha. In de overige 43 dossiers kon hierover niets 
+
+worden teruggevonden waardoor onduidelijk is gebleven of dit contact er is geweest. In de gevallen waarin het slachtoffer in een 
+opvanginstelling was geplaatst (n=15) ligt dit contact echter wel in de rede.
+
+
+
+23Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+6.  Het sepot
+Het onderzoek was gericht op mensenhandelzaken die in 2010 geseponeerd waren. Het moment waar-
+op aangifte was gedaan kon derhalve al voor dat jaar liggen. De gemiddelde tijdsduur tussen de aangifte 
+en het sepot bedroeg 297,5 dagen (bijna tien maanden).53  
+
+Tabel 13  Duur tussen aangifte en sepot uitgesplitst per parket
+
+Duur Den Haag Den Bosch Arnhem Rotterdam 
+
+< 1 maand 14,2% 14,2% 0,0% 7,1%
+
+1–3 maanden 21,3% 0,0% 0,0% 42,6%
+
+3–6 maanden 28,4% 14,2% 0,0% 21,3%
+
+6–12 maanden 21,3% 28,4% 57,2% 14,2%
+
+12-24 maanden 7,1% 21,3% 28,6% 7,1%
+
+ > 24 maanden 7,1% 21,3% 14,3% 7,1%
+
+Totaal 100% 100% 100% 100%
+
+Wanneer wordt gekeken naar de gemiddelde tijdsduur tussen de aangifte en het sepot bestaan er grote 
+verschillen tussen de parketten. In Den Bosch duurde het gemiddeld 420,9 dagen54 voordat de zaak 
+werd geseponeerd. In Arnhem lag het gemiddelde op 356,4 dagen,55 gevolgd door Den Haag met 242,7 
+dagen56. In Rotterdam werd het snelst geseponeerd met een gemiddelde van 199,4 dagen57. Wanneer 
+een zaak wordt afgesloten door de politie wordt het proces verbaal van bevindingen naar het OM 
+gestuurd, welke de zaak vervolgens seponeert. Het is derhalve relevant te weten hoeveel tijd er zat tus-
+sen de aangifte en het insturen van het proces verbaal van bevindingen aan het OM enerzijds, en tussen 
+het ontvangen van het proces verbaal van bevindingen en het sturen van de sepotbrief anderzijds. Voor 
+het eerste deel van het traject is immers de politie verantwoordelijk, voor het tweede deel het OM. Uit 
+de meeste dossiers was echter niet op te maken op welk moment het proces verbaal van bevindingen 
+door de politie was ingestuurd aan het OM. Hierdoor is alleen informatie beschikbaar over de totale 
+tijdsduur tussen de aangifte en het sepot. 
+
+De meeste zaken werden in een periode van zes tot twaalf maanden na de aangifte geseponeerd, met 
+uitschieters naar beneden (sepot op dezelfde dag als de aangifte) en naar boven (sepot na 1107 dagen na 
+aangifte). In Rotterdam werd de helft van de zaken binnen drie maanden geseponeerd. 
+
+Sepot na bedenktijd
+In tegenstelling tot de 48 dossiers waarin de zaak werd geseponeerd nadat aangifte was gedaan, bleek in één 
+van de onderzochte dossiers de zaak al te zijn geseponeerd voordat aangifte was gedaan. In dit Haags dossier 
+was in 2008 een intakegesprek gehouden waarna het slachtoffer bedenktijd had gekregen. Toen het slachtof-
+fer na het verstrijken van de drie maanden bedenktijd geen aangifte deed werd de zaak geseponeerd. Haar 
+advocaat deed vervolgens een beroep op de B9-verblijfsvergunning, welke niet werd gegeven omdat het 
+slachtoffer geen aangifte had gedaan. Tegen het sepot ging het slachtoffer in beklag, waarop ze niet ontvanke-
+lijk werd verklaard omdat ze geen aangifte had gedaan. Toen het slachtoffer vervolgens alsnog aangifte deed 
+in 2010, werd de zaak direct geseponeerd. Overigens is het slachtoffer ook tegen dit sepot in beklag gegaan. 
+Dit beklag werd ongegrond verklaard.
+
+53  N=49, Sd: 285,0.
+54  N=14, Sd: 328,4.
+55  N=7, Sd: 197,3.
+56  N=14, Sd: 297,1.
+57  N=14, Sd: 232,1.
+
+
+
+24 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+6.1  Sepotgronden
+In bijna alle gevallen werd een standaard sepotbrief naar de slachtoffers verstuurd. De gekozen formu-
+lering verschilde soms enigszins per parket maar kwam inhoudelijk op hetzelfde neer.58 Dat de meeste 
+zaken werden geseponeerd vanwege het ontbreken van aanknopingspunten voor verder opsporings-
+onderzoek is niet verwonderlijk nu slechts in drie van de 49 dossiers de identiteit van de mogelijke 
+verdachte bekend was. Ook in deze drie gevallen volgde echter een sepot. In één geval volgde een sepot 
+vanwege het ontbreken van wettig bewijs (sepotcode 02), bij één zaak had de aangifte geen betrekking 
+op mensenhandel maar betrof het volgens het OM een zedendelict, en bij de derde zaak was de ver-
+dachte onvindbaar als gevolg waarvan de zaak werd geseponeerd. 
+
+Afwijkende sepotgronden
+In drie gevallen week het sepot af. Bij twee slachtoffers stond in de sepotbrief dat de aangifte geen betrekking 
+had op mensenhandel maar dat het een ander zedendelict betrof. In een van deze twee zaken stond in de brief 
+dat het politieonderzoek zou worden gesloten, en dat de zaak zou worden overgedragen aan de zedenpolitie. 
+In de andere zaak ging het blijkens de sepotbrief niet om seksuele handelingen met of voor een derde tegen 
+betaling. Daarnaast waren er in deze zaak geen aanknopingspunten om een begin te maken met de opsporing. 
+e derde sepotbrief die afweek van de andere sepotbrieven stond: “tijdens dit verhoor heeft u zelf (onder meer) 
+verklaard dat u het (hele) verhaal zelf heeft verzonnen.” Navraag bij het betreffende parket leerde dat de 
+aangever uit deze zaak niet is vervolgd voor het doen van valse aangifte. De zaak tegen dit slachtoffer is 
+voorwaardelijk geseponeerd met een proeftijd van een jaar.59 De B9-verblijfsvergunning is met terugwerkende 
+kracht ingetrokken per de datum van aangifte.
+
+Nadat de zaak is geseponeerd informeert het OM de IND over het sepot. Dit gebeurde gemiddeld bin-
+nen 5,7 dagen.60  
+
+7. Beklag
+Tegen de sepotbeslissing van het OM kan de rechtstreeks belanghebbende (in onderhavige dossiers 
+betreffen dit de slachtoffers die aangifte hebben gedaan) in beklag gaan bij het gerechtshof door een 
+procedure op grond van artikel 12 Wetboek van Strafvordering te starten. Dit heeft tot gevolg dat de 
+B9-verblijfsvergunning gedurende de beklagperiode door blijft lopen.61 Dit gaat veranderen. Bij brief 
+van 15 november 2011 heeft de minister voor Immigratie, Integratie en Asiel aangekondigd dat de 
+B9-verblijfsvergunning wordt ingetrokken, zodra de strafzaak door het OM wordt geseponeerd.62 Het 
+verblijfsrecht tijdens het beklag zal hiermee worden afgeschaft.  
+
+Volgens de gegevens bekend bij de IND63 gingen 39 van de 49 slachtoffers (79,6%) in beklag tegen de 
+sepotbeslissing van het OM. In de regio’s Den Bosch, Den Haag en Rotterdam lag het percentage klagers 
+op 78,6%, tegenover 85,7% in Arnhem.64 
+
+58  Varianten waren: “onvoldoende aanknopingspunten om een begin te maken met de opsporing” (n=19), “niet gelukt om 
+verdachte(n) te achterhalen inzake de strafbare feiten” (n=10), “onvoldoende aanknopingspunten voor verder opsporingsonder-
+zoek” (n=12), “geen aanknopingspunten om de identiteit van verdachte te achterhalen” (n=3).
+
+59  Telefonische informatie parket Rotterdam, d.d. 20 maart 2012.
+60  N=22, Sd: 8,0.
+61  Voor meer informatie zie NRM7, pp. 193-202. Overigens werd in één zaak de B9-verblijfsvergunning al definitief ingetrokken terwijl 
+
+het beklag nog liep. Dit kwam blijkens het IND-dossier doordat het slachtoffer geen paspoort had aangevraagd.
+62  Kamerstukken II 2011/12, 28 638, nr. 57, p. 4.
+63  Omdat het al dan niet in beklag gaan tegen de sepotbeslissing consequenties heeft voor de B9-verblijfsvergunning is voor deze 
+
+informatie uitgegaan van de bij de IND bekend zijnde gegevens. 
+64  In Arnhem zijn echter maar zeven dossier onderzocht, tegenover veertien dossiers bij elk van de drie andere parketten.
+
+
+
+25Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+De meeste slachtoffers dienden binnen een maand na het sepot een klaagschrift in (62,5%).65 In een 
+extreem geval ging het slachtoffer pas 316 dagen na het sepotbesluit in beklag bij het hof.  
+
+In 37 gevallen werd het beklag door het gerechtshof ongegrond verklaard. Twee beklagprocedures 
+waren nog niet afgerond ten tijde van het dossieronderzoek.  
+
+Beklag Arnhem
+In een arrest van het Hof Arnhem stond het volgende: “Uit de stukken blijkt echter ook dat de politie niet met 
+klaagster heeft rondgereden in Eindhoven, terwijl klaagster in haar aangifte te kennen heeft gegeven nog wel 
+ongeveer te weten waar het adres is waar zij was vastgehouden en ook dat zij dit adres mogelijk nog wel zou 
+kunnen aanwijzen. Dat niet geprobeerd is dit adres te achterhalen, valt te betreuren.” Desondanks werd het 
+beklag ongegrond verklaard.
+
+De gemiddelde duur van de beklagprocedures bedroeg 171,5 dagen (5,6 maanden).66 Ruim twee derde 
+van de beklagzaken werd binnen zes maanden afgehandeld.  
+
+BNRM deed ten behoeve van haar Zevende rapportage onderzoek naar de afhandeling van beklagza-
+ken.67 In dat onderzoek werden 44 dossiers uit de periode 2007-2009 bestudeerd van de hoven 
+Amsterdam, Den Bosch en Den Haag. Uit dat onderzoek kwam naar voren dat de gemiddelde doorloop-
+tijd tussen de ontvangst van een klaagschrift en de beschikking van het gerechtshof varieerde tussen zes 
+en negen maanden.68 Hoewel in onderhavig onderzoek naast de Hoven Den Bosch en Den Haag niet 
+naar de beklagtermijn van het Hof Amsterdam, maar het Hof Arnhem is gekeken, lijkt het erop dat de 
+gemiddelde tijdsduur van beklagzaken in 2010-2011 gedaald is ten opzichte van de periode 2007-2009. 
+
+Tussen de hoven bestaan verschillen in de tijdsduur van het afhandelen van de beklagzaken.69 In 
+Arnhem werd de helft van de beklagzaken binnen vier maanden afgehandeld, terwijl bij de 
+Gerechtshoven Den Bosch en Den Haag geen enkele beklagzaak binnen vier maanden werd afgehan-
+deld. In Den Haag volgde in de meeste zaken pas na meer dan zes maanden een uitspraak. De gemid-
+delde beklagduur in Arnhem bedroeg 109,8 dagen70, in Den Bosch was dit 185,3 dagen71 en in Den Haag 
+190,5 dagen72. Wanneer een vergelijking wordt gemaakt met het onderzoek van BNRM naar beklagzaken 
+in de periode 2007-2009, dan is in Den Bosch een daling zichtbaar in de afhandelingsduur van beklag-
+zaken, namelijk van gemiddeld 7,5 maanden (2007-2009) naar 6,1 maanden (2010-2011). In Den Haag is 
+een lichte stijging zichtbaar van 6 maanden (2007-2009) naar 6,3 maanden (2010-2011).  
+
+65  Van 32 van de 39 slachtoffers was de beklagdatum bekend.
+66  N=28, Sd: 52,0. Van 28 dossiers was zowel de datum van indiening van het klaagschrift, als de datum van het arrest van het hof 
+
+bekend.
+67  Dit betreft een ander onderzoek dan onderhavig onderzoek naar sepot en B9. In beide onderzoeken is echter gekeken naar de 
+
+termijn waarbinnen het beklag door verschillende hoven werd afgehandeld. 
+68  NRM7, p. 198.
+69  De totale duur van de behandeling van een beklagzaak is niet alleen afhankelijk van de snelheid waarmee het hof deze afhandelt; 
+
+ook het OM speelt hierin een rol. Na ontvangst van het klaagschrift draagt het hof de advocaat-generaal (A-G) op te dien aanzien 
+schriftelijk verslag te doen. Hiertoe kan de A-G contact opnemen met het OM. De officier van justitie die de zaak heeft geseponeerd 
+licht bij ambtsbericht aan de hoofdofficier de gronden voor het sepot nader toe. Nadat de hoofdofficier zijn licht op de zaak heeft 
+geworpen naar aanleiding van het ambtsbericht van de officier, wordt deze informatie naar de A-G gestuurd. Als de A-G alle 
+informatie binnen heeft, verstrekt hij deze in een schriftelijk verslag aan het hof, waarna deze de klacht behandelt. Voor een 
+uitgebreide beschrijving van de beklagprocedure, zie NRM7, §5.4.1.
+
+70  N=6, Sd: 55,1.
+71  N=9, Sd: 34,8.
+72  N=13, Sd: 39,7.
+
+
+
+26 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Tabel 14  Duur tussen indienen beklag en uitspraak in beklagprocedure7374
+
+Duur Den Haag73 Den Bosch74 Arnhem
+
+N % N % N %
+
+1 – 2 maanden 0 0,0% 0 0,0% 2 33,4%
+
+2 – 4 maanden 0 0,0% 0 0,0% 1  16,7%
+
+4 - 6 maanden 6 46,2% 7 77,7% 3 50,1%
+
+> 6 maanden 7 53,8% 2 22,2% 0 0,0%
+
+Totaal 13 100% 9 100% 6 100%
+
+Wanneer het beklag ongegrond wordt verklaard, vormt dit aanleiding voor de IND om de 
+B9-verblijfsvergunning in te trekken. Derhalve is het van belang dat de IND door het OM op de hoogte 
+wordt gesteld van de uitkomst van de beklagprocedure. Van 18 dossiers kon worden achterhaald op 
+welk moment de IND op de hoogte werd gesteld van de uitkomst van de beklagprocedure. Gemiddeld 
+duurde dit 27,7 dagen75: bij twaalf dossiers bedroeg de termijn minder dan een maand, bij vijf dossiers 
+duurde dit één tot twee maanden, en bij één dossier duurde het 128 dagen. Bij dit laatste geval was de 
+IND niet door het OM op de hoogte gesteld van het feit dat de beklagprocedure was afgerond. Toen de 
+IND telefonisch contact opnam met het hof bleek het beklag al ruim vier maanden daarvoor ongegrond 
+te zijn verklaard.  
+
+8.  Intrekking van de B9-verblijfsvergunning
+Nadat de zaak geseponeerd is door het OM komt de grond voor de B9-verblijfsvergunning te vervallen. 
+Gemiddeld zaten er 25,8 dagen tussen het sepot en het versturen van het voornemen tot intrekking van 
+de B9-verblijfsvergunning door de IND.76 Ruim 70% van de brieven werd binnen vier weken verstuurd. 
+ 
+
+Wanneer het slachtoffer niet in beklag gaat tegen het sepot volgt vervolgens de intrekking van de 
+B9-vergunning. Het slachtoffer kan bezwaar maken en eventueel beroep instellen. Een aantal van de 
+onderzochte slachtoffers startte alvast met een aanvraag voor voortgezet verblijf nadat zij het voorne-
+men tot intrekking van de B9-verblijfsvergunning hadden ontvangen. Wanneer een slachtoffer een aan-
+vraag voortgezet verblijf heeft ingediend terwijl de B9-verblijfsvergunning nog niet definitief is inge-
+trokken beslist de IND (vaak) gelijktijdig over zowel de definitieve intrekking van de B9-verblijfsvergunning 
+als over de aanvraag voortgezet verblijf. De reden voor dit beleid is dat het in de praktijk een probleem 
+vormde dat slachtoffers uit de opvang moesten zodra de B9 eindigde, terwijl ze op dat moment nog een 
+aanvraag voortgezet verblijf hadden lopen. Om alle voorzieningen door te laten lopen heeft de IND uit 
+praktisch oogpunt besloten om de B9-verblijfsvergunning door te laten lopen tot het moment dat op 
+de aanvraag voor voortgezet verblijf is beslist.77  
+
+Wanneer het slachtoffer in beklag is gegaan, wordt na de ongegrondverklaring van het beklag opnieuw 
+een voornemen tot intrekking van de B9-verblijfsvergunning verstuurd. Gemiddeld duurde het ruim 
+een week van het moment dat de uitkomst van het beklag bij de IND bekend was geworden, tot het 
+moment dat de IND het voornemen tot intrekking van de B9-verblijfsvergunning verstuurde.78 Na het 
+
+73 Dit betreffen de beklagzaken van Rotterdam (n=11) en van Den Haag (n=11). Van het parket Den Haag ontbreekt van 9 beklagzaken 
+de beklagdatum.
+
+74  In Den Bosch gingen 11 van de 14 slachtoffers in beklag. Van twee beklagzaken was de uitkomst van de beklagprocedure nog niet 
+bekend op het moment van het onderzoek.
+
+75  N=18, Sd:30,7.
+76  N=41. Sd: 37,4.
+77  Mondelinge informatie IND, 27 januari 2012.
+78  Het gemiddelde bedraagt 8,8 dagen. N=15, Sd: 10,6.
+
+
+
+27Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+tweede voornemen tot intrekking van de B9-verblijfsvergunning verloopt de definitieve intrekking van 
+de B9-verblijfsvergunning hetzelfde als bij slachtoffers die niet in beklag zijn gegaan.  
+
+Op het moment van het onderzoek was in 44 gevallen de B9 daadwerkelijk ingetrokken. In twee geval-
+len was nog geen beslissing genomen over het voortgezet verblijf, als gevolg waarvan de B9 nog niet 
+definitief was ingetrokken. Bij twee andere slachtoffers liep de beklagprocedure nog, waardoor de B9 
+nog niet kon worden ingetrokken. Bij één slachtoffer werd de B9-verblijfsvergunning niet ingetrokken 
+maar juist verlengd. De grondslag voor de verlenging van de B9 in deze specifieke zaak kon niet in het 
+dossier worden gevonden. 
+
+24 Slachtoffers gingen in bezwaar tegen de intrekking van de B9-verblijfsvergunning. Een slachtoffer 
+ging tevens in beroep. In een geval was de verblijfsvergunning al ingetrokken terwijl het slachtoffer 
+beklag had aangetekend. In dat geval werd het bezwaar toegewezen. 
+
+Gemiddeld maakten de slachtoffers 541,8 dagen gebruik van de B9-regeling.79 De duur liep uiteen van 
+nul dagen tot 1398 dagen. Het slachtoffer dat nul dagen in de B9 zat had toegegeven een valse aangifte 
+te hebben gedaan. Om die reden werd de B9-verblijfsvergunning met terugwerkende kracht ingetrok-
+ken.  
+
+Tabel 15  Tijdsduur totale B9
+
+Duur N %
+
+< 6 maanden 4 10,3%
+
+6 – 12 maanden 10 25,6%
+
+1 – 2 jaar 15 38,5%
+
+2 – 3 jaar 5 12,8%
+
+> 3 jaar 5 12,8%
+
+Totaal 39 100%
+
+9.  Voortgezet verblijf
+46 slachtoffers startten een nieuwe vreemdelingrechtelijke procedure nadat de B9 was ingetrokken of 
+de IND het voornemen tot intrekking van de verblijfsvergunning had verstuurd. 43 slachtoffers vroegen 
+voortgezet verblijf aan. Van 39 aanvragen voortgezet verblijf was de beslissing van de IND in primo 
+bekend ten tijde van het onderzoek. Bij negen slachtoffers (23,1%) werd de aanvraag voortgezet verblijf 
+in primo toegewezen. Alle 30 slachtoffers bij wie de aanvraag tot voortgezet verblijf in primo werd afge-
+wezen gingen in bezwaar tegen deze beslissing. Na bezwaar werd in drie gevallen alsnog voortgezet 
+verblijf toegekend door de IND. Hiermee komt het totaal aantal toegekende aanvragen voortgezet ver-
+blijf op 30,8% ten tijde van het onderzoek.80 Eén aanvraag werd definitief afgewezen, de rest van de 
+bezwaren tegen de negatieve beslissing in primo liep nog ten tijde van het onderzoek. 
+
+Gemiddeld duurde het ruim vijf maanden (155,9 dagen) voordat de IND op de aanvraag tot voortgezet 
+verblijf in primo had beslist.81 In 63,1% van de gevallen werd binnen zes maanden beslist, in één geval 
+duurde het ruim een jaar voordat de beslissing werd genomen. 
+
+79  N=39, Sd: 349,5. Voor berekening van de totale duur van de B9-verblijfsvergunning is de datum per wanneer de vergunning werd 
+ingetrokken, afgetrokken van de datum per wanneer de B9-verblijfsvergunning inging. Van vijf slachtoffers was de 
+B9-verblijfsvergunning nog niet ingetrokken ten tijde van het onderzoek. Van vijf andere slachtoffers was de datum per wanneer de 
+B9 was ingetrokken onbekend.
+
+80  Verdeling toegekende aanvragen voortgezet verblijf per parket: Arnhem: 1, Den Bosch: 6, Den Haag: 3, Rotterdam: 2.
+81  N=38, Sd: 90,5.
+
+
+
+28 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+9.1  Andere vreemdelingrechtelijke procedures na intrekking van de B9
+
+Hoewel de meeste slachtoffers uitsluitend een aanvraag voortgezet verblijf indienden, werd door enke-
+le slachtoffers (tevens) een andere vreemdelingrechtelijke procedure gestart. Twee slachtoffers vroegen 
+verblijf bij hun echtgeno(o)t(e) aan in verband met gezinsvorming. Beide aanvragen werden toege-
+kend. Een slachtoffer dat een herhaalde aanvraag asiel deed kreeg deze aanvraag ook toegekend. Twee 
+aanvragen van slachtoffers voor regulier verblijf in verband met een medische behandeling liepen nog 
+ten tijde van het onderzoek  
+
+Tabel 16  Verdeling doorlopen procedures na intrekking B9 
+
+Procedure N totaal Toegekend Loopt nog83 
+
+Voortgezet verblijf 4382 12 (27,9%) 30 (69,8%)
+
+Regulier verblijf i.v.m. medische behandeling 1 0 (0,0%) 1 (100%)
+
+Verblijf echtgeno(o)t(e) gezinsvorming 2 2 (100%) 0 (0,0%)
+
+Herhaalde aanvraag asiel 1 1 (100%) 0 (0,0%)
+
+Totaal 47 15 (31,9%) 31 (66,0%)
+
+Van alle doorlopen vervolgprocedures na beëindiging van de B9-verblijfsvergunning werd 31,9% van de 
+aanvragen toegekend. In de meeste gevallen (63,8%) loopt de aanvraag nog, waardoor de definitieve 
+uitkomst nog niet bekend was ten tijde van het onderzoek. 
+
+10.  Tijdlijn 
+Om het totale proces van het einde van de uitbuiting tot de beslissing over voortgezet verblijf in beeld 
+te brengen zijn twee tijdlijnen gemaakt. De eerste tijdlijn representeert de slachtoffers die geen beklag 
+indienden. De tweede tijdlijn omvat de grootste groep slachtoffers, namelijk de 39 slachtoffers die wel 
+in beklag gingen. Beide tijdlijnen geven inzicht in de volgorde van de processtappen, en in de gemid-
+delde tijdsduur in dagen tussen elke processtap. Niet elke processtap is door alle slachtoffers afgelegd, 
+en niet van alle slachtoffers is bekend hoe lang elke processtap duurde. Hierdoor representeert niet elk 
+gemiddelde tussen twee processtappen de gehele groep slachtoffers. De tijdsduren tussen de proces-
+stappen kunnen dan ook niet bij elkaar worden opgeteld voor een overzicht van het hele proces. De 
+tijdsduur in dagen tussen elke processtap betreft steeds een gemiddelde van de slachtoffers die deze 
+stap hebben genomen en waarvan de gegevens over de tijdsduur bekend zijn.8283 
+
+82 Van één aanvraag voortgezet verblijf is onbekend wat de status is.
+83 Hiermee worden aanvragen bedoeld waarover nog niet definitief is beslist door de IND; ofwel omdat er nog geen beslissing in primo 
+
+is genomen, ofwel omdat er bezwaar en/of beroep is ingesteld tegen de beslissing.
+
+
+
+29Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+Tijdlijn route A: Slachtoffers die niet in beklag zijn gegaan84858687888990919293
+
+De verschillende kleuren van de processtappen geven aan wie voor de betreffende processtap verant-
+woordelijk is zodat inzichtelijk is welke actoren invloed kunnen uitoefenen op de duur van de betref-
+fende processtappen.  
+
+Zoals eerder aangegeven kunnen de processtappen niet bij elkaar worden opgeteld omdat niet bij elke 
+processtap dezelfde slachtoffers zijn meegeteld vanwege ontbrekende data. De totale duur van de 
+B9-regeling voor slachtoffers die geen beklag indienden is daarom apart berekend. De slachtoffers die 
+niet in beklag gingen, maakten gemiddeld 464,8 dagen gebruik van de B9-regeling.94 
+
+84 De eerste drie processtappen representeren alle slachtoffers. Vanaf de stap ‘Sepot’ hebben de processtappen alleen nog betrekking 
+op de tien slachtoffers die niet in beklag gingen. Niet bij elke processtap is van alle tien de slachtoffers de tijdsduur bekend, waardoor 
+niet elke processtap na ‘Sepot’ alle tien de slachtoffers representeert.
+
+85 N=27, Sd: 539,4. 
+86 N=40, Sd: 131,2.
+87 N=49, Sd: 285,0.
+88 N=22, Sd: 8,0.
+89 N=19, Sd: 51,4.
+90 N=6, Sd: 115,8. 
+91 N=8, Sd: 160,5. 
+92 N=5, Sd: 180,0. 
+93 N=7, Sd:109,0.  
+94 N=8, Sd:409,8. 
+
+Einde 
+uitbuiting
+
+IND geïnfor-
+meed over 
+sepot
+
+Definitieve 
+intrekking B9
+
+door slachtoffer 
+afgelegde processtap
+
+door politie afgelegde 
+processtap
+
+door IND afgelegde 
+processtap
+
+Beslissing B16 
+in primo
+
+Intake
+
+Voornemen 
+tot intrekking 
+B9
+
+Aangifte
+
+Aanvraag 
+voortgezet 
+verblijf (B16)
+
+Sepot
+
+250,985
+
+5,788 25,289
+
+180,593
+
+99,791 205,192
+
+82,986
+
+46,090
+
+297,5987
+
+
+
+30 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Tijdlijn route B: Slachtoffers die in beklag zijn gegaan 9596979899100101102103104105
+
+95 N=27, Sd: 539,4.
+96 N=40, Sd: 131,2. 
+97 N=49, Sd: 285,0. 
+98 N=27, Sd: 539,4. 
+99 N=32, Sd: 62,6. 
+100  N=28, Sd: 52,0.  
+101  N=15, Sd: 10,6.  
+102  N=26, Sd: 47,8.  
+103  N=22, Sd: 110,8. 
+104  N=31, Sd: 83,9.  
+105  N=31, Sd: 155,5.  
+
+Voornemen 
+tot intrekking 
+B9
+
+Indienen 
+beklag
+
+Uitspraak in 
+beklag
+
+Uitslag beklag 
+bekend bij IND
+
+Intake Aangifte Sepot
+
+Beslissing B16 
+in primo
+
+Definitieve 
+intrekking B9
+
+250,996 82,997 297,598
+
+44,999 171,5100 27,7101
+
+8,8102 38,7103 144,8104
+
+85,6
+
+252,4105
+
+door slachtoffer 
+afgelegde processtap
+
+door politie afgelegde 
+processtap
+
+door IND afgelegde 
+processtap
+
+door hof afgelegde 
+processtap
+
+Einde 
+uitbuiting
+
+Aanvraag 
+voortgezet 
+verblijf (B16)
+
+Tijdlijn route B: Slachtoffers die in beklag zijn gegaan
+
+30 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+Tijdlijn route B: Slachtoffers die in beklag zijn gegaan 9596979899100101102103104105
+
+95 Sd: 539,4, N=27.
+96 Sd: 131,2, N=40.
+97 Sd: 285,0, N=49.
+98 Sd: 539,4, N=27
+99 Sd: 62,6, N=32.
+100  Sd: 52,0, N=28. 
+101  Sd: 10,6, N=15. 
+102  Sd: 47,8, N=26. 
+103  Sd: 110,8, N=22.
+104  Sd: 83,9, N=31. 
+105  Sd: 155,5, N=31. 
+
+Voornemen 
+tot intrekking 
+B9
+
+Indienen 
+beklag
+
+Uitspraak in 
+beklag
+
+Uitslag beklag 
+bekend bij IND
+
+Intake Aangifte Sepot
+
+Beslissing B16 
+in primo
+
+Definitieve 
+intrekking B9
+
+250,996 82,997 297,598
+
+44,999 171,5100 27,7101
+
+8,8102 38,7103 144,8104
+
+85,6
+
+252,4105
+
+door slachtoffer 
+afgelegde processtap
+
+door politie afgelegde 
+processtap
+
+door IND afgelegde 
+processtap
+
+door hof afgelegde 
+processtap
+
+Einde 
+uitbuiting
+
+Aanvraag 
+voortgezet 
+verblijf (B16)
+
+
+
+31Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+De eerste drie stappen van bovenstaande tijdlijn zijn hetzelfde als in de eerste tijdlijn en representeren 
+alle slachtoffers uit het dossieronderzoek. Na sepot verandert een deel van de route omdat de slachtof-
+fers uit bovenstaande tijdlijn in beklag gingen tegen het sepot. 
+
+De tijdsperiode tussen de aanvraag voortgezet verblijf en de beslissing daarop in primo op het voortge-
+zet verblijf verschilt tussen de twee groepen. Bij de slachtoffers die geen beklag indienden duurde het 
+gemiddeld 205,1 dagen106 voordat een beslissing in primo was genomen. Bij de groep die wel in beklag 
+ging duurde dit gemiddeld korter, namelijk 144,8 dagen107. Het verschil is niet significant.108  
+
+Er zit ook verschil in de gemiddelde tijdsduur tussen het sepot en de definitieve intrekking van de 
+B9-verblijfsvergunning. Zoals verwacht is deze gemiddelde tijdsduur langer bij de groep slachtoffers die 
+beklag indienden.109 Gedurende het beklag loopt de B9-verblijfsvergunning namelijk door. Het verschil 
+is 71,9 dagen maar is niet significant.110 
+
+De 39 slachtoffers die in beklag gingen maakten gemiddeld 561,7 dagen gebruik van de B9-regeling.111 
+Hoewel dit gemiddelde hoger ligt dan de lengte van de totale B9 voor de slachtoffers die niet in beklag 
+gingen, namelijk 464,8 dagen,112 is dit verschil niet significant.113 
+
+11.  Verificatie aannames, knelpunten en   
+   aanbevelingen
+
+Over personen met een verblijfsvergunning op grond van de B9-regeling, hier verder aan te duiden als 
+‘slachtoffers in de B9-regeling’, worden veel zaken als waar aangenomen. Uit de steekproef van BNRM 
+blijkt dat veel van deze aannames niet overeen komen met de uitkomsten van het onderzoek. Hierna 
+worden de belangrijkste aannames op een rij gezet en wordt op basis van het verkennende onderzoek 
+verduidelijkt of de aannames overeenkomen met de onderzoeksresultaten, of een ander beeld geven. 
+Uit het onderzoek komen ook zaken of procedures naar voren waar verbetering mogelijk is. Daartoe 
+zijn hierna ook aanbevelingen gedaan. 
+
+106  N=7, Sd: 109,0.
+107  N=31, Sd: 83,9.
+108  P=0,11.
+109 Gemiddelde tijdsduur voor slachtoffers die geen beklag indienden: 180,5 dagen. N=8, Sd: 160,5. Gemiddelde tijdsduur voor  
+
+ slachtoffers die wel beklag indienden: 252,4 dagen. N=31, Sd: 155,5.  
+110  P=0,25. Dat het verschil in deze steekproef niet significant is houdt in dat geen conclusies kunnen worden getrokken over de  
+
+ langere duur tussen het sepot en de definitieve intrekking van de B9-verblijfsvergunning voor de gehele groep slachtoffers die  
+ beklag indienden.
+
+111  N=31, Sd: 337,0.
+112  N=8, Sd: 409,8.
+113  P=0,49. Dat het verschil in deze steekproef niet significant is houdt in dat geen conclusies kunnen worden getrokken over de  
+
+ langere duur van de B9-verblijfsvergunning voor de gehele groep slachtoffers die beklag indienden.
+
+
+
+32 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+11.1  Aannames
+
+In dit onderdeel worden aannames vergeleken met uitkomsten van het inventariserende onderzoek. 
+
+Er wordt vaak gesteld dat slachtoffers in de B9-regeling wiens zaak wordt geseponeerd voornamelijk 
+zelfmelders zijn. Onderhavig onderzoek geeft een ander beeld. Slechts in ruim een derde van de geval-
+len ging het om zelfmelders.114  
+
+Daarnaast wordt vaak gesteld dat aangiftes met weinig opsporingsindicaties voornamelijk afkomstig 
+zouden zijn van Nigeriaanse slachtoffers. Dit blijkt niet uit het onderzoek. Hoewel Nigeriaanse slacht-
+offers de grootste groep slachtoffers zijn in het onderhavige onderzoek, representeren zij nog geen 
+derde van de onderzochte dossiers. Wel zijn de meeste slachtoffers (83,7%) afkomstig uit Afrika.  
+
+Ook wordt gesteld dat veel slachtoffers in de B9-regeling voorafgaand aan hun aangifte al allerlei 
+vreemdelingrechtelijke procedures hebben doorlopen en dat zich onder hen veel uitgeprocedeerde 
+asielzoekers zouden bevinden. Uit het dossieronderzoek komt echter naar voren dat iets meer dan de 
+helft van de slachtoffers (51%) nog niet eerder een vreemdelingrechtelijke procedure was gestart bij de 
+IND. De slachtoffers die wel een vreemdelingrechtelijke voorgeschiedenis hadden bij de IND vooraf-
+gaand aan hun B9-verblijfsvergunning hadden in de meeste gevallen één procedure doorlopen. 
+
+Een andere uit de opsporingspraktijk gehoorde klacht is dat slachtoffers vaak erg lang wachten met het 
+doen van aangifte. Hierdoor zouden aangiftes moeilijker verifieerbaar zijn doordat sporen al zouden 
+zijn ‘opgedroogd’. Uit het dossieronderzoek blijkt dit beeld niet. Uit het onderzoek blijkt dat 56,3% van 
+de slachtoffers binnen een maand na het einde van de uitbuitingssituatie naar de politie stapt.   
+
+Een ander punt waarnaar is gekeken betreft de duur tussen het indienen van het klaagschrift door het 
+slachtoffer en de beslissing van het gerechtshof in de beklagzaak. Dit zou vaak erg lang duren – de 
+minister voor Immigratie, Integratie en Asiel gaat uit van een termijn van tien tot twaalf maanden115 - 
+waardoor slachtoffers ook langer gebruik kunnen maken van de B9-regeling. Uit de onderzochte dos-
+siers in onderhavig onderzoek komt een gemiddelde beklagtermijn van 5,6 maanden naar voren, de 
+helft dus van de tijdsduur waar de minister van uit gaat. Wel klopt het dat veel slachtoffers beklag 
+indienden; in 80% van de onderzochte dossiers werd beklag ingediend tegen het sepot. Alle beklagza-
+ken waarvan de uitkomst bekend was ten tijde van het onderzoek, zijn ongegrond verklaard.  
+
+Over slachtoffers die beklag indienen tegen het sepot bestaat de veronderstelling dat zij door dit beklag 
+langer gebruik maken van de B9-verblijfsvergunning dan slachtoffers die geen beklag indienen. In het 
+onderzoek is daarom de duur van de totale B9-verblijfsvergunning van slachtoffers die in beklag gingen 
+vergeleken met slachtoffers die geen beklag indienden. Het verschil in de lengte van de 
+B9-verblijfsvergunning tussen beide slachtoffergroepen is niet significant.  
+
+114  Onder zelfmelders wordt verstaan: slachtoffers die uit eigen beweging contact op hebben genomen met de politie.
+115  De minister voor Immigratie, Integratie en Asiel verwijst naar onderzoek van BNRM waaruit zou blijken dat het beklag gemiddeld  
+
+ tien tot twaalf maanden duurt (Kamerstukken II 2011/12, 28 638, nr. 57, p. 4.). Deze verwijzing is niet correct. Uit het betreffende  
+ onderzoek van BNRM komt een gemiddelde beklagduur van zes tot negen maanden (NRM7, p. 198).
+
+
+
+33Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+11.2  Knelpunten en aanbevelingen
+
+Uit het onderzoek komt voorts een aantal knelpunten naar voren: 
+
+Doordat de cosmetische sepots116 niet worden opgenomen in de OM registratie Compas, is het totaal 
+aantal sepots op landelijk niveau in 2010 niet bekend. Gezien het feit dat dit een, zij het verschillende 
+maar niettemin bij alle parketten, gehanteerde werkwijze is, kan ervan worden uitgegaan dat dit ook 
+voor andere jaren geldt. Ook de eigen administratie van de cosmetische sepots blijkt bij de vier onder-
+zochte parketten niet in alle gevallen te kloppen. Indien de parketten alle mensenhandelsepots op 
+dezelfde manier registreren worden trends snel zichtbaar en kan hier op adequate wijze op worden 
+gereageerd.
+
+Slachtoffers worden niet altijd als zodanig geïdentificeerd. In vier gevallen werd het slachtoffer door de 
+politie met een treinkaartje op de trein naar het asielzoekerscentrum in Ter Apel gezet, in plaats van dat 
+een intakegesprek werd gehouden. In twee gevallen had het slachtoffer al eerder aangifte gedaan bij 
+een ander politiekorps, maar was onduidelijk wat er met de zaak gebeurd was. De NRM beveelt aan dat 
+de politie alert is en blijft voor de identificatie van mogelijke slachtoffers van mensenhandel.117
+
+De meeste onderzochte aangiftes bevatten weinig opsporingsindicaties; in veel aangiftes ontbrak het 
+aan concrete informatie over de plaats van uitbuiting, de identiteit van verdachte en over de inreis in 
+Nederland. Tegelijkertijd werd de helft van de slachtoffers slechts één keer gehoord (na intake). In lijn 
+met de eerdere aanbeveling 32 uit NRM7 verdient het aanbeveling in het kader van een pilot kwalitatief 
+te investeren in deze aangiftes met weinig opsporingsindicaties, om te bezien of dit kan leiden tot meer 
+opsporingsindicaties. 
+
+Uit de onderzochte OM-dossiers komen verschillen naar voren in de manier waarop het opsporingson-
+derzoek wordt verricht. Zo wordt blijkens de OM-dossiers van het parket Den Bosch het minst vaak een 
+melding bij het Expertisecentrum Mensenhandel en Mensensmokkel (EMM) gemaakt, terwijl Den 
+Bosch anderzijds het enige arrondissement is waar forensisch zedenonderzoek werd verricht. Rotterdam 
+is het enige arrondissement waarbinnen vingersporenonderzoek plaatsvond. In Arnhem werd het 
+vaakst onderzoek in politiesystemen verricht. Gemiddeld werden de meeste opsporingshandelingen 
+verricht in Rotterdam, in dat arrondissement vonden gemiddeld per slachtoffer ook de meeste gehoren 
+plaats (1,9 gehoren). Ook werden de zaken het snelst geseponeerd in Rotterdam,118 ruim twee keer zo 
+snel als in Den Bosch. De lange duur tussen aangifte en sepot lijkt derhalve niet samen te hangen met 
+een intensief opsporingsonderzoek. Eerder lijkt het tegenovergestelde waar: hoe meer opsporingshan-
+delingen werden verricht, hoe sneller werd geseponeerd. Het strekt tot de aanbeveling dat door de 
+politie wordt gezocht naar een manier waarop in korte tijd zoveel mogelijk wordt geïnvesteerd in het 
+opsporingsonderzoek, waarna het onderzoek op goede gronden kan worden afgesloten.  
+Een eerder door CoMensha geconstateerd knelpunt dat het lang duurt voordat een verblijfspas wordt 
+verstrekt aan slachtoffers in de B9-procedure werd door het dossieronderzoek bevestigd. Gemiddeld 
+duurt het bijna zeven weken voordat een slachtoffer de verblijfspas kan ophalen. Pas als de verblijfspas 
+is verstrekt kan het slachtoffer aanspraak maken op voorzieningen uit de B9-regeling, zoals huisves-
+ting. Doordat het slachtoffer pas na ontvangst van de verblijfspas de procedure van doorstroming uit de 
+opvang naar zelfstandige huisvesting in gang kan zetten, is de duur dat het slachtoffer in de opvang zit 
+vaak langer dan voor het slachtoffer noodzakelijk is. Dit is voor zowel het slachtoffer als voor de 
+
+116 Omdat de B9-verblijfsvergunning alleen kan worden ingetrokken door de IND nadat de zaak door het OM is geseponeerd, moeten  
+ deze sepots door de officier van justitie ondertekend worden. Feitelijk komen de sepots echter meer overeen met zogenoemde  
+ ‘politiesepots’. Deze politiesepots onder de vlag van het OM worden derhalve aangeduid met de term ‘cosmetische sepots’.  
+
+117  Deze aanbeveling is conform aanbeveling 17 uit NRM7.
+118  De Minister voor Immigratie, Integratie en Asiel heeft aangekondigd dat in Rotterdam (en in Groningen/Leeuwarden) een pilot zal  
+
+ worden gestart, welke als doel heeft om best practices/aanbevolen werkwijzen voor het snel en zorgvuldig onderzoeken en  
+ beoordelen van kansloze aangiften te ontwikkelen. Kamerstukken II 2011/12, 28 638, nr. 57, p. 5.
+
+
+
+34 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+opvanginstelling niet goed, en brengt bovendien extra kosten met zich, aldus CoMensa. De NRM 
+beveelt dan ook aan dat de procedure van het verstrekken van de verblijfspas aan slachtoffers in de 
+B9-regeling wordt versneld. 
+
+Uit de onderzochte IND-dossiers kwam naar voren dat het gemiddeld bijna een maand duurt voordat de 
+IND door het OM op de hoogte wordt gesteld over de uitkomst van de beklagprocedure. In enkele geval-
+len duurde dit (veel) langer. Pas als de IND op de hoogte is van de uitkomst van de beklagprocedure kan 
+zij hier verblijfsrechtelijke consequenties aan verbinden. Het is raadzaam goede afspraken te maken 
+tussen het OM en de IND over het zo snel mogelijk verstrekken van informatie over de uitkomst van de 
+beklagprocedure.119 
+
+Hoewel er gemiddeld 297,5 dagen zaten tussen de aangifte en het sepot, maakten de slachtoffers gemid-
+deld 541,8 dagen gebruik van de B9-regeling. Hierbij wordt vaak aangenomen dat het vooral de slacht-
+offers zijn die procedures zoveel mogelijk rekken. Uit het schema van paragraaf 10 komt echter een veel 
+genuanceerder beeld naar voren. Allereerst moeten veel stappen worden doorlopen door verschillende 
+instanties, waarbij elke stap tijd kost. Stappen die na aangifte de meeste tijd kosten zijn de duur tussen 
+aangifte en sepot120, de duur van het beklag, en de beslissing in primo op de aanvraag voortgezet ver-
+blijf. Met de twee tijdlijnen is inzichtelijk gemaakt welke processtappen genomen worden en hoeveel 
+tijd er gemiddeld zit tussen de verschillende processtappen. Hoewel zorgvuldigheid van groot belang is 
+bij elke processtap, zou gekeken kunnen worden welke stappen efficiënter kunnen worden ingericht. 
+Zo is het opmerkelijk dat in het arrondissement Rotterdam de meeste opsporingshandelingen worden 
+verricht terwijl daar ook het snelst wordt geseponeerd. Snelheid hoeft derhalve niet ten koste te gaan 
+van de mate van inspanning die wordt verricht in het kader van het opsporingsonderzoek. 
+
+119  Wanneer de door de minister voor Immigratie, Integratie en Asiel aangekondigde maatregel om beklag los te koppelen van de 
+B9-verblijfsvergunning wordt doorgevoerd, is deze aanbeveling overigens niet meer relevant. Zie Kamerstukken II 2011/12, 28 638, 
+nr. 57, p. 4.
+
+120  Hierbij moet worden opgemerkt dat niet uit de dossiers te destilleren was of de duur tussen aangifte en sepot voornamelijk toe te 
+rekenen is aan de politie, of aan het OM. Het OM kan immers pas seponeren nadat zij van de politie het proces verbaal van 
+bevindingen heeft ontvangen. Het moment waarop dit proces verbaal van bevindingen door de politie aan het OM was ingestuurd 
+was uit de meeste dossiers niet op te maken.
+
+
+
+35Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+
+
+36 |  Bureau Nationaal Rapporteur Mensenhandel Opsporing van mensenhandel en de B9-regeling
+
+
+
+37Bureau Nationaal Rapporteur Mensenhandel  |Opsporing van mensenhandel en de B9-regeling
+
+
+
+Dit is een uitgave van:
+Ministerie van Veiligheid en Justitie
+Postbus 20301 | 2500 eh Den Haag
+www.rijksoverheid.nl/venj
+
+Maand 2010 | Publicatienr: j-0000
+
+Dit is een uitgave van:
+Bureau Nationaal Rapporteur Mensenhandel
+Postbus 20301 | 2500 eh Den Haag
+
+T 070 370 4514
+www.bnrm.nl
+
+Juni 2012 | Publicatienr: j-14363
+
+

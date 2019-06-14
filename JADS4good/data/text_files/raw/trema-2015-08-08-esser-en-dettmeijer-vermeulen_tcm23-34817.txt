@@ -1,0 +1,2126 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+262
+
+  Oktober 2015
+
+In de rechtspraak wordt verschillend omgegaan met zaken van uitbuiting buiten de 
+seksindustrie. Vooral over de vraag hoe art. 273f lid 1 onder 4 Sr moet worden uitge-
+legd, bestaat geen eenduidigheid. Deze bijdrage gaat nader in op de verschillende uitleg 
+die rechters geven aan subonderdeel 4. Daarbij wordt in het bijzonder gekeken naar 
+twee recente uitspraken, van het hof Arnhem-Leeuwarden en de rechtbank Zeeland-
+West-Brabant.
+
+Van aardbeien  
+en telefoon­
+abonnementen
+
+Een nieuw beoordelingsschema voor het bewijs 
+van uitbuiting buiten de seksindustrie?
+
+Luuk Esser en Corinne Dettmeijer-Vermeulen
+Mr. L.B. Esser is onderzoeker bij de Nationaal Rapporteur en als 
+buitenpromovendus verbonden aan de Universiteit Leiden. Mr. C.E. Dettmeijer-
+Vermeulen is Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen 
+Kinderen en voormalig vice-president van de rechtbank Den Haag.
+
+Ten tijde van de verruiming van de strafbaarstelling van 
+mensenhandel naar vormen van uitbuiting buiten de seksin­
+dustrie in 2005 had de strafwetgever weinig beeld bij de preva­
+lentie ervan in Nederland.1 Een verkennend onderzoek, 
+uit gevoerd op instigatie van de Minister van Justitie, waar­
+schuwde weliswaar voor de kwetsbaarheid van personen in de 
+
+1 Kamerstukken II 2003/04, 29291, 3, p. 18.
+
+uitdijende informele economie, maar de onderzoekers hadden 
+weinig aanwijzingen om aan te nemen dat uitbuiting in Neder­
+land voor zou komen.2
+
+2 J.P. van der Leun & L. Vervoorn, Slavernij-achtige uitbuiting in Nederland, Den Haag: 
+Boom Juridische uitgevers 2004. Zie ook Nationaal Rapporteur Mensenhandel, 
+Mensenhandel. Vijfde rapportage van de Nationaal Rapporteur, Den Haag: BNRM 
+2007, p. 207 e.v.
+
+
+
+  Oktober 2015
+
+263
+
+We leven inmiddels in een andere tijd. Het 
+mensenhandelconcept heeft het afgelopen 
+decennium niet alleen in materieel­
+strafrechtelijke zin een verruiming doorge­
+maakt, ook de bereidheid om nieuwe feno­
+menen onder het bereik van de 
+mensenhandelnoemer te brengen is 
+gegroeid.3 Een voorbeeld daarvan zijn de 
+zaken waarin het gaat om het onder dwang 
+afsluiten van telefoonabonnementen.
+Niet elke rechter brengt deze gedraging 
+evenwel onder de noemer van mensen­
+handel. In twee recente zaken, die in dit 
+artikel worden besproken, komt dit in volle 
+omvang naar voren. In beide zaken staat de 
+verdachte terecht voor het dwingen van 
+meerdere personen om telefoonabonne­
+menten voor hem af te sluiten. In het arrest van het hof 
+Arnhem­Leeuwarden4 komt het niet tot een veroordeling voor 
+mensenhandel, in het vonnis van de rechtbank Zeeland­West­
+Brabant wel (vier jaar onvoorwaardelijke gevangenisstraf ).5
+
+Art. 273f lid 1 onder 4 Sr
+De rechtsvraag die in deze zaken steeds voorlag is of het onder 
+dwang afsluiten van telefoonabonnementen uitbuiting, en 
+dus mensenhandel, oplevert in de zin van art. 273f lid 1 onder 
+4 Sr. Daarin is strafbaar gesteld degene die:
+
+“(...) een ander met een van de onder 1° genoemde middelen 
+dwingt of beweegt zich beschikbaar te stellen tot het verrichten 
+van arbeid of diensten of zijn organen beschikbaar te stellen dan 
+wel onder de onder 1° genoemde omstandigheden enige hande­
+ling onderneemt waarvan hij weet of redelijkerwijs moet vermoe­
+den dat die ander zich daardoor beschikbaar stelt tot het verrich­
+ten van arbeid of diensten of zijn organen beschikbaar stelt.”
+
+Over het toepassingsbereik van deze norm bestaat als gezegd 
+geen eenduidigheid in de rechtspraak.6 Het dispuut spitst zich 
+toe op de vraag of voor een bewezenverklaring volstaat dat de 
+bestanddelen in de delictsomschrijving zijn vervuld (een exten­
+sieve benadering) of dat daarvoor meer is vereist, bijvoorbeeld 
+dat apart nog moet worden vastgesteld of sprake was van 
+uitbuiting (een restrictieve benadering). De kennelijk gevoelde 
+noodzaak om een apart (impliciet) bestanddeel in te lezen, en 
+dus een extra bewijshorde op te werpen, kan worden verklaard 
+door de ruime bewoordingen waarin subonderdeel 4 is 
+gesteld en de brede interpretatie die aan de dwangmiddelen 
+
+3 Het betreft hier overigens een internationale tendens. Zie daarover het lezenswaar-
+dige artikel van J.A. Chuang, ‘Exploitation creep and the unmaking of human traffic-
+king law’, The American Journal of International Law 2014, p. 609-649.
+
+4 Hof Arnhem-Leeuwarden 4 december 2014, ECLI:NL:GHARL:2014:9415.
+5 Rb. Zeeland-West-Brabant 23 juli 2015, ECLI:NL:RBZWB:2015:4870.
+6 Zie daarover uitgebreid L.B. Esser & C.E. Dettmeijer-Vermeulen, ‘Mensenhandel op 
+
+een tweesprong. De omgang van rechters met de ruim geformuleerde delicts-
+omschrijving van artikel 273r lid 1 sub 4 Sr’, DD 2014/48, p. 512-528. Zie ook  
+S.M.A. Lestrade & C.R.J.J. Rijken, ‘Mensenhandel en uitbuiting nader bepaald’,  
+DD 2014/64, p. 665-681.
+
+in art. 273f lid 1 onder 1 Sr is meegegeven.7 
+Machielse heeft er wel op gewezen dat ook 
+de eetpiraat, die onder valse voorwend­
+selen een bestelling plaatst, als mensen­
+handelaar kan worden aangemerkt.8 
+Immers, hij wist het horecapersoneel door 
+misleiding tot het verrichten van diensten 
+te bewegen. Ook de dwangmiddelen 
+‘misbruik van een kwetsbare positie’ en 
+‘misbruik van uit feitelijke omstandigheden 
+voortvloeiend overwicht’ worden in de 
+rechtspraak ruim geïnterpreteerd.
+De wetsgeschiedenis biedt weinig aankno­
+pingspunten voor wie zoekt naar een helder 
+antwoord op de vraag welke benadering 
+juridisch het meest zuiver is. Op het eerste 
+gezicht lijkt de extensieve benadering de 
+
+beste papieren te hebben. De ruime reikwijdte van de norm 
+was namelijk het uitgangspunt van de wetgever toen hij art. 
+250ter (oud) Sr, de voorloper van subonderdeel 4, introdu­
+ceerde (in 1988). De bepaling zag toen uitsluitend nog op 
+uitbuiting in de seksindustrie en had tot doel elke vorm van 
+gedwongen tewerkstelling in de prostitutie als mensenhandel 
+strafbaar te stellen.9 Het feit dat bij gedwongen sekswerk de 
+aard van het werk maakt dat per definitie de lichamelijke inte­
+griteit in het geding is, maakte dat het toepassingsbereik van 
+de norm ook daadwerkelijk samenviel met de gedragingen die 
+de strafwetgever beoogde aan te pakken.10 Eerst bij de uitbrei­
+ding van subonderdeel 4 naar niet­seksuele vormen van 
+uitbuiting, onder invloed van internationale ontwikkelingen, is 
+discussie ontstaan over de potentieel ruime reikwijdte van de 
+norm.11 Overigens zijn er ook passages die erop wijzen dat de 
+wetgever geen al te extensieve norm voor ogen had. Zo wordt 
+in de memorie van toelichting van art. 273a (oud) Sr12 als voor­
+beeld van uitbuiting genoemd “een extreem lange werkweek 
+tegen onevenredig lage betaling onder slechte werkomstandig­
+heden” [vet auteurs].13
+
+Rechtspraak
+De rechtspraak waarin de rechtsvraag voorligt hoe art. 273f lid 
+1 onder 4 Sr moet worden geïnterpreteerd, heeft zich gestaag 
+uitgebreid. Soms kiest de rechter voor de hiervoor beschreven 
+extensieve benadering, waarin uitsluitend het bewijs van de 
+bestanddelen volstaat voor een bewezenverklaring. Gedwon­
+gen tewerkstelling levert in deze gevallen per definitie uitbui­
+
+7 Zie daarover uitgebreid Lestrade & Rijken, a.w., p. 674-675.
+8 Noyon/Langemeijer/Remmelink, art. 273f Sr, aant. 6.
+9 Kamerstukken II 1988/89, 21027, 3.
+10 H. de Jonge van Ellemeet, D. Korvinus & D. Koster, ‘Mensenhandel: de achtergronden 
+
+en omtrekken van het begrip “uitbuiting” in art. 273a Sr.’, Trema 2006, p. 286-290. Zie 
+bijv. ook een recente overweging van de rechtbank Noord-Nederland van 13 mei 
+2015, ECLI:NL:RBNNE:2015:2306: “Wanneer sprake is van gedwongen tewerkstelling in 
+de seksindustrie, volgt uit de jurisprudentie dat per definitie sprake van uitbuiting is, nu 
+de lichamelijke integriteit van het slachtoffer hierbij altijd in het geding is.”
+
+11 De Jonge van Ellemeet, Korvinus & Koster, a.w.
+12 Het huidige art. 273f Sr.
+13 Kamerstukken II 2003/04, 29029, 3, p. 18.
+
+De wetsgeschie-
+denis biedt weinig 
+
+aanknopings-
+punten voor wie 
+zoekt naar een 
+
+helder antwoord 
+op de vraag welke 
+benadering juri-
+disch het meest 
+
+zuiver is.
+
+
+
+264
+
+  Oktober 2015
+
+ting op, ongeacht de aard van het werk of de 
+omstandigheden waaronder dat werk 
+moest worden verricht. Zo kwamen de 
+rechtbank Haarlem en het hof ’s­Graven­
+hage eerder tot een veroordeling voor 
+mensenhandel in een zaak waarin de 
+verdachte uitsluitend door middel van 
+misleiding personen had bewogen tot het 
+afsluiten van telefoonabonnementen.14 In 
+een arbeidsuitbuitingszaak die werd behan­
+deld door de rechtbank Overijssel komt de 
+rechter tot een gelijksoortige uitleg. In die 
+zaak ging het om een aardbeienteler die 
+Poolse en Slowaakse arbeiders die zich in 
+een kwetsbare positie bevonden had 
+tewerkgesteld en gehuisvest op zijn bedrijf. 
+Voor de beoordeling van het bewijs van 
+subonderdeel 4 wordt uitsluitend gekeken 
+naar het gebruik dat de verdachte maakte van de kwetsbare, 
+persoonlijke situatie waarin de werknemers zich bevonden 
+(onder andere afkomstig uit een arm land, schulden). Niet 
+wordt apart getoetst of sprake was van uitbuiting. Ook naar de 
+omstandigheden waaronder werd gewerkt, gaat geen 
+aandacht uit.15 Eenzelfde uitleg wordt gevolgd in een vonnis 
+van de rechtbank Rotterdam waarin personen werden gedwon­
+gen om te werken in het paprikateeltbedrijf van verdachte.16
+
+Twee recente zaken: een nieuw beoordelings-
+schema voor de bewezenverklaring van  
+subonderdeel 4?
+Waar in eerdere uitspraken nog wordt gekozen voor een 
+extensieve uitleg van subonderdeel 4 gooit de rechter het in 
+twee recente zaken over een andere boeg.17 Opnieuw staat de 
+vraag ter beoordeling of het onder dwang laten afsluiten van 
+telefoonabonnementen mensenhandel oplevert. Het hof 
+komt niet tot een veroordeling, de rechtbank wel. Het essen­
+tiële verschil lijkt daarbij echter niet te liggen in de verschil­
+lende interpretatie van subonderdeel 4, maar in de uiteen­
+lopende feitencomplexen waarvan in deze zaken sprake was. 
+Beide instanties houden namelijk een restrictieve lezing van 
+sub onderdeel 4 aan, in die zin dat voor het bewijs van deze 
+mensenhandelvorm méér vereist is dan louter het vervuld zijn 
+van de delictsbestanddelen. Zo oordeelt het hof dat uit de 
+wetsgeschiedenis niet blijkt dat het de wetgever voor ogen 
+stond aan art. 273f lid 1 onder 4 Sr een ruimere strekking te 
+geven dan dat hiermee uitbuiting wordt strafbaar gesteld. 
+
+14 Rb. Haarlem 8 december 2010, ECLI:NL:RBHAA:2010:BO8985; hof ’s-Gravenhage 25 
+augustus 2011, ECLI:NL:GHSGR:2011:BR5629.
+
+15 Rb. Overijssel 19 november 2013, ECLI:NL:RBOVE:2013:2951.
+16 Hoewel de rechtbank in deze zaak een extensieve uitleg aan subonderdeel 4 lijkt te 
+
+geven, wordt in dit vonnis wel uitgebreid stilgestaan bij de omstandigheden waaron-
+der de werknemers moesten werken. Rb. Rotterdam 22 juli 2014, nr. 10/993003-14 
+(niet gepubliceerd).
+
+17 Zie voor twee zaken waarin ook voor een restrictieve uitleg van subonderdeel 4 wordt 
+gekozen hof Amsterdam 7 november 2012, ECLI:NL:GHAMS:2012:BY3257 en hof Den 
+Haag 6 september 2013, ECLI:NL:GHDHA:2013:3398. Zie voor een uitgebreider over-
+zicht Lestrade & Rijken, a.w. en Esser & Dettmeijer-Vermeulen, a.w.
+
+Nadat uitbuiting als impliciet bestanddeel 
+van subonderdeel 4 is aangemerkt, zet het 
+hof vervolgens uiteen welke implicaties dat 
+met zich brengt. Volgens het hof heeft het 
+inlezen van ‘uitbuiting’ tot gevolg:
+
+“(...) dat aan de in de delictsomschrijving (en 
+in de tenlastelegging) voorkomende termen, 
+‘het verrichten van arbeid of diensten’ een 
+zodanige uitleg wordt gegeven dat het gaat 
+om arbeid en/of diensten die vanwege hun 
+aard (zoals prostitutiewerkzaamheden) en/of 
+omstandigheden waaronder die werkzaam­
+heden worden verricht (bijvoorbeeld geen 
+betaling, lange werkdagen etc.) – in combina­
+tie met een in artikel 273f lid 1 onder 1 
+genoemd middel – een situatie van uitbuiting 
+opleveren.”
+
+Vanzelfsprekend zal voor het aannemen van uitbuiting, 
+conform de delictsomschrijving, altijd sprake moeten zijn van 
+een dwangmiddel. Maar het louter dwingen of bewegen van 
+iemand om zich tot bepaald werk beschikbaar te stellen, is 
+naar het oordeel van het hof niet genoeg om van uitbuiting te 
+kunnen spreken. Daarvoor zal ook moeten komen vast te 
+staan dat ofwel de aard van het werk de uitbuiting met zich 
+brengt dan wel andere omstandigheden waaronder het werk 
+geschiedde. Voor de beantwoording van de vraag wanneer de 
+aard van het gedwongen werk met zich brengt dat sprake is 
+van uitbuiting geeft het hof geen helder afgebakend crite­
+rium. Wel oordeelt het hof dat het afsluiten van telefoonabon­
+nementen “niet zonder meer is aan te merken als arbeid of dienst 
+tot het verrichten waarvan iemand wordt gedwongen of bewogen 
+zich beschikbaar te stellen”. Andere voorbeelden worden niet 
+genoemd. Te denken valt evenwel aan andersoortige werk­
+zaamheden waarbij de lichamelijke en/of geestelijke integri­
+teit per definitie in het geding is, zoals in sommige gevallen 
+van criminele uitbuiting. Daarbij worden mensen gedwongen 
+tot het plegen van strafbare feiten, zoals het smokkelen van 
+drugs. Het gaat hier, in elk geval in sommige situaties, om een 
+dienst die lichamelijke risico’s met zich brengt. Bij het onder 
+dwang plaatsen van bolletjes bijvoorbeeld zal per definitie 
+sprake zijn van schending van de lichamelijke integriteit. Ook 
+brengt elke vorm van criminele uitbuiting het risico met zich 
+dat de gedwongene wordt vervolgd en bestraft voor de straf­
+bare feiten die hij onder dwang moest begaan.
+Ook als de aard van het werk niet per definitie tot dat oordeel 
+leidt, kan toch sprake zijn van uitbuiting. In deze gevallen is de 
+vraag of van uitbuiting sprake is geweest afhankelijk van de 
+omstandigheden waaronder de werkzaamheden werden 
+verricht. Het moge inmiddels duidelijk zijn dat uitsluitend naar 
+de omstandigheden behoeft te worden ‘uitgeweken’ indien 
+het werk waartoe iemand zich beschikbaar stelde buiten de 
+seksindustrie plaatsvond. Omstandigheden die in dit kader 
+van belang zijn, zijn volgens het hof de aard en duur van de 
+tewerkstelling, de beperkingen die zij voor de betrokkene 
+
+Waar in eerdere 
+uitspraken nog 
+wordt gekozen 
+voor een exten-
+sieve uitleg van 
+subonderdeel 4 
+gooit de rechter 
+
+het in twee recente 
+zaken over een 
+andere boeg.
+
+
+
+  Oktober 2015
+
+265
+
+meebracht en het economisch voordeel dat daarmee door de 
+tewerksteller is behaald.18 De aard van het werk komt hier dus 
+terug, al zal dit aspect – juist omdat naar de omstandigheden 
+moet worden uitgeweken – een minder grote rol spelen. Voor 
+de toets van de andere factoren kunnen weinig harde 
+uitgangspunten worden geformuleerd. Hoelang moeten 
+werkzaamheden hebben geduurd om uitbuiting op te 
+leveren? Dat zal vooral van de context afhangen en de samen­
+hang met de andere omstandigheden. Wel lijkt uit het oordeel 
+van het hof duidelijk te worden dat niet steeds aan alle omstan­
+digheden hoeft te worden voldaan. Als de werkzaamheden 
+excessief lang hebben geduurd, behoeft minder aandacht uit 
+te gaan naar het behaalde economisch voordeel of de andere 
+beperkingen die de tewerkstelling met zich bracht.
+In dezelfde lijn oordeelt de rechtbank Zeeland­West­Brabant. 
+Daarin had de verdachte meerdere slachtoffers, onder andere 
+door bedreiging, gedwongen om telefoonabonnementen 
+voor hem af te sluiten. Gelijk het hof oordeelt ook de recht­
+bank dat bij “(...) het onder dwang afsluiten van telefoonabonne­
+menten (...) de aard van de verrichte diensten en de omstandig­
+heden waaronder deze zijn verricht op zich niet direct in de 
+richting van uitbuiting” wijzen. Na vastgesteld te hebben dat bij 
+
+18 Het hof ontleent de criteria aan een standaardarrest van de Hoge Raad inzake uitbui-
+ting buiten de seksindustrie. De overwegingen daarin zagen echter primair op de 
+uitleg die aan het ‘oogmerk van uitbuiting’ in subonderdeel 1 moet worden gegeven. 
+Het hof verklaart de door de Hoge Raad gegeven criteria nu ook expliciet van toepas-
+sing op de uitleg van subonderdeel 4. HR 27 oktober 2009, ECLI:NL:HR:2009:BI7099 
+(Chinese horeca).
+
+uitbuiting fundamentele mensenrechten in het geding zijn, 
+overweegt de rechtbank dat de situatie van voldoende “ernst 
+en gewicht” moet zijn om uitbuiting en dus mensenhandel op 
+te leveren. De rechtbank overweegt:
+
+“Bij de beantwoording van de vraag of van een uitbuitingssituatie 
+sprake is, is in de eerste plaats van belang de mate van dwang 
+waardoor iemand zich beschikbaar stelt tot het verrichten van 
+arbeid of diensten. In de tweede plaats zijn van belang de aard 
+van de arbeid of de te verrichten dienst, de omstandigheden 
+waaronder gewerkt moest worden en het economisch gewin dat 
+hiermee door de verdachte is behaald. Daarbij geldt dat hoe 
+groter de dwang, hoe minder gewicht de overige omstandighe­
+den in de schaal behoeven te leggen om van een uitbuitingssitua­
+tie te kunnen spreken; er is sprake van ‘communicerende vaten’.”
+
+Ook in het oordeel van de rechtbank levert gedwongen 
+tewerkstelling pas uitbuiting op als aan andere vereisten is 
+voldaan. Anders dan het hof kijkt de rechtbank daarbij niet 
+alleen naar de aard van het werk, het behaalde economisch 
+voordeel en de omstandigheden waaronder moest worden 
+gewerkt, maar wordt ook de mate van dwang als grond toege­
+voegd. Op zich is dit opmerkelijk. Immers, ligt de dwang niet 
+reeds in het bewijs van gedwongen tewerkstelling besloten? 
+Onderscheid moet hier echter worden gemaakt tussen het 
+bewijs van het dwangmiddel enerzijds en de rol die het 
+dwangmiddel speelt in het kader van de beoordeling van 
+uitbuiting anderzijds. In laatstgenoemde zin volstaat niet 
+
+Aarbeien plukken door een grote ploeg plukkers en pluksters van allochtone afkomst (Cambodja, Polen, Turkije). Foto: Peter Blok/Hollandse Hoogte
+
+
+
+266
+
+  Oktober 2015
+
+alleen het bewijs van dwang, maar speelt 
+ook de mate, en dus de aard en ernst van de 
+aangewende dwang, een rol. Voor het 
+bewijs van het dwang middel doet dat 
+echter niet ter zake. Iemand enkel misleiden 
+of het misbruik maken van overwicht of een 
+kwetsbare positie levert een dwangmiddel 
+op – ongeacht de mate waarin dat middel 
+werd gebruikt.
+De bewezenverklaring geeft vervolgens 
+inzicht in de feiten die de rechtbank van 
+belang acht bij de beoordeling van de mate 
+van dwang. In deze zaak had de verdachte 
+steeds contact gelegd met zijn slachtoffers 
+via mensen die zij kenden, waardoor de 
+verdachte een ‘schijnveiligheid’ had  
+gecreëerd. Bij de eerste kennismaking 
+namen zij plaats op de achterbank van de 
+auto van verdachte. Onder het geven van 
+instructies omtrent de telefoonabonne­
+menten reed verdachte hard en was hij op 
+“dreigende en intimiderende manier” 
+aanwezig. De situatie was volgens de recht­
+bank extra bedreigend omdat zich in de 
+auto ook handlangers van de verdachte 
+bevonden en een gummiknuppel zichtbaar aanwezig was. 
+Verdachte heeft sommige slachtoffers daarmee ook bedreigd. 
+Ook dreigde hij familie van de slachtoffers iets aan te doen. De 
+slachtoffers waren veel jonger dan verdachte. Sommigen van 
+hen hadden bovendien een laag IQ of leden aan een psychi­
+sche aandoening. Het zijn uiteindelijk deze omstandigheden 
+die het oordeel opleveren dat de mate van dwang van een 
+‘zodanig gewicht’ is, dat sprake is van uitbuiting. De rechtbank 
+overweegt voorts dat de overige omstandigheden gelet op de 
+mate van dwang, minder zwaar (behoeven te) wegen (commu­
+nicerende vaten).19
+
+De rechtbank zet haar oordeel nadrukkelijk af tegen dat van 
+het hof in het arrest dat hiervoor is besproken.20 Anders dan de 
+rechtbank kwam het hof niet tot bewezenverklaring van 
+geweld of verbale bedreigingen. Van ‘noemenswaardige 
+beperkingen’ aan de kant van de slachtoffers was naar het 
+oordeel van het hof geen sprake. Zo hadden de slachtoffers 
+ook zelf aan het afsluiten van de abonnementen verdiend. 
+Terecht overweegt de rechtbank wel dat dit op zichzelf geen 
+grond is om geen uitbuiting aan te nemen; als een dwang­
+middel is bewezen doet immers de instemming van een 
+slachtoffer met de uitbuiting niet ter zake.21
+
+19 Zie over het idee van de communicerende vaten ook de lezenswaardige conclusie van 
+A-G Knigge bij het Chinese horeca-arrest. HR 27 oktober 2009, 
+ECLI:NL:PHR:2009:BI7099.
+
+20 Voor het verkrijgen van meer inzicht in de toepassing van het wetsartikel is dat overi-
+gens een toe te juichen techniek.
+
+21 Vgl. art. 2 lid 4 Richtlijn nr. 2011/36/EU van het Europees Parlement en de Raad van 5 
+april 2011 inzake de voorkoming en bestrijding van mensenhandel en de bescher-
+ming van slachtoffers daarvan, en ter vervanging van Kaderbesluit 2002/629/JBZ van 
+de Raad, Pb. EU L 101/1.
+
+Uit verschillende overwegingen van de 
+rechtbank (‘gevoelens van angst’, ‘het 
+gevoel’ dat zij niet aan de macht van de 
+verdachte konden ontsnappen) valt op te 
+maken dat bij de beoordeling van de mate 
+van dwang niet beslissend is of de gevoelde 
+dreiging en dwang reëel zijn. Veeleer gaat 
+het ook om de subjectieve gevoelens die de 
+verdachte door zijn handelen bij de slacht­
+offers teweeg heeft gebracht, dus om de 
+reëel gevoelde dreiging of dwang. De beoor­
+deling van de ‘mate van dwang’ is dus niet 
+alleen een ‘objectief gebeuren’, maar ziet 
+ook op de gevoelens van het slachtoffer. 
+Dikwijls zal voor een goede beoordeling 
+van de mate van dwang moeten worden 
+gekeken naar de verhoudingen tussen 
+verdachte en het slachtoffer en hun ‘geza­
+menlijke’ geschiedenis.
+
+Conclusie
+Twee recente uitspraken werpen meer licht 
+op de wijze waarop de rechter omgaat met 
+het bewijs van uitbuiting welke zich 
+voordoet buiten de seksindustrie. In de 
+
+uitspraken is voor het bewijs van mensenhandel als omschre­
+ven in art. 273f lid 1 onder 4 Sr gedwongen tewerkstelling (het 
+vervuld zijn van de delictsbestanddelen) alleen niet genoeg. In 
+de uitspraken wordt een impliciet bestanddeel ‘uitbuiting’ in 
+de delicts omschrijving ingelezen. Het gevolg van deze uitspra­
+ken is dat, naast de vaststelling van tewerkstelling onder 
+dwang, ook moet komen vast te staan of:
+•	 de aard van de gedwongen arbeid/diensten de uitbuiting 
+
+met zich brengt;
+•	 zo niet, of andere omstandigheden dat oordeel wél kunnen 
+
+rechtvaardigen.
+
+Waar het werken in de prostitutie onder dwang altijd uitbui­
+ting oplevert, is daarvan bij werk buiten de seksindustrie niet 
+altijd sprake. Hoewel het in de uitspraken ontbreekt aan een 
+duidelijk criterium aan de hand waarvan kan worden vast­
+gesteld welk gedwongen werk naar zijn aard uitbuiting 
+oplevert, wordt wel duidelijk dat het afsluiten van telefoon­
+abonnementen daar op zichzelf genomen niet onder valt. Bij 
+de beoordeling van andere gevallen kan de mate waarin de 
+lichamelijke en geestelijke integriteit is geschonden een rol 
+spelen. In dit artikel werd criminele uitbuiting genoemd, zoals 
+het smokkelen van drugs. Het gaat, in elk geval in sommige 
+situaties om een dienst die lichamelijke risico’s met zich brengt. 
+Bij het onder dwang moeten plaatsen van bolletjes in het 
+lichaam zal bijvoorbeeld per definitie sprake zijn van schen­
+ding van de lichamelijke integriteit. Ook brengt elke vorm van 
+criminele uitbuiting het risico met zich dat de gedwongene 
+wordt vervolgd en bestraft voor de strafbare feiten die hij 
+onder dwang moest begaan.
+
+Anders dan het 
+hof Arnhem-
+
+Leeuwarden voegt 
+de rechtbank 
+
+Zeeland-West-
+Brabant ook de 
+mate van dwang 
+als grond toe. Op 
+zich is dit opmer-
+
+kelijk. Immers, ligt 
+de dwang niet 
+
+reeds in het bewijs 
+van gedwongen 
+tewerkstelling 
+
+besloten? 
+
+
+
+  Oktober 2015
+
+267
+
+Ook als de aard van het gedwongen werk 
+niet per definitie uitbuiting met zich brengt, 
+kan sprake zijn van uitbuiting. De uitbuiting 
+zal in die gevallen niet worden geconstitu­
+eerd door de aard van de gedwongen werk­
+zaamheden, maar door de overige omstan­
+digheden waaronder deze geschiedden. 
+Factoren die in dit verband een rol spelen, 
+zijn de mate van dwang waarvan sprake 
+was, de duur van de werkzaamheden, het 
+economisch voordeel dat door de tewerk­
+steller is behaald en de beperkingen die dat 
+voor de tewerkgestelde met zich bracht. Via 
+de band van de ‘mate van dwang’ kwam de 
+rechtbank in het hiervoor besproken vonnis toch tot een 
+veroordeling voor mensenhandel voor het onder dwang laten 
+afsluiten van telefoonabonnementen.
+De laatste jaren is in de rechtspraak te zien geweest dat 
+verschillend wordt omgegaan met zaken van uitbuiting buiten 
+
+de seksindustrie, meer in het bijzonder de 
+vraag op welke wijze art. 273f lid 1 onder 4 
+Sr moet worden uitgelegd. De twee bespro­
+ken uitspraken bieden meer inzicht in de 
+uitgangspunten die de rechter aanlegt bij 
+de beoordeling van deze zaken. Het blijft 
+evenwel wachten op de Hoge Raad. In 
+zowel het besproken arrest als een arrest uit 
+201322 is een cassatieschriftuur ingesteld 
+die is toegespitst op de uitleg van art. 273f 
+lid 1 onder 4 Sr. In afwachting van een 
+beslissing uit de Kazernestraat geven de 
+hiervoor besproken uitspraken een stevige 
+voorzet.
+
+22 Hof Den Haag 6 september 2013, ECLI:NL:GHSGR:2013:3398.
+
+De beoordeling 
+van de ‘mate van 
+
+dwang’ is niet 
+alleen een ‘objec-
+
+tief gebeuren’, 
+maar ziet ook op 
+de gevoelens van 
+
+het slachtoffer.
+
+
