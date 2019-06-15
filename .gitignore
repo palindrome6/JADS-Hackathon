@@ -2,3 +2,8 @@
 
 .DS_Store
 *.pyc
+*.pdf
+/JADS4good/data/
+JADS4good/data/
+/data/
+data/
